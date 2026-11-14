@@ -155,12 +155,28 @@ def resolve_google_link(link, timeout=15):
             u = html.unescape(m.group(1))
             if _looks_like_article(u):
                 return u
-        # 方式二：用页面里的签名与时间戳调 batchexecute
+        # 方式二：页面里的锚点链接，按"像文章页"过滤（静态资源/统计域名已排除）
+        hrefs = []
+        for cand in re.findall(r'href="(https?://[^"]+)"', page):
+            cand = html.unescape(cand).rstrip("/")
+            if cand not in hrefs:
+                hrefs.append(cand)
+        for cand in hrefs:
+            if _looks_like_article(cand):
+                if debug:
+                    print("[resolve-debug] href 命中: %s" % cand[:110], file=sys.stderr)
+                return cand
+        if debug:
+            hosts = []
+            for u in hrefs:
+                h = urllib.parse.urlsplit(u).netloc.lower()
+                if h and h not in hosts:
+                    hosts.append(h)
+            print("[resolve-debug] page_len=%d href=%d hosts=%s"
+                  % (len(page), len(hrefs), hosts[:12]), file=sys.stderr)
+        # 方式三：用页面里的签名与时间戳调 batchexecute
         sg = re.search(r'data-n-a-sg="([^"]+)"', page)
         ts = re.search(r'data-n-a-ts="([^"]+)"', page)
-        if debug:
-            print("[resolve-debug] page_len=%d n_au=%s sg=%s ts=%s"
-                  % (len(page), "data-n-au" in page, bool(sg), bool(ts)), file=sys.stderr)
         if sg and ts:
             u = _batchexecute(link, sg.group(1), ts.group(1), timeout)
             if _looks_like_article(u):
