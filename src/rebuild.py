@@ -129,9 +129,13 @@ def rebuild_one(slug):
         old_urls = {(a.get("url") or "").strip() for a in arts}
         fresh = [a for a in kept if (a.get("url") or "").strip() not in old_urls]
         if not fresh:
-            print("NO_NEW [%s] 本轮抓到的 %d 条均为已收录报道，不写 event.json。" % (slug, len(inc)))
-            open(p["incoming"], "w", encoding="utf-8").close()
-            return
+            if not link_changed:
+                print("NO_NEW [%s] 本轮抓到的 %d 条均为已收录报道，不写 event.json。" % (slug, len(inc)))
+                open(p["incoming"], "w", encoding="utf-8").close()
+                return
+            # 抓到的是旧报道，但库里的收录地址刚被清洗过，仍需重算以刷新来源链接
+            print("[%s 0/4] 本轮抓取均为已收录，但收录地址有变化（%s → %s），重算以刷新来源链接"
+                  % (slug, prev_fp, cur_fp))
 
     print("[%s 2/4] 去重：保留 %d 条，剔除重复 %d 条" % (slug, len(kept), len(dropped)))
     for d in dropped:
