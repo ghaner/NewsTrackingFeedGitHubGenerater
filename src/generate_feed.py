@@ -274,9 +274,17 @@ def build_rss(items, cfg):
     """根据 items 与配置拼出标准 RSS 2.0 字符串。"""
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
     tpl = cfg.get("template", "<div>{title}<br>{link}</div>")
-    parts = ['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0">', '  <channel>']
+    parts = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+             '  <channel>']
     parts.append('    <title>%s</title>' % escape(cfg["feed_title"]))
-    parts.append('    <link>%s</link>' % escape(cfg.get("url", "")))
+    # channel<link> 必须是公网地址；file 模式下 cfg["url"] 是本地路径，不可直接写入，
+    # 由 home_url（站点首页）/ feed_url（feed 自身地址）提供，缺省则省略 <link>。
+    home = cfg.get("home_url") or cfg.get("url", "")
+    if str(home).startswith("http"):
+        parts.append('    <link>%s</link>' % escape(home))
+    if cfg.get("feed_url"):
+        parts.append('    <atom:link href="%s" rel="self" type="application/rss+xml"/>' % escape(cfg["feed_url"]))
     parts.append('    <description>%s</description>' % escape(cfg.get("feed_desc", "")))
     parts.append('    <language>zh-CN</language>')
     parts.append('    <lastBuildDate>%s</lastBuildDate>' % now)
