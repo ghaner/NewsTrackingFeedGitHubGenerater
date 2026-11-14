@@ -1,0 +1,14 @@
+{
+  "_说明": "新闻事件订阅清单。新增一个事件 = 在此加一条 + 建 data/<slug>/ 数据目录 + 在 src/sources.json 加同名 feed 源。slug 同时是数据目录名与 feed 文件名（<slug>.xml）。",
+  "events": [
+    {
+      "slug": "duanju",
+      "title": "海外短剧付费榜前十，中国厂商占九席",
+      "keywords": "短剧出海,海外短剧,ReelShort,DramaBox,NetShort",
+      "since_days": 3,
+      "feed": "duanju.xml",
+      "data_dir": "data/duanju",
+      "started_at": "2026-09"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title duanju-feed publish
+title news-feed publish
 cd /d "%~dp0"
 
 python "%~dp0src\generate_feed.py"
@@ -16,7 +16,7 @@ git diff --cached --quiet && (
   exit /b 0
 )
 
-git commit -m "chore: refresh duanju.xml"
+git commit -m "chore: refresh news feeds"
 if errorlevel 1 (
   echo [FAIL] commit failed.
   pause

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>海外短剧付费榜中国厂商九席 · 事件追踪订阅源</title>
+<title>新闻事件追踪 · RSS 订阅源</title>
 <style>
   :root{
     --bg:#101418; --panel:#171d23; --line:#28313a; --text:#e6edf3;
@@ -19,36 +19,32 @@
   h1{font-size:26px;line-height:1.4;margin:0 0 12px}
   p.lead{color:var(--dim);margin:0 0 32px}
   .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin-bottom:20px}
-  .card h2{font-size:15px;margin:0 0 12px;color:var(--dim);font-weight:600;letter-spacing:.04em}
-  code,textarea{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:13px}
-  #feedurl{width:100%;background:#0d1116;color:var(--ok);border:1px solid var(--line);
-           border-radius:8px;padding:12px;resize:none;height:52px}
+  .card h2{font-size:16px;margin:0 0 8px}
+  .card h3{font-size:12px;margin:0 0 6px;color:var(--dim);font-weight:600;letter-spacing:.04em;
+           text-transform:uppercase}
+  .card .desc{color:var(--dim);font-size:14px;margin:0 0 16px}
+  code,input{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:13px}
+  input.feedurl{width:100%;background:#0d1116;color:var(--ok);border:1px solid var(--line);
+                border-radius:8px;padding:11px 12px}
   button{background:var(--accent);color:#1a1206;border:0;border-radius:8px;
-         padding:9px 16px;font-size:13px;font-weight:600;cursor:pointer;margin-top:10px}
+         padding:8px 14px;font-size:13px;font-weight:600;cursor:pointer}
   button:active{transform:translateY(1px)}
   ul{margin:0;padding-left:20px;color:var(--dim)}
   li{margin-bottom:6px}
   a{color:var(--accent);text-decoration:none}
   a:hover{text-decoration:underline}
-  .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:10px}
   .meta{color:var(--dim);font-size:13px}
   footer{color:#5f6b77;font-size:12px;text-align:center;margin-top:36px}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <span class="tag">EVENT FEED · RSS 2.0</span>
-  <h1>海外短剧付费榜前十，中国厂商占九席</h1>
-  <p class="lead">把一条新闻做成可订阅的事件时间轴。每个条目对应一个进展节点：榜单份额、平台合并、三季报盈利、监管与补贴、二级市场反应。由 GitHub Actions 每日自动抓取增量并重算。</p>
+  <span class="tag">NEWS EVENT FEEDS · RSS 2.0</span>
+  <h1>新闻事件追踪订阅源</h1>
+  <p class="lead">每条新闻做成一条可订阅的事件时间轴：GitHub Actions 每日抓取增量报道，并入同一事件后重新生成 feed。一个仓库容纳全部事件，互不干扰。</p>
 
-  <div class="card">
-    <h2>订阅地址</h2>
-    <textarea id="feedurl" readonly></textarea>
-    <div class="row">
-      <button onclick="copyUrl()">复制订阅地址</button>
-      <a class="meta" id="xmllink" href="duanju.xml" target="_blank">直接查看 XML ↗</a>
-    </div>
-  </div>
+  <div id="feeds"></div>
 
   <div class="card">
     <h2>已兼容的阅读器</h2>
@@ -62,7 +58,7 @@
   <div class="card">
     <h2>更新机制</h2>
     <ul>
-      <li>每日北京时间 07:30，GitHub Actions 按事件关键词抓取新报道</li>
+      <li>每日北京时间 07:30，GitHub Actions 按各事件关键词抓取新报道</li>
       <li>三重去重（URL／标题／正文相似度）后并入时间轴，追加版本快照</li>
       <li>抓取失败或 0 新增时不覆盖旧 feed，订阅不中断</li>
       <li>条目里的「冲突节点：是」表示同一进展存在日期或数字分歧，已保留多版本</li>
@@ -73,21 +69,54 @@
 </div>
 
 <script>
-  // 订阅地址由页面自行计算，无需在文件里写死用户名／仓库名
+  // 订阅清单：新增事件时在这里加一项，与 src/events.json 保持一致。
+  var FEEDS = [
+    {
+      name: "duanju",
+      title: "海外短剧付费榜前十，中国厂商占九席",
+      desc: "榜单份额、平台合并、三季报盈利、监管与补贴、二级市场反应。每个条目对应一个进展节点。"
+    }
+  ];
+
+  // 地址由页面自行计算，不需要在文件里写死用户名／仓库名
   var base = location.origin + location.pathname.replace(/index\.html?$/i, "");
   if (base.charAt(base.length - 1) !== "/") base += "/";
-  var feedUrl = base + "duanju.xml";
-  document.getElementById("feedurl").value = feedUrl;
-  document.getElementById("xmllink").href = feedUrl;
 
-  function copyUrl() {
-    var el = document.getElementById("feedurl");
-    el.select();
-    el.setSelectionRange(0, 9999);
-    var done = function () { var b = document.querySelector("button"); b.textContent = "已复制 ✓"; setTimeout(function(){ b.textContent = "复制订阅地址"; }, 1600); };
-    if (navigator.clipboard) { navigator.clipboard.writeText(el.value).then(done, function(){document.execCommand("copy");done();}); }
-    else { document.execCommand("copy"); done(); }
-  }
+  var box = document.getElementById("feeds");
+  FEEDS.forEach(function (f, i) {
+    var url = base + f.name + ".xml";
+    var card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML =
+      '<h2>' + f.title + '</h2>' +
+      '<p class="desc">' + f.desc + '</p>' +
+      '<h3>订阅地址</h3>' +
+      '<input class="feedurl" id="u' + i + '" readonly value="' + url + '">' +
+      '<div class="row">' +
+        '<button data-i="' + i + '">复制订阅地址</button>' +
+        '<a class="meta" href="' + f.name + '.xml" target="_blank">直接查看 XML ↗</a>' +
+        '<span class="meta">分类：事件时间轴</span>' +
+      '</div>';
+    box.appendChild(card);
+  });
+
+  box.addEventListener("click", function (ev) {
+    var btn = ev.target.closest("button");
+    if (!btn) return;
+    var input = document.getElementById("u" + btn.dataset.i);
+    var done = function () {
+      var t = btn.textContent;
+      btn.textContent = "已复制 ✓";
+      setTimeout(function () { btn.textContent = t; }, 1600);
+    };
+    input.select();
+    input.setSelectionRange(0, 9999);
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(input.value).then(done, function () { document.execCommand("copy"); done(); });
+    } else {
+      document.execCommand("copy"); done();
+    }
+  });
 </script>
 </body>
 </html>

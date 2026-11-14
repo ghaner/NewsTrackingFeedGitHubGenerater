@@ -3,10 +3,9 @@ __pycache__/
 backup/
 *.log
 
-# 抓取标记与临时增量（由 Actions 运行期生成，不入库）
-data/.last_fetch
-data/duanju_overseas_top9/
-data/incoming.jsonl
+# Actions 运行期生成的抓取标记与临时增量，不入库
+data/*/.last_fetch
+data/*/incoming.jsonl
 
 # Pages 打包临时目录
 _site/

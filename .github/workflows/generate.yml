@@ -42,19 +42,32 @@ jobs:
         with:
           python-version: "3.x"
 
-      # 第 1 步：抓增量。Google News RSS 免密钥；失败时输出 0 条，后续步骤自动跳过重算。
+      # 第 1 步：按 src/events.json 的事件清单逐个抓增量。
+      # Google News RSS 免密钥；某事件失败只影响自己，后续步骤照常。
       - name: Fetch new reports (best-effort)
         continue-on-error: true
         run: |
-          python src/fetch_articles.py \
-            --slug duanju_overseas_top9 \
-            --keywords "短剧出海,海外短剧,ReelShort,DramaBox,NetShort" \
-            --mode google_news \
-            --workdir data \
-            --since-days 3 \
-            --out data/incoming.jsonl
+          python - <<'PY'
+          import json, os, subprocess, sys
+          events = json.load(open("src/events.json", encoding="utf-8"))["events"]
+          for e in events:
+              slug = e["slug"]
+              out = os.path.join("data", slug, "incoming.jsonl")
+              os.makedirs(os.path.dirname(out), exist_ok=True)
+              cmd = [sys.executable, "src/fetch_articles.py",
+                     "--slug", slug,
+                     "--keywords", e["keywords"],
+                     "--mode", "google_news",
+                     "--workdir", "data",
+                     "--since-days", str(e.get("since_days", 3)),
+                     "--out", out]
+              print("=== fetch", slug, "===")
+              r = subprocess.run(cmd)
+              print("exit:", r.returncode)
+          PY
 
       # 第 2 步：合并 + 去重 + 时间对齐 + 重算时间轴（纯确定性，不调模型）
+      # 无参数 = 遍历 data/ 下所有事件
       - name: Merge into timeline
         run: python src/rebuild.py
 
