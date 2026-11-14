@@ -106,19 +106,28 @@ def _looks_like_article(u):
 
 
 def _batchexecute(link, signature, timestamp, timeout=15):
-    """调用 Google News 内部的 batchexecute 接口换取原文地址。"""
+    """调用 Google News 内部的 batchexecute 接口换取原文地址。
+
+    用 json.dumps 构造请求体再整体做表单编码：手拼字符串时转义极易出错，
+    Google 会直接返回 result=null（错误码 3），看起来像"接口失效"。
+    """
     seg = link.split("/articles/")[-1].split("?")[0]
-    payload = (
-        'f.req=[[["Fbv4je","[\\"garturlreq\\",[[\\"X\\",\\"X\\",[\\"X\\",\\"X\\"],null,null,1,1,'
-        '\\"CN:zh-Hans\\",null,1,null,null,null,null,null,0,1],\\"X\\",\\"X\\",1,[1,1,1],1,1,null,0,0,null,0],'
-        '\\"%s\\",%s,\\"%s\\""]]]' % (seg, timestamp, signature)
-    )
+    inner = [
+        "garturlreq",
+        [["X", "X", ["X", "X"], None, None, 1, 1, "CN:zh-Hans", None, 1,
+          None, None, None, None, None, 0, 1],
+         "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0],
+        seg, timestamp, signature,
+    ]
+    rpc = [[["Fbv4je", json.dumps(inner, separators=(",", ":"))]]]
+    payload = "f.req=" + urllib.parse.quote(json.dumps(rpc, separators=(",", ":")))
     req = urllib.request.Request(
-        "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+        "https://news.google.com/_/DotsSplashUi/data/batchexecute?rpcids=Fbv4je",
         data=payload.encode("utf-8"),
         headers={
             "User-Agent": UA,
             "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+            "X-Same-Domain": "1",
         },
     )
     try:
