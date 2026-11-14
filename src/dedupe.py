@@ -28,7 +28,15 @@ def norm_url(u):
     u = u.strip().lower()
     u = re.sub(r"^https?://", "", u)
     u = re.sub(r"^www\.", "", u)
-    u = re.sub(r"[?#].*$", "", u)  # 去 query/fragment
+    u = re.sub(r"#.*$", "", u)  # 去 fragment（锚点不定位文章）
+    # 只剔除追踪参数，保留定位文章所必需的 query
+    # （如微信 __biz/mid、新华网 articleId、央视 item_id）。
+    # 若把整个 query 砍掉，这些站点的全部文章会被归一成同一个 URL 而误判重复。
+    if "?" in u:
+        base, _, qs = u.partition("?")
+        kept_pairs = [p for p in qs.split("&")
+                      if p and p.split("=", 1)[0] not in _TRACK_PARAMS]
+        u = base + ("?" + "&".join(kept_pairs) if kept_pairs else "")
     u = u.rstrip("/")
     return u
 
