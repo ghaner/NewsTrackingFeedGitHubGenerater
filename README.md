@@ -96,6 +96,8 @@ git push -u origin main
 | --- | --- |
 | 抓到新报道 | 三重去重（URL／标题／正文相似度）→ 时间对齐 → 重算节点 → 追加版本快照 → 重新生成 XML |
 | 无新增 | `rebuild.py` 打印 `NO_NEW`，不改 `event.json`，feed 保持上一版 |
+| Google 跳转链接 | 抓取后自动还原为原文地址（三级兜底），失败则保留原链接并标 `link_kind=google_redirect` |
+| 历史库里残留跳转链接 | 每轮先跑 `resolve_urls.py` 清洗（无遗留时零请求、零改动） |
 | Google News 不可达 | `fetch_articles.py` 吞掉异常输出空文件，流程不中断 |
 | 某事件失败 | `rebuild.py` 单事件 try/except，其余事件照常重算，最后以非零码提示失败数量 |
 | 生成 0 条 | `generate_feed.py` 跳过该源，不覆盖旧 XML；工作流的校验步骤会拒绝提交空 feed |
@@ -110,8 +112,10 @@ git push -u origin main
 
 1. **CI 与本地是两套口径**：Actions 里没有大模型，抓到的每条报道独立成一个节点（`event_label`＝标题，标题里会带媒体后缀），精度相当于「占位监测」；本地 `news-timeline-builder` 产出的人工归类与冲突合并节点精度更高。首次运行后线上即为两者相加（当前 25 节点 = 人工 16 + 抓取 9）。日常以 Actions 增量为主，本地不再单独维护第二份时间轴。
 2. **Google News RSS 的可用性不由我们控制**：Actions 的海外出口通常可访问；本地若走代理可能失败（会被安全跳过）。
-3. **榜单数字均为媒体引述**：DataEye / Sensor Tower 的原始报告未公开口径，「付费前十」是否含广告收入仍不明确，feed 中保留原文链接供核对。
-4. 中文标题里的方括号与斜杠不影响 RSS 良构性（已用 CDATA + XML 转义处理）。
+3. **链接已在抓取时还原为原文**：feed 与报道库里的 `url` 都是媒体原文地址（同花顺／证券之星／澎湃／流媒体网等），不再是 `news.google.com` 跳转页。
+   还原走 Google News 的 batchexecute 接口，属非公开 API，Google 改动格式时可能失效；失效时条目会保留跳转链接并标 `link_kind=google_redirect`，不会丢条目。
+4. **榜单数字均为媒体引述**：DataEye / Sensor Tower 的原始报告未公开口径，「付费前十」是否含广告收入仍不明确，feed 中保留原文链接供核对。
+5. 中文标题里的方括号与斜杠不影响 RSS 良构性（已用 CDATA + XML 转义处理）。
 
 ## 手工重建全部产物
 
