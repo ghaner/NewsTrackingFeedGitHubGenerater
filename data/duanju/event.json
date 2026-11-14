@@ -7,6 +7,13 @@
       "node_count": 16,
       "conflict_nodes": 1,
       "article_count": 17
+    },
+    {
+      "updated_at": "2026-11-14T11:29:58.404355+08:00",
+      "node_count": 25,
+      "conflict_nodes": 1,
+      "article_count": 26,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -817,6 +824,66 @@
       "article_count": 1
     },
     {
+      "node_id": "n_6a7954da2096",
+      "event_label": "京东内测独立短剧产品，国内供需共振AI短剧出海正迎爆发期丨盘中雷达 - 东方财富",
+      "timestamp_local": "2026-11-11T13:40:40+08:00",
+      "timestamp_utc": "2026-11-11T05:40:40+00:00",
+      "timestamp_sort": 1794375640.0,
+      "summary": "京东内测独立短剧产品，国内供需共振AI短剧出海正迎爆发期丨盘中雷达 东方财富",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkUDZiOTdHcW1KMzN1dW8wQlc1T0o0cXkwODVLYmRfUUVIVHVYSDZKdW1vQWN2WXpFcFhsbmxXNk4yc0RQZXdYempxdFFvMmg0blh2OTVTZXNoQjhJUnVDbzhKQlBQdw?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_e924f4e52106",
+      "event_label": "深度｜晚入场两年、月收入一年翻倍：NetShort如何把AI变成增长曲线 - Sohu",
+      "timestamp_local": "2026-11-11T18:29:08+08:00",
+      "timestamp_utc": "2026-11-11T10:29:08+00:00",
+      "timestamp_sort": 1794392948.0,
+      "summary": "深度｜晚入场两年、月收入一年翻倍：NetShort如何把AI变成增长曲线 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHN1RW9xNDNjTjBHMjFTSGtfOFhtak5qRjZQdU5seUs4YW1FQzNnNFVYamttNTJCUHZEU2JfcHp1ZUZwcWlFSXA0Ri1fSm1vTGotVzZOaG5OT1NEb1ZjdjlHRDVqYWVVRWVzZG8tQjJIRHNZNkExYmtJS0RVS1QwaTJLb3FyODJVTl9qUQ?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_a7ffff93dd46",
+      "event_label": "中国厂商霸榜海外短剧付费应用前十榜！AI漫剧概念反复活跃，文投控股4连板 - Sohu",
+      "timestamp_local": "2026-11-12T09:50:00+08:00",
+      "timestamp_utc": "2026-11-12T01:50:00+00:00",
+      "timestamp_sort": 1794448200.0,
+      "summary": "中国厂商霸榜海外短剧付费应用前十榜！AI漫剧概念反复活跃，文投控股4连板 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbk5tU2tnLW54V29zRFhBakpad05oYmItSGIzRHpQV2RuSVAtdnBveHNJRHV0eTFzV25DSjVWdkNreE9jdGxFallkZW9PcnBwa0dHUTFGTW5xa2pPOEtINzk1V3lVR0NkSng0N3N3VGpvYk5xbXZLMEJQY0ROLS1Fa3ZHRzJsTzhiSXFWdw?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_f36e33acba4e",
+      "event_label": "10月海外短剧揽金$3.07亿,增7.6%,麦芽NetShort屠榜 - 流媒体网",
+      "timestamp_local": "2026-11-12T11:46:00+08:00",
+      "timestamp_utc": "2026-11-12T03:46:00+00:00",
+      "timestamp_sort": 1794455160.0,
+      "summary": "10月海外短剧揽金$3.07亿,增7.6%,麦芽NetShort屠榜 流媒体网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoZDdGX1F3ZmlINndMMWFFZjhjNXhWaTlRb2Z0ZHNUeU1WMjZ2bGp6NlEtTC0wYXQ1WXpOM0p1NjI5SlNGWDR4TGU5WlJCWTg0c0FQTW1PaGpjbnhuMFRCcWYzN0dBZ0ZPWG9j?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_194bed128aec",
       "event_label": "板块行情：AI漫剧概念拉升，文投控股5天4板",
       "timestamp_local": "2026-11-13T00:00:00+08:00",
@@ -977,12 +1044,87 @@
         "https://www.9fzt.com/9fztgw_sctt/research_84610b51ef8fce5e4067b5247cd42f8c.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_77c531fc6a65",
+      "event_label": "DramaBox迎来新股东：全球月活1.6亿的网漫平台，背后是迪士尼 - ThePaper.cn",
+      "timestamp_local": "2026-11-13T08:05:51+08:00",
+      "timestamp_utc": "2026-11-13T00:05:51+00:00",
+      "timestamp_sort": 1794528351.0,
+      "summary": "DramaBox迎来新股东：全球月活1.6亿的网漫平台，背后是迪士尼 ThePaper.cn",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04VDBtTVlOdDdSeW9ocXY5dHZsTmRnbzZMbmlZSzNQcXdFTV9DY1Q4YTFpZHF6NEVZN1N4X3RiNDcyVFB0SFN5N01MWVdsc0FicURhX0gyX25YckRTQ3RsZA?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_6236b3939e64",
+      "event_label": "11月13日午间涨停快报：41股涨停，汽车零部件、影视院线涨停家数居前，天普股份4连板-电报君 - 金融界",
+      "timestamp_local": "2026-11-13T12:30:09+08:00",
+      "timestamp_utc": "2026-11-13T04:30:09+00:00",
+      "timestamp_sort": 1794544209.0,
+      "summary": "11月13日午间涨停快报：41股涨停，汽车零部件、影视院线涨停家数居前，天普股份4连板-电报君 金融界",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VS3Z0NWRXdkdWSmVnb2NpTHl3M0ZFRk9jMkRoQTRhZWZ6bGphYTVFX3N3QmlQNHo5WUlQSkRaaGw1MEpKTVNXY1ZBam9jOWlodVN4Y0gyLWNRYzVnQTJCNDlPcGNRVlF6UWVidHJ1Yy05QnlT?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_a57bf06a6fcf",
+      "event_label": "短剧出海变“红海” AI助力产能爆发 投流烧钱赚钱不易 - 证券之星",
+      "timestamp_local": "2026-11-14T01:49:00+08:00",
+      "timestamp_utc": "2026-11-13T17:49:00+00:00",
+      "timestamp_sort": 1794592140.0,
+      "summary": "短剧出海变“红海” AI助力产能爆发 投流烧钱赚钱不易 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtSFVNVDZBVGR5QVZZYnR0bzlfaE1aQmxCY0dSN3gyVV9lTmlPZHYzbUJpbFV3Ym1BY2VUS0VKS3diRXlXeFVhRDNLMFdjWkEzY01DMGtiUGZmN0ZvTkRDTV93?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_36feb77bc554",
+      "event_label": "AI短剧出海产能井喷之后：谁在赚钱，谁在赔本 - 同花顺财经",
+      "timestamp_local": "2026-11-14T08:24:50+08:00",
+      "timestamp_utc": "2026-11-14T00:24:50+00:00",
+      "timestamp_sort": 1794615890.0,
+      "summary": "AI短剧出海产能井喷之后：谁在赚钱，谁在赔本 同花顺财经",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KSkd1U0V0UnEtSUhLVTY5QWE3RXVlZ0FnNnZVS0Jaa01rSjk0a1VMaW5pbTFrM0RXRXl0WHl5bGdUMkRkVVJHc0E3cE5iR3dBSXdlM1dlRGtNcU9IbGhqdQ?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_e68fc332cdb9",
+      "event_label": "AI把短剧出海成本打下来，钱却流向了投流平台 - 同花顺财经",
+      "timestamp_local": "2026-11-14T09:10:52+08:00",
+      "timestamp_utc": "2026-11-14T01:10:52+00:00",
+      "timestamp_sort": 1794618652.0,
+      "summary": "AI把短剧出海成本打下来，钱却流向了投流平台 同花顺财经",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GczdDT19YU2cyN0NfUklDQmlBX0ptdXA1cVdBMVVJbVVZZ2MxYU53N3pOcERlTkdYNFRRZThYdjNtRnJCdWFEdGhPbUNZMEE2OXBoN0NIYzRlUmJNVExoVA?oc=5"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-14T11:06:21.973242+08:00",
+  "updated_at": "2026-11-14T11:29:58.404355+08:00",
   "last_stats": {
-    "node_count": 16,
+    "node_count": 25,
     "conflict_nodes": 1,
-    "article_count": 17
+    "article_count": 26
   }
 }
