@@ -33,6 +33,13 @@
       "conflict_nodes": 0,
       "article_count": 67,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-14T19:07:46.929831+08:00",
+      "node_count": 87,
+      "conflict_nodes": 0,
+      "article_count": 94,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -642,7 +649,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiygJBVV95cUxOZ20xXy1nSkZrQTAzem1FdXAwMzJLWFFOd2lmdmlnZC1sQU9iM08tbVBNZ01pUU4zRlp2QmpWa0RPYkFBQ3A3Wm8yb2J3S3JGTDRPZmIySl9aNS1qczFiUVJyY2JnLWxrV1hDSGtCdk96d2thSUtBSEY4YjB6RS1aaTQtRmtEUXZxR19OQWdrSjhsNk1jeV90TUFOQmFKVEMyeDhSX2htNUYxakJ0S1lfdVZOMmNuZklRVlZabG1VcUhFVmFiU3dVbk9DUERjUnZCN3RzcUI2MVFxYUN6VDI0UG50aTRiYTlMS19EWUExT2NGUVVDMkI3Ty1XdHdWd3dpSkV5cVRrZzJwQlVUZHpiRmtvUENaSmlJSjBmYjZWdkxjNXRDMXYxcEg0REIyd1FvTk9PeTZJNUktTEJSVDhyVXA3bW9KejR0MGc?oc=5"
+        "https://botanwang.com/articles/202611/%E7%BE%8E%E5%9B%BD%E7%A9%BA%E7%AE%A1%E9%80%9A%E4%BF%A1%E6%95%85%E9%9A%9C%E5%85%A8%E5%9B%BD%E5%81%9C%E9%A3%9E%7C%E9%83%A8%E5%88%86%E8%88%AA%E7%8F%AD%E6%81%A2%E5%A4%8D%E8%B5%B7%E9%A3%9E.html"
       ],
       "article_count": 1
     },
@@ -829,7 +836,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.dongqiudi.com/article/6651805.html"
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WRHJYSjhLQkp3RnJUajYyMUgtam50dkswb3JlcXF3Sk5MZm1IZFFKMlp3T0FsNnVuX05nZGZNS0dKWXBqU19nM09UcG05eGdCTzY5cWpwTQ?oc=5"
       ],
       "article_count": 1
     },
@@ -844,7 +851,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.sohu.com/a/1101393138_161795?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkxHeHhTcTB6cVVkTHZvZEltSG55bFJDVks3QzhQb2t0a2tUZVQteE8wN2l3TjdPcDRJbzBaYzZWTEZBOXpXN2F2a2pYR3lBMWFxQkMyeHZuLUNMOUUtNTV6TUtKUDBZUENqY2tseF8wYlNXNTBINjQ4Y1ZHOTVJVFZCYzhkS1JGOUdz?oc=5"
       ],
       "article_count": 1
     },
@@ -993,7 +1000,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1101406421_255783?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObEJ1RDlLTzBqTXEtUnYwSFZEY21OTlg2UzZYY3ozZHVxU2ZIVUlGX0ZEM3JHY2JjNUg3NXpYQ29rOWRSLWZvVmNxWnJpUG9PMXpnMDA5WUtqMktrblF6cENtcThnaU55RGVNRzFFT3JFWHExSFYxRVo3VEVuempxQ0JhSEFuclcy?oc=5"
       ],
       "article_count": 1
     },
@@ -1050,21 +1057,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_5fa34a6e7159",
-      "event_label": "【直播】FAA下令全美航班停飛 穆林和達菲舉行白宮簡報會 - 新唐人電視台",
-      "timestamp_local": "2026-11-14T09:41:39+08:00",
-      "timestamp_utc": "2026-11-14T01:41:39+00:00",
-      "timestamp_sort": 1794620499.0,
-      "summary": "【直播】FAA下令全美航班停飛 穆林和達菲舉行白宮簡報會 新唐人電視台",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fS0pLQ3Q5QlQzLUxjYnJQSjV4R1lkeGVuNHBaMFhCcW4tT0dQalZCUXJyS1M3eTJWSWZmbXBuYVluVXYtbk8yMmRPbGZLbDBYdGw4RGRJS1pZN28ydlYtedIBZkFVX3lxTFBKYWozRTdyVzdvY3Fic1VjMEpRT1N6SUlMb1dTSE82TTRHVGhTa3EtTHYwODZpUGRVajk5bFFGbVV1bmpGdmJIcUNSM0JnVU1PbVliR2h3VGh6ZnBUZ1dWd2Rha0U3UQ?oc=5"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_42e6d5227bd1",
       "event_label": "知情人士称全美航班停飞调查指向软件更新，国安部长：这不是另一次“9·11”事件。全美各地都有华人旅客被困机场 - Sohu",
       "timestamp_local": "2026-11-14T09:41:52+08:00",
@@ -1075,7 +1067,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1101404459_122014422?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNG11aUFkbGV0My1qYUMteGNyNzZwLUEwSTVoS1JHMUtXbVczQjJPTGRrSUFma1JoakVSb1JOanE5U05kSTFueXVmZXh0VHZORkdORmJqMmNqZFJJNFJKZ3M5SXY1YnVpS2EzaUVaZEJsU2g4VzlFWFlaUjQ1REJTOWhBRlZNMzFWajh2NA?oc=5"
       ],
       "article_count": 1
     },
@@ -1090,7 +1082,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1101405245_121019331?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWThLOXZYSzZBcWY4LWczNl9NT2tMSXFaa3lDeGtvbHpEcGhFbVktcEowanppUjVFTklfUFJzbl83X21uOFMyM2xxekhQUDZZMm9NQWpUWEZsQ1M2ZkxrN3ZqMldBWmNnbTYxTUhXR2xFaXFrZjZVTTRRTW1BRXJaQktLeWVRMGZDZG5GeQ?oc=5"
       ],
       "article_count": 1
     },
@@ -1120,7 +1112,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1101413024_122014422?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3dPRXA2Uy1XdGd5bzhwTTdJNWNRWERxWG53aFQ3bTYxdmhEWjk3LUQ2TDlWRlJQeGM0YW5xUGRIUkREaXh3QURxOUZndEdBZkpudUViZUtyaVhPWllVNlUzQjVmQUZXcjh2WWxxS0lhQkxiLW94Q283NWY0Ujd2ZkZqNHlSNlRwdlNMbw?oc=5"
       ],
       "article_count": 1
     },
@@ -1136,6 +1128,36 @@
       "confidence": 0.6,
       "sources": [
         "https://news.ifeng.com/c/8y2a09d43Lq"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_d36dc7e0f1e2",
+      "event_label": "美媒：全美航班停飞令已解除 - 新蓝网",
+      "timestamp_local": "2026-11-14T09:58:00+08:00",
+      "timestamp_utc": "2026-11-14T01:58:00+00:00",
+      "timestamp_sort": 1794621480.0,
+      "summary": "美媒：全美航班停飞令已解除 新蓝网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.cztv.com/newsDetail/916793"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_c177ce34851d",
+      "event_label": "特朗普回应全美航班停飞 - Sohu",
+      "timestamp_local": "2026-11-14T09:59:00+08:00",
+      "timestamp_utc": "2026-11-14T01:59:00+00:00",
+      "timestamp_sort": 1794621540.0,
+      "summary": "特朗普回应全美航班停飞 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1101438371_163278?scm\\\\u003d10001.198_14-198_14_exp.0.0-0-0-0-0."
       ],
       "article_count": 1
     },
@@ -1165,7 +1187,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.sohu.com/a/1101423756_115479?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDRiTkt2Wkd1YkxNdGRFaGhYdllFclVITm5KcHFpdGNkQlhVVndvMV9lUWNVVjhfaHJoU3FwQkx2aEVrQzFwNzk3V01MeWNrcUs1UHFOc2FVLV8wY2pmdF9ZQ2dBako0QjIxWmwxMEN4Q2VubGlIOHRnQVJFTmtQbVl6SHBvUVZ1aXJv?oc=5"
       ],
       "article_count": 1
     },
@@ -1284,7 +1306,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.sohu.com/a/1101425015_161795?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkJWQzFVZy0tVUlNc2lQMTA2RWtyVUMxLXZvTXo4SmhueXh5TFl2NHl1cVpIRVI4M3g5ekFpa2RGUnpoaFFpdGtCVFNER2V4ZXpEbzF4dmg4Z1VVNnZ1UlZxX1Q3MjNyXzM1XzRQT3ZUSWsxRU9LYlN0Tjg3SFpVSXAxWVhFMFdMaVNj?oc=5"
       ],
       "article_count": 1
     },
@@ -1379,6 +1401,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_a95df1e5531d",
+      "event_label": "美交通部长：全美航班停飞源于系统老化 呼吁国会紧急拨款 - 第一财经",
+      "timestamp_local": "2026-11-14T10:53:00+08:00",
+      "timestamp_utc": "2026-11-14T02:53:00+00:00",
+      "timestamp_sort": 1794624780.0,
+      "summary": "美交通部长：全美航班停飞源于系统老化 呼吁国会紧急拨款 第一财经",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.yicai.com/brief/103440687.html"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_c24d7a9b4cf0",
       "event_label": "美媒：全美航班停飞令已解除 - QQ News",
       "timestamp_local": "2026-11-14T10:53:00+08:00",
@@ -1390,6 +1427,36 @@
       "confidence": 0.6,
       "sources": [
         "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90UTkta0FXUXRDeUNJYTBkV0pNdk5lQ2k3VDNXLXhoUjVRWldKTVljM0xGZGR5X0xHVVRpSVRzWm1MVHp2N0Jyc090QmlLbGxuMV83QTFB?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_b89dea3de7e8",
+      "event_label": "全美航班停飞令已解除 - 网易新闻客户端",
+      "timestamp_local": "2026-11-14T10:57:00+08:00",
+      "timestamp_utc": "2026-11-14T02:57:00+00:00",
+      "timestamp_sort": 1794625020.0,
+      "summary": "全美航班停飞令已解除 网易新闻客户端",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PT2Uyd1hHUUpDeGh6U1V2VTQxOFc4NlZzQ0FhRmhlcEdFZW55Qm1xWlFmN2I4UENZRmJMVHBEekdBVmZHY1JxS05ObXJVZmE4Z1RrSHd0SGc5Nndj?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_ca8c979f67d4",
+      "event_label": "全美航班停飞令已解除 - 手机网易网",
+      "timestamp_local": "2026-11-14T10:57:07+08:00",
+      "timestamp_utc": "2026-11-14T02:57:07+00:00",
+      "timestamp_sort": 1794625027.0,
+      "summary": "全美航班停飞令已解除 手机网易网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EbTFoUHpoMFhmaGRGN0czQTAxbWVpbkVMdi1vbVExREJ2VGRjcmd2aXdjYkZLTF9RdjFZbk9BZHdqUC12ZjQwSmZUU3JxVTBWLS1NM0gySGNPZVg0UDYweDdR?oc=5"
       ],
       "article_count": 1
     },
@@ -1479,7 +1546,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1101460385_128075?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3BBMjAyYnpUeE5MaW5JcDNERTVaZ2dXYnhpVmxGa0FnSUt3RC01dGtwM3I1UFZTS3huVU1IVzlIaTVteWE4Y0JPWmFfRU9WNVZjazNycUJnc3JoQ2IwZ2Z3ZkxzV0gwLWZqSFpYTDFraktJM1FyMEl1WVV6VFB6WGZMRG04RV9a?oc=5"
       ],
       "article_count": 1
     },
@@ -1603,7 +1670,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFeExITmhhUUs1c3FHSkgtVUJKNEU2eV9XdjZWQjNpSTE2T2d0ZElleWpsdHAxRVJGZ0llbkVMc2VuamtfbmVjRWNXT3dLN2ZLWmNDYlVBSDFib3FpekFLNmVjVGtlQmVPWFNnYVE4OUxZMm9EZkM1Ng?oc=5"
+        "https://c.m.163.com/news/v/VDAOOFPM1.html?spss\\\\u003dbackflow-index-hotlist"
       ],
       "article_count": 1
     },
@@ -1623,6 +1690,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_774ec94f3acf",
+      "event_label": "一问到底 | “9·11”后第二次全美航班停飞背后：跟上次有何不同？暴露哪些问题？ - Sohu",
+      "timestamp_local": "2026-11-14T12:24:36+08:00",
+      "timestamp_utc": "2026-11-14T04:24:36+00:00",
+      "timestamp_sort": 1794630276.0,
+      "summary": "一问到底 | “9·11”后第二次全美航班停飞背后：跟上次有何不同？暴露哪些问题？ Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1101500898_120388781?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_8f8a0c6ec014",
       "event_label": "全美航班停飞令已解除！当地华人：已等候超5个小时，在美生活近20年，第一次遇到这种事，有华人坐上飞机又被送回候机室 - Sohu",
       "timestamp_local": "2026-11-14T12:26:51+08:00",
@@ -1634,6 +1716,21 @@
       "confidence": 0.6,
       "sources": [
         "https://m.sohu.com/a/1101477879_121284943?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_88658c81db3d",
+      "event_label": "微软：全美航班停飞与微软无关；其当天刚就全球性服务中断道歉 - 上观新闻",
+      "timestamp_local": "2026-11-14T12:35:00+08:00",
+      "timestamp_utc": "2026-11-14T04:35:00+00:00",
+      "timestamp_sort": 1794630900.0,
+      "summary": "微软：全美航班停飞与微软无关；其当天刚就全球性服务中断道歉 上观新闻",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.jfdaily.com/news/detail?id\\\\u003d1213851"
       ],
       "article_count": 1
     },
@@ -1651,13 +1748,328 @@
         "https://k.sina.com.cn/article_1499104401_595a849104003xas2.html?from\\\\u003dnews"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_2c7ee607ab1c",
+      "event_label": "“9·11”恐袭以来第2次！全美航班停飞，上万架飞机受影响，停飞令持续超过4小时，特朗普：空管系统故障与网络攻击或人工智能无关#一财情报局 - Sohu",
+      "timestamp_local": "2026-11-14T13:11:23+08:00",
+      "timestamp_utc": "2026-11-14T05:11:23+00:00",
+      "timestamp_sort": 1794633083.0,
+      "summary": "“9·11”恐袭以来第2次！全美航班停飞，上万架飞机受影响，停飞令持续超过4小时，特朗普：空管系统故障与网络攻击或人工智能无关#一财情报局 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1101490476_114986?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_ffddf7b35857",
+      "event_label": "美交通部长：全美航班停飞源于系统老化 呼吁国会紧急拨款 | 国际专题 - Sohu",
+      "timestamp_local": "2026-11-14T13:15:26+08:00",
+      "timestamp_utc": "2026-11-14T05:15:26+00:00",
+      "timestamp_sort": 1794633326.0,
+      "summary": "美交通部长：全美航班停飞源于系统老化 呼吁国会紧急拨款 | 国际专题 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQekpqTzNmbVA2TVNyTHB3bk93ekhBem8tWDViTkl4TEctSmYwRG5WRXRoX2Vkd2pXdm1aM2JPV0VJWmx0UTFvZFdoMkVPbVNuQ0NKMFF3UGJuckU3b09DSk1DNFgyTkxINWpSd2FHNDAyOHdKOUlyVzJXQTRNQV9zQ2hPUkk1V2NS?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_d5eef29aa7ad",
+      "event_label": "#全美航班停飞 美国空管通信故障致逾万架次航班延误或取消 - Sohu",
+      "timestamp_local": "2026-11-14T13:27:00+08:00",
+      "timestamp_utc": "2026-11-14T05:27:00+00:00",
+      "timestamp_sort": 1794634020.0,
+      "summary": "#全美航班停飞 美国空管通信故障致逾万架次航班延误或取消 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1101497365_121443915?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_254f196392ac",
+      "event_label": "连线全美航班停飞的中国亲历者：未获补偿，机场周边酒店爆满 - Sohu",
+      "timestamp_local": "2026-11-14T13:30:36+08:00",
+      "timestamp_utc": "2026-11-14T05:30:36+00:00",
+      "timestamp_sort": 1794634236.0,
+      "summary": "连线全美航班停飞的中国亲历者：未获补偿，机场周边酒店爆满 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.sohu.com/a/1101501573_161795?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_5fa34a6e7159",
+      "event_label": "【直播】FAA下令全美航班停飛 穆林和達菲舉行白宮簡報會 - 新唐人電視台",
+      "timestamp_local": "2026-11-14T13:34:36+08:00",
+      "timestamp_utc": "2026-11-14T05:34:36+00:00",
+      "timestamp_sort": 1794634476.0,
+      "summary": "【直播】FAA下令全美航班停飛 穆林和達菲舉行白宮簡報會 新唐人電視台",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fS0pLQ3Q5QlQzLUxjYnJQSjV4R1lkeGVuNHBaMFhCcW4tT0dQalZCUXJyS1M3eTJWSWZmbXBuYVluVXYtbk8yMmRPbGZLbDBYdGw4RGRJS1pZN28ydlYtedIBZkFVX3lxTFBKYWozRTdyVzdvY3Fic1VjMEpRT1N6SUlMb1dTSE82TTRHVGhTa3EtTHYwODZpUGRVajk5bFFGbVV1bmpGdmJIcUNSM0JnVU1PbVliR2h3VGh6ZnBUZ1dWd2Rha0U3UQ?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_66941842749c",
+      "event_label": "全美航班停飞4小时暴露空管老化，暗藏政治博弈？ - 凤凰网",
+      "timestamp_local": "2026-11-14T13:37:26+08:00",
+      "timestamp_utc": "2026-11-14T05:37:26+00:00",
+      "timestamp_sort": 1794634646.0,
+      "summary": "全美航班停飞4小时暴露空管老化，暗藏政治博弈？ 凤凰网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://original.ifeng.com/c/8y2opW4sO4U"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_584f34ca4e0b",
+      "event_label": "微软否认与全美航班停飞有关，美解除停飞令 - 手机新浪网",
+      "timestamp_local": "2026-11-14T13:38:16+08:00",
+      "timestamp_utc": "2026-11-14T05:38:16+00:00",
+      "timestamp_sort": 1794634696.0,
+      "summary": "微软否认与全美航班停飞有关，美解除停飞令 手机新浪网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://k.sina.com.cn/article_1288429914_m4ccbe15a03301byco.html?from\\\\u003dnews"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_8554ae7daa19",
+      "event_label": "美交通部长：全美航班停飞源于系统老化 - 网易新闻客户端",
+      "timestamp_local": "2026-11-14T13:49:00+08:00",
+      "timestamp_utc": "2026-11-14T05:49:00+00:00",
+      "timestamp_sort": 1794635340.0,
+      "summary": "美交通部长：全美航班停飞源于系统老化 网易新闻客户端",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VX3NxakR0SXdiX2dPUDN3QmxhOXhsdFhRc20ybkRWLTIzSjhOaEUwYzZYTHhwZ2tRb1hxT191WGFaNWNMSGhBdnhWNFliMi1tWVVuSW93MzNwQi1z?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_0216260d492d",
+      "event_label": "微软否认与全美航班停飞事件有关 无关联声明受关注 - 中华网",
+      "timestamp_local": "2026-11-14T13:49:04+08:00",
+      "timestamp_utc": "2026-11-14T05:49:04+00:00",
+      "timestamp_sort": 1794635344.0,
+      "summary": "微软否认与全美航班停飞事件有关 无关联声明受关注 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE81eWVoVmhtVXlKdGlkaWVmMVZPYXVtTENZRFRLaGU3OFJTMU9sTUZsbXVHMHdtaWRFOFBhMkt6bUNWVE9KMkl4b0pXeG9FbjdkSDV5WE1lLU5acTljNHVla05OOWRwdXVlT0V0NU8zM2E?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_df1fa20ce78e",
+      "event_label": "“9·11”以来最严重，全美航班停飞数小时：一次系统更新击穿整套通信网络 - 上观新闻",
+      "timestamp_local": "2026-11-14T13:54:00+08:00",
+      "timestamp_utc": "2026-11-14T05:54:00+00:00",
+      "timestamp_sort": 1794635640.0,
+      "summary": "“9·11”以来最严重，全美航班停飞数小时：一次系统更新击穿整套通信网络 上观新闻",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.shobserver.com/news/detail?id\\\\u003d1213827"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_887a3a12a016",
+      "event_label": "新闻加油站｜通信故障引发全美航班停飞，近1.5万架次受影响 - 京报网",
+      "timestamp_local": "2026-11-14T14:12:00+08:00",
+      "timestamp_utc": "2026-11-14T06:12:00+00:00",
+      "timestamp_sort": 1794636720.0,
+      "summary": "新闻加油站｜通信故障引发全美航班停飞，近1.5万架次受影响 京报网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://xinwen.bjd.com.cn/content/s6af7fbc0e4b0e42f8f02e717.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_b14a597d3094",
+      "event_label": "美国联邦航空管理局：已解除全美航班停飞令 - 中国新闻网",
+      "timestamp_local": "2026-11-14T14:34:24+08:00",
+      "timestamp_utc": "2026-11-14T06:34:24+00:00",
+      "timestamp_sort": 1794638064.0,
+      "summary": "美国联邦航空管理局：已解除全美航班停飞令 中国新闻网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.chinanews.com.cn/gj/2026/11-14/10731954.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_f1b9df6d1492",
+      "event_label": "新闻加油站｜通信故障引发全美航班停飞，近1.5万架次受影响 - Sohu",
+      "timestamp_local": "2026-11-14T15:10:02+08:00",
+      "timestamp_utc": "2026-11-14T07:10:02+00:00",
+      "timestamp_sort": 1794640202.0,
+      "summary": "新闻加油站｜通信故障引发全美航班停飞，近1.5万架次受影响 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1101533919_163278?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_8ebbf133097a",
+      "event_label": "微软否认与全美航班停飞事件有关 - 手机新浪网",
+      "timestamp_local": "2026-11-14T15:27:03+08:00",
+      "timestamp_utc": "2026-11-14T07:27:03+00:00",
+      "timestamp_sort": 1794641223.0,
+      "summary": "微软否认与全美航班停飞事件有关 手机新浪网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://k.sina.com.cn/article_1682207150_m644471ae03301r1uy.html?from\\\\u003dnews"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_0b67879d0ff1",
+      "event_label": "全美航班停飞4小时 交通部长澄清非新AI空管系统惹祸 议员促查 - 香港01",
+      "timestamp_local": "2026-11-14T15:52:00+08:00",
+      "timestamp_utc": "2026-11-14T07:52:00+00:00",
+      "timestamp_sort": 1794642720.0,
+      "summary": "全美航班停飞4小时 交通部长澄清非新AI空管系统惹祸 议员促查 香港01",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiuANBVV95cUxQRUhOcXFnZzhLT19md2RlN3dUbFJBOHZCUXE0UGlQeVpYUUJDdFRhbFoweVJXSUI2X3F2dENpcm5uN052X012WGlPWjUxaFh1dTU1UENaeWNCQkVIelNLVmhSd1BiN1dydThEYTNuTkNpX0tKTzFvMkZ4bHFBNkwtMlpMX1RtcFFSbnhsV19zVDdaUzdnSEd4R1JXV3FTODZ0S1UwRXlOR3Q5amk0MmNnbzBMaEhkOHdPd3ZscU5vZVQwMThNOWhqLVlTQnRDWDNpUTNBRUxqUG1GY3NleHdtMjlYTmRKYjJ2XzZ4cE5GY0FUakk5NUEtdFNOOW0tVF9hTDBseElIZXJlcmU0c25DSnJKMTJ1anBPVFF2RGpRZFp2bUN0YnRZWlNsMXI5cmNFX1oyQnRCMUdzWU5iZldhdUdFc2NQN3E5Y1R0M2MyakdkVTlEMW5HeVZCV0NtV3VhRXdyUkFYSlp4MkR5VnpZY0NKOVZaeVpiajAycDMzRXFoTGkyaGdTT2JISWYyX2xPY3NZN0FxMXN1NzRnelNodFl6emd5UUpJRk1mbnMtY2VyZWtrZ0Q0aw?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_3daa5101a08d",
+      "event_label": "上上次是9·11！全美航班停飞令已解除 美部长回应：我们用的还是1980年的铜线 - 驱动之家",
+      "timestamp_local": "2026-11-14T16:05:00+08:00",
+      "timestamp_utc": "2026-11-14T08:05:00+00:00",
+      "timestamp_sort": 1794643500.0,
+      "summary": "上上次是9·11！全美航班停飞令已解除 美部长回应：我们用的还是1980年的铜线 驱动之家",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.mydrivers.com/1/1165/1165785.htm"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_72c5cb995ff2",
+      "event_label": "FAA下令全美航班停飞 约4小时后解禁 - 八度空间8TV",
+      "timestamp_local": "2026-11-14T16:09:49+08:00",
+      "timestamp_utc": "2026-11-14T08:09:49+00:00",
+      "timestamp_sort": 1794643789.0,
+      "summary": "FAA下令全美航班停飞 约4小时后解禁 八度空间8TV",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWVR5OExJaDl4d01IdTM4YVlNTjZRWFp4UktjZnpfMTFNRFRTX0ZnTDl0dWpfMDN6MVJMRFZ3Vm5mVy16d3dJMGJnQmZCUmNQZlpjSU1pT2lzbkRKRDhhbjNVQksteXdRM0FpZ1NZbFJpZGZSUVpQWkoycVdUMDhCMUtDRGliRzN3NlJXMkxESFZVci1fZTFWNjJEN0s5dThUTzlZQ3h0T3JCbUxldzBHeDVQd0VMaDVSQ3Z1S000NkkyNzc5OFE3dGRHSjBmWkd4S2lTOXYtY0hVdVB4TVBUZXFETko3bEd0ZUpDTzVNSktHQ0FpMWQ5OTV1QjljLWhfZmQ4?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_982ee1ab0d11",
+      "event_label": "突发！全美航班停飞，美国史上第3次！ - Sohu",
+      "timestamp_local": "2026-11-14T17:31:34+08:00",
+      "timestamp_utc": "2026-11-14T09:31:34+00:00",
+      "timestamp_sort": 1794648694.0,
+      "summary": "突发！全美航班停飞，美国史上第3次！ Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlVfVGtHWmRqd1p6eS0wd1RlbHNyTDhXWmE0RnNWNkg3TzdpZW80Tk1rUDM5TkpDTkNTS0xRdmx0cGhSWU0zM1dYQ0x5N2FBa19iQzh6R1BvYXc2eERJTHRyNVdIaFM4UXJwQ2xLcVZEOHRSc0wxSU1MWDFscFRBancwYS1rY2tfbnl4Yw?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_5d45206f8d74",
+      "event_label": "全美航班停飞亲历者：未获补偿 机场酒店爆满 - 中华网",
+      "timestamp_local": "2026-11-14T17:33:11+08:00",
+      "timestamp_utc": "2026-11-14T09:33:11+00:00",
+      "timestamp_sort": 1794648791.0,
+      "summary": "全美航班停飞亲历者：未获补偿 机场酒店爆满 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.china.com/socialgd/10000169/20261114/49872221.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_f16b0d07bff8",
+      "event_label": "视频 | 全美航班停飞令已解除，但预计今明两天美国仍会出现大范围航班延误或取消 - jingjiribao.cn",
+      "timestamp_local": "2026-11-14T17:41:42+08:00",
+      "timestamp_utc": "2026-11-14T09:41:42+00:00",
+      "timestamp_sort": 1794649302.0,
+      "summary": "视频 | 全美航班停飞令已解除，但预计今明两天美国仍会出现大范围航班延误或取消 jingjiribao.cn",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "http://www.jingjiribao.cn/static/detail.jsp?id\\\\u003d698155"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_9ff591cf2086",
+      "event_label": "微软否认FAA全美航班停飞故障与自身服务有关- Microsoft 微软 - cnBeta.COM",
+      "timestamp_local": "2026-11-14T18:27:00+08:00",
+      "timestamp_utc": "2026-11-14T10:27:00+00:00",
+      "timestamp_sort": 1794652020.0,
+      "summary": "微软否认FAA全美航班停飞故障与自身服务有关- Microsoft 微软 cnBeta.COM",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.cnbeta.com.tw/articles/tech/1586410.htm"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-14T12:50:06.934208+08:00",
+  "updated_at": "2026-11-14T19:07:46.929831+08:00",
   "last_stats": {
-    "node_count": 60,
+    "node_count": 87,
     "conflict_nodes": 0,
-    "article_count": 67
+    "article_count": 94
   },
-  "articles_fingerprint": "f6ab8669058cca98"
+  "articles_fingerprint": "cc05c940364be46d"
 }

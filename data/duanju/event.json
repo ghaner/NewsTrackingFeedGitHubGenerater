@@ -42,6 +42,13 @@
       "conflict_nodes": 1,
       "article_count": 26,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-14T19:07:46.824532+08:00",
+      "node_count": 26,
+      "conflict_nodes": 1,
+      "article_count": 27,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1119,6 +1126,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_b0e35040dcda",
+      "event_label": "短剧出海变“红海” AI助力产能爆发 投流烧钱赚钱不易 - Sohu",
+      "timestamp_local": "2026-11-14T07:02:00+08:00",
+      "timestamp_utc": "2026-11-13T23:02:00+00:00",
+      "timestamp_sort": 1794610920.0,
+      "summary": "短剧出海变“红海” AI助力产能爆发 投流烧钱赚钱不易 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1101365083_639898?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_36feb77bc554",
       "event_label": "AI短剧出海产能井喷之后：谁在赚钱，谁在赔本 - 同花顺财经",
       "timestamp_local": "2026-11-14T08:24:50+08:00",
@@ -1149,11 +1171,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-14T12:24:03.794358+08:00",
+  "updated_at": "2026-11-14T19:07:46.824532+08:00",
   "last_stats": {
-    "node_count": 25,
+    "node_count": 26,
     "conflict_nodes": 1,
-    "article_count": 26
+    "article_count": 27
   },
-  "articles_fingerprint": "da1c41c84cef0356"
+  "articles_fingerprint": "8f9d74f2cbbc2098"
 }
