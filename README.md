@@ -1,11 +1,11 @@
-# news-feed · 新闻事件追踪 RSS 订阅源
+# NewsTrackingFeedGitHubGenerater · 新闻事件追踪 RSS 订阅源
 
 把一条新闻做成**可 URL 订阅的 RSS 2.0 源**：GitHub Actions 每小时增量抓取后续报道 → 并入该事件时间轴 → 重新生成 feed → GitHub Pages 提供公网订阅地址。
 
 **订阅地址（直接粘进阅读器）**
 
 ```
-https://ghaner.github.io/news-feed/duanju.xml
+https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/duanju.xml
 ```
 
 
@@ -13,7 +13,7 @@ https://ghaner.github.io/news-feed/duanju.xml
 
 | slug | 事件 | 订阅地址 |
 | --- | --- | --- |
-| `duanju` | 海外短剧付费榜前十，中国厂商占九席 | `https://ghaner.github.io/news-feed/duanju.xml` |
+| `duanju` | 海外短剧付费榜前十，中国厂商占九席 | `https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/duanju.xml` |
 
 方法论来自 `feed-github-generater`（配置驱动、零依赖生成器、失败不覆盖旧 feed、Pages 出公网 URL）＋ `news-timeline-builder`（去重／时间对齐／冲突合并的确定性规则）。
 
@@ -45,20 +45,20 @@ https://ghaner.github.io/news-feed/duanju.xml
 
 ## 发布到 GitHub Pages
 
-**已上线**：仓库 `ghaner/news-feed`（public），Pages 由 `build_type: workflow` 发布，首轮 Actions 运行成功（`update` + `deploy` 全绿），公网 `duanju.xml` 已返回 25 条。
+**已上线**：仓库 `ghaner/NewsTrackingFeedGitHubGenerater`（public），Pages 由 `build_type: workflow` 发布，首轮 Actions 运行成功（`update` + `deploy` 全绿），公网 `duanju.xml` 已返回 25 条。
 
-目标地址按 `ghaner/news-feed` 写死在 `src/sources.json` 的 `home_url` / `feed_url`：
+目标地址按 `ghaner/NewsTrackingFeedGitHubGenerater` 写死在 `src/sources.json` 的 `home_url` / `feed_url`：
 
 ```
-https://ghaner.github.io/news-feed/duanju.xml     ← 订阅地址
-https://ghaner.github.io/news-feed/               ← 首页（列出全部 feed）
+https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/duanju.xml     ← 订阅地址
+https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/               ← 首页（列出全部 feed）
 ```
 
-仓库已建好、远端已配置（`origin` → `https://github.com/ghaner/news-feed.git`），日常改完直接提交推送即可（或双击 `publish.bat`）：
+仓库已建好、远端已配置（`origin` → `https://github.com/ghaner/NewsTrackingFeedGitHubGenerater.git`），日常改完直接提交推送即可（或双击 `publish.bat`）：
 
 ```bash
 cd "F:/Informatics/新闻分析/2026-11-14_短剧事件RSS订阅"
-git remote add origin https://github.com/ghaner/news-feed.git
+git remote add origin https://github.com/ghaner/NewsTrackingFeedGitHubGenerater.git
 git push -u origin main
 ```
 

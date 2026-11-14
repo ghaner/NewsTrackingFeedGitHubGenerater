@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title news-feed publish
+title NewsTrackingFeedGitHubGenerater publish
 cd /d "%~dp0"
 
 python "%~dp0src\generate_feed.py"
