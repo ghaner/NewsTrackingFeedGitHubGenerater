@@ -1,0 +1,81 @@
+name: Update Event Feed
+
+# 每日定时增量抓取「海外短剧付费榜中国厂商九席」事件的后续报道，
+# 合并进时间轴后重新生成 duanju.xml，由 GitHub Pages 对外提供订阅地址。
+#
+# 三层韧性（与 feed-github-generater 方法论一致）：
+#   1) 抓取失败 → fetch_articles.py 自己吞掉异常并输出空文件，不中断流程；
+#   2) 无新增 → rebuild.py 打印 NO_NEW 且不改动 event.json，feed 保持上一版；
+#   3) 生成 0 条 → generate_feed.py 跳过该源，不覆盖旧 feed。
+#
+# 时间：北京时间 07:30 = UTC 23:30（避开整点高峰，也不与本地 08:10 的代理追踪撞车）
+
+on:
+  schedule:
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-event-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # 第 1 步：抓增量。Google News RSS 免密钥；失败时输出 0 条，后续步骤自动跳过重算。
+      - name: Fetch new reports (best-effort)
+        continue-on-error: true
+        run: |
+          python src/fetch_articles.py \
+            --slug duanju_overseas_top9 \
+            --keywords "短剧出海,海外短剧,ReelShort,DramaBox,NetShort" \
+            --mode google_news \
+            --workdir data \
+            --since-days 3 \
+            --out data/incoming.jsonl
+
+      # 第 2 步：合并 + 去重 + 时间对齐 + 重算时间轴（纯确定性，不调模型）
+      - name: Merge into timeline
+        run: python src/rebuild.py
+
+      # 第 3 步：从 data/event.json 渲染 RSS（配置驱动，见 src/sources.json）
+      - name: Generate RSS
+        run: python src/generate_feed.py
+
+      # 第 4 步：XML 良构校验 + 提交（0 条时不提交，保留旧 feed）
+      - name: Validate & commit
+        run: |
+          python - <<'PY'
+          import glob, xml.etree.ElementTree as ET
+          for fn in sorted(glob.glob("*.xml")):
+              root = ET.parse(fn).getroot()
+              items = root.find("channel").findall("item")
+              print(f"{fn}: {len(items)} items")
+              assert items, f"{fn} 条目为 0，拒绝提交"
+          PY
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash || true
+          git add -A "*.xml" data
+          if git diff --cached --quiet; then
+            echo "无变化，跳过提交"
+          else
+            git commit -m "chore: update event feed ($(date -u +%Y-%m-%d))"
+            git push
+          fi

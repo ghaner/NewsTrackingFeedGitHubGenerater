@@ -1,0 +1,213 @@
+# -*- coding: utf-8 -*-
+"""
+fetch_articles.py — 自主检索器（GitHub / 无人值守模式）
+=====================================================
+供调度层在「没有 LLM 代理」的环境里拉取新报道，映射到本 skill 的 article schema。
+
+支持来源：
+  - google_news : 以关键词构造 Google News RSS 检索（免费、无需密钥）
+  - rss_file    : 读取本地 RSS/Atom XML 文件（离线测试 / 私有源）
+  - mock        : 产出合成 article（无网环境冒烟测试）
+
+输出：标准 article JSONL（每行一个），写入 --out 指定文件（缺省 stdout）。
+每条 article 字段（与流水线一致）：
+  id, url, title, content, published_at(ISO), credibility, event_label, facts
+
+时间处理：RSS 的 RFC822 发布时间先转 ISO 再交给 align.py；
+          仅保留比上次拉取（events/<slug>/.last_fetch）更新的条目。
+"""
+import argparse
+import json
+import os
+import re
+import sys
+import html
+import urllib.request
+import urllib.parse
+from datetime import datetime, timezone, timedelta
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from schema import article_id
+
+DEFAULT_TZ = timezone(timedelta(hours=8))
+UA = "Mozilla/5.0 (news-timeline-builder fetcher)"
+
+
+def _strip_html(s):
+    if not s:
+        return ""
+    s = re.sub(r"<[^>]+>", " ", s)
+    s = html.unescape(s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+def _rfc822_to_iso(s):
+    """把 RFC822 时间（如 'Wed, 11 Nov 2026 14:30:00 GMT'）转 ISO；失败返回 None。"""
+    from email.utils import parsedate_to_datetime
+    try:
+        dt = parsedate_to_datetime(s)
+        if dt is None:
+            return None
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(DEFAULT_TZ).isoformat()
+    except Exception:
+        return None
+
+
+def _fetch_url(url, timeout=20):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read().decode("utf-8", "ignore")
+
+
+def _parse_rss(xml_text):
+    """解析 RSS 2.0 / Atom，返回 [(title, link, pub_iso, description), ...]。"""
+    import xml.etree.ElementTree as ET
+    items = []
+    try:
+        root = ET.fromstring(xml_text)
+    except ET.ParseError as e:
+        print(f"[fetch] RSS 解析失败: {e}", file=sys.stderr)
+        return items
+
+    # RSS 2.0
+    for it in root.iter("item"):
+        title = (it.findtext("title") or "").strip()
+        link = (it.findtext("link") or "").strip()
+        pub = it.findtext("pubDate") or it.findtext("dc:date") or ""
+        desc = it.findtext("description") or it.findtext("summary") or ""
+        items.append((title, link, _rfc822_to_iso(pub), _strip_html(desc)))
+
+    # Atom
+    if not items:
+        ns = {"a": "http://www.w3.org/2005/Atom"}
+        for e in root.findall(".//a:entry", ns):
+            title = (e.findtext("a:title", namespaces=ns) or "").strip()
+            link = ""
+            for l in e.findall("a:link", ns):
+                link = l.get("href", "")
+                if l.get("rel") == "alternate" or link:
+                    break
+            pub = e.findtext("a:updated", namespaces=ns) or e.findtext("a:published", namespaces=ns) or ""
+            pub_iso = None
+            if pub:
+                try:
+                    pub_iso = datetime.fromisoformat(pub.replace("Z", "+00:00")).astimezone(DEFAULT_TZ).isoformat()
+                except Exception:
+                    pub_iso = None
+            desc = e.findtext("a:summary", namespaces=ns) or e.findtext("a:content", namespaces=ns) or ""
+            items.append((title, link, pub_iso, _strip_html(desc)))
+    return items
+
+
+def fetch_google_news(keywords, since_dt=None, timeout=20):
+    q = " OR ".join(f'"{k}"' for k in keywords) if len(keywords) > 1 else keywords[0]
+    url = ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q) +
+           "&hl=zh-CN&gl=CN&ceid=CN:zh-Hans")
+    try:
+        xml = _fetch_url(url, timeout)
+    except Exception as e:
+        print(f"[fetch] Google News 拉取失败（跳过）: {e}", file=sys.stderr)
+        return []
+    return _filter(_parse_rss(xml), since_dt)
+
+
+def fetch_rss_file(path, since_dt=None):
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            xml = f.read()
+    except Exception as e:
+        print(f"[fetch] 读取本地 RSS 失败: {e}", file=sys.stderr)
+        return []
+    return _filter(_parse_rss(xml), since_dt)
+
+
+def fetch_mock(keywords, since_days=2):
+    now = datetime.now(DEFAULT_TZ)
+    templates = [
+        "合成报道#1：化工园区储罐发生泄漏，应急连夜处置。",
+        "合成报道#2：环保部门对周边水体开展加密监测，数据逐小时上报。",
+        "合成报道#3：附近居民已临时转移安置，官方开通咨询热线。",
+    ]
+    rows = []
+    for i, kw in enumerate(keywords[:3]):
+        dt = now - timedelta(hours=(i + 1) * 5)
+        rows.append((
+            f"【测试】关于{kw}的最新进展报道（#{i+1}）",
+            f"https://example.com/mock/{i+1}",
+            dt.isoformat(),
+            f"围绕「{kw}」的{templates[i]}",
+        ))
+    return _filter(rows, None)
+
+
+def _filter(parsed, since_dt):
+    out = []
+    for title, link, pub_iso, desc in parsed:
+        if not title:
+            continue
+        if since_dt and pub_iso:
+            try:
+                if datetime.fromisoformat(pub_iso) < since_dt:
+                    continue
+            except Exception:
+                pass
+        out.append({
+            "id": article_id(link, title, desc),
+            "url": link,
+            "title": title,
+            "content": desc,
+            "published_at": pub_iso or "",
+            "credibility": "medium",
+            "event_label": title,  # 自主模式无 LLM 归类，每条报道独立成节点
+            "facts": {},
+        })
+    return out
+
+
+def main():
+    ap = argparse.ArgumentParser(description="自主检索新报道并映射为 article JSONL")
+    ap.add_argument("--slug", required=True, help="事件 slug（用于写 .last_fetch）")
+    ap.add_argument("--keywords", required=True, help="逗号分隔的关键词")
+    ap.add_argument("--mode", choices=["google_news", "rss_file", "mock"], default="google_news")
+    ap.add_argument("--rss-file", help="rss_file 模式的本地 XML 路径")
+    ap.add_argument("--workdir", default="events", help="事件持久化根目录（写 .last_fetch）")
+    ap.add_argument("--since-days", type=int, default=2, help="只取最近 N 天内的报道")
+    ap.add_argument("--out", help="输出 JSONL 路径，缺省 stdout")
+    ap.add_argument("--credibility", default="medium", help="来源可信度等级")
+    args = ap.parse_args()
+
+    keywords = [k.strip() for k in args.keywords.split(",") if k.strip()]
+    since_dt = datetime.now(DEFAULT_TZ) - timedelta(days=args.since_days)
+
+    if args.mode == "google_news":
+        articles = fetch_google_news(keywords, since_dt)
+    elif args.mode == "rss_file":
+        articles = fetch_rss_file(args.rss_file, since_dt)
+    else:
+        articles = fetch_mock(keywords, args.since_days)
+
+    for a in articles:
+        a["credibility"] = args.credibility
+
+    # 更新 last_fetch 标记
+    if articles:
+        edir = os.path.join(args.workdir, args.slug)
+        os.makedirs(edir, exist_ok=True)
+        with open(os.path.join(edir, ".last_fetch"), "w", encoding="utf-8") as f:
+            f.write(datetime.now(DEFAULT_TZ).isoformat())
+
+    text = "\n".join(json.dumps(a, ensure_ascii=False) for a in articles)
+    if args.out:
+        os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)
+        with open(args.out, "w", encoding="utf-8") as f:
+            f.write(text + ("\n" if text else ""))
+        print(f"[fetch] 检索到 {len(articles)} 条新报道 -> {args.out}")
+    else:
+        print(text)
+
+
+if __name__ == "__main__":
+    main()

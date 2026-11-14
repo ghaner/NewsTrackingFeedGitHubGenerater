@@ -1,0 +1,988 @@
+{
+  "slug": "duanju_overseas_top9",
+  "created_at": "2026-11-14T11:06:21.973222+08:00",
+  "versions": [
+    {
+      "updated_at": "2026-11-14T11:06:21.973242+08:00",
+      "node_count": 16,
+      "conflict_nodes": 1,
+      "article_count": 17
+    }
+  ],
+  "meta": {
+    "title": "海外短剧付费榜前十中国厂商占九席",
+    "event_anchor": {
+      "subject": "中国出海短剧平台在海外付费榜的份额优势与盈利兑现",
+      "keywords": [
+        "海外短剧",
+        "付费应用",
+        "中国厂商",
+        "DramaBox",
+        "ReelShort",
+        "NetShort",
+        "FreeReels",
+        "duanju"
+      ],
+      "start_hint": "2026-09"
+    }
+  },
+  "analysis": {
+    "five_w_one_h": {
+      "who": "中国出海短剧平台：点众科技 DramaBox、枫叶互动 ReelShort、昆仑万维 FreeReels／DramaWave、麦芽传媒 NetShort、字节跳动 PineDrama；对应 A 股主体昆仑万维、中文在线、掌阅科技等",
+      "what": "多家媒体梳理：海外短剧付费应用收入榜前十名中，中国厂商占据九席，下载榜前十全部为中国背景；同期相关上市公司三季报普遍呈现「增收不增利」",
+      "when": "2026-11-04（新快报率先将「付费榜前十占九席」与三季报并置梳理）；核心榜单统计区间为 2026 年 1—9 月",
+      "where": "全球市场。收入前五为美国、日本、韩国、英国、巴西（合计约 53.41%），美国以约 3.78 亿美元占 36.42%；下载量前五为印尼、印度、巴西、菲律宾、墨西哥（合计 64.74%）",
+      "why": "一是供给端能力：网文 IP 储备、数据驱动选题、工业化拍摄、人工与 AI 结合的生产方式；二是成本端变量：AI 将制作周期从数月压缩到数天、成本降幅约 85%—90%；三是需求端空间：国内短剧竞争饱和，海外付费市场（北美、日韩、中东）客单价高；四是渠道端惯性：多平台买量投放经验可平移，发行覆盖近 200 个国家和地区",
+      "how": "平台自建独立 App，以 IAP 解锁与会员订阅收利润（北美、日韩、中东）、以 IAA 免费加广告拉规模（东南亚、拉美、印度）；内容从「翻译出海」转向「就地翻拍／本地自制」；监管端《微短剧发展管理办法》2026 年 9 月 1 日施行，实行分级备案并要求 AI 生成短剧加注标识，地方以补贴配套（深圳出海项目最高 300 万元）"
+    },
+    "stakeholder_voices": [
+      {
+        "role": "行业研究机构（艾媒咨询 CEO 张毅）",
+        "stance": "解释优势来源",
+        "summary": "中国短剧的竞争优势来自成熟的内容生产体系和产业资源，包括网文 IP 储备、数据驱动选题、工业化制作能力，以及人工与 AI 结合的生产方式；商业模式分 IAP／订阅与 IAA 两条腿，前者是利润基本盘，后者承担拉新与扩规模",
+        "quote": "中国短剧的竞争优势主要来自成熟的内容生产体系和产业资源",
+        "source": "每日经济新闻 2026-11-07",
+        "confidence": "high"
+      },
+      {
+        "role": "头部平台（点众科技董事长 陈瑞卿）",
+        "stance": "解释合并动机",
+        "summary": "DramaBox 与 GoodShort 合并的首要目标是终结两家平台在同一广告渠道互相抬价的无效内卷，把原本消耗在竞价上的预算转向剧本打磨、AI 工业化生产和新兴市场拓展；但他同时表示合并后投放投入不会减少，只会更多",
+        "quote": "合并首要目标是终结两家平台在同一广告渠道互相抬价的无效内卷",
+        "source": "上海证券报 2026-10-31",
+        "confidence": "high"
+      },
+      {
+        "role": "上市公司（掌阅科技 肖伟）",
+        "stance": "说明策略取舍",
+        "summary": "海外市场很大、地区太多，一家通吃不大现实；掌阅海外 App iDrama 仍以订阅制为主、主攻北美，欧美用户偏好付费不愿看广告，东南亚更倾向免费，拉美两种模式并存",
+        "source": "南方+ 2026-11",
+        "confidence": "medium"
+      },
+      {
+        "role": "制作方（听花岛总制片人 赵优秀）",
+        "stance": "看好付费市场",
+        "summary": "旗下 FlickReels 主要面向北美，收入以会员订阅为主，尚未重点开发广告变现；预计未来一两年免费与付费模式仍各有市场",
+        "source": "南方+ 2026-11",
+        "confidence": "medium"
+      },
+      {
+        "role": "监管方（国家广电总局）",
+        "stance": "规范与扶持并行",
+        "summary": "《微短剧发展管理办法》2026 年 9 月 1 日实施，实行分级备案，AI 生成短剧须加注标识，并整治低俗套路剧情；境内拍摄制作的出海微短剧同样适用备案公示与审核许可规定",
+        "source": "新快报 2026-11-04、电影界 2026-11-09",
+        "confidence": "high"
+      },
+      {
+        "role": "数据机构（Sensor Tower／DataEye）",
+        "stance": "未公开说明",
+        "summary": "本次检索未见两家机构就「付费应用前十名」这一表述的统计口径（是否含广告收入、是否按内购净收入排序）发布公开说明，榜单数字均来自媒体二手引述，需以原始报告为准",
+        "source": "检索未见原始报告链接",
+        "confidence": "low"
+      }
+    ],
+    "social_commentary": [
+      {
+        "platform": "微博／雪球等财经社区",
+        "view": "追问「霸榜为何不赚钱」",
+        "summary": "讨论集中在榜单席位与利润表的反差：九席在手、股价大涨，但昆仑万维单季亏 10.85 亿元、多家公司增收不增利，质疑买量模式能否持续",
+        "heat": "高"
+      },
+      {
+        "platform": "从业者社群／社交平台",
+        "view": "产能过剩与同质化担忧",
+        "summary": "出现「收 100 部海外 AI 短剧」的批发式求购帖，不设题材与质量门槛；从业者反映 AI 让产能爆发但也推高投流成本，蓝海正变红海",
+        "heat": "中"
+      },
+      {
+        "platform": "海外社交平台评论区",
+        "view": "玩梗式认可",
+        "summary": "欧美观众在爆款短剧评论区调侃「背后必有华人指点」，把中式反转配方当作辨识度标签传播",
+        "heat": "中"
+      }
+    ],
+    "professional_interpretation": [
+      {
+        "expert": "电影界（行业评论）",
+        "field": "文娱产业",
+        "summary": "把九席霸榜与四份亏损表并排看并不矛盾：中国团队已经赢下了海外短剧的分发入口，却还没赢下利润表；下一步该盯的不是又多了几款 App，而是单用户获取成本有没有降、分账周期有没有缩短、一部剧能否在不靠补贴的前提下回本",
+        "viewpoint": "景气度只是入场券，把收入变成利润才是真正的考试",
+        "source": "电影界 2026-11-09",
+        "confidence": "medium"
+      },
+      {
+        "expert": "华鑫证券",
+        "field": "传媒／二级市场",
+        "summary": "本轮传媒行情主要驱动力来自字节跳动——其线上业务从国内红果应用向海外短剧平台持续扩张，并通过 Seedance 系列模型迭代、AI 剧和漫剧内容供给推动 AI 内容生态热度提升",
+        "viewpoint": "行情由字节的内容生态扩张驱动",
+        "source": "界面新闻 2026-11-13",
+        "confidence": "medium"
+      },
+      {
+        "expert": "国泰海通证券",
+        "field": "传媒／产业研究",
+        "summary": "AI 重构视频产业、AI 短剧步入快车道，预计 2034 年 AI 剧及漫剧市场规模有望达 2600 亿元，2027—2034 年复合增速约 24.2%；AI 视频正由短剧向精品长剧及电影延伸",
+        "viewpoint": "AI 生产能力爆发带来产业链价值重构",
+        "source": "九方智投引述 2026-11-13",
+        "confidence": "medium"
+      },
+      {
+        "expert": "剧短短（行业观察）",
+        "field": "短剧出海",
+        "summary": "比买量更棘手的是留存：ReelShort 与 DramaBox 的用户 30 天后留存只剩约 2%，付费墙一立用户就流失；用户对平台几乎没有忠诚度，追的是某一部剧，剧完人散",
+        "viewpoint": "留不住人比买不到人更致命",
+        "source": "剧短短 2026-10-29",
+        "confidence": "medium"
+      }
+    ],
+    "related_research": [
+      {
+        "topic": "《2025 海外短剧行业报告》",
+        "finding": "海外短剧应用总下载量 11.99 亿次、总收入 23.29 亿美元，中国企业及出海 App 占据全球市场 90% 以上份额",
+        "reference": "中国网络视听大会发布，经香港新闻网引述",
+        "year": "2026"
+      },
+      {
+        "topic": "Sensor Tower《2026 年短剧应用市场报告》",
+        "finding": "2026 年第一季度全球短剧 App 下载量超 8.5 亿次、同比增长 140%，应用内购收入约 7.5 亿美元、同比增长 20%；下载增长集中在东南亚（32%）、拉美（23%）、印度（22%）",
+        "reference": "经南方+、虎嗅、三个皮匠等引述",
+        "year": "2026"
+      },
+      {
+        "topic": "广电总局海外市场测算",
+        "finding": "2026 年海外短剧市场规模预计超过 60 亿美元，同比增长 67%",
+        "reference": "经证券时报、环球时报英文版引述",
+        "year": "2026"
+      },
+      {
+        "topic": "Wikipedia「Duanju」词条",
+        "finding": "汉语拼音 duanju 成为独立英文词条，共 14 种语言版本；词条将其定义为起源于中国、单集 1—2 分钟、竖屏优先的短形式网络剧集",
+        "reference": "Wikipedia／Wikiwand",
+        "year": "2026"
+      },
+      {
+        "topic": "Omdia 全球微短剧收入测算",
+        "finding": "2025 年全球微短剧收入 110 亿美元，预计 2026 年底增至 140 亿美元，中国以外市场贡献约 30 亿美元，美国为最大国际市场",
+        "reference": "经三个皮匠报告汇编引述",
+        "year": "2026"
+      },
+      {
+        "topic": "DataEye 投放与收入增速落差",
+        "finding": "2026 年上半年海外微短剧广告投放素材量 1961 万组、同比增长 324%，同期内购收入增速仅 13%，供给侧投放扩张远快于收入增长",
+        "reference": "证券时报 2026-11-13",
+        "year": "2026"
+      }
+    ],
+    "impact": {
+      "direct": [
+        "中国厂商占据海外短剧分发入口：下载榜前十全部为中国背景，收入榜前十占九席",
+        "头部平台横向整合：点众科技 DramaBox 与 GoodShort 于 10 月底官宣战略合并，陈瑞卿任董事长、胡泽新任 CEO",
+        "A 股 AI 短剧／漫剧板块大涨：截至 11 月 13 日，中证传媒指数 11 月涨 10.84%、AI 短剧指数涨 24.42%，文投控股月内涨 66.67%",
+        "行业产能爆发：2026 年前 10 个月上线微短剧近 55 万部，超 94% 为 AI 短剧"
+      ],
+      "indirect": [
+        "利润端承压：买量成本占收入 60%—80%，北美单用户获客成本突破 5 美元、头部竞争达 15 美元以上；昆仑万维 Q3 归母净亏 10.85 亿元",
+        "中小玩家出清：映宇宙以 8000 万元出售广州短剧资产，估值逻辑由规模转向合规与留存效率",
+        "监管与补贴并行：《微短剧发展管理办法》9 月 1 日施行，深圳对出海项目最高补贴 300 万元并要求可核验质量",
+        "本土与好莱坞入局：海外本土自制剧份额上升，Fox、TelevisaUnivision 等开始布局竖屏内容"
+      ],
+      "scope": "覆盖全球近 200 个国家和地区；核心付费市场为美国（约占海外收入 36.42%），增量市场为东南亚、拉美、印度；受影响主体包括出海平台、A 股传媒板块、承制公司与投流服务商"
+    },
+    "source_analysis": [
+      {
+        "source": "新快报（羊城晚报）2026-11-04",
+        "type": "主流媒体",
+        "reliability": "高",
+        "first_report": true,
+        "note": "「海外短剧付费应用前十中国占九席」这一表述的可溯源早期出处之一，同篇把九席与三季报增收不增利并置，构成本轮讨论的基本框架",
+        "trace": "新快报 → 剧短短／甘肃文化产业网／电影界 二次加工"
+      },
+      {
+        "source": "每日经济新闻 2026-11-07",
+        "type": "主流媒体",
+        "reliability": "高",
+        "first_report": false,
+        "note": "数据颗粒度最细：百强榜 82 部、NetShort 63 席、DramaBox 9 席、1—9 月下载与收入前三、区域结构 64.74%／53.41%，并附艾媒咨询张毅访谈；榜单原始数据引自 DataEye",
+        "trace": "DataEye／Sensor Tower → 每经 → 腾讯新闻（11-08）→ 中央社（11-09）→ 环球时报英文版（11 月）"
+      },
+      {
+        "source": "DataEye／Sensor Tower",
+        "type": "数据机构",
+        "reliability": "中",
+        "first_report": true,
+        "note": "两家的榜单是全部数字的源头，但本事件所有报道均为二手引述，未见公开的原始报告与口径说明；「付费应用前十」的确切排序依据（内购净收入 / 含广告收入）在报道中未交代",
+        "trace": "原始报告 → 媒体引述 → 二次转载"
+      },
+      {
+        "source": "上海证券报 2026-10-31",
+        "type": "主流媒体",
+        "reliability": "高",
+        "first_report": true,
+        "note": "DramaBox 与 GoodShort 合并的官方口径来源（陈瑞卿、胡泽新人事安排与合并目标）；但另一行业媒体剧短短记为 10 月 16 日宣布，与本篇「近日官宣」存在日期冲突，已在时间轴标红",
+        "trace": "上证报 → 新浪财经／网易转载；剧短短 10-29 记为 10-16"
+      },
+      {
+        "source": "中央社（台湾）2026-11-09",
+        "type": "通讯社",
+        "reliability": "中",
+        "first_report": false,
+        "note": "综合每经网与香港明报报道，把「前十占九席」推给繁体中文受众；属传播链外溢节点，非独立信源",
+        "trace": "每经／明报 → 中央社 → 华视新闻网"
+      },
+      {
+        "source": "剧短短／电影界／甘肃文化产业网",
+        "type": "自媒体／行业号",
+        "reliability": "中",
+        "first_report": false,
+        "note": "以评论与汇编为主，提供留存率、投放成本等补充口径，但多数未标注一手出处，引用时需回查原始报道",
+        "trace": "主流媒体报道 → 行业号二次加工"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "node_id": "n_8b3d5b92124e",
+      "event_label": "头部整合：DramaBox与GoodShort战略合并",
+      "timestamp_local": "2026-10-29T00:00:00+08:00",
+      "timestamp_utc": "2026-10-28T16:00:00+00:00",
+      "timestamp_sort": 1793203200.0,
+      "summary": "上海证券报10月31日称两家「近日官宣」合并，一季度分列收入榜第1与第5；陈瑞卿任董事长、胡泽新任CEO，目标是把竞价预算转向剧本与AI工业化生产。",
+      "facts": {
+        "宣布日期": [
+          {
+            "value": "2026-10-31",
+            "confidence": 0.9,
+            "source": "https://finance.sina.com.cn/roll/2026-10-31/doc-inixcsqk4687906.shtml"
+          },
+          {
+            "value": "2026-10-16",
+            "confidence": 0.6,
+            "source": "https://www.juduanduan.com/2026/1029/7029.shtml"
+          }
+        ],
+        "合并主体": [
+          {
+            "value": "点众科技DramaBox＋GoodShort",
+            "confidence": 0.9,
+            "source": "https://finance.sina.com.cn/roll/2026-10-31/doc-inixcsqk4687906.shtml"
+          }
+        ],
+        "新董事长": [
+          {
+            "value": "陈瑞卿",
+            "confidence": 0.9,
+            "source": "https://finance.sina.com.cn/roll/2026-10-31/doc-inixcsqk4687906.shtml"
+          }
+        ],
+        "新CEO": [
+          {
+            "value": "胡泽新",
+            "confidence": 0.9,
+            "source": "https://finance.sina.com.cn/roll/2026-10-31/doc-inixcsqk4687906.shtml"
+          }
+        ],
+        "一季度排名": [
+          {
+            "value": "收入榜第1与第5",
+            "confidence": 0.9,
+            "source": "https://finance.sina.com.cn/roll/2026-10-31/doc-inixcsqk4687906.shtml"
+          }
+        ]
+      },
+      "conflict": true,
+      "confidence": 0.9,
+      "sources": [
+        "https://www.juduanduan.com/2026/1029/7029.shtml",
+        "https://finance.sina.com.cn/roll/2026-10-31/doc-inixcsqk4687906.shtml"
+      ],
+      "article_count": 2
+    },
+    {
+      "node_id": "n_c26c44ec33bd",
+      "event_label": "核心进展：新快报梳理付费榜前十中国占九席",
+      "timestamp_local": "2026-11-04T00:00:00+08:00",
+      "timestamp_utc": "2026-11-03T16:00:00+00:00",
+      "timestamp_sort": 1793721600.0,
+      "summary": "11月4日新快报梳理：海外短剧付费应用前十中国厂商占九席，约10家中国企业建海外平台，AI漫剧活跃用户超1.5亿；同篇并置三季报「增收不增利」、9月1日备案新规、深圳300万补贴与11月3日概念股涨停。",
+      "facts": {
+        "付费榜前十中国席位": [
+          {
+            "value": "9席",
+            "confidence": 0.9,
+            "source": "https://ep.ycwb.com/epaper/xkb/html/2026-11/04/content_1510_771093.htm"
+          }
+        ],
+        "中国企业海外短剧平台数": [
+          {
+            "value": "约10家",
+            "confidence": 0.9,
+            "source": "https://ep.ycwb.com/epaper/xkb/html/2026-11/04/content_1510_771093.htm"
+          }
+        ],
+        "海外AI漫剧活跃用户": [
+          {
+            "value": "超1.5亿",
+            "confidence": 0.9,
+            "source": "https://ep.ycwb.com/epaper/xkb/html/2026-11/04/content_1510_771093.htm"
+          }
+        ],
+        "字节PineDrama累计下载": [
+          {
+            "value": "破1亿次",
+            "confidence": 0.9,
+            "source": "https://ep.ycwb.com/epaper/xkb/html/2026-11/04/content_1510_771093.htm"
+          }
+        ],
+        "涨停个股": [
+          {
+            "value": "大晟文化、文投控股、浙文影业(11-03)",
+            "confidence": 0.9,
+            "source": "https://ep.ycwb.com/epaper/xkb/html/2026-11/04/content_1510_771093.htm"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.9,
+      "sources": [
+        "https://ep.ycwb.com/epaper/xkb/html/2026-11/04/content_1510_771093.htm"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_e56b949163b7",
+      "event_label": "业绩核对：五家A股公司三季报全线承压",
+      "timestamp_local": "2026-11-04T00:00:00+08:00",
+      "timestamp_utc": "2026-11-03T16:00:00+00:00",
+      "timestamp_sort": 1793721600.0,
+      "summary": "汇总五家A股公司三季报：昆仑万维Q3净亏10.85亿元、前三季扣非亏15.46亿元；掌阅亏6840.91万元、中文在线亏1.32亿元、慈文亏4741.94万元、芒果超媒净利降79.01%。",
+      "facts": {
+        "Q3营收": [
+          {
+            "value": "35.78亿元",
+            "confidence": 0.6,
+            "source": "https://www.juduanduan.com/2026/1104/7279.shtml"
+          }
+        ],
+        "Q3归母净亏损": [
+          {
+            "value": "10.85亿元",
+            "confidence": 0.6,
+            "source": "https://www.juduanduan.com/2026/1104/7279.shtml"
+          }
+        ],
+        "前三季扣非净亏": [
+          {
+            "value": "15.46亿元",
+            "confidence": 0.6,
+            "source": "https://www.juduanduan.com/2026/1104/7279.shtml"
+          }
+        ],
+        "掌阅科技前三季净亏": [
+          {
+            "value": "6840.91万元",
+            "confidence": 0.6,
+            "source": "https://www.juduanduan.com/2026/1104/7279.shtml"
+          }
+        ],
+        "中文在线前三季净亏": [
+          {
+            "value": "1.32亿元",
+            "confidence": 0.6,
+            "source": "https://www.juduanduan.com/2026/1104/7279.shtml"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.juduanduan.com/2026/1104/7279.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_45638cb1646c",
+      "event_label": "语言符号：duanju被维基百科收录",
+      "timestamp_local": "2026-11-05T00:00:00+08:00",
+      "timestamp_utc": "2026-11-04T16:00:00+00:00",
+      "timestamp_sort": 1793808000.0,
+      "summary": "11月5日中新网报道：duanju被维基百科收录、词条浏览量急增，成为与kung fu、tofu并列的汉语借词；2025年全球微短剧市场近180亿美元，中国占约77.78%，海外市场中国企业贡献约90%。",
+      "facts": {
+        "收录平台": [
+          {
+            "value": "维基百科",
+            "confidence": 0.9,
+            "source": "https://www.ce.cn/xwzx//gnsz/gdxw/202611/t20261105_3284861.shtml"
+          }
+        ],
+        "2025全球微短剧市场规模": [
+          {
+            "value": "近180亿美元",
+            "confidence": 0.9,
+            "source": "https://www.ce.cn/xwzx//gnsz/gdxw/202611/t20261105_3284861.shtml"
+          }
+        ],
+        "中国企业海外份额": [
+          {
+            "value": "约90%",
+            "confidence": 0.9,
+            "source": "https://www.ce.cn/xwzx//gnsz/gdxw/202611/t20261105_3284861.shtml"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.9,
+      "sources": [
+        "https://www.ce.cn/xwzx//gnsz/gdxw/202611/t20261105_3284861.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_4d6882f8a5d1",
+      "event_label": "政策与补贴：备案新规落地，深圳最高补300万元",
+      "timestamp_local": "2026-11-06T00:00:00+08:00",
+      "timestamp_utc": "2026-11-05T16:00:00+00:00",
+      "timestamp_sort": 1793894400.0,
+      "summary": "政策扶持与监管并行：9月1日备案新规落地，深圳出海短剧最高补贴300万元、科幻题材上浮50%；11月3日概念股涨停，11月2日大晟文化股东减持1%至5%。",
+      "facts": {
+        "施行日期": [
+          {
+            "value": "2026-09-01",
+            "confidence": 0.6,
+            "source": "https://www.gansuci.cn/2026/1106/480942.shtml"
+          }
+        ],
+        "深圳出海补贴上限": [
+          {
+            "value": "300万元",
+            "confidence": 0.6,
+            "source": "https://www.gansuci.cn/2026/1106/480942.shtml"
+          }
+        ],
+        "科幻题材": [
+          {
+            "value": "资助上浮50%",
+            "confidence": 0.6,
+            "source": "https://www.gansuci.cn/2026/1106/480942.shtml"
+          }
+        ],
+        "减持股东": [
+          {
+            "value": "许锦光(6%→5%)",
+            "confidence": 0.6,
+            "source": "https://www.gansuci.cn/2026/1106/480942.shtml"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.gansuci.cn/2026/1106/480942.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_2624f739c215",
+      "event_label": "数据披露：10月百强榜82席，收入前三占前20一半",
+      "timestamp_local": "2026-11-07T00:00:00+08:00",
+      "timestamp_utc": "2026-11-06T16:00:00+00:00",
+      "timestamp_sort": 1793980800.0,
+      "summary": "每经11月7日披露：10月百强榜82部为中国厂商主投（NetShort 63席、DramaBox 9席）；1—9月下载榜FreeReels 2.3亿、ReelShort 1.9亿、NetShort 1.8亿；收入前三合计占前20的50%；上半年下载16.67亿次(+25.34%)、IAP 10.43亿美元(-0.86%)，美国占收入36.42%。",
+      "facts": {
+        "百强榜中国厂商主投": [
+          {
+            "value": "82部",
+            "confidence": 0.9,
+            "source": "https://www.mrjjxw.com/articles/2026-11-07/4641349.html"
+          }
+        ],
+        "NetShort席位数": [
+          {
+            "value": "63席",
+            "confidence": 0.9,
+            "source": "https://www.mrjjxw.com/articles/2026-11-07/4641349.html"
+          }
+        ],
+        "DramaBox席位数": [
+          {
+            "value": "9席",
+            "confidence": 0.9,
+            "source": "https://www.mrjjxw.com/articles/2026-11-07/4641349.html"
+          }
+        ],
+        "1-9月下载榜首": [
+          {
+            "value": "FreeReels超2.3亿次",
+            "confidence": 0.9,
+            "source": "https://www.mrjjxw.com/articles/2026-11-07/4641349.html"
+          }
+        ],
+        "1-9月收入前三": [
+          {
+            "value": "DramaBox 3.02亿／ReelShort 2.65亿／NetShort 2.05亿美元",
+            "confidence": 0.9,
+            "source": "https://www.mrjjxw.com/articles/2026-11-07/4641349.html"
+          }
+        ],
+        "收入前20集中度": [
+          {
+            "value": "前三合计占50%",
+            "confidence": 0.9,
+            "source": "https://www.mrjjxw.com/articles/2026-11-07/4641349.html"
+          }
+        ],
+        "2026H1下载量": [
+          {
+            "value": "16.67亿次(+25.34%)",
+            "confidence": 0.9,
+            "source": "https://www.mrjjxw.com/articles/2026-11-07/4641349.html"
+          }
+        ],
+        "2026H1 IAP净收入": [
+          {
+            "value": "10.43亿美元(-0.86%)",
+            "confidence": 0.9,
+            "source": "https://www.mrjjxw.com/articles/2026-11-07/4641349.html"
+          }
+        ],
+        "美国收入份额": [
+          {
+            "value": "36.42%(约3.78亿美元)",
+            "confidence": 0.9,
+            "source": "https://www.mrjjxw.com/articles/2026-11-07/4641349.html"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.9,
+      "sources": [
+        "https://www.mrjjxw.com/articles/2026-11-07/4641349.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_e22e5f4763d8",
+      "event_label": "传播扩散：腾讯新闻转载，AI降本85%成新叙事",
+      "timestamp_local": "2026-11-08T00:00:00+08:00",
+      "timestamp_utc": "2026-11-07T16:00:00+00:00",
+      "timestamp_sort": 1794067200.0,
+      "summary": "腾讯新闻11月8日转载并补充AI叙事：百强榜82席、下载与收入榜前三全为中国应用、付费榜前十占九席；AI使制作周期压缩至数天、成本降85%以上，部分平台AI短剧付费转化率接近真人短剧。",
+      "facts": {
+        "百强榜中国厂商主投": [
+          {
+            "value": "82部",
+            "confidence": 0.6,
+            "source": "https://news.qq.com/rain/a/20261108A08XBV00"
+          }
+        ],
+        "AI降本幅度": [
+          {
+            "value": "85%以上",
+            "confidence": 0.6,
+            "source": "https://news.qq.com/rain/a/20261108A08XBV00"
+          }
+        ],
+        "PineDrama日活": [
+          {
+            "value": "约700万",
+            "confidence": 0.6,
+            "source": "https://news.qq.com/rain/a/20261108A08XBV00"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.qq.com/rain/a/20261108A08XBV00"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_2b04dbf08c65",
+      "event_label": "跨境传播：中央社向繁体受众复述九席",
+      "timestamp_local": "2026-11-09T00:00:00+08:00",
+      "timestamp_utc": "2026-11-08T16:00:00+00:00",
+      "timestamp_sort": 1794153600.0,
+      "summary": "中央社11月9日综合每经网与香港明报报道，向繁体中文受众复述百强榜82席、付费App前十占九席、AI漫剧活跃用户1.5亿；并引官方数据称前8个月上线微短剧43万部、为去年全年13倍、AI剧占比超9成。",
+      "facts": {
+        "传播链": [
+          {
+            "value": "每经网／明报→中央社",
+            "confidence": 0.6,
+            "source": "https://news.cts.com.tw/cna/international/202611/202611093098936.html"
+          }
+        ],
+        "前8个月上线微短剧": [
+          {
+            "value": "43万部(去年全年13倍)",
+            "confidence": 0.6,
+            "source": "https://news.cts.com.tw/cna/international/202611/202611093098936.html"
+          }
+        ],
+        "AI剧占比": [
+          {
+            "value": "超9成",
+            "confidence": 0.6,
+            "source": "https://news.cts.com.tw/cna/international/202611/202611093098936.html"
+          }
+        ],
+        "中国微短剧用户": [
+          {
+            "value": "超8亿",
+            "confidence": 0.6,
+            "source": "https://news.cts.com.tw/cna/international/202611/202611093098936.html"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.cts.com.tw/cna/international/202611/202611093098936.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_167b0df78672",
+      "event_label": "评论定调：赢下分发入口，未赢下利润表",
+      "timestamp_local": "2026-11-09T00:00:00+08:00",
+      "timestamp_utc": "2026-11-08T16:00:00+00:00",
+      "timestamp_sort": 1794153600.0,
+      "summary": "评论指出九席霸榜与四份亏损表并不矛盾：已赢下分发入口、未赢下利润表；境内制作的出海剧同样要备案，合规须进预算；后续盯获客成本、分账周期与离补贴回本能力。",
+      "facts": {
+        "核心判断": [
+          {
+            "value": "赢下分发入口，未赢下利润表",
+            "confidence": 0.6,
+            "source": "https://www.dianyingjie.com.cn/2026/1109/411971.shtml"
+          }
+        ],
+        "观察指标": [
+          {
+            "value": "获客成本／分账周期／离补贴回本",
+            "confidence": 0.6,
+            "source": "https://www.dianyingjie.com.cn/2026/1109/411971.shtml"
+          }
+        ],
+        "境内制作出海": [
+          {
+            "value": "同样适用备案公示与审核许可",
+            "confidence": 0.6,
+            "source": "https://www.dianyingjie.com.cn/2026/1109/411971.shtml"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.dianyingjie.com.cn/2026/1109/411971.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_6103263d2f5c",
+      "event_label": "格局补充：前五占近八成收入，AI短剧App进TOP15",
+      "timestamp_local": "2026-11-10T00:00:00+08:00",
+      "timestamp_utc": "2026-11-09T16:00:00+00:00",
+      "timestamp_sort": 1794240000.0,
+      "summary": "百科词条汇编：1—9月下载榜前十全部中国背景、收入榜前十占九席；ReelShort与DramaBox合计占收入一半、前五占近八成；AI短剧App VibeShort（3600万美元，第9）、StoryReel（2800万美元，第13）半年进第一梯队。",
+      "facts": {
+        "下载榜前十中国背景": [
+          {
+            "value": "10/10",
+            "confidence": 0.3,
+            "source": "https://baike.baidu.com/item/%E5%87%BA%E6%B5%B7%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A/69307186"
+          }
+        ],
+        "收入榜前十中国背景": [
+          {
+            "value": "9/10",
+            "confidence": 0.3,
+            "source": "https://baike.baidu.com/item/%E5%87%BA%E6%B5%B7%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A/69307186"
+          }
+        ],
+        "前五收入集中度": [
+          {
+            "value": "近80%",
+            "confidence": 0.3,
+            "source": "https://baike.baidu.com/item/%E5%87%BA%E6%B5%B7%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A/69307186"
+          }
+        ],
+        "AI短剧新平台": [
+          {
+            "value": "VibeShort第9／StoryReel第13",
+            "confidence": 0.3,
+            "source": "https://baike.baidu.com/item/%E5%87%BA%E6%B5%B7%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A/69307186"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.3,
+      "sources": [
+        "https://baike.baidu.com/item/%E5%87%BA%E6%B5%B7%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A/69307186"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_ee7ee57915f0",
+      "event_label": "国际化叙事：词条14种语言，本地自制升至11%",
+      "timestamp_local": "2026-11-11T00:00:00+08:00",
+      "timestamp_utc": "2026-11-10T16:00:00+00:00",
+      "timestamp_sort": 1794326400.0,
+      "summary": "环球时报英文版：duanju词条共14种语言；广电总局报告称2026年海外市场预计超60亿美元、同比增67%；1—9月下载榜前十全部中国背景、收入榜前十占九席；本地自制占比由5%升至11%，译制剧由95%降至89%。",
+      "facts": {
+        "词条语言数": [
+          {
+            "value": "14种",
+            "confidence": 0.9,
+            "source": "https://www.globaltimes.cn/page/202611/1373753.shtml"
+          }
+        ],
+        "2026海外市场规模": [
+          {
+            "value": "预计超60亿美元(+67%)",
+            "confidence": 0.9,
+            "source": "https://www.globaltimes.cn/page/202611/1373753.shtml"
+          }
+        ],
+        "下载榜前十中国背景": [
+          {
+            "value": "10/10",
+            "confidence": 0.9,
+            "source": "https://www.globaltimes.cn/page/202611/1373753.shtml"
+          }
+        ],
+        "本地自制占比": [
+          {
+            "value": "5%(5月)→11%(9月)",
+            "confidence": 0.9,
+            "source": "https://www.globaltimes.cn/page/202611/1373753.shtml"
+          }
+        ],
+        "译制剧占比": [
+          {
+            "value": "95%→89%",
+            "confidence": 0.9,
+            "source": "https://www.globaltimes.cn/page/202611/1373753.shtml"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.9,
+      "sources": [
+        "https://www.globaltimes.cn/page/202611/1373753.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_aa67ce21b855",
+      "event_label": "政策加码：深圳启动第二批扶持计划申报",
+      "timestamp_local": "2026-11-11T00:00:00+08:00",
+      "timestamp_utc": "2026-11-10T16:00:00+00:00",
+      "timestamp_sort": 1794326400.0,
+      "summary": "11月11日深圳启动2026年第二批微短剧产业发展扶持计划申报，依据深文规〔2026〕1号，要求经营数据与纳统报表匹配、无严重失信与重复申报。",
+      "facts": {
+        "发布单位": [
+          {
+            "value": "深圳市文化广电旅游体育局",
+            "confidence": 0.9,
+            "source": "https://news.qq.com/rain/a/20261111A06TVQ00"
+          }
+        ],
+        "日期": [
+          {
+            "value": "2026-11-11",
+            "confidence": 0.9,
+            "source": "https://news.qq.com/rain/a/20261111A06TVQ00"
+          }
+        ],
+        "批次": [
+          {
+            "value": "2026年第二批",
+            "confidence": 0.9,
+            "source": "https://news.qq.com/rain/a/20261111A06TVQ00"
+          }
+        ],
+        "依据": [
+          {
+            "value": "深文规〔2026〕1号",
+            "confidence": 0.9,
+            "source": "https://news.qq.com/rain/a/20261111A06TVQ00"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.9,
+      "sources": [
+        "https://news.qq.com/rain/a/20261111A06TVQ00"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_194bed128aec",
+      "event_label": "板块行情：AI漫剧概念拉升，文投控股5天4板",
+      "timestamp_local": "2026-11-13T00:00:00+08:00",
+      "timestamp_utc": "2026-11-12T16:00:00+00:00",
+      "timestamp_sort": 1794499200.0,
+      "summary": "财联社11月13日：AI漫剧概念拉升，文投控股5天4板、华是科技涨超10%；催化剂即海外短剧付费榜前十中国占九席、活跃用户破1.5亿，产业逻辑由降本增效扩展到IP与海外市场。",
+      "facts": {
+        "文投控股": [
+          {
+            "value": "5天4板",
+            "confidence": 0.9,
+            "source": "https://news.qq.com/rain/a/20261113A04AN200"
+          }
+        ],
+        "催化剂": [
+          {
+            "value": "付费榜前十占九席＋活跃用户1.5亿",
+            "confidence": 0.9,
+            "source": "https://news.qq.com/rain/a/20261113A04AN200"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.9,
+      "sources": [
+        "https://news.qq.com/rain/a/20261113A04AN200"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_878bffd13836",
+      "event_label": "产业实况：前10个月55万部，投放增324%收入增13%",
+      "timestamp_local": "2026-11-13T00:00:00+08:00",
+      "timestamp_utc": "2026-11-12T16:00:00+00:00",
+      "timestamp_sort": 1794499200.0,
+      "summary": "证券时报11月13日：11月中证传媒指数涨10.84%、AI短剧指数涨24.42%，文投控股月涨66.67%；前10个月上线微短剧近55万部（超94%为AI剧）；上半年投放素材量增324%但IAP仅增13%，蓝海正变红海。",
+      "facts": {
+        "中证传媒指数11月涨幅": [
+          {
+            "value": "10.84%",
+            "confidence": 0.9,
+            "source": "https://www.stcn.com/article/detail/4336647.html"
+          }
+        ],
+        "AI短剧指数11月涨幅": [
+          {
+            "value": "24.42%",
+            "confidence": 0.9,
+            "source": "https://www.stcn.com/article/detail/4336647.html"
+          }
+        ],
+        "文投控股11月涨幅": [
+          {
+            "value": "66.67%",
+            "confidence": 0.9,
+            "source": "https://www.stcn.com/article/detail/4336647.html"
+          }
+        ],
+        "浙文影业11月涨幅": [
+          {
+            "value": "60%",
+            "confidence": 0.9,
+            "source": "https://www.stcn.com/article/detail/4336647.html"
+          }
+        ],
+        "前10个月上线微短剧": [
+          {
+            "value": "近55万部(超94%为AI剧)",
+            "confidence": 0.9,
+            "source": "https://www.stcn.com/article/detail/4336647.html"
+          }
+        ],
+        "投放素材量增速": [
+          {
+            "value": "324% vs IAP增速13%",
+            "confidence": 0.9,
+            "source": "https://www.stcn.com/article/detail/4336647.html"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.9,
+      "sources": [
+        "https://www.stcn.com/article/detail/4336647.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_6f3efff542fb",
+      "event_label": "资金面：红果月活4.3亿，PineDrama下载1.3亿",
+      "timestamp_local": "2026-11-13T00:00:00+08:00",
+      "timestamp_utc": "2026-11-12T16:00:00+00:00",
+      "timestamp_sort": 1794499200.0,
+      "summary": "界面新闻11月13日：华鑫证券称行情主驱动来自字节，2026年9月红果月活4.3亿、PineDrama累计下载超1.3亿次；当日中证传媒指数涨0.14%，横店影视、儒意电影、中国电影大涨。",
+      "facts": {
+        "红果月活": [
+          {
+            "value": "4.3亿(2026-09)",
+            "confidence": 0.6,
+            "source": "https://www.163.com/dy/article/LBK172290534A4SC.html"
+          }
+        ],
+        "PineDrama累计下载": [
+          {
+            "value": "超1.3亿次",
+            "confidence": 0.6,
+            "source": "https://www.163.com/dy/article/LBK172290534A4SC.html"
+          }
+        ],
+        "行情归因": [
+          {
+            "value": "字节内容生态扩张",
+            "confidence": 0.6,
+            "source": "https://www.163.com/dy/article/LBK172290534A4SC.html"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.163.com/dy/article/LBK172290534A4SC.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_3ce338beb980",
+      "event_label": "大厂入局：微信灰度短剧入口、京东上线追剧小程序",
+      "timestamp_local": "2026-11-13T00:00:00+08:00",
+      "timestamp_utc": "2026-11-12T16:00:00+00:00",
+      "timestamp_sort": 1794499200.0,
+      "summary": "11月12日微信看一看灰度测试短剧入口，此前一天京东上线京东追剧福利社小程序；11月13日板块涨停潮，文投控股5天4板，横店影视、金逸影视等涨停。",
+      "facts": {
+        "文投控股": [
+          {
+            "value": "5天4板",
+            "confidence": 0.6,
+            "source": "https://www.9fzt.com/9fztgw_sctt/research_84610b51ef8fce5e4067b5247cd42f8c.html"
+          }
+        ],
+        "微信短剧入口": [
+          {
+            "value": "看一看灰度测试(2026-11-12)",
+            "confidence": 0.6,
+            "source": "https://www.9fzt.com/9fztgw_sctt/research_84610b51ef8fce5e4067b5247cd42f8c.html"
+          }
+        ],
+        "京东": [
+          {
+            "value": "京东追剧福利社小程序",
+            "confidence": 0.6,
+            "source": "https://www.9fzt.com/9fztgw_sctt/research_84610b51ef8fce5e4067b5247cd42f8c.html"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.9fzt.com/9fztgw_sctt/research_84610b51ef8fce5e4067b5247cd42f8c.html"
+      ],
+      "article_count": 1
+    }
+  ],
+  "updated_at": "2026-11-14T11:06:21.973242+08:00",
+  "last_stats": {
+    "node_count": 16,
+    "conflict_nodes": 1,
+    "article_count": 17
+  }
+}
