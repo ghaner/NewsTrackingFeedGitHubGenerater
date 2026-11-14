@@ -45,6 +45,11 @@ jobs:
 
       # 第 1 步：按 src/events.json 的事件清单逐个抓增量。
       # Google News RSS 免密钥；某事件失败只影响自己，后续步骤照常。
+      # 第 0 步：清洗历史遗留的 Google News 跳转链接（已是原文的条目零请求跳过）
+      - name: Resolve legacy redirect links (best-effort)
+        continue-on-error: true
+        run: python src/resolve_urls.py --data-dir data
+
       - name: Fetch new reports (best-effort)
         continue-on-error: true
         run: |
