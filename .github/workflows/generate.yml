@@ -52,8 +52,6 @@ jobs:
 
       - name: Fetch new reports (best-effort)
         continue-on-error: true
-        env:
-          DEBUG_RESOLVE: "1"
         run: |
           python - <<'PY'
           import json, os, subprocess, sys
