@@ -56,14 +56,21 @@ def main():
     check("data-n-au 还原成功", fa.resolve_google_link(GOOGLE_LINK) == REAL_LINK,
           fa.resolve_google_link(GOOGLE_LINK))
 
-    # 3) 方式二：页面内第一个外部链接（Google 自身链接要跳过）
-    fa._fetch_url = with_page(
-        '<a href="https://news.google.com/other">skip</a>'
-        '<a href="https://www.thepaper.cn/newsDetail_forward_34443614">hit</a>'
-    )
-    check("href 兜底跳过 Google 取外部链接",
-          fa.resolve_google_link(GOOGLE_LINK) == "https://www.thepaper.cn/newsDetail_forward_34443614",
-          fa.resolve_google_link(GOOGLE_LINK))
+    # 3) 回归：页面里只有统计脚本链接时，不得把它当原文（真踩过的坑）
+    fa._fetch_url = with_page('<script src="https://www.google-analytics.com/analytics.js"></script>')
+    check("不回落到 analytics 脚本",
+          fa.resolve_google_link(GOOGLE_LINK) is None)
+
+    # 3b) 文章链接判定：静态资源与统计域名一律拒绝
+    check("拒绝 .js 资源", fa._looks_like_article("https://x.com/a/analytics.js") is False)
+    check("拒绝 analytics 域名", fa._looks_like_article("https://www.google-analytics.com/x") is False)
+    check("拒绝 google 自身", fa._looks_like_article("https://news.google.com/rss/articles/x") is False)
+    check("接受正常文章页", fa._looks_like_article(REAL_LINK) is True)
+
+    # 3c) data-n-au 若指向静态资源，必须拒绝而不是直接返回
+    fa._fetch_url = with_page('<c-wiz data-n-au="https://cdn.x.com/app.js"></c-wiz>')
+    fa._batchexecute = lambda *a, **k: None
+    check("data-n-au 为静态资源时拒绝", fa.resolve_google_link(GOOGLE_LINK) is None)
 
     # 4) 方式三：用页面签名调 batchexecute
     fa._fetch_url = with_page('<div data-n-a-sg="SIG123" data-n-a-ts="1700000000"></div>')

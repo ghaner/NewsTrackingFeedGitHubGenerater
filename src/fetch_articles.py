@@ -67,7 +67,15 @@ def _fetch_url(url, timeout=20):
 # 既不含正文也无法本地解码（新版为加密串）。入库前必须还原成原文地址，
 # 否则后续归类拿不到正文，订阅者点开也多一跳。
 _GOOGLE_HOSTS = ("news.google.com",)
-_BLOCK_HOSTS = ("gstatic.com", "googleusercontent.com", "google.com", "googleapis.com")
+_BLOCK_HOSTS = (
+    "gstatic.com", "googleusercontent.com", "google.com", "googleapis.com",
+    "google-analytics.com", "googletagmanager.com", "doubleclick.net",
+    "googleadservices.com", "googlesyndication.com", "youtube.com", "bootstrapcdn.com",
+)
+_STATIC_EXT = (
+    ".js", ".css", ".png", ".jpg", ".jpeg", ".gif", ".svg", ".ico", ".webp",
+    ".woff", ".woff2", ".ttf", ".eot", ".map", ".json", ".xml", ".txt",
+)
 
 
 def _is_google_link(u):
@@ -78,6 +86,23 @@ def _is_google_link(u):
     if any(h == x or h.endswith("." + x) for x in _GOOGLE_HOSTS):
         return True
     return any(h == x or h.endswith("." + x) for x in _BLOCK_HOSTS)
+
+
+def _looks_like_article(u):
+    """判断一个 URL 是否像文章页：排除静态资源与统计/广告域名。"""
+    try:
+        p = urllib.parse.urlsplit(u)
+    except Exception:
+        return False
+    if p.scheme not in ("http", "https"):
+        return False
+    host = p.netloc.lower()
+    if any(host == h or host.endswith("." + h) for h in _BLOCK_HOSTS + _GOOGLE_HOSTS):
+        return False
+    path = p.path.lower()
+    if any(path.endswith(ext) for ext in _STATIC_EXT):
+        return False
+    return True
 
 
 def _batchexecute(link, signature, timestamp, timeout=15):
@@ -115,27 +140,29 @@ def resolve_google_link(link, timeout=15):
         page = _fetch_url(link, timeout)
     except Exception:
         page = ""
+    debug = os.environ.get("DEBUG_RESOLVE") == "1"
     if page:
-        # 方式一：新版文章页的 data-n-au 属性直接带原文
+        # 方式一：文章页的 data-n-au 属性直接带原文地址（权威来源）
         m = re.search(r'data-n-au="([^"]+)"', page)
         if m:
             u = html.unescape(m.group(1))
-            if u.startswith("http") and not _is_google_link(u):
+            if _looks_like_article(u):
                 return u
-        # 方式二：页面里第一个非 Google 的外部链接
-        for cand in re.findall(r'href="(https?://[^"]+)"', page):
-            cand = html.unescape(cand)
-            if cand.startswith("http") and not _is_google_link(cand):
-                return cand
-        # 方式三：用页面里的签名与时间戳调 batchexecute
+        # 方式二：用页面里的签名与时间戳调 batchexecute
         sg = re.search(r'data-n-a-sg="([^"]+)"', page)
         ts = re.search(r'data-n-a-ts="([^"]+)"', page)
+        if debug:
+            print("[resolve-debug] page_len=%d n_au=%s sg=%s ts=%s"
+                  % (len(page), "data-n-au" in page, bool(sg), bool(ts)), file=sys.stderr)
         if sg and ts:
             u = _batchexecute(link, sg.group(1), ts.group(1), timeout)
-            if u:
+            if _looks_like_article(u):
                 return u
-    # 方式四：不带页面，直接试 batchexecute（部分链接无需签名）
-    return _batchexecute(link, "", str(int(datetime.now().timestamp())), timeout)
+    elif debug:
+        print("[resolve-debug] 页面抓取失败", file=sys.stderr)
+    # 方式三：无签名直调 batchexecute（部分链接适用）
+    u = _batchexecute(link, "", str(int(datetime.now().timestamp())), timeout)
+    return u if _looks_like_article(u) else None
 
 
 def _parse_rss(xml_text):
