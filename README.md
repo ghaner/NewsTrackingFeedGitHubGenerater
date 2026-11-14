@@ -38,6 +38,8 @@
 
 ## 发布到 GitHub Pages
 
+**已上线**：仓库 `ghaner/news-feed`（public），Pages 由 `build_type: workflow` 发布，首轮 Actions 运行成功（`update` + `deploy` 全绿），公网 `duanju.xml` 已返回 25 条。
+
 目标地址按 `ghaner/news-feed` 写死在 `src/sources.json` 的 `home_url` / `feed_url`：
 
 ```
@@ -101,7 +103,7 @@ git push -u origin main
 
 ## 已知限制（务必知道）
 
-1. **CI 与本地是两套口径**：Actions 里没有大模型，抓到的每条报道独立成一个节点（`event_label`＝标题），精度相当于「占位监测」；本地 `news-timeline-builder` 产出的 16 节点时间轴含人工归类与冲突合并，精度更高。二者不自动同步——`data/` 是发布侧的独立副本。
+1. **CI 与本地是两套口径**：Actions 里没有大模型，抓到的每条报道独立成一个节点（`event_label`＝标题，标题里会带媒体后缀），精度相当于「占位监测」；本地 `news-timeline-builder` 产出的人工归类与冲突合并节点精度更高。首次运行后线上即为两者相加（当前 25 节点 = 人工 16 + 抓取 9）。日常以 Actions 增量为主，本地不再单独维护第二份时间轴。
 2. **Google News RSS 的可用性不由我们控制**：Actions 的海外出口通常可访问；本地若走代理可能失败（会被安全跳过）。
 3. **榜单数字均为媒体引述**：DataEye / Sensor Tower 的原始报告未公开口径，「付费前十」是否含广告收入仍不明确，feed 中保留原文链接供核对。
 4. 中文标题里的方括号与斜杠不影响 RSS 良构性（已用 CDATA + XML 转义处理）。
