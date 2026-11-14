@@ -97,6 +97,16 @@ def rebuild_one(slug):
     # 合并 + 三重去重（URL／标题／正文相似度），新条目排在前，旧条目为权威历史
     kept, dropped = dedupe.dedupe(inc + arts)
     print("[%s 2/4] 去重：保留 %d 条，剔除重复 %d 条" % (slug, len(kept), len(dropped)))
+
+    # 真实增量判定：本轮抓到的全是被去重掉的旧 URL 时，视为无新增。
+    # 否则每小时运行都会追加一条内容相同的版本快照并产生空提交（改每小时后才暴露）。
+    old_urls = {(a.get("url") or "").strip() for a in arts}
+    fresh = [a for a in kept if (a.get("url") or "").strip() not in old_urls]
+    if not fresh:
+        print("NO_NEW [%s] 本轮抓到的 %d 条均为已收录报道，不写 event.json。" % (slug, len(inc)))
+        open(p["incoming"], "w", encoding="utf-8").close()
+        return
+
     for d in dropped:
         print("      - 重复(%s): %s" % (d["reason"], d.get("title")))
 
