@@ -26,6 +26,13 @@
       "conflict_nodes": 0,
       "article_count": 67,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-14T12:50:06.934208+08:00",
+      "node_count": 60,
+      "conflict_nodes": 0,
+      "article_count": 67,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1646,7 +1653,7 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-14T12:48:21.169834+08:00",
+  "updated_at": "2026-11-14T12:50:06.934208+08:00",
   "last_stats": {
     "node_count": 60,
     "conflict_nodes": 0,
