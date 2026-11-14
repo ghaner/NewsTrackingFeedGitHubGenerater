@@ -62,6 +62,82 @@ def _fetch_url(url, timeout=20):
         return r.read().decode("utf-8", "ignore")
 
 
+# ---- Google News 跳转链接还原 -------------------------------------------------
+# 背景：Google News RSS 的 <link> 是 news.google.com/rss/articles/<密文> 的跳转页，
+# 既不含正文也无法本地解码（新版为加密串）。入库前必须还原成原文地址，
+# 否则后续归类拿不到正文，订阅者点开也多一跳。
+_GOOGLE_HOSTS = ("news.google.com",)
+_BLOCK_HOSTS = ("gstatic.com", "googleusercontent.com", "google.com", "googleapis.com")
+
+
+def _is_google_link(u):
+    try:
+        h = urllib.parse.urlsplit(u).netloc.lower()
+    except Exception:
+        return False
+    if any(h == x or h.endswith("." + x) for x in _GOOGLE_HOSTS):
+        return True
+    return any(h == x or h.endswith("." + x) for x in _BLOCK_HOSTS)
+
+
+def _batchexecute(link, signature, timestamp, timeout=15):
+    """调用 Google News 内部的 batchexecute 接口换取原文地址。"""
+    seg = link.split("/articles/")[-1].split("?")[0]
+    payload = (
+        'f.req=[[["Fbv4je","[\\"garturlreq\\",[[\\"X\\",\\"X\\",[\\"X\\",\\"X\\"],null,null,1,1,'
+        '\\"CN:zh-Hans\\",null,1,null,null,null,null,null,0,1],\\"X\\",\\"X\\",1,[1,1,1],1,1,null,0,0,null,0],'
+        '\\"%s\\",%s,\\"%s\\"]]]]' % (seg, timestamp, signature)
+    )
+    req = urllib.request.Request(
+        "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+        data=payload.encode("utf-8"),
+        headers={
+            "User-Agent": UA,
+            "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+        },
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            txt = r.read().decode("utf-8", "ignore")
+    except Exception:
+        return None
+    for cand in re.findall(r'"(https?://[^"\\]+)"', txt):
+        if not _is_google_link(cand):
+            return cand
+    return None
+
+
+def resolve_google_link(link, timeout=15):
+    """把 Google News 跳转链接还原为原文 URL；失败返回 None（调用方保留原链接）。"""
+    if not _is_google_link(link):
+        return link
+    try:
+        page = _fetch_url(link, timeout)
+    except Exception:
+        page = ""
+    if page:
+        # 方式一：新版文章页的 data-n-au 属性直接带原文
+        m = re.search(r'data-n-au="([^"]+)"', page)
+        if m:
+            u = html.unescape(m.group(1))
+            if u.startswith("http") and not _is_google_link(u):
+                return u
+        # 方式二：页面里第一个非 Google 的外部链接
+        for cand in re.findall(r'href="(https?://[^"]+)"', page):
+            cand = html.unescape(cand)
+            if cand.startswith("http") and not _is_google_link(cand):
+                return cand
+        # 方式三：用页面里的签名与时间戳调 batchexecute
+        sg = re.search(r'data-n-a-sg="([^"]+)"', page)
+        ts = re.search(r'data-n-a-ts="([^"]+)"', page)
+        if sg and ts:
+            u = _batchexecute(link, sg.group(1), ts.group(1), timeout)
+            if u:
+                return u
+    # 方式四：不带页面，直接试 batchexecute（部分链接无需签名）
+    return _batchexecute(link, "", str(int(datetime.now().timestamp())), timeout)
+
+
 def _parse_rss(xml_text):
     """解析 RSS 2.0 / Atom，返回 [(title, link, pub_iso, description), ...]。"""
     import xml.etree.ElementTree as ET
@@ -102,7 +178,7 @@ def _parse_rss(xml_text):
     return items
 
 
-def fetch_google_news(keywords, since_dt=None, timeout=20):
+def fetch_google_news(keywords, since_dt=None, timeout=20, resolve=True, resolve_limit=None):
     q = " OR ".join(f'"{k}"' for k in keywords) if len(keywords) > 1 else keywords[0]
     url = ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q) +
            "&hl=zh-CN&gl=CN&ceid=CN:zh-Hans")
@@ -111,17 +187,17 @@ def fetch_google_news(keywords, since_dt=None, timeout=20):
     except Exception as e:
         print(f"[fetch] Google News 拉取失败（跳过）: {e}", file=sys.stderr)
         return []
-    return _filter(_parse_rss(xml), since_dt)
+    return _filter(_parse_rss(xml), since_dt, resolve=resolve, resolve_limit=resolve_limit)
 
 
-def fetch_rss_file(path, since_dt=None):
+def fetch_rss_file(path, since_dt=None, resolve=True, resolve_limit=None):
     try:
         with open(path, "r", encoding="utf-8") as f:
             xml = f.read()
     except Exception as e:
         print(f"[fetch] 读取本地 RSS 失败: {e}", file=sys.stderr)
         return []
-    return _filter(_parse_rss(xml), since_dt)
+    return _filter(_parse_rss(xml), since_dt, resolve=resolve, resolve_limit=resolve_limit)
 
 
 def fetch_mock(keywords, since_days=2):
@@ -143,8 +219,9 @@ def fetch_mock(keywords, since_days=2):
     return _filter(rows, None)
 
 
-def _filter(parsed, since_dt):
+def _filter(parsed, since_dt, resolve=False, resolve_limit=None):
     out = []
+    ok = fail = 0
     for title, link, pub_iso, desc in parsed:
         if not title:
             continue
@@ -154,16 +231,36 @@ def _filter(parsed, since_dt):
                     continue
             except Exception:
                 pass
+
+        final_url = link
+        kind = "original"
+        if resolve:
+            budget_left = resolve_limit is None or (ok + fail) < resolve_limit
+            if budget_left:
+                real = resolve_google_link(link)
+                if real and real != link:
+                    final_url, kind = real, "original"
+                    ok += 1
+                elif _is_google_link(link):
+                    kind = "google_redirect"
+                    fail += 1
+            elif _is_google_link(link):
+                kind = "google_redirect"      # 超出预算，保留跳转链接
+
         out.append({
-            "id": article_id(link, title, desc),
-            "url": link,
+            "id": article_id(final_url, title, desc),
+            "url": final_url,
             "title": title,
             "content": desc,
             "published_at": pub_iso or "",
             "credibility": "medium",
             "event_label": title,  # 自主模式无 LLM 归类，每条报道独立成节点
             "facts": {},
+            "link_kind": kind,
         })
+
+    if resolve:
+        print(f"[fetch] 链接还原：成功 {ok} 条，未还原 {fail} 条", file=sys.stderr)
     return out
 
 
@@ -177,15 +274,23 @@ def main():
     ap.add_argument("--since-days", type=int, default=2, help="只取最近 N 天内的报道")
     ap.add_argument("--out", help="输出 JSONL 路径，缺省 stdout")
     ap.add_argument("--credibility", default="medium", help="来源可信度等级")
+    ap.add_argument("--resolve", dest="resolve", action="store_true", default=True,
+                    help="把 Google News 跳转链接还原为原文地址（默认开启）")
+    ap.add_argument("--no-resolve", dest="resolve", action="store_false",
+                    help="不还原链接，保留 Google 跳转地址")
+    ap.add_argument("--resolve-limit", type=int, default=40,
+                    help="单轮最多还原多少条链接（控制时长，缺省 40）")
     args = ap.parse_args()
 
     keywords = [k.strip() for k in args.keywords.split(",") if k.strip()]
     since_dt = datetime.now(DEFAULT_TZ) - timedelta(days=args.since_days)
 
     if args.mode == "google_news":
-        articles = fetch_google_news(keywords, since_dt)
+        articles = fetch_google_news(keywords, since_dt, resolve=args.resolve,
+                                     resolve_limit=args.resolve_limit)
     elif args.mode == "rss_file":
-        articles = fetch_rss_file(args.rss_file, since_dt)
+        articles = fetch_rss_file(args.rss_file, since_dt, resolve=args.resolve,
+                                  resolve_limit=args.resolve_limit)
     else:
         articles = fetch_mock(keywords, args.since_days)
 

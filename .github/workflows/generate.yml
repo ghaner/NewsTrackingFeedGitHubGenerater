@@ -61,6 +61,7 @@ jobs:
                      "--mode", "google_news",
                      "--workdir", "data",
                      "--since-days", str(e.get("since_days", 3)),
+                     "--resolve-limit", str(e.get("resolve_limit", 30)),
                      "--out", out]
               print("=== fetch", slug, "===")
               r = subprocess.run(cmd)
