@@ -35,6 +35,13 @@
       "conflict_nodes": 1,
       "article_count": 26,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-14T12:24:03.794358+08:00",
+      "node_count": 25,
+      "conflict_nodes": 1,
+      "article_count": 26,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -855,7 +862,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkUDZiOTdHcW1KMzN1dW8wQlc1T0o0cXkwODVLYmRfUUVIVHVYSDZKdW1vQWN2WXpFcFhsbmxXNk4yc0RQZXdYempxdFFvMmg0blh2OTVTZXNoQjhJUnVDbzhKQlBQdw?oc=5"
+        "https://finance.eastmoney.com/a/202611113928256723.html"
       ],
       "article_count": 1
     },
@@ -870,7 +877,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHN1RW9xNDNjTjBHMjFTSGtfOFhtak5qRjZQdU5seUs4YW1FQzNnNFVYamttNTJCUHZEU2JfcHp1ZUZwcWlFSXA0Ri1fSm1vTGotVzZOaG5OT1NEb1ZjdjlHRDVqYWVVRWVzZG8tQjJIRHNZNkExYmtJS0RVS1QwaTJLb3FyODJVTl9qUQ?oc=5"
+        "https://m.sohu.com/a/1100246228_122063396?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -885,7 +892,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbk5tU2tnLW54V29zRFhBakpad05oYmItSGIzRHpQV2RuSVAtdnBveHNJRHV0eTFzV25DSjVWdkNreE9jdGxFallkZW9PcnBwa0dHUTFGTW5xa2pPOEtINzk1V3lVR0NkSng0N3N3VGpvYk5xbXZLMEJQY0ROLS1Fa3ZHRzJsTzhiSXFWdw?oc=5"
+        "https://m.sohu.com/a/1100445742_121157270?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -900,7 +907,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoZDdGX1F3ZmlINndMMWFFZjhjNXhWaTlRb2Z0ZHNUeU1WMjZ2bGp6NlEtTC0wYXQ1WXpOM0p1NjI5SlNGWDR4TGU5WlJCWTg0c0FQTW1PaGpjbnhuMFRCcWYzN0dBZ0ZPWG9j?oc=5"
+        "https://lmtw.com/mzw/content/detail/id/260004/keyword_id/-1"
       ],
       "article_count": 1
     },
@@ -1077,7 +1084,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04VDBtTVlOdDdSeW9ocXY5dHZsTmRnbzZMbmlZSzNQcXdFTV9DY1Q4YTFpZHF6NEVZN1N4X3RiNDcyVFB0SFN5N01MWVdsc0FicURhX0gyX25YckRTQ3RsZA?oc=5"
+        "https://www.thepaper.cn/newsDetail_forward_34459531"
       ],
       "article_count": 1
     },
@@ -1092,7 +1099,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VS3Z0NWRXdkdWSmVnb2NpTHl3M0ZFRk9jMkRoQTRhZWZ6bGphYTVFX3N3QmlQNHo5WUlQSkRaaGw1MEpKTVNXY1ZBam9jOWlodVN4Y0gyLWNRYzVnQTJCNDlPcGNRVlF6UWVidHJ1Yy05QnlT?oc=5"
+        "https://m.jrj.com.cn/madapter/finance/2026/11/13123059130505.shtml"
       ],
       "article_count": 1
     },
@@ -1107,7 +1114,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtSFVNVDZBVGR5QVZZYnR0bzlfaE1aQmxCY0dSN3gyVV9lTmlPZHYzbUJpbFV3Ym1BY2VUS0VKS3diRXlXeFVhRDNLMFdjWkEzY01DMGtiUGZmN0ZvTkRDTV93?oc=5"
+        "https://stock.stockstar.com/IG2026111400001406.shtml"
       ],
       "article_count": 1
     },
@@ -1122,7 +1129,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KSkd1U0V0UnEtSUhLVTY5QWE3RXVlZ0FnNnZVS0Jaa01rSjk0a1VMaW5pbTFrM0RXRXl0WHl5bGdUMkRkVVJHc0E3cE5iR3dBSXdlM1dlRGtNcU9IbGhqdQ?oc=5"
+        "http://news.10jqka.com.cn/20261114/c681823426.shtml"
       ],
       "article_count": 1
     },
@@ -1137,15 +1144,16 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GczdDT19YU2cyN0NfUklDQmlBX0ptdXA1cVdBMVVJbVVZZ2MxYU53N3pOcERlTkdYNFRRZThYdjNtRnJCdWFEdGhPbUNZMEE2OXBoN0NIYzRlUmJNVExoVA?oc=5"
+        "http://news.10jqka.com.cn/20261114/c681823603.shtml"
       ],
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-14T12:07:35.295849+08:00",
+  "updated_at": "2026-11-14T12:24:03.794358+08:00",
   "last_stats": {
     "node_count": 25,
     "conflict_nodes": 1,
     "article_count": 26
-  }
+  },
+  "articles_fingerprint": "da1c41c84cef0356"
 }
