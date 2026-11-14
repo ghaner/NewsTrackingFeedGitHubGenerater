@@ -111,7 +111,7 @@ def _batchexecute(link, signature, timestamp, timeout=15):
     payload = (
         'f.req=[[["Fbv4je","[\\"garturlreq\\",[[\\"X\\",\\"X\\",[\\"X\\",\\"X\\"],null,null,1,1,'
         '\\"CN:zh-Hans\\",null,1,null,null,null,null,null,0,1],\\"X\\",\\"X\\",1,[1,1,1],1,1,null,0,0,null,0],'
-        '\\"%s\\",%s,\\"%s\\"]]]]' % (seg, timestamp, signature)
+        '\\"%s\\",%s,\\"%s\\""]]]' % (seg, timestamp, signature)
     )
     req = urllib.request.Request(
         "https://news.google.com/_/DotsSplashUi/data/batchexecute",
@@ -124,10 +124,17 @@ def _batchexecute(link, signature, timestamp, timeout=15):
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             txt = r.read().decode("utf-8", "ignore")
-    except Exception:
+    except Exception as e:
+        if os.environ.get("DEBUG_RESOLVE") == "1":
+            print("[resolve-debug] batchexecute 请求失败: %s" % str(e)[:90], file=sys.stderr)
         return None
-    for cand in re.findall(r'"(https?://[^"\\]+)"', txt):
-        if not _is_google_link(cand):
+    if os.environ.get("DEBUG_RESOLVE") == "1":
+        print("[resolve-debug] batchexecute resp_len=%d head=%r" % (len(txt), txt[:200]), file=sys.stderr)
+    # 响应里的地址是 JSON 转义形式（https:\/\/host\/path，可能多层反斜杠），统一还原
+    flat = re.sub(r"\\+/", "/", txt)
+    for cand in re.findall(r"https?://[^\s\"'<>]+", flat):
+        cand = cand.rstrip("\\,")
+        if _looks_like_article(cand):
             return cand
     return None
 
