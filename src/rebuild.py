@@ -17,6 +17,7 @@ data/<slug>/articles.jsonl，然后重算 data/<slug>/event.json 的时间轴并
 """
 
 import argparse
+import hashlib
 import os
 import sys
 from datetime import datetime, timezone, timedelta
@@ -57,6 +58,14 @@ def main():
 
 
 # ===================== 代码 =====================
+def articles_fingerprint(rows):
+    """报道库指纹：对 url 与 event_label 取摘要，用来识别"地址被清洗"这类静默变化。"""
+    h = hashlib.sha1()
+    for r in sorted(rows, key=lambda x: (x.get("url") or "")):
+        h.update(((r.get("url") or "") + "|" + (r.get("event_label") or "")).encode("utf-8"))
+    return h.hexdigest()[:16]
+
+
 def discover_slugs():
     """data/ 下含 articles.jsonl 的子目录名，按字典序返回。"""
     if not os.path.isdir(DATA_ROOT):
@@ -90,23 +99,41 @@ def rebuild_one(slug):
     inc = read_jsonl(p["incoming"])
     print("[%s 1/4] 已有报道 %d 条，新抓取 %d 条" % (slug, len(arts), len(inc)))
 
-    if not inc:
+    # 已收录报道的地址被清洗（Google 跳转 → 原文）时 URL 集合不变、也不算新增，
+    # 但 event.json 的 sources 仍指向旧地址，必须靠指纹判定触发一次重算。
+    prev_fp = None
+    if os.path.exists(p["event"]):
+        try:
+            prev_fp = (load_json(p["event"]) or {}).get("articles_fingerprint")
+        except Exception:
+            prev_fp = None
+    cur_fp = articles_fingerprint(arts)
+    # event.json 已存在却没有指纹（升级遗留）时也重算一次，把指纹补写进去
+    link_changed = bool(cur_fp) and (
+        (prev_fp is None and os.path.exists(p["event"])) or (prev_fp is not None and prev_fp != cur_fp)
+    )
+
+    if not inc and not link_changed:
         print("NO_NEW [%s] 本轮无新增报道，不重算时间轴（feed 保持上一版）。" % slug)
         return
 
-    # 合并 + 三重去重（URL／标题／正文相似度），新条目排在前，旧条目为权威历史
-    kept, dropped = dedupe.dedupe(inc + arts)
+    if not inc:
+        print("[%s 0/4] 已收录报道的链接/内容有变化（%s → %s），按现有库重算" % (slug, prev_fp, cur_fp))
+        kept, dropped = dedupe.dedupe(arts)
+    else:
+        # 合并 + 三重去重（URL／标题／正文相似度），新条目排在前，旧条目为权威历史
+        kept, dropped = dedupe.dedupe(inc + arts)
+
+        # 真实增量判定：本轮抓到的全是被去重掉的旧 URL 时，视为无新增。
+        # 否则每小时运行都会追加一条内容相同的版本快照并产生空提交（改每小时后才暴露）。
+        old_urls = {(a.get("url") or "").strip() for a in arts}
+        fresh = [a for a in kept if (a.get("url") or "").strip() not in old_urls]
+        if not fresh:
+            print("NO_NEW [%s] 本轮抓到的 %d 条均为已收录报道，不写 event.json。" % (slug, len(inc)))
+            open(p["incoming"], "w", encoding="utf-8").close()
+            return
+
     print("[%s 2/4] 去重：保留 %d 条，剔除重复 %d 条" % (slug, len(kept), len(dropped)))
-
-    # 真实增量判定：本轮抓到的全是被去重掉的旧 URL 时，视为无新增。
-    # 否则每小时运行都会追加一条内容相同的版本快照并产生空提交（改每小时后才暴露）。
-    old_urls = {(a.get("url") or "").strip() for a in arts}
-    fresh = [a for a in kept if (a.get("url") or "").strip() not in old_urls]
-    if not fresh:
-        print("NO_NEW [%s] 本轮抓到的 %d 条均为已收录报道，不写 event.json。" % (slug, len(inc)))
-        open(p["incoming"], "w", encoding="utf-8").close()
-        return
-
     for d in dropped:
         print("      - 重复(%s): %s" % (d["reason"], d.get("title")))
 
@@ -121,11 +148,12 @@ def rebuild_one(slug):
     # 持久化：articles.jsonl 覆盖为去重后的全集；event.json 追加版本快照
     dump_jsonl(p["articles"], kept)
     open(p["incoming"], "w", encoding="utf-8").close()
-    save_event(slug, p, load_json(p["meta"]), load_json(p["analysis"]), nodes, stats)
+    save_event(slug, p, load_json(p["meta"]), load_json(p["analysis"]), nodes, stats,
+               fingerprint=articles_fingerprint(kept))
     print("已更新 %s" % p["event"])
 
 
-def save_event(slug, p, meta, analysis, timeline, stats):
+def save_event(slug, p, meta, analysis, timeline, stats, fingerprint=None):
     """写 event.json 并追加版本快照（字段与 news-timeline-builder 的 store.save_event 一致）。"""
     if os.path.exists(p["event"]):
         ev = load_json(p["event"])
@@ -137,6 +165,8 @@ def save_event(slug, p, meta, analysis, timeline, stats):
     ev["timeline"] = timeline
     ev["updated_at"] = now_iso()
     ev["last_stats"] = stats
+    if fingerprint:
+        ev["articles_fingerprint"] = fingerprint
     ev.setdefault("versions", []).append({
         "updated_at": ev["updated_at"],
         "node_count": len(timeline),
