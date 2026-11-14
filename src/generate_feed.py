@@ -360,9 +360,31 @@ def process_source(cfg, ua, timeout):
     rss = build_rss(items, cfg)
     out_path = os.path.join(REPO_ROOT, name + ".xml")
     os.makedirs(os.path.dirname(os.path.abspath(out_path)), exist_ok=True)
+    if write_if_changed(out_path, rss):
+        print("  ✅ 已写入 %s（%d 条）" % (out_path, len(items)))
+    else:
+        print("  = 内容未变，保留旧 %s（%d 条），不刷新 lastBuildDate" % (name + ".xml", len(items)))
+
+
+def write_if_changed(out_path, rss):
+    """内容未变时不重写文件。
+
+    每次运行 lastBuildDate 都会取当前时间，若不比对，则无论有无新增条目 XML 都会产生 diff，
+    在每小时运行下等于每小时一个空提交。比对时忽略 lastBuildDate 一行。
+    """
+    if os.path.exists(out_path):
+        try:
+            with open(out_path, "r", encoding="utf-8") as f:
+                old = f.read()
+        except Exception:
+            old = None
+        if old is not None:
+            strip = lambda s: re.sub(r"[ \t]*<lastBuildDate>.*?</lastBuildDate>\s*", "", s)
+            if strip(old) == strip(rss):
+                return False
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(rss)
-    print("  ✅ 已写入 %s（%d 条）" % (out_path, len(items)))
+    return True
 
 
 def main():
