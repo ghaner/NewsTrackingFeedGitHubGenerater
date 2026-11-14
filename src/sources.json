@@ -26,7 +26,7 @@
       "feed_title": "全美航班停飞 · 事件追踪",
       "feed_desc": "追踪「2026 年 11 月 13 日 FAA 因航路交通管制中心通信故障发布全美地面停飞令」这一事件的全部进展：停飞与解除时间、航班延误取消规模、航司改签豁免、欧洲赴美航班暂停、白宫与国会表态、故障根因调查、空管系统技术债与现代化拨款。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。",
       "ttl": 60,
-      "limit": 40,
+      "limit": 0,
       "order": "desc",
       "template": "<div><p><b>{label}</b>　<span>{published}</span></p><p>{summary}</p><p><b>关键数据：</b>{facts}</p><p>置信度 {confidence} ｜ 冲突节点：{conflict} ｜ 分类：{category}</p><p><b>来源：</b>{sources_text}</p></div>"
     }
