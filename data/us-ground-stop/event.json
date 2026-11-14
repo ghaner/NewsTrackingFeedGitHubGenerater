@@ -47,6 +47,13 @@
       "conflict_nodes": 0,
       "article_count": 107,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-15T05:51:31.262269+08:00",
+      "node_count": 103,
+      "conflict_nodes": 0,
+      "article_count": 110,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -671,7 +678,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4N2FMUzJNZDdEVzNWdEFvZ3lVc1BaajBwai0zbVFBNlJxdEw1aWR0bkxtbnQ4aE02TGRmU09zVTBrcUhzNG14SlhfVzc5T25Fb1VXR3pxSjFSd1pqTGlnY3BXQQ?oc=5"
+        "https://www.sina.cn/news/detail/5365058973991631.html"
       ],
       "article_count": 1
     },
@@ -687,21 +694,6 @@
       "confidence": 0.6,
       "sources": [
         "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51RThuVThzZ1UtOVVPTElZdzJIaWl4NG44VFYyR2JkXzRZMzFGblBlX0J0UkpXcFByOHc1dGNUS1BYLUxkcGZsSGktODdrc3g5ZVE?oc=5"
-      ],
-      "article_count": 1
-    },
-    {
-      "node_id": "n_603aa0ea74b4",
-      "event_label": "美国空管通信故障致逾万架次航班延误或取消 - Sohu",
-      "timestamp_local": "2026-11-14T07:53:37+08:00",
-      "timestamp_utc": "2026-11-13T23:53:37+00:00",
-      "timestamp_sort": 1794614017.0,
-      "summary": "美国空管通信故障致逾万架次航班延误或取消 Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTlod1BMQ3JXYkE0Yl9SUWxfWUlEUlZERDlGOEZjTmpRMjRWaG1Pc2c4M0hNdXZaUHpqQ1ZBeUktRmZyRlRXQTJrUmVuVGVYeXlpUHJOd1JtRlBnU2VTY21jTUd4ZUMzVjZWUUVJcFpXT210dl9mSUdpSlotdnNXY3JLZEpVMmhsZHZrWmJ1cw?oc=5"
       ],
       "article_count": 1
     },
@@ -803,6 +795,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_84abb3a745da",
+      "event_label": "美联邦航空局下令 全美航班停飞！22区域空管中心故障 - China Press",
+      "timestamp_local": "2026-11-14T08:40:00+08:00",
+      "timestamp_utc": "2026-11-14T00:40:00+00:00",
+      "timestamp_sort": 1794616800.0,
+      "summary": "美联邦航空局下令 全美航班停飞！22区域空管中心故障 China Press",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOeE9PSkJtSWp3RXEtN1QxV3ZHaWxNc2tKZENfWENWSkVsYXl3SkZzMnRXVlNYejMtWElGdnowVF9laWJuYXEtd010X3JNRm1fcUk5Y2JJTmlraTI2QVUtb1F4MWpGckkyLWJyTmVIZ1ZMZXBKSWpncXlxdk9LYmc1aXJabFdsZWhyT0hOU1RQT29Vbm03QkxaMF9kU3RGZEszZXlWTUNGaWk0MXhxRWg1dWJNWnV5dGxuUFFZREY1Rnl4ZHpuVUpnNERTRHprVmF0WjNJMUlXLW9ISGFIZnBXa3dxQ2NjMmI2V0VjMHNQQjJXUWoydGdpM0Q5QVB5Y1NkVHlpREJUazFBYU0tYlB1cVpOTHdidG10S280eldNMkVtbV9ONTRGb2Fqd1VGck1wWmw4LXpKYTlCRHRrb2U3alhwa0FYTXdGemw4WHhlMXdTUQ?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_f22da330b4d5",
       "event_label": "国际航班备降与旅客外溢影响",
       "timestamp_local": "2026-11-14T08:45:00+08:00",
@@ -873,7 +880,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkxHeHhTcTB6cVVkTHZvZEltSG55bFJDVks3QzhQb2t0a2tUZVQteE8wN2l3TjdPcDRJbzBaYzZWTEZBOXpXN2F2a2pYR3lBMWFxQkMyeHZuLUNMOUUtNTV6TUtKUDBZUENqY2tseF8wYlNXNTBINjQ4Y1ZHOTVJVFZCYzhkS1JGOUdz?oc=5"
+        "https://www.sohu.com/a/1101393138_161795?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -963,6 +970,21 @@
       "confidence": 0.6,
       "sources": [
         "https://news.ifeng.com/c/8y2Yd6OHvpd"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_603aa0ea74b4",
+      "event_label": "美国空管通信故障致逾万架次航班延误或取消 - Sohu",
+      "timestamp_local": "2026-11-14T09:31:00+08:00",
+      "timestamp_utc": "2026-11-14T01:31:00+00:00",
+      "timestamp_sort": 1794619860.0,
+      "summary": "美国空管通信故障致逾万架次航班延误或取消 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGo2bld6WHJSQ2VwLVlURVFyT3EyTVpSQ3hwa3VYQkhhbG5oa0VEbDlxRzhXWEFIQ0lBRFI3MmRuaDB1WXdBT1RjSk84b0djWi0yejU5a0xDY2hqQ0o3WFJyekFtbjZRbmRzTHdub1pGcUZ3MVBGX3hKTUhBTDhqLUJaOXJXVFRs?oc=5"
       ],
       "article_count": 1
     },
@@ -1109,6 +1131,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_e9ed26186d15",
+      "event_label": "部长回应全美航班停飞：事件与微软无关、没有发生网络攻击，只是路由器太旧扛不住流量数据过载 - 凤凰网科技",
+      "timestamp_local": "2026-11-14T09:51:59+08:00",
+      "timestamp_utc": "2026-11-14T01:51:59+00:00",
+      "timestamp_sort": 1794621119.0,
+      "summary": "部长回应全美航班停飞：事件与微软无关、没有发生网络攻击，只是路由器太旧扛不住流量数据过载 凤凰网科技",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TNTlIbkMxeUxtM3NFSndRWFVXc1h3VWpLUDBIUV9kM0N3aDRKaW5yTlNET2pNczgyMXlRSUdaSk5ZX1B5c1d2WFBrZGo?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_8a668afce6b7",
       "event_label": "全美航班停飞令解除，美联邦航空局：预计今明仍有大范围航班取消或延误 - Sohu",
       "timestamp_local": "2026-11-14T09:52:52+08:00",
@@ -1209,7 +1246,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDRiTkt2Wkd1YkxNdGRFaGhYdllFclVITm5KcHFpdGNkQlhVVndvMV9lUWNVVjhfaHJoU3FwQkx2aEVrQzFwNzk3V01MeWNrcUs1UHFOc2FVLV8wY2pmdF9ZQ2dBako0QjIxWmwxMEN4Q2VubGlIOHRnQVJFTmtQbVl6SHBvUVZ1aXJv?oc=5"
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZqYWF5RWJhU3YtbXl5Y2xmMlhBYUljUU5JMnpBM29STWNLMTBYaWsxUE5kSUVyVFIybHZFdjZGUjEtYUdnZFZEYWwxNEt5YkVHN3NHWEV3Wm9sbnBNTEJkRW1nTEk4UmN1dk5FQkZGRW9xVlIwOGY2QmNiRXROaHp3ZFdMNTdT?oc=5"
       ],
       "article_count": 1
     },
@@ -1328,7 +1365,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkJWQzFVZy0tVUlNc2lQMTA2RWtyVUMxLXZvTXo4SmhueXh5TFl2NHl1cVpIRVI4M3g5ekFpa2RGUnpoaFFpdGtCVFNER2V4ZXpEbzF4dmg4Z1VVNnZ1UlZxX1Q3MjNyXzM1XzRQT3ZUSWsxRU9LYlN0Tjg3SFpVSXAxWVhFMFdMaVNj?oc=5"
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOVpZaGZHcEowbC1WYXZIY19UVV9UMm94LUVRc0I1MXlvaHNzRXRPbGdjQl9KeEpzeThQMml0emp5OHdlWUdzZGp1YWtqVXdCd2pLNDJOaHNScFFzYTBBWjBpVjlqaHNSWFZQX0hhWTRxaVhJM0hoR2NTNUw4YTlFWDRqd1hlVHdUY1hUdjZDcHNEbklKMHNuWEdFS0dkdVpX?oc=5"
       ],
       "article_count": 1
     },
@@ -1699,15 +1736,15 @@
     {
       "node_id": "n_ee46c0a10b78",
       "event_label": "微软否认与全美航班停飞事件有关 - 新浪网",
-      "timestamp_local": "2026-11-14T12:11:37+08:00",
-      "timestamp_utc": "2026-11-14T04:11:37+00:00",
-      "timestamp_sort": 1794629497.0,
+      "timestamp_local": "2026-11-14T12:13:58+08:00",
+      "timestamp_utc": "2026-11-14T04:13:58+00:00",
+      "timestamp_sort": 1794629638.0,
       "summary": "微软否认与全美航班停飞事件有关 新浪网",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://wap.cj.sina.cn/7x24/5214295"
+        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zbkg2aFFNc292andFejZ2bkFGZl9uWksyV1VUbU04VzhNb1doZXY5UnFWTEVXTGFkXzI3UVdUUS1VYVNOOVRabVdLQQ?oc=5"
       ],
       "article_count": 1
     },
@@ -1917,7 +1954,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.jfdaily.com/news/detail?id\\\\u003d1213827"
+        "https://www.jfdaily.com.cn/news/detail?id\\\\u003d1213827"
       ],
       "article_count": 1
     },
@@ -2142,7 +2179,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLaVdYS1VuQ1A3cUx6SGtLbWZpcWE0ZC1EMVpHVVhBSTdrUnlpR3hiNTNwZ25aVDRnOGV1d3BweW1NdUxjZ2hXMUQwNHg3cXBRYUotQ0MyVDgwZkU1bU9mbg?oc=5"
+        "https://www.cnbeta.com.tw/articles/tech/1586410.htm"
       ],
       "article_count": 1
     },
@@ -2265,13 +2302,28 @@
         "https://i.ifeng.com/c/8y3UsS46RQL"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_5227b72971e3",
+      "event_label": "全美航班停飞调查：一台20年老路由器，照出关键通信系统的维护债 - Sohu",
+      "timestamp_local": "2026-11-15T03:37:00+08:00",
+      "timestamp_utc": "2026-11-14T19:37:00+00:00",
+      "timestamp_sort": 1794685020.0,
+      "summary": "全美航班停飞调查：一台20年老路由器，照出关键通信系统的维护债 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1101677551_128075?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-15T01:30:42.847541+08:00",
+  "updated_at": "2026-11-15T05:51:31.262269+08:00",
   "last_stats": {
-    "node_count": 100,
+    "node_count": 103,
     "conflict_nodes": 0,
-    "article_count": 107
+    "article_count": 110
   },
-  "articles_fingerprint": "202e5e704bd62a39"
+  "articles_fingerprint": "5d2148110c35bf44"
 }

@@ -6,8 +6,16 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/us-ground-stop.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「2026 年 11 月 13 日 FAA 因航路交通管制中心通信故障发布全美地面停飞令」这一事件的全部进展：停飞与解除时间、航班延误取消规模、航司改签豁免、欧洲赴美航班暂停、白宫与国会表态、故障根因调查、空管系统技术债与现代化拨款。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 17:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 21:51:31 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-15] 全美航班停飞调查：一台20年老路由器，照出关键通信系统的维护债 - Sohu</title>
+      <link>https://m.sohu.com/a/1101677551_128075?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
+      <guid isPermaLink="false">https://m.sohu.com/a/1101677551_128075?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_5227b72971e3</guid>
+      <pubDate>Sun, 15 Nov 2026 03:37:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>全美航班停飞调查：一台20年老路由器，照出关键通信系统的维护债 - Sohu</b>　<span>2026-11-15</span></p><p>全美航班停飞调查：一台20年老路由器，照出关键通信系统的维护债 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1101677551_128075?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-14] 导致全美航班停飞的“罪魁祸首”找到了？FAA调查指向20年历史路由器 - 凤凰网</title>
       <link>https://i.ifeng.com/c/8y3UsS46RQL</link>
@@ -74,11 +82,11 @@
     </item>
     <item>
       <title>[2026-11-14] 微软否认FAA全美航班停飞故障与自身服务有关- Microsoft 微软 - cnBeta.COM</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLaVdYS1VuQ1A3cUx6SGtLbWZpcWE0ZC1EMVpHVVhBSTdrUnlpR3hiNTNwZ25aVDRnOGV1d3BweW1NdUxjZ2hXMUQwNHg3cXBRYUotQ0MyVDgwZkU1bU9mbg?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLaVdYS1VuQ1A3cUx6SGtLbWZpcWE0ZC1EMVpHVVhBSTdrUnlpR3hiNTNwZ25aVDRnOGV1d3BweW1NdUxjZ2hXMUQwNHg3cXBRYUotQ0MyVDgwZkU1bU9mbg?oc=5#n_9ff591cf2086</guid>
+      <link>https://www.cnbeta.com.tw/articles/tech/1586410.htm</link>
+      <guid isPermaLink="false">https://www.cnbeta.com.tw/articles/tech/1586410.htm#n_9ff591cf2086</guid>
       <pubDate>Sat, 14 Nov 2026 18:27:00 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>微软否认FAA全美航班停飞故障与自身服务有关- Microsoft 微软 - cnBeta.COM</b>　<span>2026-11-14</span></p><p>微软否认FAA全美航班停飞故障与自身服务有关- Microsoft 微软 cnBeta.COM</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLaVdYS1VuQ1A3cUx6SGtLbWZpcWE0ZC1EMVpHVVhBSTdrUnlpR3hiNTNwZ25aVDRnOGV1d3BweW1NdUxjZ2hXMUQwNHg3cXBRYUotQ0MyVDgwZkU1bU9mbg?oc=5</p></div>]]></description>
+      <description><![CDATA[<div><p><b>微软否认FAA全美航班停飞故障与自身服务有关- Microsoft 微软 - cnBeta.COM</b>　<span>2026-11-14</span></p><p>微软否认FAA全美航班停飞故障与自身服务有关- Microsoft 微软 cnBeta.COM</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.cnbeta.com.tw/articles/tech/1586410.htm</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 全美航班停飞令解除，特朗普发声 - 手机新浪网</title>
@@ -194,11 +202,11 @@
     </item>
     <item>
       <title>[2026-11-14] “9·11”以来最严重，全美航班停飞数小时：一次系统更新击穿整套通信网络 - 上观新闻</title>
-      <link>https://www.jfdaily.com/news/detail?id\\u003d1213827</link>
-      <guid isPermaLink="false">https://www.jfdaily.com/news/detail?id\\u003d1213827#n_df1fa20ce78e</guid>
+      <link>https://www.jfdaily.com.cn/news/detail?id\\u003d1213827</link>
+      <guid isPermaLink="false">https://www.jfdaily.com.cn/news/detail?id\\u003d1213827#n_df1fa20ce78e</guid>
       <pubDate>Sat, 14 Nov 2026 13:54:00 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>“9·11”以来最严重，全美航班停飞数小时：一次系统更新击穿整套通信网络 - 上观新闻</b>　<span>2026-11-14</span></p><p>“9·11”以来最严重，全美航班停飞数小时：一次系统更新击穿整套通信网络 上观新闻</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.jfdaily.com/news/detail?id\\u003d1213827</p></div>]]></description>
+      <description><![CDATA[<div><p><b>“9·11”以来最严重，全美航班停飞数小时：一次系统更新击穿整套通信网络 - 上观新闻</b>　<span>2026-11-14</span></p><p>“9·11”以来最严重，全美航班停飞数小时：一次系统更新击穿整套通信网络 上观新闻</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.jfdaily.com.cn/news/detail?id\\u003d1213827</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 微软否认与全美航班停飞事件有关 无关联声明受关注 - 中华网</title>
@@ -306,11 +314,11 @@
     </item>
     <item>
       <title>[2026-11-14] 微软否认与全美航班停飞事件有关 - 新浪网</title>
-      <link>https://wap.cj.sina.cn/7x24/5214295</link>
-      <guid isPermaLink="false">https://wap.cj.sina.cn/7x24/5214295#n_ee46c0a10b78</guid>
-      <pubDate>Sat, 14 Nov 2026 12:11:37 +0800</pubDate>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zbkg2aFFNc292andFejZ2bkFGZl9uWksyV1VUbU04VzhNb1doZXY5UnFWTEVXTGFkXzI3UVdUUS1VYVNOOVRabVdLQQ?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zbkg2aFFNc292andFejZ2bkFGZl9uWksyV1VUbU04VzhNb1doZXY5UnFWTEVXTGFkXzI3UVdUUS1VYVNOOVRabVdLQQ?oc=5#n_ee46c0a10b78</guid>
+      <pubDate>Sat, 14 Nov 2026 12:13:58 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>微软否认与全美航班停飞事件有关 - 新浪网</b>　<span>2026-11-14</span></p><p>微软否认与全美航班停飞事件有关 新浪网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://wap.cj.sina.cn/7x24/5214295</p></div>]]></description>
+      <description><![CDATA[<div><p><b>微软否认与全美航班停飞事件有关 - 新浪网</b>　<span>2026-11-14</span></p><p>微软否认与全美航班停飞事件有关 新浪网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zbkg2aFFNc292andFejZ2bkFGZl9uWksyV1VUbU04VzhNb1doZXY5UnFWTEVXTGFkXzI3UVdUUS1VYVNOOVRabVdLQQ?oc=5</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 美交通部长：全美航班停飞源于系统老化，呼吁国会紧急拨款 - 网易新闻客户端</title>
@@ -450,11 +458,11 @@
     </item>
     <item>
       <title>[2026-11-14] 全美航班停飞后续：空域已重新开放，运行恢复正常仍需时间 - Sohu</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkJWQzFVZy0tVUlNc2lQMTA2RWtyVUMxLXZvTXo4SmhueXh5TFl2NHl1cVpIRVI4M3g5ekFpa2RGUnpoaFFpdGtCVFNER2V4ZXpEbzF4dmg4Z1VVNnZ1UlZxX1Q3MjNyXzM1XzRQT3ZUSWsxRU9LYlN0Tjg3SFpVSXAxWVhFMFdMaVNj?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkJWQzFVZy0tVUlNc2lQMTA2RWtyVUMxLXZvTXo4SmhueXh5TFl2NHl1cVpIRVI4M3g5ekFpa2RGUnpoaFFpdGtCVFNER2V4ZXpEbzF4dmg4Z1VVNnZ1UlZxX1Q3MjNyXzM1XzRQT3ZUSWsxRU9LYlN0Tjg3SFpVSXAxWVhFMFdMaVNj?oc=5#n_03d81fb73f05</guid>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQOVpZaGZHcEowbC1WYXZIY19UVV9UMm94LUVRc0I1MXlvaHNzRXRPbGdjQl9KeEpzeThQMml0emp5OHdlWUdzZGp1YWtqVXdCd2pLNDJOaHNScFFzYTBBWjBpVjlqaHNSWFZQX0hhWTRxaVhJM0hoR2NTNUw4YTlFWDRqd1hlVHdUY1hUdjZDcHNEbklKMHNuWEdFS0dkdVpX?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxQOVpZaGZHcEowbC1WYXZIY19UVV9UMm94LUVRc0I1MXlvaHNzRXRPbGdjQl9KeEpzeThQMml0emp5OHdlWUdzZGp1YWtqVXdCd2pLNDJOaHNScFFzYTBBWjBpVjlqaHNSWFZQX0hhWTRxaVhJM0hoR2NTNUw4YTlFWDRqd1hlVHdUY1hUdjZDcHNEbklKMHNuWEdFS0dkdVpX?oc=5#n_03d81fb73f05</guid>
       <pubDate>Sat, 14 Nov 2026 10:13:43 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>全美航班停飞后续：空域已重新开放，运行恢复正常仍需时间 - Sohu</b>　<span>2026-11-14</span></p><p>全美航班停飞后续：空域已重新开放，运行恢复正常仍需时间 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkJWQzFVZy0tVUlNc2lQMTA2RWtyVUMxLXZvTXo4SmhueXh5TFl2NHl1cVpIRVI4M3g5ekFpa2RGUnpoaFFpdGtCVFNER2V4ZXpEbzF4dmg4Z1VVNnZ1UlZxX1Q3MjNyXzM1XzRQT3ZUSWsxRU9LYlN0Tjg3SFpVSXAxWVhFMFdMaVNj?oc=5</p></div>]]></description>
+      <description><![CDATA[<div><p><b>全美航班停飞后续：空域已重新开放，运行恢复正常仍需时间 - Sohu</b>　<span>2026-11-14</span></p><p>全美航班停飞后续：空域已重新开放，运行恢复正常仍需时间 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMioAFBVV95cUxQOVpZaGZHcEowbC1WYXZIY19UVV9UMm94LUVRc0I1MXlvaHNzRXRPbGdjQl9KeEpzeThQMml0emp5OHdlWUdzZGp1YWtqVXdCd2pLNDJOaHNScFFzYTBBWjBpVjlqaHNSWFZQX0hhWTRxaVhJM0hoR2NTNUw4YTlFWDRqd1hlVHdUY1hUdjZDcHNEbklKMHNuWEdFS0dkdVpX?oc=5</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 美交通部长：全美航班停飞源于系统老化 呼吁国会紧急拨款 - 新浪网</title>
@@ -490,11 +498,11 @@
     </item>
     <item>
       <title>[2026-11-14] 全美航班停飞令已解除，此前进出美国及美国内已有近1.5万架次航班延误或取消；特朗普：空管系统故障与网络攻击或人工智能无关 - Sohu</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDRiTkt2Wkd1YkxNdGRFaGhYdllFclVITm5KcHFpdGNkQlhVVndvMV9lUWNVVjhfaHJoU3FwQkx2aEVrQzFwNzk3V01MeWNrcUs1UHFOc2FVLV8wY2pmdF9ZQ2dBako0QjIxWmwxMEN4Q2VubGlIOHRnQVJFTmtQbVl6SHBvUVZ1aXJv?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDRiTkt2Wkd1YkxNdGRFaGhYdllFclVITm5KcHFpdGNkQlhVVndvMV9lUWNVVjhfaHJoU3FwQkx2aEVrQzFwNzk3V01MeWNrcUs1UHFOc2FVLV8wY2pmdF9ZQ2dBako0QjIxWmwxMEN4Q2VubGlIOHRnQVJFTmtQbVl6SHBvUVZ1aXJv?oc=5#n_663b7aedd1f8</guid>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZqYWF5RWJhU3YtbXl5Y2xmMlhBYUljUU5JMnpBM29STWNLMTBYaWsxUE5kSUVyVFIybHZFdjZGUjEtYUdnZFZEYWwxNEt5YkVHN3NHWEV3Wm9sbnBNTEJkRW1nTEk4UmN1dk5FQkZGRW9xVlIwOGY2QmNiRXROaHp3ZFdMNTdT?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZqYWF5RWJhU3YtbXl5Y2xmMlhBYUljUU5JMnpBM29STWNLMTBYaWsxUE5kSUVyVFIybHZFdjZGUjEtYUdnZFZEYWwxNEt5YkVHN3NHWEV3Wm9sbnBNTEJkRW1nTEk4UmN1dk5FQkZGRW9xVlIwOGY2QmNiRXROaHp3ZFdMNTdT?oc=5#n_663b7aedd1f8</guid>
       <pubDate>Sat, 14 Nov 2026 10:03:43 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>全美航班停飞令已解除，此前进出美国及美国内已有近1.5万架次航班延误或取消；特朗普：空管系统故障与网络攻击或人工智能无关 - Sohu</b>　<span>2026-11-14</span></p><p>全美航班停飞令已解除，此前进出美国及美国内已有近1.5万架次航班延误或取消；特朗普：空管系统故障与网络攻击或人工智能无关 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDRiTkt2Wkd1YkxNdGRFaGhYdllFclVITm5KcHFpdGNkQlhVVndvMV9lUWNVVjhfaHJoU3FwQkx2aEVrQzFwNzk3V01MeWNrcUs1UHFOc2FVLV8wY2pmdF9ZQ2dBako0QjIxWmwxMEN4Q2VubGlIOHRnQVJFTmtQbVl6SHBvUVZ1aXJv?oc=5</p></div>]]></description>
+      <description><![CDATA[<div><p><b>全美航班停飞令已解除，此前进出美国及美国内已有近1.5万架次航班延误或取消；特朗普：空管系统故障与网络攻击或人工智能无关 - Sohu</b>　<span>2026-11-14</span></p><p>全美航班停飞令已解除，此前进出美国及美国内已有近1.5万架次航班延误或取消；特朗普：空管系统故障与网络攻击或人工智能无关 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZqYWF5RWJhU3YtbXl5Y2xmMlhBYUljUU5JMnpBM29STWNLMTBYaWsxUE5kSUVyVFIybHZFdjZGUjEtYUdnZFZEYWwxNEt5YkVHN3NHWEV3Wm9sbnBNTEJkRW1nTEk4UmN1dk5FQkZGRW9xVlIwOGY2QmNiRXROaHp3ZFdMNTdT?oc=5</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 特朗普回应全美航班停飞 - 京报网</title>
@@ -543,6 +551,14 @@
       <pubDate>Sat, 14 Nov 2026 09:52:52 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>全美航班停飞令解除，美联邦航空局：预计今明仍有大范围航班取消或延误 - Sohu</b>　<span>2026-11-14</span></p><p>全美航班停飞令解除，美联邦航空局：预计今明仍有大范围航班取消或延误 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjRPVEF2amtmR2ZkTFgyajF4dFdwQkU3amxwY2hOcVJtLVByWGFOSmRHdWI1TTdHS0JTTFJTdTZnUHlMOTI4cXp1ODRrWElwOV9lQUF2dTM0NGFvNGZFZ0o0blIzSHlaRG04SnR3VWFtSEFvMW9kSkpWUlZfa21WdDFuUVhKZjRLYTB0Vw?oc=5</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-14] 部长回应全美航班停飞：事件与微软无关、没有发生网络攻击，只是路由器太旧扛不住流量数据过载 - 凤凰网科技</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TNTlIbkMxeUxtM3NFSndRWFVXc1h3VWpLUDBIUV9kM0N3aDRKaW5yTlNET2pNczgyMXlRSUdaSk5ZX1B5c1d2WFBrZGo?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TNTlIbkMxeUxtM3NFSndRWFVXc1h3VWpLUDBIUV9kM0N3aDRKaW5yTlNET2pNczgyMXlRSUdaSk5ZX1B5c1d2WFBrZGo?oc=5#n_e9ed26186d15</guid>
+      <pubDate>Sat, 14 Nov 2026 09:51:59 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>部长回应全美航班停飞：事件与微软无关、没有发生网络攻击，只是路由器太旧扛不住流量数据过载 - 凤凰网科技</b>　<span>2026-11-14</span></p><p>部长回应全美航班停飞：事件与微软无关、没有发生网络攻击，只是路由器太旧扛不住流量数据过载 凤凰网科技</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TNTlIbkMxeUxtM3NFSndRWFVXc1h3VWpLUDBIUV9kM0N3aDRKaW5yTlNET2pNczgyMXlRSUdaSk5ZX1B5c1d2WFBrZGo?oc=5</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 全美航班停飞令已解除，此前进出美国及美国内已有近1.5万架次航班延误或取消 - Sohu</title>
@@ -601,6 +617,14 @@
       <description><![CDATA[<div><p><b>美媒：全美航班停飞令已解除 - 京报网</b>　<span>2026-11-14</span></p><p>美媒：全美航班停飞令已解除 京报网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.bjd.com.cn/2026/11/14/12030160.shtml</p></div>]]></description>
     </item>
     <item>
+      <title>[2026-11-14] 美国空管通信故障致逾万架次航班延误或取消 - Sohu</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGo2bld6WHJSQ2VwLVlURVFyT3EyTVpSQ3hwa3VYQkhhbG5oa0VEbDlxRzhXWEFIQ0lBRFI3MmRuaDB1WXdBT1RjSk84b0djWi0yejU5a0xDY2hqQ0o3WFJyekFtbjZRbmRzTHdub1pGcUZ3MVBGX3hKTUhBTDhqLUJaOXJXVFRs?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGo2bld6WHJSQ2VwLVlURVFyT3EyTVpSQ3hwa3VYQkhhbG5oa0VEbDlxRzhXWEFIQ0lBRFI3MmRuaDB1WXdBT1RjSk84b0djWi0yejU5a0xDY2hqQ0o3WFJyekFtbjZRbmRzTHdub1pGcUZ3MVBGX3hKTUhBTDhqLUJaOXJXVFRs?oc=5#n_603aa0ea74b4</guid>
+      <pubDate>Sat, 14 Nov 2026 09:31:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>美国空管通信故障致逾万架次航班延误或取消 - Sohu</b>　<span>2026-11-14</span></p><p>美国空管通信故障致逾万架次航班延误或取消 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGo2bld6WHJSQ2VwLVlURVFyT3EyTVpSQ3hwa3VYQkhhbG5oa0VEbDlxRzhXWEFIQ0lBRFI3MmRuaDB1WXdBT1RjSk84b0djWi0yejU5a0xDY2hqQ0o3WFJyekFtbjZRbmRzTHdub1pGcUZ3MVBGX3hKTUhBTDhqLUJaOXJXVFRs?oc=5</p></div>]]></description>
+    </item>
+    <item>
       <title>[2026-11-14] 【直播】全美航班停飛 穆林和達菲舉行白宮簡報會 - 大紀元</title>
       <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE45d280MkFuV3VBaWVhWDJ4MHhkTXlJbHBHV3dUVkswOVVkNFozLUNOYXdfbWlsbFR5ekxTMGRZdWZmZ1Q3U1NlelRJWllfRnZwUHVKUE90dTJjQjV1aDBNd2ln0gFnQVVfeXFMTkxYWGl2SHNINnRDMjlpTnNqMUlIS1JlWDNvc0Y2V3hqVW9jRkVrVW5CN2RyMnFzdUhBajJKa1JjcEIySWdXZTA0Z21jY1lxNzNIWVlPTzdsbHU5SVhkcERiS0Q0d1NIdw?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE45d280MkFuV3VBaWVhWDJ4MHhkTXlJbHBHV3dUVkswOVVkNFozLUNOYXdfbWlsbFR5ekxTMGRZdWZmZ1Q3U1NlelRJWllfRnZwUHVKUE90dTJjQjV1aDBNd2ln0gFnQVVfeXFMTkxYWGl2SHNINnRDMjlpTnNqMUlIS1JlWDNvc0Y2V3hqVW9jRkVrVW5CN2RyMnFzdUhBajJKa1JjcEIySWdXZTA0Z21jY1lxNzNIWVlPTzdsbHU5SVhkcERiS0Q0d1NIdw?oc=5#n_5739aa20259f</guid>
@@ -634,11 +658,11 @@
     </item>
     <item>
       <title>[2026-11-14] 知情人士：全美航班停飞调查指向软件更新 - Sohu</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkxHeHhTcTB6cVVkTHZvZEltSG55bFJDVks3QzhQb2t0a2tUZVQteE8wN2l3TjdPcDRJbzBaYzZWTEZBOXpXN2F2a2pYR3lBMWFxQkMyeHZuLUNMOUUtNTV6TUtKUDBZUENqY2tseF8wYlNXNTBINjQ4Y1ZHOTVJVFZCYzhkS1JGOUdz?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkxHeHhTcTB6cVVkTHZvZEltSG55bFJDVks3QzhQb2t0a2tUZVQteE8wN2l3TjdPcDRJbzBaYzZWTEZBOXpXN2F2a2pYR3lBMWFxQkMyeHZuLUNMOUUtNTV6TUtKUDBZUENqY2tseF8wYlNXNTBINjQ4Y1ZHOTVJVFZCYzhkS1JGOUdz?oc=5#n_0cde3ad17858</guid>
+      <link>https://www.sohu.com/a/1101393138_161795?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
+      <guid isPermaLink="false">https://www.sohu.com/a/1101393138_161795?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_0cde3ad17858</guid>
       <pubDate>Sat, 14 Nov 2026 09:15:05 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>知情人士：全美航班停飞调查指向软件更新 - Sohu</b>　<span>2026-11-14</span></p><p>知情人士：全美航班停飞调查指向软件更新 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkxHeHhTcTB6cVVkTHZvZEltSG55bFJDVks3QzhQb2t0a2tUZVQteE8wN2l3TjdPcDRJbzBaYzZWTEZBOXpXN2F2a2pYR3lBMWFxQkMyeHZuLUNMOUUtNTV6TUtKUDBZUENqY2tseF8wYlNXNTBINjQ4Y1ZHOTVJVFZCYzhkS1JGOUdz?oc=5</p></div>]]></description>
+      <description><![CDATA[<div><p><b>知情人士：全美航班停飞调查指向软件更新 - Sohu</b>　<span>2026-11-14</span></p><p>知情人士：全美航班停飞调查指向软件更新 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.sohu.com/a/1101393138_161795?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 全美航班停飞，篮网滞留新奥尔良无法飞孟菲斯 - 懂球帝</title>
@@ -663,6 +687,14 @@
       <pubDate>Sat, 14 Nov 2026 08:45:00 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>国际航班备降与旅客外溢影响</b>　<span>2026-11-14</span></p><p>约 3500 架飞机在空中，赴美航班改降坎昆、波哥大，中国旅客签证与住宿受阻。</p><p><b>关键数据：</b>停飞时空中飞机：约3500架；备降点：坎昆、波哥大</p><p>置信度 0.9 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://static.cdsb.com/micropub/Articles/202611/590f13e76e1c31bb5c0e0484e3750ac5.html</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-14] 美联邦航空局下令 全美航班停飞！22区域空管中心故障 - China Press</title>
+      <link>https://news.google.com/rss/articles/CBMi0gJBVV95cUxOeE9PSkJtSWp3RXEtN1QxV3ZHaWxNc2tKZENfWENWSkVsYXl3SkZzMnRXVlNYejMtWElGdnowVF9laWJuYXEtd010X3JNRm1fcUk5Y2JJTmlraTI2QVUtb1F4MWpGckkyLWJyTmVIZ1ZMZXBKSWpncXlxdk9LYmc1aXJabFdsZWhyT0hOU1RQT29Vbm03QkxaMF9kU3RGZEszZXlWTUNGaWk0MXhxRWg1dWJNWnV5dGxuUFFZREY1Rnl4ZHpuVUpnNERTRHprVmF0WjNJMUlXLW9ISGFIZnBXa3dxQ2NjMmI2V0VjMHNQQjJXUWoydGdpM0Q5QVB5Y1NkVHlpREJUazFBYU0tYlB1cVpOTHdidG10S280eldNMkVtbV9ONTRGb2Fqd1VGck1wWmw4LXpKYTlCRHRrb2U3alhwa0FYTXdGemw4WHhlMXdTUQ?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gJBVV95cUxOeE9PSkJtSWp3RXEtN1QxV3ZHaWxNc2tKZENfWENWSkVsYXl3SkZzMnRXVlNYejMtWElGdnowVF9laWJuYXEtd010X3JNRm1fcUk5Y2JJTmlraTI2QVUtb1F4MWpGckkyLWJyTmVIZ1ZMZXBKSWpncXlxdk9LYmc1aXJabFdsZWhyT0hOU1RQT29Vbm03QkxaMF9kU3RGZEszZXlWTUNGaWk0MXhxRWg1dWJNWnV5dGxuUFFZREY1Rnl4ZHpuVUpnNERTRHprVmF0WjNJMUlXLW9ISGFIZnBXa3dxQ2NjMmI2V0VjMHNQQjJXUWoydGdpM0Q5QVB5Y1NkVHlpREJUazFBYU0tYlB1cVpOTHdidG10S280eldNMkVtbV9ONTRGb2Fqd1VGck1wWmw4LXpKYTlCRHRrb2U3alhwa0FYTXdGemw4WHhlMXdTUQ?oc=5#n_84abb3a745da</guid>
+      <pubDate>Sat, 14 Nov 2026 08:40:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>美联邦航空局下令 全美航班停飞！22区域空管中心故障 - China Press</b>　<span>2026-11-14</span></p><p>美联邦航空局下令 全美航班停飞！22区域空管中心故障 China Press</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMi0gJBVV95cUxOeE9PSkJtSWp3RXEtN1QxV3ZHaWxNc2tKZENfWENWSkVsYXl3SkZzMnRXVlNYejMtWElGdnowVF9laWJuYXEtd010X3JNRm1fcUk5Y2JJTmlraTI2QVUtb1F4MWpGckkyLWJyTmVIZ1ZMZXBKSWpncXlxdk9LYmc1aXJabFdsZWhyT0hOU1RQT29Vbm03QkxaMF9kU3RGZEszZXlWTUNGaWk0MXhxRWg1dWJNWnV5dGxuUFFZREY1Rnl4ZHpuVUpnNERTRHprVmF0WjNJMUlXLW9ISGFIZnBXa3dxQ2NjMmI2V0VjMHNQQjJXUWoydGdpM0Q5QVB5Y1NkVHlpREJUazFBYU0tYlB1cVpOTHdidG10S280eldNMkVtbV9ONTRGb2Fqd1VGck1wWmw4LXpKYTlCRHRrb2U3alhwa0FYTXdGemw4WHhlMXdTUQ?oc=5</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 机场大面积滞留与体育赛程受阻</title>
@@ -697,14 +729,6 @@
       <description><![CDATA[<div><p><b>航司发布全系统改签豁免</b>　<span>2026-11-14</span></p><p>美联航、达美等发布全系统免手续费改签政策，豁免窗口至 11 月 20—21 日。</p><p><b>关键数据：</b>美联航豁免截止：11月20日；达美豁免截止：11月21日；退票门槛_国内：延误3小时</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>http://mp.weixin.qq.com/s?__biz=MzA4OTI4NDM3NA==&amp;mid=2652258996&amp;idx=1&amp;sn=815c3eda6cf67cd852e674637b8f85bc</p></div>]]></description>
     </item>
     <item>
-      <title>[2026-11-14] 美国空管通信故障致逾万架次航班延误或取消 - Sohu</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTlod1BMQ3JXYkE0Yl9SUWxfWUlEUlZERDlGOEZjTmpRMjRWaG1Pc2c4M0hNdXZaUHpqQ1ZBeUktRmZyRlRXQTJrUmVuVGVYeXlpUHJOd1JtRlBnU2VTY21jTUd4ZUMzVjZWUUVJcFpXT210dl9mSUdpSlotdnNXY3JLZEpVMmhsZHZrWmJ1cw?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTlod1BMQ3JXYkE0Yl9SUWxfWUlEUlZERDlGOEZjTmpRMjRWaG1Pc2c4M0hNdXZaUHpqQ1ZBeUktRmZyRlRXQTJrUmVuVGVYeXlpUHJOd1JtRlBnU2VTY21jTUd4ZUMzVjZWUUVJcFpXT210dl9mSUdpSlotdnNXY3JLZEpVMmhsZHZrWmJ1cw?oc=5#n_603aa0ea74b4</guid>
-      <pubDate>Sat, 14 Nov 2026 07:53:37 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>美国空管通信故障致逾万架次航班延误或取消 - Sohu</b>　<span>2026-11-14</span></p><p>美国空管通信故障致逾万架次航班延误或取消 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTlod1BMQ3JXYkE0Yl9SUWxfWUlEUlZERDlGOEZjTmpRMjRWaG1Pc2c4M0hNdXZaUHpqQ1ZBeUktRmZyRlRXQTJrUmVuVGVYeXlpUHJOd1JtRlBnU2VTY21jTUd4ZUMzVjZWUUVJcFpXT210dl9mSUdpSlotdnNXY3JLZEpVMmhsZHZrWmJ1cw?oc=5</p></div>]]></description>
-    </item>
-    <item>
       <title>[2026-11-14] 全美航班停飞：空管通信故障所致，与FAA人工智能系统是否有关仍在调查 - 凤凰网</title>
       <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE51RThuVThzZ1UtOVVPTElZdzJIaWl4NG44VFYyR2JkXzRZMzFGblBlX0J0UkpXcFByOHc1dGNUS1BYLUxkcGZsSGktODdrc3g5ZVE?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE51RThuVThzZ1UtOVVPTElZdzJIaWl4NG44VFYyR2JkXzRZMzFGblBlX0J0UkpXcFByOHc1dGNUS1BYLUxkcGZsSGktODdrc3g5ZVE?oc=5#n_4a1648dec39b</guid>
@@ -714,11 +738,11 @@
     </item>
     <item>
       <title>[2026-11-14] 美国联邦航空局下令全美航班停飞美国交通部长肖恩·达菲于当地时间13日下午表示，因发生大规模通信故障，美国联邦航空局FAA已要求全美机场暂停航班起飞，所有飞机暂时留在地面等待，如果此次停飞持续较长时间，其影响程度将成为2001年911事件以来最严重 - 新浪网</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4N2FMUzJNZDdEVzNWdEFvZ3lVc1BaajBwai0zbVFBNlJxdEw1aWR0bkxtbnQ4aE02TGRmU09zVTBrcUhzNG14SlhfVzc5T25Fb1VXR3pxSjFSd1pqTGlnY3BXQQ?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4N2FMUzJNZDdEVzNWdEFvZ3lVc1BaajBwai0zbVFBNlJxdEw1aWR0bkxtbnQ4aE02TGRmU09zVTBrcUhzNG14SlhfVzc5T25Fb1VXR3pxSjFSd1pqTGlnY3BXQQ?oc=5#n_63d3438783df</guid>
+      <link>https://www.sina.cn/news/detail/5365058973991631.html</link>
+      <guid isPermaLink="false">https://www.sina.cn/news/detail/5365058973991631.html#n_63d3438783df</guid>
       <pubDate>Sat, 14 Nov 2026 07:40:00 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>美国联邦航空局下令全美航班停飞美国交通部长肖恩·达菲于当地时间13日下午表示，因发生大规模通信故障，美国联邦航空局FAA已要求全美机场暂停航班起飞，所有飞机暂时留在地面等待，如果此次停飞持续较长时间，其影响程度将成为2001年911事件以来最严重 - 新浪网</b>　<span>2026-11-14</span></p><p>美国联邦航空局下令全美航班停飞美国交通部长肖恩·达菲于当地时间13日下午表示，因发生大规模通信故障，美国联邦航空局FAA已要求全美机场暂停航班起飞，所有飞机暂时留在地面等待，如果此次停飞持续较长时间，其影响程度将成为2001年911事件以来最严重 新浪网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4N2FMUzJNZDdEVzNWdEFvZ3lVc1BaajBwai0zbVFBNlJxdEw1aWR0bkxtbnQ4aE02TGRmU09zVTBrcUhzNG14SlhfVzc5T25Fb1VXR3pxSjFSd1pqTGlnY3BXQQ?oc=5</p></div>]]></description>
+      <description><![CDATA[<div><p><b>美国联邦航空局下令全美航班停飞美国交通部长肖恩·达菲于当地时间13日下午表示，因发生大规模通信故障，美国联邦航空局FAA已要求全美机场暂停航班起飞，所有飞机暂时留在地面等待，如果此次停飞持续较长时间，其影响程度将成为2001年911事件以来最严重 - 新浪网</b>　<span>2026-11-14</span></p><p>美国联邦航空局下令全美航班停飞美国交通部长肖恩·达菲于当地时间13日下午表示，因发生大规模通信故障，美国联邦航空局FAA已要求全美机场暂停航班起飞，所有飞机暂时留在地面等待，如果此次停飞持续较长时间，其影响程度将成为2001年911事件以来最严重 新浪网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.sina.cn/news/detail/5365058973991631.html</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 美国空管通信故障全国停飞 部分航班恢复起飞 - 博谈网</title>
