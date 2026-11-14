@@ -25,28 +25,33 @@
 └── README.md
 ```
 
-## 发布到 GitHub Pages（手动步骤，约 2 分钟）
+## 发布到 GitHub Pages
 
-1. 在 GitHub 新建一个 **public** 空仓库（不要勾 README），例如 `duanju-feed`。
-2. 本仓库已 `git init` 并完成首次提交，只需关联远端并推送：
+目标地址已按 `ghaner/duanju-feed` 写死在 `src/sources.json` 的 `home_url` / `feed_url`：
 
-   ```bash
-   cd "F:/Informatics/新闻分析/2026-11-14_短剧事件RSS订阅"
-   git remote add origin https://github.com/<你的用户名>/<仓库名>.git
-   git branch -M main
-   git push -u origin main
-   ```
+```
+https://ghaner.github.io/duanju-feed/duanju.xml     ← 订阅地址
+https://ghaner.github.io/duanju-feed/               ← 首页（自动显示并可复制订阅地址）
+```
 
-3. 打开仓库 **Settings → Pages**，Source 选 `Deploy from a branch`，Branch 选 `main`、目录 `/ (root)`，Save。
-4. 等约 1 分钟，访问 `https://<你的用户名>.github.io/<仓库名>/`。
-   页面上会自动显示并复制订阅地址，形如：
+**唯一需要手工做的一步：在 GitHub 上建一个空仓库**（Web 端 New repository，名字 `duanju-feed`，public，不要勾任何初始化文件）。WorkBuddy 的 GitHub 连接器是 App 身份、没有建库权限，这一步代替不了。
 
-   ```
-   https://<你的用户名>.github.io/<仓库名>/duanju.xml
-   ```
+建好之后：
 
-5. 打开仓库 **Actions → Update Event Feed → Run workflow** 手动跑一次，确认首轮成功、`duanju.xml` 被提交。
-6. 若 Actions 报 403 无法推送：**Settings → Actions → General → Workflow permissions** 选 `Read and write permissions`，保存后重跑。
+```bash
+cd "F:/Informatics/新闻分析/2026-11-14_短剧事件RSS订阅"
+git remote add origin https://github.com/ghaner/duanju-feed.git
+git push -u origin main
+```
+
+推送完成后，工作流会自动接管：
+
+1. `Update Event Feed` 每日 UTC 23:30（北京 07:30）跑一次，也可以 **Actions → Update Event Feed → Run workflow** 立刻手动跑一次。
+2. 其中的 `deploy` 任务用 `actions/configure-pages` 的 `enablement: true` **自动创建 Pages 站点**，所以不需要去 Settings 里手点。
+3. 若 `deploy` 因为组织策略报 “Get Pages site failed”，到 **Settings → Pages → Source** 选 **GitHub Actions**，再重跑一次即可（**不要**选 `Deploy from a branch`，本仓库的发布走 artifact，两者不能混用）。
+4. 若 `update` 步骤报 403 无法推送：**Settings → Actions → General → Workflow permissions** 选 `Read and write permissions`，保存后重跑。
+
+顺带说明：`deploy` 只把 `index.html`、`duanju.xml`、`.nojekyll` 三个文件打包上传（见 workflow 的 `Stage site` 步骤），`.git`、`src/`、`data/` 不会公开。
 
 ## 订阅
 

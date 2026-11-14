@@ -22,6 +22,11 @@ concurrency:
   group: update-event-feed
   cancel-in-progress: false
 
+# 说明：本仓库只走「GitHub Actions」这一种 Pages 发布方式（deploy 任务），
+# 不依赖 Settings 里手工选 Deploy from a branch。
+# 首次运行由 configure-pages 的 enablement 自动创建 Pages 站点；
+# 若该步被拒（组织策略），到 Settings → Pages → Source 选「GitHub Actions」再运行一次即可。
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -79,3 +84,45 @@ jobs:
             git commit -m "chore: update event feed ($(date -u +%Y-%m-%d))"
             git push
           fi
+
+  # ===================== 发布到 GitHub Pages =====================
+  # 用 artifact 方式发布整个仓库根目录（index.html + duanju.xml + .nojekyll）。
+  # checkout 是全新克隆，因此能拿到 update 任务刚 push 的最新 XML。
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Configure Pages (首次自动启用站点)
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      # 只把对外可见的三个东西打包：首页、feed XML、.nojekyll。
+      # 不能直接 path: "." —— 那样会把 .git、src、data 一并上传并公开。
+      - name: Stage site
+        run: |
+          mkdir -p _site
+          cp index.html .nojekyll _site/
+          cp *.xml _site/ 2>/dev/null || true
+          ls -la _site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

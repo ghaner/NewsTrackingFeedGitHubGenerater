@@ -7,3 +7,6 @@ backup/
 data/.last_fetch
 data/duanju_overseas_top9/
 data/incoming.jsonl
+
+# Pages 打包临时目录
+_site/
