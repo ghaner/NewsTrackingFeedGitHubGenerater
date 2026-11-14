@@ -47,9 +47,7 @@ https://ghaner.github.io/news-feed/duanju.xml     ← 订阅地址
 https://ghaner.github.io/news-feed/               ← 首页（列出全部 feed）
 ```
 
-**唯一需要手工做的一步：在 GitHub 上建一个空仓库**（Web 端 New repository，名字 `news-feed`，public，不要勾任何初始化文件）。WorkBuddy 的 GitHub 连接器是 App 身份、没有建库权限，这一步代替不了。
-
-建好之后：
+仓库已建好、远端已配置（`origin` → `https://github.com/ghaner/news-feed.git`），日常改完直接提交推送即可（或双击 `publish.bat`）：
 
 ```bash
 cd "F:/Informatics/新闻分析/2026-11-14_短剧事件RSS订阅"
