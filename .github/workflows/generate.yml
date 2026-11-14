@@ -1,6 +1,6 @@
 name: Update Event Feed
 
-# 每日定时增量抓取「海外短剧付费榜中国厂商九席」事件的后续报道，
+# 每小时定时增量抓取各事件的后续报道，
 # 合并进时间轴后重新生成 duanju.xml，由 GitHub Pages 对外提供订阅地址。
 #
 # 三层韧性（与 feed-github-generater 方法论一致）：
@@ -8,11 +8,12 @@ name: Update Event Feed
 #   2) 无新增 → rebuild.py 打印 NO_NEW 且不改动 event.json，feed 保持上一版；
 #   3) 生成 0 条 → generate_feed.py 跳过该源，不覆盖旧 feed。
 #
-# 时间：北京时间 07:30 = UTC 23:30（避开整点高峰，也不与本地 08:10 的代理追踪撞车）
+# 频率：每小时整点（cron "0 * * * *"）。无新增时 rebuild 打印 NO_NEW、不产生空提交。
+# 说明：每小时一次，是因为事件的后续报道常在数小时内爆发；日更会在热点期明显滞后。
 
 on:
   schedule:
-    - cron: "30 23 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -94,7 +95,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "无变化，跳过提交"
           else
-            git commit -m "chore: update event feed ($(date -u +%Y-%m-%d))"
+            git commit -m "chore: update event feed ($(date -u +%Y-%m-%dT%H:%MZ))"
             git push
           fi
 

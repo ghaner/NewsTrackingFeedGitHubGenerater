@@ -1,6 +1,13 @@
 # news-feed · 新闻事件追踪 RSS 订阅源
 
-把一条新闻做成**可 URL 订阅的 RSS 2.0 源**：GitHub Actions 每日增量抓取后续报道 → 并入该事件时间轴 → 重新生成 feed → GitHub Pages 提供公网订阅地址。
+把一条新闻做成**可 URL 订阅的 RSS 2.0 源**：GitHub Actions 每小时增量抓取后续报道 → 并入该事件时间轴 → 重新生成 feed → GitHub Pages 提供公网订阅地址。
+
+**订阅地址（直接粘进阅读器）**
+
+```
+https://ghaner.github.io/news-feed/duanju.xml
+```
+
 
 一个仓库容纳**所有**新闻追踪事件，按 `data/<slug>/` 与 `<slug>.xml` 隔离，互不干扰。当前收录：
 
@@ -57,7 +64,7 @@ git push -u origin main
 
 推送完成后，工作流自动接管：
 
-1. `Update Event Feed` 每日 UTC 23:30（北京 07:30）跑一次，也可以 **Actions → Update Event Feed → Run workflow** 立刻手动跑一次。
+1. `Update Event Feed` **每小时整点**（`cron: "0 * * * *"`）跑一次；无新增时不改数据、不产生空提交。也可以 **Actions → Update Event Feed → Run workflow** 立刻手动跑一次。
 2. 其中 `deploy` 任务用 `actions/configure-pages` 的 `enablement: true` **自动创建 Pages 站点**，不需要去 Settings 手点。
 3. 若 `deploy` 报 “Get Pages site failed”，到 **Settings → Pages → Source** 选 **GitHub Actions** 再重跑（**不要**选 `Deploy from a branch`，本仓库走 artifact 发布，两者不能混用）。
 4. 若 `update` 步骤报 403 无法推送：**Settings → Actions → General → Workflow permissions** 选 `Read and write permissions`，保存后重跑。

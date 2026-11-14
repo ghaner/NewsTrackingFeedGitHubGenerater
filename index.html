@@ -42,7 +42,7 @@
 <div class="wrap">
   <span class="tag">NEWS EVENT FEEDS · RSS 2.0</span>
   <h1>新闻事件追踪订阅源</h1>
-  <p class="lead">每条新闻做成一条可订阅的事件时间轴：GitHub Actions 每日抓取增量报道，并入同一事件后重新生成 feed。一个仓库容纳全部事件，互不干扰。</p>
+  <p class="lead">每条新闻做成一条可订阅的事件时间轴：GitHub Actions 每小时抓取增量报道，并入同一事件后重新生成 feed。一个仓库容纳全部事件，互不干扰。</p>
 
   <div id="feeds"></div>
 
@@ -58,7 +58,7 @@
   <div class="card">
     <h2>更新机制</h2>
     <ul>
-      <li>每日北京时间 07:30，GitHub Actions 按各事件关键词抓取新报道</li>
+      <li>每小时整点，GitHub Actions 按各事件关键词抓取新报道；无新增时不产生空提交</li>
       <li>三重去重（URL／标题／正文相似度）后并入时间轴，追加版本快照</li>
       <li>抓取失败或 0 新增时不覆盖旧 feed，订阅不中断</li>
       <li>条目里的「冲突节点：是」表示同一进展存在日期或数字分歧，已保留多版本</li>
