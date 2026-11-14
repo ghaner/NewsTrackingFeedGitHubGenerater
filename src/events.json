@@ -9,6 +9,15 @@
       "feed": "duanju.xml",
       "data_dir": "data/duanju",
       "started_at": "2026-09"
+    },
+    {
+      "slug": "us-ground-stop",
+      "title": "全美航班停飞：FAA 通信故障与空管系统技术债",
+      "keywords": "FAA 地面停飞,全美航班停飞,航路交通管制中心,空管通信故障,空管系统升级",
+      "since_days": 3,
+      "feed": "us-ground-stop.xml",
+      "data_dir": "data/us-ground-stop",
+      "started_at": "2026-11"
     }
   ]
 }
