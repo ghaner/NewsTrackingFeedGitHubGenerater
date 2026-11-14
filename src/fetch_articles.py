@@ -12,6 +12,14 @@ fetch_articles.py — 自主检索器（GitHub / 无人值守模式）
 输出：标准 article JSONL（每行一个），写入 --out 指定文件（缺省 stdout）。
 每条 article 字段（与流水线一致）：
   id, url, title, content, published_at(ISO), credibility, event_label, facts
+另附 link_kind：original（原文地址）| google_redirect（未能还原，保留跳转链接）
+
+链接还原（--resolve，默认开启）：
+  Google News RSS 的 <link> 是 news.google.com/rss/articles/<密文> 的跳转页，
+  不含正文、本地也打不开。默认会把每条还原成原文地址，顺序为
+  ① 页面 data-n-au 属性 → ② 页面 href（按"像文章页"过滤）→ ③ batchexecute 接口。
+  还原失败时保留原链接并标记 google_redirect，不丢条目。
+  DEBUG_RESOLVE=1 可打印诊断（页面长度、href 域名、接口返回片段）。
 
 时间处理：RSS 的 RFC822 发布时间先转 ISO 再交给 align.py；
           仅保留比上次拉取（events/<slug>/.last_fetch）更新的条目。
