@@ -21,6 +21,13 @@
       "conflict_nodes": 1,
       "article_count": 26,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-14T12:03:30.108913+08:00",
+      "node_count": 25,
+      "conflict_nodes": 1,
+      "article_count": 26,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1123,12 +1130,12 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GczdDT19YU2cyN0NfUklDQmlBX0ptdXA1cVdBMVVJbVVZZ2MxYU53N3pOcERlTkdYNFRRZThYdjNtRnJCdWFEdGhPbUNZMEE2OXBoN0NIYzRlUmJNVExoVA?oc=5"
+        "https://www.google-analytics.com/analytics.js"
       ],
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-14T11:42:50.251140+08:00",
+  "updated_at": "2026-11-14T12:03:30.108913+08:00",
   "last_stats": {
     "node_count": 25,
     "conflict_nodes": 1,
