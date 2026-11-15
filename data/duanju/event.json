@@ -49,6 +49,13 @@
       "conflict_nodes": 1,
       "article_count": 27,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-15T09:27:24.712628+08:00",
+      "node_count": 27,
+      "conflict_nodes": 1,
+      "article_count": 28,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -919,6 +926,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_cb3773b51ef8",
+      "event_label": "大兴搭台帮微短剧“出海”，新视听产业空间正式发布 - 京报网",
+      "timestamp_local": "2026-11-12T13:42:01+08:00",
+      "timestamp_utc": "2026-11-12T05:42:01+00:00",
+      "timestamp_sort": 1794462121.0,
+      "summary": "大兴搭台帮微短剧“出海”，新视听产业空间正式发布 京报网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.bjd.com.cn/2026/11/12/12027726.shtml"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_194bed128aec",
       "event_label": "板块行情：AI漫剧概念拉升，文投控股5天4板",
       "timestamp_local": "2026-11-13T00:00:00+08:00",
@@ -1158,9 +1180,9 @@
     {
       "node_id": "n_e68fc332cdb9",
       "event_label": "AI把短剧出海成本打下来，钱却流向了投流平台 - 同花顺财经",
-      "timestamp_local": "2026-11-14T09:10:52+08:00",
-      "timestamp_utc": "2026-11-14T01:10:52+00:00",
-      "timestamp_sort": 1794618652.0,
+      "timestamp_local": "2026-11-14T12:38:46+08:00",
+      "timestamp_utc": "2026-11-14T04:38:46+00:00",
+      "timestamp_sort": 1794631126.0,
       "summary": "AI把短剧出海成本打下来，钱却流向了投流平台 同花顺财经",
       "facts": {},
       "conflict": false,
@@ -1171,11 +1193,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-14T19:07:46.824532+08:00",
+  "updated_at": "2026-11-15T09:27:24.712628+08:00",
   "last_stats": {
-    "node_count": 26,
+    "node_count": 27,
     "conflict_nodes": 1,
-    "article_count": 27
+    "article_count": 28
   },
-  "articles_fingerprint": "8f9d74f2cbbc2098"
+  "articles_fingerprint": "21e29856bed07432"
 }
