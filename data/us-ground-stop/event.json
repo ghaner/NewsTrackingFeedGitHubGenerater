@@ -75,6 +75,13 @@
       "conflict_nodes": 0,
       "article_count": 138,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-16T08:34:44.908344+08:00",
+      "node_count": 138,
+      "conflict_nodes": 0,
+      "article_count": 145,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -841,7 +848,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOeE9PSkJtSWp3RXEtN1QxV3ZHaWxNc2tKZENfWENWSkVsYXl3SkZzMnRXVlNYejMtWElGdnowVF9laWJuYXEtd010X3JNRm1fcUk5Y2JJTmlraTI2QVUtb1F4MWpGckkyLWJyTmVIZ1ZMZXBKSWpncXlxdk9LYmc1aXJabFdsZWhyT0hOU1RQT29Vbm03QkxaMF9kU3RGZEszZXlWTUNGaWk0MXhxRWg1dWJNWnV5dGxuUFFZREY1Rnl4ZHpuVUpnNERTRHprVmF0WjNJMUlXLW9ISGFIZnBXa3dxQ2NjMmI2V0VjMHNQQjJXUWoydGdpM0Q5QVB5Y1NkVHlpREJUazFBYU0tYlB1cVpOTHdidG10S280eldNMkVtbV9ONTRGb2Fqd1VGck1wWmw4LXpKYTlCRHRrb2U3alhwa0FYTXdGemw4WHhlMXdTUQ?oc=5"
+        "https://www.chinapress.com.my/20261114/%E7%BE%8E%E8%81%94%E9%82%A6%E8%88%AA%E7%A9%BA%E5%B1%80%E4%B8%8B%E4%BB%A4-%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%EF%BC%8122%E5%8C%BA%E5%9F%9F%E7%A9%BA%E7%AE%A1%E4%B8%AD%E5%BF%83/"
       ],
       "article_count": 1
     },
@@ -1312,7 +1319,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4NGJOUDQ4X1kzaVBpazVyX1JPbF91Q2ozMzc0NXV2c05QSzMta3lWdkdNZTNJLXJUWklQSlFXcE1xdjQ4ZW02aFktampjZzl6cUlHQmw5VC1td2lodUJIbtIBZkFVX3lxTE1jaWZmbXE2TEZtQzJIS29Rb2JjY0lhLS1CTzFhbHN1Y1ZjTEI4ZWpFYjE5S3RFWm9LRmlvcUNNLS1rdXNlbFA2a2xZMVRISlBtYWQ2NW1MZmoxa2l2Y2NQcUtjS1FkQQ?oc=5"
+        "https://www.ntdtv.com/gb/2026/11/14/a104150613.html"
       ],
       "article_count": 1
     },
@@ -1930,7 +1937,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fS0pLQ3Q5QlQzLUxjYnJQSjV4R1lkeGVuNHBaMFhCcW4tT0dQalZCUXJyS1M3eTJWSWZmbXBuYVluVXYtbk8yMmRPbGZLbDBYdGw4RGRJS1pZN28ydlYtedIBZkFVX3lxTFBKYWozRTdyVzdvY3Fic1VjMEpRT1N6SUlMb1dTSE82TTRHVGhTa3EtTHYwODZpUGRVajk5bFFGbVV1bmpGdmJIcUNSM0JnVU1PbVliR2h3VGh6ZnBUZ1dWd2Rha0U3UQ?oc=5"
+        "https://www.ntdtv.com/gb/2026/11/14/a104150629.html"
       ],
       "article_count": 1
     },
@@ -2275,7 +2282,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1FDazBjLUtCdE15cWRtcmNyRmltSHlpTG5xRGZtcHV5T3YxSkZ3dHhaQjFNXzNtRFl2NzFHU2ZkS21mNHVzT0lNa2dPdkVpNm9iY1c0bkZkQUp0M3RoanJIdTVQOTRSd1VDSUdxTUdBbW1UX3VkOUpZai1MVGlJSVpaTjd2QkRkTnhZbA?oc=5"
+        "https://m.sohu.com/a/1101587615_121934756?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -2290,7 +2297,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://tidenews.com.cn/news.html?id\\\\u003d3614878"
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wa2M1cU5nam91S1FxaEZPN19HbWdBSTV4a2hObERpRDRvRW9BME5QTnpVVlJORVZER2V4VjBqV3NfcGttaVJ1WUtpaTk0Yk9fN28xVU9Edw?oc=5"
       ],
       "article_count": 1
     },
@@ -2415,6 +2422,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_c38fad74a2bd",
+      "event_label": "系统故障酿全美航班停飞 交通部长达菲将矛头指向承包商L3Harris - 新浪财经",
+      "timestamp_local": "2026-11-15T01:58:51+08:00",
+      "timestamp_utc": "2026-11-14T17:58:51+00:00",
+      "timestamp_sort": 1794679131.0,
+      "summary": "系统故障酿全美航班停飞 交通部长达菲将矛头指向承包商L3Harris 新浪财经",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniytwwq6847969.shtml"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_af9d90ad1edf",
       "event_label": "系统故障酿全美航班停飞 交通部长达菲将矛头指向承包商L3Harris - Sohu",
       "timestamp_local": "2026-11-15T01:58:52+08:00",
@@ -2425,7 +2447,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmdHQTJzWl9NaC1aR2FXOVNyc1ZET2N5QWZaUHJ4VnAxN09mdkZUQWRVNExob0xpM1VKZXo1TC1jcnNpeTBtbmxnYWRmNEgxSHpUY0RfT1d2RDROaEN0M1FxZlA2Y0pqM0JqWTVkb0tDMzVDWlBrVlNncjVMQ3JGUHZwNUItenhFRkozeA?oc=5"
+        "https://m.sohu.com/a/1101655366_122014422?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -2605,7 +2627,22 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.china.com/socialgd/10000169/20261115/49873140.html"
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PNzd3b2hNMzNJU1ZUMXpZVFRFeno0MjFTYXdpVVA3azhROFdkR3dEN0x5TTlDTHJkRkh4UEhRUmd2UVdTMF9GdV9ZMVE1cmV1RUk4X0JuY0FXTjRnY2xIWk9TUDktdnlkdGhpekZQdEE?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_b7b546040802",
+      "event_label": "导致全美航班停飞的“罪魁祸首”找到了？FAA调查指向20年历史路由器 - Sohu",
+      "timestamp_local": "2026-11-15T11:19:36+08:00",
+      "timestamp_utc": "2026-11-15T03:19:36+00:00",
+      "timestamp_sort": 1794712776.0,
+      "summary": "导致全美航班停飞的“罪魁祸首”找到了？FAA调查指向20年历史路由器 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1101772323_122014422?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -2636,21 +2673,6 @@
       "confidence": 0.6,
       "sources": [
         "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fdDYxdjFCY0g3VG53T2g1dWk1cVh2eXhIQm1HVUJCOGdpd294VXpycXRnUGdKTWdOaFNzYVdQQ2xXbFBDdFV1UDIxQmRJS2lBdTVFRVlhbTdKWEczV1dRWDJvNWRlaHRCc0dwYjlERkJILUMxYlo0?oc=5"
-      ],
-      "article_count": 1
-    },
-    {
-      "node_id": "n_7bef7cdfe5da",
-      "event_label": "#一台路由器 为何让全美航班停飞# - Sohu",
-      "timestamp_local": "2026-11-15T19:32:03+08:00",
-      "timestamp_utc": "2026-11-15T11:32:03+00:00",
-      "timestamp_sort": 1794742323.0,
-      "summary": "#一台路由器 为何让全美航班停飞# Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://m.sohu.com/xtopic/TURBeE5UQXhPRFUw?scm\\\\u003dthor.1992_13-103000-0_923.0-0.0-0-0-0-0.a2_5X142X453"
       ],
       "article_count": 1
     },
@@ -2700,6 +2722,36 @@
       "article_count": 1
     },
     {
+      "node_id": "n_7bef7cdfe5da",
+      "event_label": "#一台路由器 为何让全美航班停飞# - Sohu",
+      "timestamp_local": "2026-11-15T20:15:46+08:00",
+      "timestamp_utc": "2026-11-15T12:15:46+00:00",
+      "timestamp_sort": 1794744946.0,
+      "summary": "#一台路由器 为何让全美航班停飞# Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRmZ0VEFrY0pLRkJ0d1BSX2U3VjV4RVRxbnVVOVBnN0NOdFdZbGN4b1pTa2FuZHFCLXFXbFFpQmgtZXVwUGFDbHhZM0p0X0tHYkVhbElsdXBPR1F2YzBhWnZGcWI3WUtrbXhDNHFCN19nT2tpSkNiLVlTXzl4aW43QjZoT1EtaTB6Nm1UUTR1NVREZE1ZcVZ0Xzd6WS1uVmRFN0Vla29iTXFhUVIzNTlnT0hpOHVmZ09yYklucXJuM3YydWtvb1d6dkllTlNLclRncVNHZVdRNXRnMXZSNjJJWVl2S0dMR2ROeWp4ODhWYkttVnlDTDE2dHZB?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_b2955ced459a",
+      "event_label": "【早报】新版国家医保商保“双目录”公布；美国空管通信故障致逾万架次航班延误或取消 - 财联社",
+      "timestamp_local": "2026-11-15T22:27:00+08:00",
+      "timestamp_utc": "2026-11-15T14:27:00+00:00",
+      "timestamp_sort": 1794752820.0,
+      "summary": "【早报】新版国家医保商保“双目录”公布；美国空管通信故障致逾万架次航班延误或取消 财联社",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.cls.cn/detail/2534816"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_259b089b8421",
       "event_label": "特朗普首谈全美航班停飞事件：都怪拜登政府 - 联合早报",
       "timestamp_local": "2026-11-15T22:46:07+08:00",
@@ -2730,21 +2782,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_6d9f0b3bfc34",
-      "event_label": "一台路由器 为何让全美航班停飞？ - 万维读者网",
-      "timestamp_local": "2026-11-16T00:38:29+08:00",
-      "timestamp_utc": "2026-11-15T16:38:29+00:00",
-      "timestamp_sort": 1794760709.0,
-      "summary": "一台路由器 为何让全美航班停飞？ 万维读者网",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBac2lHRlozM25CSk1la1g3bFFPRnZqd2JZNnR6ZEhFUzBQSHlvQWZZZ1BKcmxQNjJTTGh6dktPMURTYnRBUzR3dVhiX04xZFhSTklmNTZMRFMtT2d6YmU4R21R?oc=5"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_4d914fc9c626",
       "event_label": "特朗普首次回应全美航班停飞：归咎拜登政府 呼吁国会拨款升级空管 - 凤凰网",
       "timestamp_local": "2026-11-16T01:27:48+08:00",
@@ -2758,13 +2795,88 @@
         "https://original.ifeng.com/c/8y5HN53X9Ae"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_6d9f0b3bfc34",
+      "event_label": "一台路由器 为何让全美航班停飞？ - 万维读者网",
+      "timestamp_local": "2026-11-16T01:34:39+08:00",
+      "timestamp_utc": "2026-11-15T17:34:39+00:00",
+      "timestamp_sort": 1794764079.0,
+      "summary": "一台路由器 为何让全美航班停飞？ 万维读者网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBac2lHRlozM25CSk1la1g3bFFPRnZqd2JZNnR6ZEhFUzBQSHlvQWZZZ1BKcmxQNjJTTGh6dktPMURTYnRBUzR3dVhiX04xZFhSTklmNTZMRFMtT2d6YmU4R21R?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_604c40f991f9",
+      "event_label": "川普首度回应全美航班停飞事件 交通部长达菲拒道歉 - 美国中文网",
+      "timestamp_local": "2026-11-16T06:38:47+08:00",
+      "timestamp_utc": "2026-11-15T22:38:47+00:00",
+      "timestamp_sort": 1794782327.0,
+      "summary": "川普首度回应全美航班停飞事件 交通部长达菲拒道歉 美国中文网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.sinovision.net/news_web/202611/t20261115_66573.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_643b97d0e722",
+      "event_label": "全美航班停飞或由换光纤导致 路由器故障引发大混乱 - 中华网",
+      "timestamp_local": "2026-11-16T08:06:22+08:00",
+      "timestamp_utc": "2026-11-16T00:06:22+00:00",
+      "timestamp_sort": 1794787582.0,
+      "summary": "全美航班停飞或由换光纤导致 路由器故障引发大混乱 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.china.com/socialgd/10000169/20261116/49874322.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_f4420d95ea8f",
+      "event_label": "震惊！全美航班停飞曝大软肋 竟还在使用软盘？ - 文学城",
+      "timestamp_local": "2026-11-16T08:19:14+08:00",
+      "timestamp_utc": "2026-11-16T00:19:14+00:00",
+      "timestamp_sort": 1794788354.0,
+      "summary": "震惊！全美航班停飞曝大软肋 竟还在使用软盘？ 文学城",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SbXNWT3Zwd2xHcnVOa3I2cV9JT09Zb3h0aGYzby1kcHM2VFNxV0hyemMzOWE5enFESHY3aGJKSTZYM1lBZ3Rjc0w3aEIxMk1tZklLLVhEYjFwTTliV2VTSGh2YVR3MUtC?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_1bae025af64a",
+      "event_label": "全美航班停飞，特朗普听取简报 空中管制故障引发 - 中华军事",
+      "timestamp_local": "2026-11-16T08:26:25+08:00",
+      "timestamp_utc": "2026-11-16T00:26:25+00:00",
+      "timestamp_sort": 1794788785.0,
+      "summary": "全美航班停飞，特朗普听取简报 空中管制故障引发 中华军事",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://military.china.com/news/13004177/20261116/49874500.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-16T04:53:20.989623+08:00",
+  "updated_at": "2026-11-16T08:34:44.908344+08:00",
   "last_stats": {
-    "node_count": 131,
+    "node_count": 138,
     "conflict_nodes": 0,
-    "article_count": 138
+    "article_count": 145
   },
-  "articles_fingerprint": "787b68e4460e5083"
+  "articles_fingerprint": "ad9e0ff3c64c9737"
 }
