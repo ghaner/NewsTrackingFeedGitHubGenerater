@@ -89,6 +89,13 @@
       "conflict_nodes": 0,
       "article_count": 112,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-16T15:30:26.894233+08:00",
+      "node_count": 117,
+      "conflict_nodes": 0,
+      "article_count": 123,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -815,8 +822,8 @@
       "article_count": 1
     },
     {
-      "node_id": "n_84abb3a745da",
-      "event_label": "美联邦航空局下令 全美航班停飞！22区域空管中心故障 - China Press",
+      "node_id": "n_46089d9685e7",
+      "event_label": "美联邦航空局下令全美航班停飞22区域空管中心故障",
       "timestamp_local": "2026-11-14T08:40:00+08:00",
       "timestamp_utc": "2026-11-14T00:40:00+00:00",
       "timestamp_sort": 1794616800.0,
@@ -825,7 +832,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.chinapress.com.my/20261114/%E7%BE%8E%E8%81%94%E9%82%A6%E8%88%AA%E7%A9%BA%E5%B1%80%E4%B8%8B%E4%BB%A4-%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%EF%BC%8122%E5%8C%BA%E5%9F%9F%E7%A9%BA%E7%AE%A1%E4%B8%AD%E5%BF%83/"
+        "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOeE9PSkJtSWp3RXEtN1QxV3ZHaWxNc2tKZENfWENWSkVsYXl3SkZzMnRXVlNYejMtWElGdnowVF9laWJuYXEtd010X3JNRm1fcUk5Y2JJTmlraTI2QVUtb1F4MWpGckkyLWJyTmVIZ1ZMZXBKSWpncXlxdk9LYmc1aXJabFdsZWhyT0hOU1RQT29Vbm03QkxaMF9kU3RGZEszZXlWTUNGaWk0MXhxRWg1dWJNWnV5dGxuUFFZREY1Rnl4ZHpuVUpnNERTRHprVmF0WjNJMUlXLW9ISGFIZnBXa3dxQ2NjMmI2V0VjMHNQQjJXUWoydGdpM0Q5QVB5Y1NkVHlpREJUazFBYU0tYlB1cVpOTHdidG10S280eldNMkVtbV9ONTRGb2Fqd1VGck1wWmw4LXpKYTlCRHRrb2U3alhwa0FYTXdGemw4WHhlMXdTUQ?oc=5"
       ],
       "article_count": 1
     },
@@ -1099,21 +1106,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_c177ce34851d",
-      "event_label": "特朗普回应全美航班停飞 - Sohu",
-      "timestamp_local": "2026-11-14T09:59:00+08:00",
-      "timestamp_utc": "2026-11-14T01:59:00+00:00",
-      "timestamp_sort": 1794621540.0,
-      "summary": "特朗普回应全美航班停飞 Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://m.sohu.com/a/1101438371_163278?scm\\\\u003d10001.198_14-198_14_exp.0.0-0-0-0-0."
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_5a0efefab5ad",
       "event_label": "全美航班停飞令已解除此前进出美国及美国内已有近15万架次航班延误或取消特朗普空管系统故障与网络攻击或人工智能无关",
       "timestamp_local": "2026-11-14T10:03:43+08:00",
@@ -1249,7 +1241,7 @@
     },
     {
       "node_id": "n_edb6e44ed1b5",
-      "event_label": "美国罕见全美航班停飞 数十万乘客受影响 周末体育赛事陷混乱 - 国际 - 即时国际 - Sin Chew Daily",
+      "event_label": "美国罕见全美航班停飞数十万乘客受影响周末体育赛事陷混乱国际即时国际sinchewdaily",
       "timestamp_local": "2026-11-14T10:20:12+08:00",
       "timestamp_utc": "2026-11-14T02:20:12+00:00",
       "timestamp_sort": 1794622812.0,
@@ -1258,7 +1250,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.sinchew.com.my/news/20261114/international/8070023"
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE05YlJHNXlEeVZMX2Y0T3NhZlhuVzJ3QjVmUENBaE93cmNNZ2lmSlktdzRxc2ZzQ3hMSm5WY0ZsVGVnVXlhbDRrZGhaX0xDcjlkWVZiS1R0TUVONGZ3dFRXNGxXd0pHT0xkdzAzNFMzdw?oc=5"
       ],
       "article_count": 1
     },
@@ -1273,7 +1265,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.ifeng.com/c/8y2dZ5XpBZj"
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9CdEJSeDNjeEpKY2RNajNWWUMyV29nSzVhMjE3UF92ekd6N2hiVkM1X0MyZ2FsVzYxbWd0MFdBbjdlOXR4T2NrbW5aN3U?oc=5"
       ],
       "article_count": 1
     },
@@ -1338,17 +1330,17 @@
       "article_count": 1
     },
     {
-      "node_id": "n_e85b96186083",
-      "event_label": "美媒全美航班停飞令已解除",
-      "timestamp_local": "2026-11-14T11:05:20+08:00",
-      "timestamp_utc": "2026-11-14T03:05:20+00:00",
-      "timestamp_sort": 1794625520.0,
-      "summary": "美媒：全美航班停飞令已解除 新华网",
+      "node_id": "n_86d5a25c3a23",
+      "event_label": "全美航班停飞令已解除原因初步锁定特朗普发声",
+      "timestamp_local": "2026-11-14T11:17:08+08:00",
+      "timestamp_utc": "2026-11-14T03:17:08+00:00",
+      "timestamp_sort": 1794626228.0,
+      "summary": "全美航班停飞令已解除，原因初步锁定！特朗普发声 Sohu",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "http://www.xinhuanet.com/photo/20261114/065669935d8b47ff828a5cf7da0cc88c/c.html"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczdRaVBSTmJkYWVhQXdXUjJqVVlVb2oyUUpJTWFERVNFRjFEVllwcks4MHZEakZ6SDAxUEpuM2V6WEM2di1DeUcyVGJtVlllSDM1SHJLVXdpQUFtUGRZbzRTRHdENkNicVZxUHdnWVBRRFRYN3o4UnhoZDMxYmhZNVJnSWFOZnJLWXRLUw?oc=5"
       ],
       "article_count": 1
     },
@@ -1682,7 +1674,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.jfdaily.com.cn/news/detail?id\\\\u003d1213827"
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRTzc0VUlaRmdtaWxhNUtCeU1PMVN0WVhlb2dxZXhhQnoyb0VtaW02a1oyTlZreHZWTkNZc2Z5ZENlVTVjRVBJYm1zWWZQSkVJb09waWNDQV9CQUZ0dkE?oc=5"
       ],
       "article_count": 1
     },
@@ -1697,7 +1689,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.bjd.com.cn/2026/11/14/12030429.shtml"
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSDVtcW9HYWRxSUxkVVpPTDdIYTBWNFlhWWcxNW1YNEhnbzdYb0tqZUdWWExyYkFBMmVHV0JjNU1KVmVYX1ZqclBFSkFyYUM3MkFzN3BkXzIyTnR6cFE?oc=5"
       ],
       "article_count": 1
     },
@@ -1742,7 +1734,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.mydrivers.com/1/1165/1165785.htm"
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSYmQ4YVlHTk51VE9pM3kxWEU1YjlTVUx0d0ZrWWgtZEdvSml2TThQS0czMm93bkcybnNEY29VWWFRS2tuS1VsVFpIY3ZFSUtvaURlRzE5dng?oc=5"
       ],
       "article_count": 1
     },
@@ -1818,21 +1810,6 @@
       "confidence": 0.6,
       "sources": [
         "https://k.sina.com.cn/article_1999472465_772d87510190250zc.html"
-      ],
-      "article_count": 1
-    },
-    {
-      "node_id": "n_20e9fd6ce843",
-      "event_label": "全美航班停飞令已解除，原因初步锁定 - 手机新浪网",
-      "timestamp_local": "2026-11-14T17:48:27+08:00",
-      "timestamp_utc": "2026-11-14T09:48:27+00:00",
-      "timestamp_sort": 1794649707.0,
-      "summary": "全美航班停飞令已解除，原因初步锁定 手机新浪网",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://k.sina.com.cn/article_1682207150_m644471ae03301r1ry.html"
       ],
       "article_count": 1
     },
@@ -1957,6 +1934,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_1ef1af41b57c",
+      "event_label": "特朗普回应全美航班停飞",
+      "timestamp_local": "2026-11-14T21:27:00+08:00",
+      "timestamp_utc": "2026-11-14T13:27:00+00:00",
+      "timestamp_sort": 1794662820.0,
+      "summary": "特朗普回应全美航班停飞 京报网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://xinwen.bjd.com.cn/content/s6af861ace4b039a8e2f39e00.html"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_a46dac06d92b",
       "event_label": "“9·11”后两次全美航班停飞 - 手机新浪网",
       "timestamp_local": "2026-11-14T21:33:23+08:00",
@@ -1973,7 +1965,7 @@
     },
     {
       "node_id": "n_92e2f8a78e9f",
-      "event_label": "美国联邦航空管理局：已解除全美航班停飞令 - Shangbao Indonesia",
+      "event_label": "美国联邦航空管理局已解除全美航班停飞令shangbaoindonesia",
       "timestamp_local": "2026-11-14T21:49:00+08:00",
       "timestamp_utc": "2026-11-14T13:49:00+00:00",
       "timestamp_sort": 1794664140.0,
@@ -2043,21 +2035,6 @@
       "confidence": 0.6,
       "sources": [
         "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbVpDVlBpZl9SZVlrbE5lV01PSm14cm9RdDA4QjNMbjY2REV6XzhxczJlTHZ5UmFDbVpDOGRDRmZBbWE5bHYwc2R3V0UwWVdzSFp0R1AtS2JONEtRQU05U0ZRS2Q5aklUQXpmdXhUaVVkT3NvTEI0Ym5mS3BUN2RGT0gtZnZVbmkxU2pablZ0Q2FFeDhGV09r?oc=5"
-      ],
-      "article_count": 1
-    },
-    {
-      "node_id": "n_33c71829a9f0",
-      "event_label": "全美航班停飞5小时是9·11以来持续时间最长一次美联邦航空局局长致歉美交通部长故障发生时正升级通信线路调查是否操作失误",
-      "timestamp_local": "2026-11-15T07:09:14+08:00",
-      "timestamp_utc": "2026-11-14T23:09:14+00:00",
-      "timestamp_sort": 1794697754.0,
-      "summary": "全美航班停飞5小时，是“9·11”以来持续时间最长一次，美联邦航空局局长致歉，美交通部长：故障发生时正升级通信线路，调查是否操作失误 Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWc3c2x3bmxYdDV4NkNWMjdYUlAxamxMeFc5UUZvSGtxdi1ZcE9oNVJDYVhMZmJSWVV4S243TTU3eUpraDBHc01VX2d4R1VLRjRHdTF1RHd1dTNPSkZkR1V0WG9weE04RV8yZmJIS2Q1OHYwMFRPZjZKeUJjck9rVTBYQ08xMm9z?oc=5"
       ],
       "article_count": 1
     },
@@ -2137,6 +2114,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_33c71829a9f0",
+      "event_label": "全美航班停飞5小时是9·11以来持续时间最长一次美联邦航空局局长致歉美交通部长故障发生时正升级通信线路调查是否操作失误",
+      "timestamp_local": "2026-11-15T11:10:47+08:00",
+      "timestamp_utc": "2026-11-15T03:10:47+00:00",
+      "timestamp_sort": 1794712247.0,
+      "summary": "全美航班停飞5小时，是“9·11”以来持续时间最长一次，美联邦航空局局长致歉，美交通部长：故障发生时正升级通信线路，调查是否操作失误 凤凰网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvSnJ6SnRSWG9ZSDFpQzNpMUJDbVFKNk5TZmlhZHVqMVBlNkU1b3lXeElpel9lbjJockZzUXBKeUFRYVJxRkJTdHJ3dUE?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_81bb253ad27f",
       "event_label": "导致全美航班停飞的罪魁祸首找到了faa调查指向20年历史路由器",
       "timestamp_local": "2026-11-15T11:19:36+08:00",
@@ -2147,7 +2139,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1101772323_122014422?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNkV4VjhBUks4T1NwMXR2ZVVucm5jNTY4eEJ3QVBBLTd4RWZ5SU56TF9GUl9MLXhrU2lnWlFpY1VFVHdIZkxmOFdXNXFBSEF0WFlEVnlJY1VRVnhBLVduOHRESDhQZnB0Z1Zxa0VrX1R0VnE4ZThvdzd0ZHdDUEZJc010enZ0bkJPVWluaQ?oc=5"
       ],
       "article_count": 1
     },
@@ -2222,7 +2214,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.china.com/socialgd/10000169/20261115/49873995.html"
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xdThKX1ZEQjBGTEExdlRLbXpKV2xMc3E2ZVJUbjR1OTVUZjh5c2ZZODJvQkRXaTJGUVFUckRoUFhCanRvY3RoT1pfWWhvS1ZBUTZURy1NRGJ2QXNjY2oxY0lSTG04anlYa1Z6dXprcVM?oc=5"
       ],
       "article_count": 1
     },
@@ -2238,21 +2230,6 @@
       "confidence": 0.6,
       "sources": [
         "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRmZ0VEFrY0pLRkJ0d1BSX2U3VjV4RVRxbnVVOVBnN0NOdFdZbGN4b1pTa2FuZHFCLXFXbFFpQmgtZXVwUGFDbHhZM0p0X0tHYkVhbElsdXBPR1F2YzBhWnZGcWI3WUtrbXhDNHFCN19nT2tpSkNiLVlTXzl4aW43QjZoT1EtaTB6Nm1UUTR1NVREZE1ZcVZ0Xzd6WS1uVmRFN0Vla29iTXFhUVIzNTlnT0hpOHVmZ09yYklucXJuM3YydWtvb1d6dkllTlNLclRncVNHZVdRNXRnMXZSNjJJWVl2S0dMR2ROeWp4ODhWYkttVnlDTDE2dHZB?oc=5"
-      ],
-      "article_count": 1
-    },
-    {
-      "node_id": "n_e49d13bce1a8",
-      "event_label": "新版国家医保商保双目录公布美国空管通信故障致逾万架次航班延误或取消",
-      "timestamp_local": "2026-11-15T22:27:00+08:00",
-      "timestamp_utc": "2026-11-15T14:27:00+00:00",
-      "timestamp_sort": 1794752820.0,
-      "summary": "【早报】新版国家医保商保“双目录”公布；美国空管通信故障致逾万架次航班延误或取消 财联社",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://www.cls.cn/detail/2534816"
       ],
       "article_count": 1
     },
@@ -2317,6 +2294,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_e49d13bce1a8",
+      "event_label": "新版国家医保商保双目录公布美国空管通信故障致逾万架次航班延误或取消",
+      "timestamp_local": "2026-11-16T07:16:11+08:00",
+      "timestamp_utc": "2026-11-15T23:16:11+00:00",
+      "timestamp_sort": 1794784571.0,
+      "summary": "【早报】新版国家医保商保“双目录”公布；美国空管通信故障致逾万架次航班延误或取消 财联社",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.cls.cn/detail/2534816"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_bade9613c850",
       "event_label": "全美航班停飞或由换光纤导致路由器故障引发大混乱",
       "timestamp_local": "2026-11-16T08:06:22+08:00",
@@ -2342,7 +2334,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SbXNWT3Zwd2xHcnVOa3I2cV9JT09Zb3h0aGYzby1kcHM2VFNxV0hyemMzOWE5enFESHY3aGJKSTZYM1lBZ3Rjc0w3aEIxMk1tZklLLVhEYjFwTTliV2VTSGh2YVR3MUtC?oc=5"
+        "https://www.wenxuecity.com/news/2026/11/15/126837717.html"
       ],
       "article_count": 1
     },
@@ -2360,13 +2352,193 @@
         "https://military.china.com/news/13004177/20261116/49874500.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_bc43eded6b56",
+      "event_label": "航班因faa地面停飛令取消旅客別急著自行退票",
+      "timestamp_local": "2026-11-16T08:28:00+08:00",
+      "timestamp_utc": "2026-11-16T00:28:00+00:00",
+      "timestamp_sort": 1794788880.0,
+      "summary": "航班因FAA地面停飛令取消 旅客別急著自行退票 大紀元",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.epochtimes.com/gb/26/11/15/n14889272.htm"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_e85b96186083",
+      "event_label": "美媒全美航班停飞令已解除",
+      "timestamp_local": "2026-11-16T08:51:00+08:00",
+      "timestamp_utc": "2026-11-16T00:51:00+00:00",
+      "timestamp_sort": 1794790260.0,
+      "summary": "美媒：全美航班停飞令已解除 中国经济网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "http://m.ce.cn/gj/gd/202611/t20261116_3295215.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_1b059c0e224f",
+      "event_label": "全美航班停飞乐队万米高空即兴演出安抚机上乘客新闻快讯新闻频道",
+      "timestamp_local": "2026-11-16T09:22:00+08:00",
+      "timestamp_utc": "2026-11-16T01:22:00+00:00",
+      "timestamp_sort": 1794792120.0,
+      "summary": "全美航班停飞乐队万米高空即兴演出安抚机上乘客_新闻快讯_新闻频道 海峡网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxTXZwR000MEJ4SmtPY0tlUGRza1FFeUc3d1A5RDJjUl92UnlINTA0UURCbzVucmVqMVlqTlZhcmlMdVB4UXVpN2lCcE9DOFNCQXpHM2wtVnBEc3hCZXNiX2xJQQ?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_bddc2bb005b5",
+      "event_label": "全美航班停飞影响仍在持续特朗普催促国会赶紧拨款",
+      "timestamp_local": "2026-11-16T09:33:38+08:00",
+      "timestamp_utc": "2026-11-16T01:33:38+00:00",
+      "timestamp_sort": 1794792818.0,
+      "summary": "全美航班停飞影响仍在持续 特朗普催促国会：赶紧拨款！ 中金在线",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "http://news.cnfol.com/guojicaijing/20261116/32423886.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_3c7fd77dafe0",
+      "event_label": "特朗普首谈全美航班停飞事故都怪拜登政府留烂摊子",
+      "timestamp_local": "2026-11-16T09:34:00+08:00",
+      "timestamp_utc": "2026-11-16T01:34:00+00:00",
+      "timestamp_sort": 1794792840.0,
+      "summary": "特朗普首谈全美航班停飞事故：都怪拜登政府留烂摊子 香港01",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijwNBVV95cUxNaXJBM3l4aWVZN3BaTkNxM01fcnZ4R0hDZ25rQzU1VngzTDl5NExRTGZhTlNrblZCRl8ycERHNWZONEkxeWNYcWpvd25ZakhtWEsxZjRtbkh0Ym4wS0k2bTlBXy1pWENFNzhBcW9wcV9SSXJIc1NQTnJ1VjRvbWRXNFBhWmRfZjVIOTU0bzY1aW9mWl83eU9Da3dzaVV4NmhrMGVONlkwcUdLNTNoYUtTZUJmQ3F3UHNlOWo2cmhNR205cC1Dbm1DUVZpSGRzaHdJSkViSHgyRW5mTGhxYmE0VzZlRnJBWXdfcEdyS3daQmVqUFc5NXpsQXkxTkktTHhBTGtpUjVqdk5sVG9sd1BsNE9JajgwckJScnphQlFHbm9Na3pqYldmRjJScGJMX1djVjRwb1Z3Zlc4TWVHQ2FKN2lubFFDSE9ESmVjVXV0ZW9XNXpYUFc5LWh2RWVXdU5PRkx6UkJBYmp4Wk1wSFBUWUlMR1VCQ1l2VFNwQmZ6MEVYNV9rWTBocUltdFRfLTA?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_0fcba42b04dd",
+      "event_label": "全美航班停飞竟因换旧铜线faa今年还在用软盘",
+      "timestamp_local": "2026-11-16T09:57:08+08:00",
+      "timestamp_utc": "2026-11-16T01:57:08+00:00",
+      "timestamp_sort": 1794794228.0,
+      "summary": "全美航班停飞！竟因换旧铜线？FAA今年还在用软盘 haiwaiwai.com",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vdEJKa2VVQkMxRW1VbXZUVDhHbmpmOW9aWWk2Z3hPRTdoOEM4UTBjczRBaUhyUzdpcE9WRmh6THBtWG9DUWc3cw?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_f02a50c04e6b",
+      "event_label": "美国联邦航空局下令全美航班停飞航空股盘后再跌约2公司新闻财经",
+      "timestamp_local": "2026-11-16T10:18:00+08:00",
+      "timestamp_utc": "2026-11-16T02:18:00+00:00",
+      "timestamp_sort": 1794795480.0,
+      "summary": "美国联邦航空局下令全美航班停飞航空股盘后再跌约2%_公司新闻_财经 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://wap.stockstar.com/detail/IG2026111600006779"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_c8dcf030a620",
+      "event_label": "全美航班停飞的罪魁祸首阿肯色州南部的一台路由器",
+      "timestamp_local": "2026-11-16T11:09:00+08:00",
+      "timestamp_utc": "2026-11-16T03:09:00+00:00",
+      "timestamp_sort": 1794798540.0,
+      "summary": "全美航班停飞的罪魁祸首：阿肯色州南部的一台路由器 华尔街日报中文网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnhaNzVfNk01M1hnX1ZEbmZ1NThWMjg3ZjNweFJmRVhrcldXRlViMFRIcTh5cFN5NlM4aXBaTG1jSEI1TWxxX25HZlF5UWpfRnJpMm9MTXd5OWtGUUEwNVlPSEFQenYwdU4tZVByODZGOVA2VTJ3STQ3YUpyV09tOTU3RF9yRG1feWlubmRzRGszLU84bEJzaFVkaEJremhMN3BSMU45Z2FOTFZo?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_16d39b2c9821",
+      "event_label": "特朗普首度回应全美航班停飞都怪拜登政府国际即时国际sinchewdaily",
+      "timestamp_local": "2026-11-16T11:30:09+08:00",
+      "timestamp_utc": "2026-11-16T03:30:09+00:00",
+      "timestamp_sort": 1794799809.0,
+      "summary": "特朗普首度回应全美航班停飞 都怪拜登政府 - 国际 - 即时国际 Sin Chew Daily",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fMXdJNWVSTlFUYnE5bW5BTG1DVXJmY09tb2UycGs3T2hCTzUyS3JTYllFUVZYOWE0dTNueFY1R3dWUjR6akVwOHdJcVNPMjB3dVR3aFZOSzVKYi1haldWamxlZ0hnc2pTRDZNTjRzNA?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_bdd5f30b8daf",
+      "event_label": "faa调查指向路由器全美航班停飞罪魁祸首显现",
+      "timestamp_local": "2026-11-16T12:37:00+08:00",
+      "timestamp_utc": "2026-11-16T04:37:00+00:00",
+      "timestamp_sort": 1794803820.0,
+      "summary": "FAA调查指向路由器，全美航班停飞“罪魁祸首”显现？ Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1102168509_121487107?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_68674fc49540",
+      "event_label": "全美航班停飞近两天特朗普将责任归于拜登",
+      "timestamp_local": "2026-11-16T13:20:47+08:00",
+      "timestamp_utc": "2026-11-16T05:20:47+00:00",
+      "timestamp_sort": 1794806447.0,
+      "summary": "全美航班停飞近两天 特朗普将责任归于拜登 风闻",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://user.guancha.cn/main/content?id\\\\u003d1772557\\\\u0026comments-container"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_f7519b0f2769",
+      "event_label": "中国游客亲历全美航班停飞航司不赔偿有中国游客连夜自驾15小时赶乘邮轮",
+      "timestamp_local": "2026-11-16T14:52:03+08:00",
+      "timestamp_utc": "2026-11-16T06:52:03+00:00",
+      "timestamp_sort": 1794811923.0,
+      "summary": "中国游客亲历全美航班停飞，航司不赔偿，有中国游客连夜自驾15小时赶乘邮轮 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.sohu.com/a/1102222825_121347613?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-16T08:40:55.393450+08:00",
+  "updated_at": "2026-11-16T15:30:26.894233+08:00",
   "last_stats": {
-    "node_count": 106,
+    "node_count": 117,
     "conflict_nodes": 0,
-    "article_count": 112
+    "article_count": 123
   },
-  "articles_fingerprint": "60c53d0923c341ae"
+  "articles_fingerprint": "1bc4c6de050b8176"
 }
