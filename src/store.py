@@ -18,6 +18,7 @@ import json
 from datetime import datetime, timezone, timedelta
 
 from schema import read_jsonl, dump_jsonl, save_json, load_json, now_iso, DEFAULT_TZ
+import dedupe
 
 
 def event_dir(workdir, slug):
@@ -26,21 +27,36 @@ def event_dir(workdir, slug):
     return d
 
 
-def add_articles(workdir, slug, articles, articles_path=None):
-    """把（已去重的）文章追加写入 articles.jsonl，返回写入条数。
-    articles_path 可显式指定文章文件位置（适配非标准目录布局）；缺省为 <workdir>/<slug>/articles.jsonl。"""
+def _log_dropped(articles_path, dropped):
+    """把被拦截的重复项追加到事件目录的 dedupe_log.jsonl，供审计与阈值调优。"""
+    log_path = os.path.join(os.path.dirname(os.path.abspath(articles_path)), "dedupe_log.jsonl")
+    stamp = now_iso()
+    with open(log_path, "a", encoding="utf-8") as f:
+        for d in dropped:
+            f.write(json.dumps({**d, "checked_at": stamp}, ensure_ascii=False) + "\n")
+
+
+def add_articles_verbose(workdir, slug, articles, articles_path=None, log_dropped=True):
+    """把新报道与【历史全量】比对后追加写入 articles.jsonl，返回 (新增条数, 被判重记录)。
+
+    与旧版只按 id 判重不同：换链接 / 转载 / 改时间戳 / 带媒体后缀的旧闻，
+    只要命中历史指纹就被拦下，不会再作为「新增」进入时间轴。
+    articles_path 可显式指定文章文件位置（适配非标准目录布局）。
+    """
     path = articles_path or os.path.join(event_dir(workdir, slug), "articles.jsonl")
     os.makedirs(os.path.dirname(os.path.abspath(path)), exist_ok=True)
     existing = read_jsonl(path)
-    existing_ids = {a.get("id") for a in existing}
-    n = 0
-    for a in articles:
-        if a.get("id") in existing_ids:
-            continue
-        existing.append(a)
-        existing_ids.add(a.get("id"))
-        n += 1
-    dump_jsonl(path, existing)
+    kept, dropped = dedupe.dedupe_against(articles, existing)
+    if kept:
+        dump_jsonl(path, existing + kept)
+    if dropped and log_dropped:
+        _log_dropped(path, dropped)
+    return len(kept), dropped
+
+
+def add_articles(workdir, slug, articles, articles_path=None):
+    """兼容原接口：把（已去重的）文章追加写入 articles.jsonl，返回写入条数。"""
+    n, _ = add_articles_verbose(workdir, slug, articles, articles_path)
     return n
 
 
