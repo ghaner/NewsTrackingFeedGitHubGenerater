@@ -56,6 +56,13 @@
       "conflict_nodes": 1,
       "article_count": 28,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-17T01:44:07.758913+08:00",
+      "node_count": 28,
+      "conflict_nodes": 1,
+      "article_count": 29,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -482,50 +489,6 @@
       "confidence": 0.9,
       "sources": [
         "https://www.ce.cn/xwzx//gnsz/gdxw/202611/t20261105_3284861.shtml"
-      ],
-      "article_count": 1
-    },
-    {
-      "node_id": "n_4d6882f8a5d1",
-      "event_label": "政策与补贴：备案新规落地，深圳最高补300万元",
-      "timestamp_local": "2026-11-06T00:00:00+08:00",
-      "timestamp_utc": "2026-11-05T16:00:00+00:00",
-      "timestamp_sort": 1793894400.0,
-      "summary": "政策扶持与监管并行：9月1日备案新规落地，深圳出海短剧最高补贴300万元、科幻题材上浮50%；11月3日概念股涨停，11月2日大晟文化股东减持1%至5%。",
-      "facts": {
-        "施行日期": [
-          {
-            "value": "2026-09-01",
-            "confidence": 0.6,
-            "source": "https://www.gansuci.cn/2026/1106/480942.shtml"
-          }
-        ],
-        "深圳出海补贴上限": [
-          {
-            "value": "300万元",
-            "confidence": 0.6,
-            "source": "https://www.gansuci.cn/2026/1106/480942.shtml"
-          }
-        ],
-        "科幻题材": [
-          {
-            "value": "资助上浮50%",
-            "confidence": 0.6,
-            "source": "https://www.gansuci.cn/2026/1106/480942.shtml"
-          }
-        ],
-        "减持股东": [
-          {
-            "value": "许锦光(6%→5%)",
-            "confidence": 0.6,
-            "source": "https://www.gansuci.cn/2026/1106/480942.shtml"
-          }
-        ]
-      },
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://www.gansuci.cn/2026/1106/480942.shtml"
       ],
       "article_count": 1
     },
@@ -971,64 +934,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_878bffd13836",
-      "event_label": "产业实况：前10个月55万部，投放增324%收入增13%",
-      "timestamp_local": "2026-11-13T00:00:00+08:00",
-      "timestamp_utc": "2026-11-12T16:00:00+00:00",
-      "timestamp_sort": 1794499200.0,
-      "summary": "证券时报11月13日：11月中证传媒指数涨10.84%、AI短剧指数涨24.42%，文投控股月涨66.67%；前10个月上线微短剧近55万部（超94%为AI剧）；上半年投放素材量增324%但IAP仅增13%，蓝海正变红海。",
-      "facts": {
-        "中证传媒指数11月涨幅": [
-          {
-            "value": "10.84%",
-            "confidence": 0.9,
-            "source": "https://www.stcn.com/article/detail/4336647.html"
-          }
-        ],
-        "AI短剧指数11月涨幅": [
-          {
-            "value": "24.42%",
-            "confidence": 0.9,
-            "source": "https://www.stcn.com/article/detail/4336647.html"
-          }
-        ],
-        "文投控股11月涨幅": [
-          {
-            "value": "66.67%",
-            "confidence": 0.9,
-            "source": "https://www.stcn.com/article/detail/4336647.html"
-          }
-        ],
-        "浙文影业11月涨幅": [
-          {
-            "value": "60%",
-            "confidence": 0.9,
-            "source": "https://www.stcn.com/article/detail/4336647.html"
-          }
-        ],
-        "前10个月上线微短剧": [
-          {
-            "value": "近55万部(超94%为AI剧)",
-            "confidence": 0.9,
-            "source": "https://www.stcn.com/article/detail/4336647.html"
-          }
-        ],
-        "投放素材量增速": [
-          {
-            "value": "324% vs IAP增速13%",
-            "confidence": 0.9,
-            "source": "https://www.stcn.com/article/detail/4336647.html"
-          }
-        ]
-      },
-      "conflict": false,
-      "confidence": 0.9,
-      "sources": [
-        "https://www.stcn.com/article/detail/4336647.html"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_6f3efff542fb",
       "event_label": "资金面：红果月活4.3亿，PineDrama下载1.3亿",
       "timestamp_local": "2026-11-13T00:00:00+08:00",
@@ -1133,8 +1038,8 @@
       "article_count": 1
     },
     {
-      "node_id": "n_a57bf06a6fcf",
-      "event_label": "短剧出海变“红海” AI助力产能爆发 投流烧钱赚钱不易 - 证券之星",
+      "node_id": "n_8416d8375d62",
+      "event_label": "短剧出海变红海ai助力产能爆发投流烧钱赚钱不易",
       "timestamp_local": "2026-11-14T01:49:00+08:00",
       "timestamp_utc": "2026-11-13T17:49:00+00:00",
       "timestamp_sort": 1794592140.0,
@@ -1144,21 +1049,6 @@
       "confidence": 0.6,
       "sources": [
         "https://stock.stockstar.com/IG2026111400001406.shtml"
-      ],
-      "article_count": 1
-    },
-    {
-      "node_id": "n_b0e35040dcda",
-      "event_label": "短剧出海变“红海” AI助力产能爆发 投流烧钱赚钱不易 - Sohu",
-      "timestamp_local": "2026-11-14T07:02:00+08:00",
-      "timestamp_utc": "2026-11-13T23:02:00+00:00",
-      "timestamp_sort": 1794610920.0,
-      "summary": "短剧出海变“红海” AI助力产能爆发 投流烧钱赚钱不易 Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://m.sohu.com/a/1101365083_639898?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -1178,8 +1068,8 @@
       "article_count": 1
     },
     {
-      "node_id": "n_e68fc332cdb9",
-      "event_label": "AI把短剧出海成本打下来，钱却流向了投流平台 - 同花顺财经",
+      "node_id": "n_2f5ee343f3d8",
+      "event_label": "ai把短剧出海成本打下来钱却流向了投流平台",
       "timestamp_local": "2026-11-14T12:38:46+08:00",
       "timestamp_utc": "2026-11-14T04:38:46+00:00",
       "timestamp_sort": 1794631126.0,
@@ -1191,13 +1081,73 @@
         "http://news.10jqka.com.cn/20261114/c681823603.shtml"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_b4bc359d0604",
+      "event_label": "港股异动赤子城科技09911午后涨超4短剧出海活跃用户破15亿机构看好playlet整合后放量提供者智通财经英为财情investingcom",
+      "timestamp_local": "2026-11-16T14:27:00+08:00",
+      "timestamp_utc": "2026-11-16T06:27:00+00:00",
+      "timestamp_sort": 1794810420.0,
+      "summary": "港股异动| 赤子城科技(09911)午后涨超4% 短剧出海活跃用户破1.5亿机构看好Playlet整合后放量提供者智通财经 英为财情 Investing.com",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://cn.investing.com/news/stock-market-news/article-3669042"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_d600d50297a2",
+      "event_label": "短剧出海火热业内却称95都亏钱钱被谁挣了",
+      "timestamp_local": "2026-11-16T16:34:09+08:00",
+      "timestamp_utc": "2026-11-16T08:34:09+00:00",
+      "timestamp_sort": 1794818049.0,
+      "summary": "短剧出海火热，业内却称“95%都亏钱”，钱被谁挣了？ 凤凰网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.ifeng.com/c/8y6NJV3H5qK"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_7673c2e707ed",
+      "event_label": "短剧出海老外也上头拼音duanju走热短莱坞能否成为文化出海新赛道",
+      "timestamp_local": "2026-11-16T18:00:02+08:00",
+      "timestamp_utc": "2026-11-16T10:00:02+00:00",
+      "timestamp_sort": 1794823202.0,
+      "summary": "短剧出海，老外也上头：拼音“duanju”走热，“短莱坞”能否成为文化出海新赛道 凤凰网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://original.ifeng.com/c/8y6T54pP9NS"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_0c9ebdc8182c",
+      "event_label": "短剧出海老外也上头中国短莱坞文化传播新赛道一虎一席谈中国短剧出海石述思",
+      "timestamp_local": "2026-11-16T18:33:13+08:00",
+      "timestamp_utc": "2026-11-16T10:33:13+00:00",
+      "timestamp_sort": 1794825193.0,
+      "summary": "短剧出海老外也上头 中国“短莱坞”文化传播新赛道？#一虎一席谈 #中国短剧出海 #石述思 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1102329066_121455372?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-15T09:27:24.712628+08:00",
+  "updated_at": "2026-11-17T01:44:07.758913+08:00",
   "last_stats": {
-    "node_count": 27,
+    "node_count": 28,
     "conflict_nodes": 1,
-    "article_count": 28
+    "article_count": 29
   },
-  "articles_fingerprint": "21e29856bed07432"
+  "articles_fingerprint": "aa43e4b40ca3291a"
 }
