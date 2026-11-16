@@ -21,8 +21,12 @@ fetch_articles.py — 自主检索器（GitHub / 无人值守模式）
   还原失败时保留原链接并标记 google_redirect，不丢条目。
   DEBUG_RESOLVE=1 可打印诊断（页面长度、href 域名、接口返回片段）。
 
-时间处理：RSS 的 RFC822 发布时间先转 ISO 再交给 align.py；
-          仅保留比上次拉取（events/<slug>/.last_fetch）更新的条目。
+时间处理：RSS 的 RFC822 发布时间先转 ISO 再交给 align.py。
+增量水位线：读取 events/<slug>/.last_fetch，只保留「上次成功抓取时刻 - 宽限」之后的条目。
+  旧版每小时都用 now - since_days 重抓最近 N 天，导致几天前的旧闻反复进入 incoming；
+  现在改为水位线驱动，首次抓取（无 .last_fetch）才按 since_days 回填。
+  缺发布时间的条目默认丢弃（无法判新旧，收进来必然重复），可用 DROP_UNDATED 关掉。
+去重：event_label 用 core_title（去媒体后缀/前缀噪声），让同一新闻的多家转载归入同一节点。
 """
 import argparse
 import json
@@ -36,9 +40,14 @@ from datetime import datetime, timezone, timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from schema import article_id
+from dedupe import core_title
 
+# ===== 参数配置区（需要时改这里）=====
 DEFAULT_TZ = timezone(timedelta(hours=8))
 UA = "Mozilla/5.0 (news-timeline-builder fetcher)"
+WATERMARK_GRACE_HOURS = 6   # 水位线回退宽限，容忍 RSS 时间戳回拨与抓取延迟
+DROP_UNDATED = True         # 无发布时间的条目直接丢弃，避免每轮重复进入
+# ===== 配置区结束 =====
 
 
 def _strip_html(s):
@@ -62,6 +71,29 @@ def _rfc822_to_iso(s):
         return dt.astimezone(DEFAULT_TZ).isoformat()
     except Exception:
         return None
+
+
+def read_watermark(workdir, slug):
+    """读上次成功抓取的水位线，回退 WATERMARK_GRACE_HOURS；首次抓取返回 None。"""
+    p = os.path.join(workdir, slug, ".last_fetch")
+    if not os.path.exists(p):
+        return None
+    try:
+        with open(p, "r", encoding="utf-8") as f:
+            dt = datetime.fromisoformat(f.read().strip())
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=DEFAULT_TZ)
+        return dt.astimezone(DEFAULT_TZ) - timedelta(hours=WATERMARK_GRACE_HOURS)
+    except Exception:
+        return None
+
+
+def mark_fetched(workdir, slug):
+    """记录本轮【成功抓取】时刻，作为下一轮水位线。抓取失败时不要调用。"""
+    edir = os.path.join(workdir, slug)
+    os.makedirs(edir, exist_ok=True)
+    with open(os.path.join(edir, ".last_fetch"), "w", encoding="utf-8") as f:
+        f.write(datetime.now(DEFAULT_TZ).isoformat())
 
 
 def _fetch_url(url, timeout=20):
@@ -245,26 +277,34 @@ def _parse_rss(xml_text):
     return items
 
 
-def fetch_google_news(keywords, since_dt=None, timeout=20, resolve=True, resolve_limit=None):
+def fetch_google_news(keywords, since_dt=None, timeout=20, resolve=True,
+                      resolve_limit=None, watermark=None, status=None):
     q = " OR ".join(f'"{k}"' for k in keywords) if len(keywords) > 1 else keywords[0]
     url = ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q) +
            "&hl=zh-CN&gl=CN&ceid=CN:zh-Hans")
     try:
         xml = _fetch_url(url, timeout)
     except Exception as e:
-        print(f"[fetch] Google News 拉取失败（跳过）: {e}", file=sys.stderr)
+        print(f"[fetch] Google News 拉取失败（跳过，不推进水位线）: {e}", file=sys.stderr)
         return []
-    return _filter(_parse_rss(xml), since_dt, resolve=resolve, resolve_limit=resolve_limit)
+    if status is not None:
+        status["ok"] = True
+    return _filter(_parse_rss(xml), since_dt, resolve=resolve,
+                   resolve_limit=resolve_limit, watermark=watermark)
 
 
-def fetch_rss_file(path, since_dt=None, resolve=True, resolve_limit=None):
+def fetch_rss_file(path, since_dt=None, resolve=True, resolve_limit=None,
+                   watermark=None, status=None):
     try:
         with open(path, "r", encoding="utf-8") as f:
             xml = f.read()
     except Exception as e:
         print(f"[fetch] 读取本地 RSS 失败: {e}", file=sys.stderr)
         return []
-    return _filter(_parse_rss(xml), since_dt, resolve=resolve, resolve_limit=resolve_limit)
+    if status is not None:
+        status["ok"] = True
+    return _filter(_parse_rss(xml), since_dt, resolve=resolve,
+                   resolve_limit=resolve_limit, watermark=watermark)
 
 
 def fetch_mock(keywords, since_days=2):
@@ -286,15 +326,27 @@ def fetch_mock(keywords, since_days=2):
     return _filter(rows, None)
 
 
-def _filter(parsed, since_dt, resolve=False, resolve_limit=None):
+def _filter(parsed, since_dt, resolve=False, resolve_limit=None,
+            watermark=None, drop_undated=DROP_UNDATED):
     out = []
-    ok = fail = 0
+    ok = fail = old = undated = 0
     for title, link, pub_iso, desc in parsed:
         if not title:
             continue
-        if since_dt and pub_iso:
+        # 无发布时间：旧版直接放行，导致同一条每轮都进 incoming。默认丢弃。
+        if not pub_iso:
+            undated += 1
+            if drop_undated:
+                continue
+        else:
             try:
-                if datetime.fromisoformat(pub_iso) < since_dt:
+                dt = datetime.fromisoformat(pub_iso)
+                if since_dt and dt < since_dt:
+                    old += 1
+                    continue
+                # 增量水位线：上次成功抓取之前的条目不再重复拉取
+                if watermark and dt < watermark:
+                    old += 1
                     continue
             except Exception:
                 pass
@@ -314,20 +366,25 @@ def _filter(parsed, since_dt, resolve=False, resolve_limit=None):
             elif _is_google_link(link):
                 kind = "google_redirect"      # 超出预算，保留跳转链接
 
+        # 未还原的 Google 跳转链接密文每轮都变：id 改由标题生成，保证跨轮次稳定
+        id_seed_url = None if kind == "google_redirect" else final_url
         out.append({
-            "id": article_id(final_url, title, desc),
+            "id": article_id(id_seed_url, title, desc),
             "url": final_url,
             "title": title,
             "content": desc,
             "published_at": pub_iso or "",
             "credibility": "medium",
-            "event_label": title,  # 自主模式无 LLM 归类，每条报道独立成节点
+            "event_label": core_title(title) or title,  # 去媒体后缀，转载归入同一节点
             "facts": {},
             "link_kind": kind,
         })
 
     if resolve:
         print(f"[fetch] 链接还原：成功 {ok} 条，未还原 {fail} 条", file=sys.stderr)
+    print(f"[fetch] 过滤：早于窗口/水位线 {old} 条，无发布时间 {undated} 条，保留 {len(out)} 条"
+          + (f"（水位线 {watermark.isoformat()}）" if watermark else "（首次抓取，按 since_days 回填）"),
+          file=sys.stderr)
     return out
 
 
@@ -351,25 +408,27 @@ def main():
 
     keywords = [k.strip() for k in args.keywords.split(",") if k.strip()]
     since_dt = datetime.now(DEFAULT_TZ) - timedelta(days=args.since_days)
+    watermark = read_watermark(args.workdir, args.slug)
+    status = {}
 
     if args.mode == "google_news":
         articles = fetch_google_news(keywords, since_dt, resolve=args.resolve,
-                                     resolve_limit=args.resolve_limit)
+                                     resolve_limit=args.resolve_limit,
+                                     watermark=watermark, status=status)
     elif args.mode == "rss_file":
         articles = fetch_rss_file(args.rss_file, since_dt, resolve=args.resolve,
-                                  resolve_limit=args.resolve_limit)
+                                  resolve_limit=args.resolve_limit,
+                                  watermark=watermark, status=status)
     else:
         articles = fetch_mock(keywords, args.since_days)
+        status["ok"] = True
 
     for a in articles:
         a["credibility"] = args.credibility
 
-    # 更新 last_fetch 标记
-    if articles:
-        edir = os.path.join(args.workdir, args.slug)
-        os.makedirs(edir, exist_ok=True)
-        with open(os.path.join(edir, ".last_fetch"), "w", encoding="utf-8") as f:
-            f.write(datetime.now(DEFAULT_TZ).isoformat())
+    # 只在抓取成功时推进水位线；失败不推进，下一轮仍会重抓（重复项由去重层拦下）
+    if status.get("ok"):
+        mark_fetched(args.workdir, args.slug)
 
     text = "\n".join(json.dumps(a, ensure_ascii=False) for a in articles)
     if args.out:
