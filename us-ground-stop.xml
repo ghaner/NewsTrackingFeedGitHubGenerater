@@ -6,8 +6,16 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/us-ground-stop.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「2026 年 11 月 13 日 FAA 因航路交通管制中心通信故障发布全美地面停飞令」这一事件的全部进展：停飞与解除时间、航班延误取消规模、航司改签豁免、欧洲赴美航班暂停、白宫与国会表态、故障根因调查、空管系统技术债与现代化拨款。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 09:57:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:57:17 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-18] 全美航班停飞后续faa紧急暂停新路由器安装嫌疑设备已送实验室解剖</title>
+      <link>https://news.mydrivers.com/1/1166/1166544.htm</link>
+      <guid isPermaLink="false">https://news.mydrivers.com/1/1166/1166544.htm#n_98c14ca3dbab</guid>
+      <pubDate>Wed, 18 Nov 2026 01:20:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>全美航班停飞后续faa紧急暂停新路由器安装嫌疑设备已送实验室解剖</b>　<span>2026-11-18</span></p><p>全美航班停飞后续！FAA紧急暂停新路由器安装 嫌疑设备已送实验室“解剖” 驱动之家</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.mydrivers.com/1/1166/1166544.htm</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-17] 只是基础设施老化全美航班停飞照出的是美国更深层次的老化</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rUmU4aGtkWVp3Q2tObkxXNzJrSzNYUU5xSzVjRzBXWW9aZzhrc3RFSW0zTC01YzFpZFlyV18ycFlfY09qcjlXY2ZaZmdKeFotR3J5OQ?oc=5</link>
@@ -23,6 +31,14 @@
       <pubDate>Tue, 17 Nov 2026 13:40:11 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>全美航班停飞后交通部长拒绝道歉特朗普上演甩锅大戏都是拜登的错</b>　<span>2026-11-17</span></p><p>全美航班停飞后，交通部长拒绝道歉，特朗普上演“甩锅”大戏：都是拜登的错 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMijAFBVV95cUxNNE42TWxvdGo2XzRxU1hmUG9kUEpyYS0xSGZXYlVzNk02NnJ1eDFNelhwS240cjhZQnBpcnJveDJpM3I4Nzk5aVFaX2JlWE5kM05mRFlBVEtaS0UwdUFOUF9hS1ZfQVVhYWFIVExLNDN2WFQtOFBBcGI3WVNyTmtGRWVUSFRCWk9rT2VYcQ?oc=5</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-17] 全美航班停飞原因公布特朗普开始甩锅民主党钱用在凯旋门了</title>
+      <link>https://m.sohu.com/a/1102659477_121752853?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
+      <guid isPermaLink="false">https://m.sohu.com/a/1102659477_121752853?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_671d3665db16</guid>
+      <pubDate>Tue, 17 Nov 2026 13:08:35 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>全美航班停飞原因公布特朗普开始甩锅民主党钱用在凯旋门了</b>　<span>2026-11-17</span></p><p>全美航班停飞原因公布，特朗普开始甩锅，民主党：钱用在凯旋门了 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1102659477_121752853?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-17] 全美航班停飞持续发酵老路由器引发大混乱</title>
@@ -106,11 +122,11 @@
     </item>
     <item>
       <title>[2026-11-16] faa调查指向路由器全美航班停飞罪魁祸首显现</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHAtc1hPRGRxNU5BbFkxRmtrN05iMWxsNDRDdk9wcHRRWUx5WmVfN29sYzlXbUwteHhmeEpyczZ2TF95Z0t0bkpwU0U3UldrSloyTmNHdTE0dllmZTBuc2Y1Vk9id3AxNENoWnpPV2Q0QzBHV25HM1VleTFNMngtNFktNzJnbk9JQUp1ag?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHAtc1hPRGRxNU5BbFkxRmtrN05iMWxsNDRDdk9wcHRRWUx5WmVfN29sYzlXbUwteHhmeEpyczZ2TF95Z0t0bkpwU0U3UldrSloyTmNHdTE0dllmZTBuc2Y1Vk9id3AxNENoWnpPV2Q0QzBHV25HM1VleTFNMngtNFktNzJnbk9JQUp1ag?oc=5#n_bdd5f30b8daf</guid>
+      <link>https://m.sohu.com/a/1102168509_121487107?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
+      <guid isPermaLink="false">https://m.sohu.com/a/1102168509_121487107?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_bdd5f30b8daf</guid>
       <pubDate>Mon, 16 Nov 2026 12:37:00 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>faa调查指向路由器全美航班停飞罪魁祸首显现</b>　<span>2026-11-16</span></p><p>FAA调查指向路由器，全美航班停飞“罪魁祸首”显现？ Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHAtc1hPRGRxNU5BbFkxRmtrN05iMWxsNDRDdk9wcHRRWUx5WmVfN29sYzlXbUwteHhmeEpyczZ2TF95Z0t0bkpwU0U3UldrSloyTmNHdTE0dllmZTBuc2Y1Vk9id3AxNENoWnpPV2Q0QzBHV25HM1VleTFNMngtNFktNzJnbk9JQUp1ag?oc=5</p></div>]]></description>
+      <description><![CDATA[<div><p><b>faa调查指向路由器全美航班停飞罪魁祸首显现</b>　<span>2026-11-16</span></p><p>FAA调查指向路由器，全美航班停飞“罪魁祸首”显现？ Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1102168509_121487107?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-16] 特朗普首度回应全美航班停飞都怪拜登政府国际即时国际sinchewdaily</title>
@@ -162,11 +178,11 @@
     </item>
     <item>
       <title>[2026-11-16] 全美航班停飞乐队万米高空即兴演出安抚机上乘客新闻快讯新闻频道</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxTXZwR000MEJ4SmtPY0tlUGRza1FFeUc3d1A5RDJjUl92UnlINTA0UURCbzVucmVqMVlqTlZhcmlMdVB4UXVpN2lCcE9DOFNCQXpHM2wtVnBEc3hCZXNiX2xJQQ?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxTXZwR000MEJ4SmtPY0tlUGRza1FFeUc3d1A5RDJjUl92UnlINTA0UURCbzVucmVqMVlqTlZhcmlMdVB4UXVpN2lCcE9DOFNCQXpHM2wtVnBEc3hCZXNiX2xJQQ?oc=5#n_1b059c0e224f</guid>
+      <link>http://dzb.hxnews.com/news/kx/202611/16/2278583.shtml</link>
+      <guid isPermaLink="false">http://dzb.hxnews.com/news/kx/202611/16/2278583.shtml#n_1b059c0e224f</guid>
       <pubDate>Mon, 16 Nov 2026 09:22:00 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>全美航班停飞乐队万米高空即兴演出安抚机上乘客新闻快讯新闻频道</b>　<span>2026-11-16</span></p><p>全美航班停飞乐队万米高空即兴演出安抚机上乘客_新闻快讯_新闻频道 海峡网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxTXZwR000MEJ4SmtPY0tlUGRza1FFeUc3d1A5RDJjUl92UnlINTA0UURCbzVucmVqMVlqTlZhcmlMdVB4UXVpN2lCcE9DOFNCQXpHM2wtVnBEc3hCZXNiX2xJQQ?oc=5</p></div>]]></description>
+      <description><![CDATA[<div><p><b>全美航班停飞乐队万米高空即兴演出安抚机上乘客新闻快讯新闻频道</b>　<span>2026-11-16</span></p><p>全美航班停飞乐队万米高空即兴演出安抚机上乘客_新闻快讯_新闻频道 海峡网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>http://dzb.hxnews.com/news/kx/202611/16/2278583.shtml</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-16] 美媒全美航班停飞令已解除</title>
@@ -434,11 +450,11 @@
     </item>
     <item>
       <title>[2026-11-14] faa地面停飞令路由器过载导致美国航班停飞数小时notebookcheckcn</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qMl9OTlM0NkVtR2E2ZjFqdzVwODBoZVhrbDFRaF9FcWZ2N0pYYWk2R3o5d3N5c0FPZmFJNkhXUkRoRlo1Vk5uU0ZCUjJCUmZPczBoNnlOVUdxNGthdEVOQg?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qMl9OTlM0NkVtR2E2ZjFqdzVwODBoZVhrbDFRaF9FcWZ2N0pYYWk2R3o5d3N5c0FPZmFJNkhXUkRoRlo1Vk5uU0ZCUjJCUmZPczBoNnlOVUdxNGthdEVOQg?oc=5#n_494183152895</guid>
+      <link>https://www.notebookcheck-cn.com/FAA.1450444.0.html</link>
+      <guid isPermaLink="false">https://www.notebookcheck-cn.com/FAA.1450444.0.html#n_494183152895</guid>
       <pubDate>Sat, 14 Nov 2026 20:34:00 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>faa地面停飞令路由器过载导致美国航班停飞数小时notebookcheckcn</b>　<span>2026-11-14</span></p><p>FAA地面停飞令：路由器过载导致美国航班停飞数小时 Notebookcheck CN</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qMl9OTlM0NkVtR2E2ZjFqdzVwODBoZVhrbDFRaF9FcWZ2N0pYYWk2R3o5d3N5c0FPZmFJNkhXUkRoRlo1Vk5uU0ZCUjJCUmZPczBoNnlOVUdxNGthdEVOQg?oc=5</p></div>]]></description>
+      <description><![CDATA[<div><p><b>faa地面停飞令路由器过载导致美国航班停飞数小时notebookcheckcn</b>　<span>2026-11-14</span></p><p>FAA地面停飞令：路由器过载导致美国航班停飞数小时 Notebookcheck CN</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.notebookcheck-cn.com/FAA.1450444.0.html</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 停飞事故后，美紧急上调空管系统升级资金额度 - Sohu</title>
@@ -466,11 +482,11 @@
     </item>
     <item>
       <title>[2026-11-14] 微软否认faa全美航班停飞故障与自身服务有关microsoft微软</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLaVdYS1VuQ1A3cUx6SGtLbWZpcWE0ZC1EMVpHVVhBSTdrUnlpR3hiNTNwZ25aVDRnOGV1d3BweW1NdUxjZ2hXMUQwNHg3cXBRYUotQ0MyVDgwZkU1bU9mbg?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLaVdYS1VuQ1A3cUx6SGtLbWZpcWE0ZC1EMVpHVVhBSTdrUnlpR3hiNTNwZ25aVDRnOGV1d3BweW1NdUxjZ2hXMUQwNHg3cXBRYUotQ0MyVDgwZkU1bU9mbg?oc=5#n_ae03156bfbfd</guid>
+      <link>https://www.cnbeta.com.tw/articles/tech/1586410.htm</link>
+      <guid isPermaLink="false">https://www.cnbeta.com.tw/articles/tech/1586410.htm#n_ae03156bfbfd</guid>
       <pubDate>Sat, 14 Nov 2026 18:27:00 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>微软否认faa全美航班停飞故障与自身服务有关microsoft微软</b>　<span>2026-11-14</span></p><p>微软否认FAA全美航班停飞故障与自身服务有关- Microsoft 微软 cnBeta.COM</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLaVdYS1VuQ1A3cUx6SGtLbWZpcWE0ZC1EMVpHVVhBSTdrUnlpR3hiNTNwZ25aVDRnOGV1d3BweW1NdUxjZ2hXMUQwNHg3cXBRYUotQ0MyVDgwZkU1bU9mbg?oc=5</p></div>]]></description>
+      <description><![CDATA[<div><p><b>微软否认faa全美航班停飞故障与自身服务有关microsoft微软</b>　<span>2026-11-14</span></p><p>微软否认FAA全美航班停飞故障与自身服务有关- Microsoft 微软 cnBeta.COM</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.cnbeta.com.tw/articles/tech/1586410.htm</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 全美航班停飞令解除 特朗普称与网络攻击无关 - 手机新浪网</title>

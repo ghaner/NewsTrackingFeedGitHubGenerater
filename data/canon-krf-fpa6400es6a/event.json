@@ -21,6 +21,13 @@
       "conflict_nodes": 1,
       "article_count": 22,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-18T02:57:17.196375+08:00",
+      "node_count": 22,
+      "conflict_nodes": 1,
+      "article_count": 25,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -610,21 +617,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_46d5dd101570",
-      "event_label": "17亿支镜头背后看佳能的影像世界梦想如何落进现实",
-      "timestamp_local": "2026-11-16T16:26:23+08:00",
-      "timestamp_utc": "2026-11-16T08:26:23+00:00",
-      "timestamp_sort": 1794817583.0,
-      "summary": "1.7亿支镜头背后 看佳能的影像世界梦想如何落进现实 Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://m.sohu.com/a/1102272565_104421?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_3157037e81de",
       "event_label": "佳能发涨价预警数码相机都没人买为啥还敢涨价",
       "timestamp_local": "2026-11-16T17:44:43+08:00",
@@ -685,17 +677,32 @@
       "article_count": 1
     },
     {
-      "node_id": "n_5373c90ad169",
-      "event_label": "光刻机概念爆发300786率先封板压缩空气储能有新催化上市公司布局揭秘",
-      "timestamp_local": "2026-11-17T12:33:41+08:00",
-      "timestamp_utc": "2026-11-17T04:33:41+00:00",
-      "timestamp_sort": 1794890021.0,
-      "summary": "光刻机概念爆发，300786率先封板！压缩空气储能有新催化，上市公司布局揭秘 凤凰网",
+      "node_id": "n_6f9fa3d63ddb",
+      "event_label": "集体反弹芯片产业链爆发光刻机概念牛股20cm直线涨停涨停板上近10万手封单机构国产化迎来阶段性窗口",
+      "timestamp_local": "2026-11-17T12:50:00+08:00",
+      "timestamp_utc": "2026-11-17T04:50:00+00:00",
+      "timestamp_sort": 1794891000.0,
+      "summary": "集体反弹！芯片产业链爆发，光刻机概念牛股20cm直线涨停，涨停板上近10万手封单，机构：国产化迎来阶段性窗口 财富号",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://finance.ifeng.com/c/8y7lmtWVVY7"
+        "https://caifuhao.eastmoney.com/news/20261117125041864294590"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_5373c90ad169",
+      "event_label": "光刻机概念爆发300786率先封板压缩空气储能有新催化上市公司布局揭秘",
+      "timestamp_local": "2026-11-17T13:12:34+08:00",
+      "timestamp_utc": "2026-11-17T05:12:34+00:00",
+      "timestamp_sort": 1794892354.0,
+      "summary": "光刻机概念爆发，300786率先封板！压缩空气储能有新催化，上市公司布局揭秘 凤凰网财经",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://finance.ifeng.com/c/8y7nJjyxetr"
       ],
       "article_count": 1
     },
@@ -717,15 +724,15 @@
     {
       "node_id": "n_5f9aff443195",
       "event_label": "收评创业板指跌120光刻机概念逆势走强",
-      "timestamp_local": "2026-11-17T15:05:19+08:00",
-      "timestamp_utc": "2026-11-17T07:05:19+00:00",
-      "timestamp_sort": 1794899119.0,
-      "summary": "收评：创业板指跌1.20% 光刻机概念逆势走强 证券之星",
+      "timestamp_local": "2026-11-17T15:20:01+08:00",
+      "timestamp_utc": "2026-11-17T07:20:01+00:00",
+      "timestamp_sort": 1794900001.0,
+      "summary": "收评：创业板指跌1.20% 光刻机概念逆势走强 21财经",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://stock.stockstar.com/IG2026111700022224.shtml"
+        "https://www.21jingji.com/article/20261117/herald/8f97218824c2a1bb6ef4e2dfcca9689f.html"
       ],
       "article_count": 1
     },
@@ -743,13 +750,58 @@
         "https://m.tech.china.com/shijiao/20261117/11171979809.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_67dc7e6bf363",
+      "event_label": "光刻机概念逆势爆发一图看懂相关产业链",
+      "timestamp_local": "2026-11-17T15:35:00+08:00",
+      "timestamp_utc": "2026-11-17T07:35:00+00:00",
+      "timestamp_sort": 1794900900.0,
+      "summary": "光刻机概念逆势爆发！一图看懂相关产业链 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1102747952_121948396?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_3e9090a89d35",
+      "event_label": "持续缩量创业板冲高回落跌超1光刻机概念股逆市走强丨复盘论",
+      "timestamp_local": "2026-11-17T16:46:37+08:00",
+      "timestamp_utc": "2026-11-17T08:46:37+00:00",
+      "timestamp_sort": 1794905197.0,
+      "summary": "持续缩量！创业板冲高回落跌超1%，光刻机概念股逆市走强丨复盘论 第一财经",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.yicai.com/video/103443735.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_46d5dd101570",
+      "event_label": "17亿支镜头背后看佳能的影像世界梦想如何落进现实",
+      "timestamp_local": "2026-11-17T19:35:42+08:00",
+      "timestamp_utc": "2026-11-17T11:35:42+00:00",
+      "timestamp_sort": 1794915342.0,
+      "summary": "1.7亿支镜头背后 看佳能的影像世界梦想如何落进现实 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1102837408_118778?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-17T17:57:14.468444+08:00",
+  "updated_at": "2026-11-18T02:57:17.196375+08:00",
   "last_stats": {
-    "node_count": 19,
+    "node_count": 22,
     "conflict_nodes": 1,
-    "article_count": 22
+    "article_count": 25
   },
-  "articles_fingerprint": "b20748a417b6c7c5"
+  "articles_fingerprint": "5ebd271077405567"
 }

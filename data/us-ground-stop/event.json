@@ -124,6 +124,13 @@
       "conflict_nodes": 0,
       "article_count": 135,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-18T02:57:17.604675+08:00",
+      "node_count": 131,
+      "conflict_nodes": 0,
+      "article_count": 137,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1882,7 +1889,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLaVdYS1VuQ1A3cUx6SGtLbWZpcWE0ZC1EMVpHVVhBSTdrUnlpR3hiNTNwZ25aVDRnOGV1d3BweW1NdUxjZ2hXMUQwNHg3cXBRYUotQ0MyVDgwZkU1bU9mbg?oc=5"
+        "https://www.cnbeta.com.tw/articles/tech/1586410.htm"
       ],
       "article_count": 1
     },
@@ -1942,7 +1949,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qMl9OTlM0NkVtR2E2ZjFqdzVwODBoZVhrbDFRaF9FcWZ2N0pYYWk2R3o5d3N5c0FPZmFJNkhXUkRoRlo1Vk5uU0ZCUjJCUmZPczBoNnlOVUdxNGthdEVOQg?oc=5"
+        "https://www.notebookcheck-cn.com/FAA.1450444.0.html"
       ],
       "article_count": 1
     },
@@ -2452,7 +2459,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxTXZwR000MEJ4SmtPY0tlUGRza1FFeUc3d1A5RDJjUl92UnlINTA0UURCbzVucmVqMVlqTlZhcmlMdVB4UXVpN2lCcE9DOFNCQXpHM2wtVnBEc3hCZXNiX2xJQQ?oc=5"
+        "http://dzb.hxnews.com/news/kx/202611/16/2278583.shtml"
       ],
       "article_count": 1
     },
@@ -2557,7 +2564,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHAtc1hPRGRxNU5BbFkxRmtrN05iMWxsNDRDdk9wcHRRWUx5WmVfN29sYzlXbUwteHhmeEpyczZ2TF95Z0t0bkpwU0U3UldrSloyTmNHdTE0dllmZTBuc2Y1Vk9id3AxNENoWnpPV2Q0QzBHV25HM1VleTFNMngtNFktNzJnbk9JQUp1ag?oc=5"
+        "https://m.sohu.com/a/1102168509_121487107?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -2712,6 +2719,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_671d3665db16",
+      "event_label": "全美航班停飞原因公布特朗普开始甩锅民主党钱用在凯旋门了",
+      "timestamp_local": "2026-11-17T13:08:35+08:00",
+      "timestamp_utc": "2026-11-17T05:08:35+00:00",
+      "timestamp_sort": 1794892115.0,
+      "summary": "全美航班停飞原因公布，特朗普开始甩锅，民主党：钱用在凯旋门了 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1102659477_121752853?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_df46236af7b8",
       "event_label": "全美航班停飞后交通部长拒绝道歉特朗普上演甩锅大戏都是拜登的错",
       "timestamp_local": "2026-11-17T13:40:11+08:00",
@@ -2740,13 +2762,28 @@
         "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rUmU4aGtkWVp3Q2tObkxXNzJrSzNYUU5xSzVjRzBXWW9aZzhrc3RFSW0zTC01YzFpZFlyV18ycFlfY09qcjlXY2ZaZmdKeFotR3J5OQ?oc=5"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_98c14ca3dbab",
+      "event_label": "全美航班停飞后续faa紧急暂停新路由器安装嫌疑设备已送实验室解剖",
+      "timestamp_local": "2026-11-18T01:20:00+08:00",
+      "timestamp_utc": "2026-11-17T17:20:00+00:00",
+      "timestamp_sort": 1794936000.0,
+      "summary": "全美航班停飞后续！FAA紧急暂停新路由器安装 嫌疑设备已送实验室“解剖” 驱动之家",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.mydrivers.com/1/1166/1166544.htm"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-17T17:57:14.817513+08:00",
+  "updated_at": "2026-11-18T02:57:17.604675+08:00",
   "last_stats": {
-    "node_count": 129,
+    "node_count": 131,
     "conflict_nodes": 0,
-    "article_count": 135
+    "article_count": 137
   },
-  "articles_fingerprint": "e9ed11c2354af08e"
+  "articles_fingerprint": "a106428e498d03cc"
 }
