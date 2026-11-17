@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>佳能KrF光刻机FPA-6400ES6a发售 · 事件追踪</title>
+    <link>https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/</link>
+    <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/canon-krf-fpa6400es6a.xml" rel="self" type="application/rss+xml"/>
+    <description>追踪「佳能于2026年11月10日宣布12月上旬发售面向存储和逻辑芯片的KrF扫描式光刻机FPA-6400ES6a」这一事件的全部进展：官方参数（400片/小时、4.0nm套刻精度、700μm翘曲）、技术解读（不走EUV、套刻精度≠制程节点）、国产设备对照，以及A股光刻机与光学元件板块的股价走势影响。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 17 Nov 2026 06:53:01 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title>[2026-11-14] 海外视角：板块上涨解读</title>
+      <link>https://freshfromchina.com/photolithography-machine-sector-surges-whats-driving-the-rally-in-chinese-semiconductor-equipment-stocks</link>
+      <guid isPermaLink="false">https://freshfromchina.com/photolithography-machine-sector-surges-whats-driving-the-rally-in-chinese-semiconductor-equipment-stocks#n_e4ccee71ac90</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>海外视角：板块上涨解读</b>　<span>2026-11-14</span></p><p>Chinese photolithography stocks rallied after Canon announced FPA-6400ES6a KrF scanning machine for memory and logic chips, release early December 2026, 400 wafers per hour. Analysts foresee spillover benefits for Chinese upstream optical component suppliers, with geopolitical risks and technology cycles as challenges.</p><p><b>关键数据：</b>视角：海外财经评论；置信度：low</p><p>置信度 0.3 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://freshfromchina.com/photolithography-machine-sector-surges-whats-driving-the-rally-in-chinese-semiconductor-equipment-stocks</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-14] A股收盘行情与产业背景</title>
+      <link>https://news.qq.com/rain/a/20261114A08LQF00</link>
+      <guid isPermaLink="false">https://news.qq.com/rain/a/20261114A08LQF00#n_eac2b61db05b</guid>
+      <pubDate>Sat, 14 Nov 2026 09:30:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>A股收盘行情与产业背景</b>　<span>2026-11-14</span></p><p>11月13日光刻机概念活跃，永新光学、波长光电、福光股份集体走强；收盘永新光学收涨3.11%、波长光电收涨6.30%、联合化学收涨7.34%、福光股份收涨4.73%。11月5至10日进博会上上海微电子展示SSC800、SSB800，关键零部件国产化率突破90%、有效运行率超92%。中芯京城二期投资不低于500亿元、华虹无锡三期69.5亿美元、晶合集成合肥四期355亿元、粤芯四期252亿元。</p><p><b>关键数据：</b>永新光学收盘：涨3.11%；波长光电收盘：涨6.30%；国产化率：超90%</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.qq.com/rain/a/20261114A08LQF00</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-13] A股光学元件板块走强</title>
+      <link>https://finance.cnr.cn/ycbd/20261113/t20261113_527870850.shtml</link>
+      <guid isPermaLink="false">https://finance.cnr.cn/ycbd/20261113/t20261113_527870850.shtml#n_3b118c857779</guid>
+      <pubDate>Fri, 13 Nov 2026 13:30:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>A股光学元件板块走强</b>　<span>2026-11-13</span></p><p>11月13日光学元件板块再度拉升，永新光学（603297.SH）触及涨停，茂莱光学（688502.SH）、苏大维格（300331.SZ）、福晶科技（002222.SZ）、波长光电（301421.SZ）、联创电子（002036.SZ）等多只相关个股均出现不同幅度上涨。</p><p><b>关键数据：</b>永新光学代码：603297；波长光电代码：301421；茂莱光学代码：688502</p><p>置信度 0.9 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://finance.cnr.cn/ycbd/20261113/t20261113_527870850.shtml</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-13] A股光刻机概念板块走强</title>
+      <link>https://www.cls.cn/detail/xk/2533428</link>
+      <guid isPermaLink="false">https://www.cls.cn/detail/xk/2533428#n_ef287e59858b</guid>
+      <pubDate>Fri, 13 Nov 2026 10:30:00 +0800</pubDate>
+      <category>存在冲突</category>
+      <description><![CDATA[<div><p><b>A股光刻机概念板块走强</b>　<span>2026-11-13</span></p><p>财联社11月13日电，光刻机概念表现活跃，波长光电涨超13%，张江高科、新莱应材、海立股份、茂莱光学、富创精密跟涨。消息面上，佳能宣布将于2026年12月上旬发售面向存储和逻辑芯片的KrF扫描式半导体光刻机FPA-6400ES6a，具备每小时400片晶圆高产能。</p><p><b>关键数据：</b>波长光电：【存在分歧】涨超13% / 涨超14%；跟涨个股：张江高科、新莱应材、海立股份、茂莱光学、富创精密；永新光学：涨停/123.32元；兴业证券：资本开支有望超预期</p><p>置信度 0.9 ｜ 冲突节点：是 ｜ 分类：存在冲突</p><p><b>来源：</b>https://www.cls.cn/detail/xk/2533428、https://www.163.com/dy/article/LBK26K4H0530NLC9.html</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-13] 深度解读：佳能成熟制程路线取舍</title>
+      <link>https://www.toutiao.com/article/7707495458972680738/</link>
+      <guid isPermaLink="false">https://www.toutiao.com/article/7707495458972680738/#n_916d0d138791</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>深度解读：佳能成熟制程路线取舍</b>　<span>2026-11-13</span></p><p>分析指出佳能未去EUV正面战场硬碰，而是把资源铺在i-line、KrF、纳米压印NIL和先进封装配套设备，覆盖成熟节点、功率器件、模拟芯片、存储和封装。对存储厂而言DRAM和NAND量大价敏层数多，一片晶圆要过几十次曝光，相当部分图层由KrF承担。文章列出三道时间差：设备产能≠产线产出、订单交付以季度计、需求侧取决于客户下单，认为把发布直接推导成存储价格马上回落是过度推演。</p><p><b>关键数据：</b>路线：成熟制程矩阵；风险提示：三道时间差</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.toutiao.com/article/7707495458972680738/</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-10] 技术解读：套刻精度与国产设备对照</title>
+      <link>https://view.inews.qq.com/a/20261110A0BYHD00</link>
+      <guid isPermaLink="false">https://view.inews.qq.com/a/20261110A0BYHD00#n_56e7bb6a5342</guid>
+      <pubDate>Tue, 10 Nov 2026 21:00:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>技术解读：套刻精度与国产设备对照</b>　<span>2026-11-10</span></p><p>佳能FPA-6400ES6a看点是套刻精度4.0nm、产能400片/小时、处理700微米翘曲，主打存储和逻辑芯片成熟制程。国产对位的是上海微电子SSC800，同样走KrF路线，覆盖110nm及以上制程，关键零部件国产化率超90%，累计流片超千万片、有效运行率超92%。两者都卡位成熟制程。</p><p><b>关键数据：</b>国产对标机型：上海微电子SSC800；国产化率：超90%；路线：不走EUV，主打成熟制程；概念澄清：套刻精度≠制程节点</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://view.inews.qq.com/a/20261110A0BYHD00、https://www.wlcbnews.com/itzx/202611/2488.html</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-10] 佳能官宣发售KrF光刻机FPA-6400ES6a</title>
+      <link>https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfuza9281332.shtml</link>
+      <guid isPermaLink="false">https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfuza9281332.shtml#n_f935e7a32c2b</guid>
+      <pubDate>Tue, 10 Nov 2026 13:36:44 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>佳能官宣发售KrF光刻机FPA-6400ES6a</b>　<span>2026-11-10</span></p><p>2026年11月10日，佳能在东京宣布，将于2026年12月上旬发售面向存储和逻辑芯片的KrF扫描式半导体光刻机FPA-6400ES6a。新品兼具每小时400片晶圆的高产能和业界高水平的4.0nm套刻精度，通过追加图像对准系统的新光源强化晶圆翘曲对应。来源：佳能（中国）有限公司。</p><p><b>关键数据：</b>发售时间：2026年12月上旬；产能：400片/小时；套刻精度：4.0nm；波长：248nm；翘曲对应：700μm；对准光源：Hi-ALS</p><p>置信度 0.9 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfuza9281332.shtml、https://news.qq.com/rain/a/20261110A0C1RG00</p></div>]]></description>
+    </item>
+  </channel>
+</rss>
