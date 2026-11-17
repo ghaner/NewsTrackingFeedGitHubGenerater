@@ -1,0 +1,560 @@
+{
+  "slug": "canon-krf-fpa6400es6a",
+  "created_at": "2026-11-17T14:49:36.158770+08:00",
+  "versions": [
+    {
+      "updated_at": "2026-11-17T14:49:36.158808+08:00",
+      "node_count": 7,
+      "conflict_nodes": 1,
+      "article_count": 10
+    }
+  ],
+  "meta": {
+    "title": "佳能发售面向存储和逻辑芯片的KrF扫描式光刻机FPA-6400ES6a",
+    "event_anchor": {
+      "subject": "佳能KrF扫描式光刻机FPA-6400ES6a发售",
+      "keywords": [
+        "佳能",
+        "FPA-6400ES6a",
+        "KrF光刻机",
+        "氟化氪",
+        "光刻机概念"
+      ],
+      "start_hint": "2026-11-10"
+    }
+  },
+  "analysis": {
+    "five_w_one_h": {
+      "who": "佳能（Canon）公司；下游为存储芯片与逻辑芯片制造商",
+      "what": "佳能宣布将于2026年12月上旬发售面向存储和逻辑芯片的KrF（氟化氪）扫描式半导体光刻机新品FPA-6400ES6a，具备每小时400片晶圆产能与4.0nm套刻精度",
+      "when": "2026-11-10T00:00:00+08:00（官宣）；计划2026年12月上旬发售",
+      "where": "日本东京（发布地）；面向全球存储与逻辑芯片制造市场",
+      "why": "生成式AI普及推动尖端半导体需求扩大；高集成化使曝光工序增加、多层堆叠成趋势，晶圆翘曲与多层套刻精度要求提升；存储厂扩产与降本诉求上升",
+      "how": "通过新开发的超高加速度载台缩短驱动时间实现400片/小时产能；新增震动抑制技术与空调恒温技术达成4.0nm套刻精度；图像对准系统可选配新光源Hi-ALS；可将可对应翘曲量扩大至700μm；搭载再生电力储存再利用技术降低单片耗电量；可联动Lithography Plus平台做状态监测与品质管理"
+    },
+    "stakeholder_voices": [
+      {
+        "role": "佳能（发布方）",
+        "stance": "官方宣布",
+        "summary": "佳能称新品兼具400片/小时高产能与业界高水平4.0nm套刻精度，通过新增对准光源与翘曲对应，为复杂多样的半导体制造工艺贡献力量，并强调降低单片耗电量兼顾环保。",
+        "quote": "兼具每小时400片晶圆的高产能和业界高水平的4.0nm套刻精度，通过追加图像对准系统的新光源，强化晶圆翘曲的对应。",
+        "source": "佳能（中国）有限公司官方稿件，见新浪财经 https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfuza9281332.shtml ；腾讯新闻 https://news.qq.com/rain/a/20261110A0C1RG00",
+        "confidence": "high"
+      },
+      {
+        "role": "兴业证券（卖方研究）",
+        "stance": "研报观点",
+        "summary": "长江存储、长鑫存储的多个存储项目建设持续推进，下一轮设备框架协议及批量订单有望近期落地，存储行业资本开支有望超预期。",
+        "quote": "下一轮设备框架协议及批量订单有望近期落地，存储行业资本开支有望超预期。",
+        "source": "中国基金报《光刻机领涨!603297,封涨停》转引，https://www.163.com/dy/article/LBK26K4H0530NLC9.html",
+        "confidence": "medium"
+      },
+      {
+        "role": "A股光刻机/光学元件产业链公司（永新光学、波长光电、茂莱光学等）",
+        "stance": "未就本事件逐一公开回应",
+        "summary": "多家公司在11月13日盘中出现明显上涨，但检索到的公开报道中未见上述公司就佳能新品发布单独发表官方声明；涨价主要被媒体归因为板块消息面催化。",
+        "quote": "",
+        "source": "央广网 https://finance.cnr.cn/ycbd/20261113/t20261113_527870850.shtml ；同花顺 https://m.10jqka.com.cn/20261113/c681785984.shtml",
+        "confidence": "medium"
+      }
+    ],
+    "social_commentary": [
+      {
+        "platform": "财经媒体/自媒体",
+        "view": "强调概念催化与国产替代联想",
+        "summary": "多篇报道把佳能新品与A股光刻机、光学元件板块上涨直接关联，并叠加上海微电子进博会亮相、存储厂扩产等预期，形成'国产替代+设备景气'叙事。",
+        "heat": "高"
+      },
+      {
+        "platform": "科技自媒体/知乎类讨论",
+        "view": "澄清'4nm套刻精度'概念误区",
+        "summary": "有解读指出4nm指多层图案对准误差（套刻精度），并非可生产4nm制程芯片；KrF为248nm波长，主要用于成熟制程，提醒公众不要混淆套刻精度与制程节点。",
+        "heat": "中"
+      },
+      {
+        "platform": "财经评论",
+        "view": "质疑从新品发布直接推导存储价格回落",
+        "summary": "有分析列出三道时间差——设备理论产能与实际产出之差、订单交付以季度计、需求侧取决于客户下单，认为把该发布直接推导成'存储价格马上回落'属过度推演。",
+        "heat": "中"
+      }
+    ],
+    "professional_interpretation": [
+      {
+        "expert": "行业分析（今日头条科技号深度解读）",
+        "field": "半导体设备/存储产业",
+        "summary": "指出佳能未进入EUV正面竞争，而是把资源铺在i-line、KrF、纳米压印NIL与先进封装配套设备，覆盖成熟节点、功率器件、模拟芯片、存储和封装，以稳定份额与交付能力换取市场位置。",
+        "viewpoint": "佳能主动放弃先进制程叙事红利，换取量大面广成熟芯片市场的稳定份额。",
+        "source": "今日头条《佳能光刻机不拼EUV，400片/小时撕开光刻第二战场》 https://www.toutiao.com/article/7707495458972680738/",
+        "confidence": "medium"
+      },
+      {
+        "expert": "产业链对比分析（腾讯新闻）",
+        "field": "光刻设备国产化",
+        "summary": "将佳能FPA-6400ES6a与上海微电子SSC800对照：佳能峰值套刻精度与产能更亮眼，国产亮点在量产数据（累计流片超千万片、有效运行率超92%）与高自主化率（关键零部件国产化率超90%）；两者均卡位成熟制程。",
+        "viewpoint": "一个回答'能不能用'，一个回答'能不能更便宜地用'，起点不同、比拼的是稳定供货能力而非单点参数。",
+        "source": "腾讯新闻《4.0nm套刻精度，佳能新款KrF光刻机即将推出》 https://view.inews.qq.com/a/20261110A0BYHD00 ；《上海微电子国产化率破90%》 https://news.qq.com/rain/a/20261114A08LQF00",
+        "confidence": "medium"
+      },
+      {
+        "expert": "海外财经观察（FreshFromChina）",
+        "field": "半导体供应链投资",
+        "summary": "认为全球龙头的技术进步会通过'增加零部件需求、优化供应链、验证技术'三条链路，对中国上游精密光学元件与材料供应商形成外溢利好，但也提示地缘政治风险与技术周期挑战。",
+        "viewpoint": "行情反映投资者对中国在全球光刻供应链角色与成熟制程创新的信心。",
+        "source": "FreshFromChina《Photolithography Machine Sector Surges》 https://freshfromchina.com/photolithography-machine-sector-surges-whats-driving-the-rally-in-chinese-semiconductor-equipment-stocks",
+        "confidence": "low"
+      }
+    ],
+    "related_research": [
+      {
+        "topic": "KrF光刻在成熟制程中的定位",
+        "finding": "KrF使用248nm波长，属成熟制程设备，一般用于90nm及以上工艺；多层堆叠与3D存储、晶圆键合工艺对大翘曲晶圆吸附与高精度对准提出持续需求。套刻精度（叠对误差）与制程节点是两个不同概念。",
+        "reference": "乌兰察布新闻网《佳能放弃EUV路线，推出高性能KrF光刻机FPA-6400ES6a》 https://www.wlcbnews.com/itzx/202611/2488.html",
+        "year": "2026"
+      },
+      {
+        "topic": "国产前道干式光刻机进展",
+        "finding": "在2026年11月5日至10日进博会上，上海微电子装备集团展示新一代前道干式扫描投影光刻机SSC800、SSB800模型，关键零部件国产化率突破90%，设备有效运行率超92%，累计流片超千万片。",
+        "reference": "腾讯新闻《上海微电子国产化率破90%，光刻机产业链借势'上桌'》 https://news.qq.com/rain/a/20261114A08LQF00",
+        "year": "2026"
+      },
+      {
+        "topic": "国内存储厂资本开支周期",
+        "finding": "长江存储、长鑫存储多个存储项目建设推进；中芯京城二期（投资不低于500亿元）、华虹无锡三期（69.5亿美元）、晶合集成合肥四期（355亿元）、粤芯半导体四期（252亿元）等在手项目释放密集设备订单。",
+        "reference": "兴业证券研报（中国基金报转引）https://www.163.com/dy/article/LBK26K4H0530NLC9.html ；腾讯新闻 https://news.qq.com/rain/a/20261114A08LQF00",
+        "year": "2026"
+      }
+    ],
+    "impact": {
+      "direct": [
+        "佳能KrF新品FPA-6400ES6a计划于2026年12月上旬发售，扩充成熟制程光刻设备供给，面向存储与逻辑芯片制造",
+        "新机400片/小时产能（较前代FPA-6300ES6a大幅提升）与4.0nm套刻精度，直接提升存储/成熟逻辑芯片的量产效率与良率潜力",
+        "可对应翘曲量扩大至700μm，强化对3D堆叠存储与晶圆键合工艺的适配能力"
+      ],
+      "indirect": [
+        "消息面催化A股光刻机、光学元件概念板块在2026年11月13日走强（详见A股板块/个股表）",
+        "强化'存储厂资本开支超预期'与设备国产替代预期，兴业证券指存储设备框架协议及批量订单有望近期落地",
+        "引发对成熟制程 vs 先进制程路线分工、以及佳能与上海微电子等国产设备 parametrics 对比的行业讨论"
+      ],
+      "scope": "全球半导体光刻设备市场，重点为存储与成熟逻辑芯片制造；二级市场主要波及A股光刻机、光学元件、半导体设备板块",
+      "a_share": {
+        "sectors": [
+          {
+            "name": "光刻机概念",
+            "direction": "利好",
+            "logic": "佳能新品发售被市场解读为光刻设备景气度提升信号，叠加存储厂扩产预期，直接点燃概念板块情绪。",
+            "price_effect": "预期短期情绪面偏强；需警惕事件驱动型上涨的持续性，属消息催化而非订单落地。",
+            "observed_move": "2026-11-13上午A股光刻机概念板块领涨市场，多只个股涨超10%（中国基金报/同花顺当日报道）。",
+            "source": "中国基金报 https://www.163.com/dy/article/LBK26K4H0530NLC9.html ；同花顺 https://m.10jqka.com.cn/20261113/c681785984.shtml",
+            "confidence": "medium"
+          },
+          {
+            "name": "光学元件",
+            "direction": "利好",
+            "logic": "佳能在对准系统新增可选光源Hi-ALS，被市场联想为对精密光学元件、镜头、光源等上游环节的需求拉动；海外观察亦给出'技术进步外溢上游供应商'逻辑。",
+            "price_effect": "预期短期受益于主题情绪，中期取决于国内厂商是否真实进入相关供应链。",
+            "observed_move": "2026-11-13光学元件板块再度拉升，永新光学涨停，茂莱光学、苏大维格、福晶科技、波长光电、联创电子等不同幅度上涨（央广网当日报道）。",
+            "source": "央广网 https://finance.cnr.cn/ycbd/20261113/t20261113_527870850.shtml ；东方财富 https://finance.eastmoney.com/a/202611133930547523.html",
+            "confidence": "medium"
+          },
+          {
+            "name": "半导体设备（存储产业链）",
+            "direction": "利好",
+            "logic": "兴业证券研报指长江存储、长鑫存储项目推进，下一轮设备框架协议及批量订单有望落地、资本开支有望超预期，带动设备环节景气预期。",
+            "price_effect": "预期中期看存储资本开支兑现节奏；研报观点属预期，非已落地订单。",
+            "observed_move": "",
+            "source": "兴业证券研报，中国基金报转引 https://www.163.com/dy/article/LBK26K4H0530NLC9.html",
+            "confidence": "medium"
+          }
+        ],
+        "stocks": [
+          {
+            "code": "603297",
+            "name": "永新光学",
+            "sector": "光学元件/光刻机概念",
+            "direction": "利好",
+            "logic": "属光学元件板块，被市场列为光刻机概念相关标的；消息面催化下领涨。业务与佳能新品的直接供货关系未见权威披露，传导以主题联想为主。",
+            "price_effect": "已发生：2026-11-13盘中触及涨停；同日另一报道称其后回落收涨3.11%。两种口径并列留存，反映盘中与收盘差异。",
+            "observed_move": "2026-11-13盘中涨停、报123.32元/股、市值约137亿元（中国基金报/同花顺）；腾讯新闻11-14报道称收涨3.11%。",
+            "source": "同花顺 https://m.10jqka.com.cn/20261113/c681785984.shtml ；腾讯新闻 https://news.qq.com/rain/a/20261114A08LQF00",
+            "confidence": "medium"
+          },
+          {
+            "code": "301421",
+            "name": "波长光电",
+            "sector": "光学元件/光刻机概念",
+            "direction": "利好",
+            "logic": "光学元件标的，被财联社等列为光刻机概念活跃股，受新机对准光源等消息催化。",
+            "price_effect": "已发生：盘中涨超13%—14%，收盘涨幅据腾讯新闻为6.30%，盘中与收盘口径并列。",
+            "observed_move": "2026-11-13盘中涨超13%（财联社）、超14%（中国基金报）；腾讯新闻11-14称收涨6.30%。",
+            "source": "财联社 https://www.cls.cn/detail/xk/2533428 ；中国基金报 https://www.163.com/dy/article/LBK26K4H0530NLC9.html ；腾讯新闻 https://news.qq.com/rain/a/20261114A08LQF00",
+            "confidence": "medium"
+          },
+          {
+            "code": "688502",
+            "name": "茂莱光学",
+            "sector": "光学元件",
+            "direction": "利好",
+            "logic": "精密光学元件标的，被央广网、同花顺列为当日上涨的光学元件/光刻机概念股。",
+            "price_effect": "预期短期受板块情绪带动；未见与佳能直接供货的权威披露。",
+            "observed_move": "2026-11-13随板块大幅走高（央广网、同花顺当日报道），具体收盘涨跌幅本次检索未见可核查精确数值，故不填数字。",
+            "source": "央广网 https://finance.cnr.cn/ycbd/20261113/t20261113_527870850.shtml",
+            "confidence": "medium"
+          },
+          {
+            "code": "600895",
+            "name": "张江高科",
+            "sector": "光刻机概念/园区",
+            "direction": "利好",
+            "logic": "同花顺、财联社列为光刻机概念跟涨股，属主题联动标的。",
+            "price_effect": "预期短期情绪驱动；公司主业与新品的直接业绩关联需另行核实。",
+            "observed_move": "2026-11-13随光刻机概念板块大幅走高（同花顺、财联社当日报道）。",
+            "source": "同花顺 https://m.10jqka.com.cn/20261113/c681785984.shtml ；财联社 https://www.cls.cn/detail/xk/2533428",
+            "confidence": "medium"
+          },
+          {
+            "code": "688010",
+            "name": "福光股份",
+            "sector": "光学元件/光刻机概念",
+            "direction": "利好",
+            "logic": "被中国基金报、腾讯新闻列为当日涨幅超10%的光刻机/光学元件相关个股。",
+            "price_effect": "已发生：盘中涨幅超10%；腾讯新闻11-14称收涨4.73%，盘中与收盘口径并列。",
+            "observed_move": "2026-11-13盘中涨幅超10%（中国基金报）；腾讯新闻11-14称收涨4.73%。",
+            "source": "中国基金报 https://www.163.com/dy/article/LBK26K4H0530NLC9.html ；腾讯新闻 https://news.qq.com/rain/a/20261114A08LQF00",
+            "confidence": "medium"
+          }
+        ],
+        "market_note": "传导路径：佳能新品发售→光刻设备景气/存储扩产预期→A股光刻机与光学元件概念情绪升温，属消息驱动的主题行情，订单与业绩兑现存在时滞。时间窗：事件发酵集中在2026-11-13当日，盘中与收盘涨幅口径不一致处已并列留存、未择一覆盖。不确定性：盘中涨幅不等于收盘涨幅；永新光学等与佳能的直接供货关系未见权威披露，主题联想成分较高；佳能新机主打成熟制程，非EUV先进制程。以上为事件影响分析，不构成投资建议。"
+      }
+    },
+    "source_analysis": [
+      {
+        "source": "佳能（中国）有限公司官方稿件",
+        "type": "官方",
+        "reliability": "高",
+        "first_report": true,
+        "note": "新品参数与发售计划的权威首发来源，被新浪财经、腾讯新闻、多家公众号同步转载；'4.0nm'为佳能调查口径（截至2026-11-09，支持300mm基板的KrF Scanner中）。",
+        "trace": "佳能官宣（11-10）→ 新浪财经/中关村在线、腾讯新闻、IT之家等转载 → 财联社/中国基金报引入A股行情解读"
+      },
+      {
+        "source": "新浪财经（转载中关村在线）",
+        "type": "主流媒体",
+        "reliability": "高",
+        "first_report": false,
+        "note": "标注精确时间戳2026-11-10T13:36:44+08:00，正文与佳能官方稿一致，可作为首发时间锚点。",
+        "trace": "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfuza9281332.shtml"
+      },
+      {
+        "source": "财联社 / 中国基金报 / 同花顺 / 央广网",
+        "type": "主流财经媒体",
+        "reliability": "高",
+        "first_report": false,
+        "note": "11-13 A股行情的主要报道方，个股名称、代码与盘中涨幅可核查；转引兴业证券研报。",
+        "trace": "财联社 https://www.cls.cn/detail/xk/2533428 → 网易/中国基金报 https://www.163.com/dy/article/LBK26K4H0530NLC9.html → 同花顺 https://m.10jqka.com.cn/20261113/c681785984.shtml → 央广网 https://finance.cnr.cn/ycbd/20261113/t20261113_527870850.shtml"
+      },
+      {
+        "source": "今日头条科技号 / FreshFromChina 等评论类内容",
+        "type": "自媒体/评论",
+        "reliability": "中低",
+        "first_report": false,
+        "note": "'佳能放弃EUV路线''上游外溢利好'等属评论/解读而非官方事实，已标注较低置信度；不可作为事实引用。",
+        "trace": "今日头条 https://www.toutiao.com/article/7707495458972680738/ ；FreshFromChina https://freshfromchina.com/photolithography-machine-sector-surges-whats-driving-the-rally-in-chinese-semiconductor-equipment-stocks"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "node_id": "n_f935e7a32c2b",
+      "event_label": "佳能官宣发售KrF光刻机FPA-6400ES6a",
+      "timestamp_local": "2026-11-10T13:36:44+08:00",
+      "timestamp_utc": "2026-11-10T05:36:44+00:00",
+      "timestamp_sort": 1794289004.0,
+      "summary": "2026年11月10日，佳能在东京宣布，将于2026年12月上旬发售面向存储和逻辑芯片的KrF扫描式半导体光刻机FPA-6400ES6a。新品兼具每小时400片晶圆的高产能和业界高水平的4.0nm套刻精度，通过追加图像对准系统的新光源强化晶圆翘曲对应。来源：佳能（中国）有限公司。",
+      "facts": {
+        "发售时间": [
+          {
+            "value": "2026年12月上旬",
+            "confidence": 0.9,
+            "source": "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfuza9281332.shtml"
+          }
+        ],
+        "产能": [
+          {
+            "value": "400片/小时",
+            "confidence": 0.9,
+            "source": "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfuza9281332.shtml"
+          }
+        ],
+        "套刻精度": [
+          {
+            "value": "4.0nm",
+            "confidence": 0.9,
+            "source": "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfuza9281332.shtml"
+          }
+        ],
+        "波长": [
+          {
+            "value": "248nm",
+            "confidence": 0.9,
+            "source": "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfuza9281332.shtml"
+          }
+        ],
+        "翘曲对应": [
+          {
+            "value": "700μm",
+            "confidence": 0.9,
+            "source": "https://news.qq.com/rain/a/20261110A0C1RG00"
+          }
+        ],
+        "对准光源": [
+          {
+            "value": "Hi-ALS",
+            "confidence": 0.9,
+            "source": "https://news.qq.com/rain/a/20261110A0C1RG00"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.9,
+      "sources": [
+        "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfuza9281332.shtml",
+        "https://news.qq.com/rain/a/20261110A0C1RG00"
+      ],
+      "article_count": 2
+    },
+    {
+      "node_id": "n_56e7bb6a5342",
+      "event_label": "技术解读：套刻精度与国产设备对照",
+      "timestamp_local": "2026-11-10T21:00:00+08:00",
+      "timestamp_utc": "2026-11-10T13:00:00+00:00",
+      "timestamp_sort": 1794315600.0,
+      "summary": "佳能FPA-6400ES6a看点是套刻精度4.0nm、产能400片/小时、处理700微米翘曲，主打存储和逻辑芯片成熟制程。国产对位的是上海微电子SSC800，同样走KrF路线，覆盖110nm及以上制程，关键零部件国产化率超90%，累计流片超千万片、有效运行率超92%。两者都卡位成熟制程。",
+      "facts": {
+        "国产对标机型": [
+          {
+            "value": "上海微电子SSC800",
+            "confidence": 0.6,
+            "source": "https://view.inews.qq.com/a/20261110A0BYHD00"
+          }
+        ],
+        "国产化率": [
+          {
+            "value": "超90%",
+            "confidence": 0.6,
+            "source": "https://view.inews.qq.com/a/20261110A0BYHD00"
+          }
+        ],
+        "路线": [
+          {
+            "value": "不走EUV，主打成熟制程",
+            "confidence": 0.6,
+            "source": "https://www.wlcbnews.com/itzx/202611/2488.html"
+          }
+        ],
+        "概念澄清": [
+          {
+            "value": "套刻精度≠制程节点",
+            "confidence": 0.6,
+            "source": "https://www.wlcbnews.com/itzx/202611/2488.html"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://view.inews.qq.com/a/20261110A0BYHD00",
+        "https://www.wlcbnews.com/itzx/202611/2488.html"
+      ],
+      "article_count": 2
+    },
+    {
+      "node_id": "n_916d0d138791",
+      "event_label": "深度解读：佳能成熟制程路线取舍",
+      "timestamp_local": "2026-11-13T09:00:00+08:00",
+      "timestamp_utc": "2026-11-13T01:00:00+00:00",
+      "timestamp_sort": 1794531600.0,
+      "summary": "分析指出佳能未去EUV正面战场硬碰，而是把资源铺在i-line、KrF、纳米压印NIL和先进封装配套设备，覆盖成熟节点、功率器件、模拟芯片、存储和封装。对存储厂而言DRAM和NAND量大价敏层数多，一片晶圆要过几十次曝光，相当部分图层由KrF承担。文章列出三道时间差：设备产能≠产线产出、订单交付以季度计、需求侧取决于客户下单，认为把发布直接推导成存储价格马上回落是过度推演。",
+      "facts": {
+        "路线": [
+          {
+            "value": "成熟制程矩阵",
+            "confidence": 0.6,
+            "source": "https://www.toutiao.com/article/7707495458972680738/"
+          }
+        ],
+        "风险提示": [
+          {
+            "value": "三道时间差",
+            "confidence": 0.6,
+            "source": "https://www.toutiao.com/article/7707495458972680738/"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.toutiao.com/article/7707495458972680738/"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_ef287e59858b",
+      "event_label": "A股光刻机概念板块走强",
+      "timestamp_local": "2026-11-13T10:30:00+08:00",
+      "timestamp_utc": "2026-11-13T02:30:00+00:00",
+      "timestamp_sort": 1794537000.0,
+      "summary": "财联社11月13日电，光刻机概念表现活跃，波长光电涨超13%，张江高科、新莱应材、海立股份、茂莱光学、富创精密跟涨。消息面上，佳能宣布将于2026年12月上旬发售面向存储和逻辑芯片的KrF扫描式半导体光刻机FPA-6400ES6a，具备每小时400片晶圆高产能。",
+      "facts": {
+        "波长光电": [
+          {
+            "value": "涨超13%",
+            "confidence": 0.9,
+            "source": "https://www.cls.cn/detail/xk/2533428"
+          },
+          {
+            "value": "涨超14%",
+            "confidence": 0.9,
+            "source": "https://www.163.com/dy/article/LBK26K4H0530NLC9.html"
+          }
+        ],
+        "跟涨个股": [
+          {
+            "value": "张江高科、新莱应材、海立股份、茂莱光学、富创精密",
+            "confidence": 0.9,
+            "source": "https://www.cls.cn/detail/xk/2533428"
+          }
+        ],
+        "永新光学": [
+          {
+            "value": "涨停/123.32元",
+            "confidence": 0.9,
+            "source": "https://www.163.com/dy/article/LBK26K4H0530NLC9.html"
+          }
+        ],
+        "兴业证券": [
+          {
+            "value": "资本开支有望超预期",
+            "confidence": 0.9,
+            "source": "https://www.163.com/dy/article/LBK26K4H0530NLC9.html"
+          }
+        ]
+      },
+      "conflict": true,
+      "confidence": 0.9,
+      "sources": [
+        "https://www.cls.cn/detail/xk/2533428",
+        "https://www.163.com/dy/article/LBK26K4H0530NLC9.html"
+      ],
+      "article_count": 2
+    },
+    {
+      "node_id": "n_3b118c857779",
+      "event_label": "A股光学元件板块走强",
+      "timestamp_local": "2026-11-13T13:30:00+08:00",
+      "timestamp_utc": "2026-11-13T05:30:00+00:00",
+      "timestamp_sort": 1794547800.0,
+      "summary": "11月13日光学元件板块再度拉升，永新光学（603297.SH）触及涨停，茂莱光学（688502.SH）、苏大维格（300331.SZ）、福晶科技（002222.SZ）、波长光电（301421.SZ）、联创电子（002036.SZ）等多只相关个股均出现不同幅度上涨。",
+      "facts": {
+        "永新光学代码": [
+          {
+            "value": "603297",
+            "confidence": 0.9,
+            "source": "https://finance.cnr.cn/ycbd/20261113/t20261113_527870850.shtml"
+          }
+        ],
+        "波长光电代码": [
+          {
+            "value": "301421",
+            "confidence": 0.9,
+            "source": "https://finance.cnr.cn/ycbd/20261113/t20261113_527870850.shtml"
+          }
+        ],
+        "茂莱光学代码": [
+          {
+            "value": "688502",
+            "confidence": 0.9,
+            "source": "https://finance.cnr.cn/ycbd/20261113/t20261113_527870850.shtml"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.9,
+      "sources": [
+        "https://finance.cnr.cn/ycbd/20261113/t20261113_527870850.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_eac2b61db05b",
+      "event_label": "A股收盘行情与产业背景",
+      "timestamp_local": "2026-11-14T09:30:00+08:00",
+      "timestamp_utc": "2026-11-14T01:30:00+00:00",
+      "timestamp_sort": 1794619800.0,
+      "summary": "11月13日光刻机概念活跃，永新光学、波长光电、福光股份集体走强；收盘永新光学收涨3.11%、波长光电收涨6.30%、联合化学收涨7.34%、福光股份收涨4.73%。11月5至10日进博会上上海微电子展示SSC800、SSB800，关键零部件国产化率突破90%、有效运行率超92%。中芯京城二期投资不低于500亿元、华虹无锡三期69.5亿美元、晶合集成合肥四期355亿元、粤芯四期252亿元。",
+      "facts": {
+        "永新光学收盘": [
+          {
+            "value": "涨3.11%",
+            "confidence": 0.6,
+            "source": "https://news.qq.com/rain/a/20261114A08LQF00"
+          }
+        ],
+        "波长光电收盘": [
+          {
+            "value": "涨6.30%",
+            "confidence": 0.6,
+            "source": "https://news.qq.com/rain/a/20261114A08LQF00"
+          }
+        ],
+        "国产化率": [
+          {
+            "value": "超90%",
+            "confidence": 0.6,
+            "source": "https://news.qq.com/rain/a/20261114A08LQF00"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.qq.com/rain/a/20261114A08LQF00"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_e4ccee71ac90",
+      "event_label": "海外视角：板块上涨解读",
+      "timestamp_local": "2026-11-14T12:00:00+08:00",
+      "timestamp_utc": "2026-11-14T04:00:00+00:00",
+      "timestamp_sort": 1794628800.0,
+      "summary": "Chinese photolithography stocks rallied after Canon announced FPA-6400ES6a KrF scanning machine for memory and logic chips, release early December 2026, 400 wafers per hour. Analysts foresee spillover benefits for Chinese upstream optical component suppliers, with geopolitical risks and technology cycles as challenges.",
+      "facts": {
+        "视角": [
+          {
+            "value": "海外财经评论",
+            "confidence": 0.3,
+            "source": "https://freshfromchina.com/photolithography-machine-sector-surges-whats-driving-the-rally-in-chinese-semiconductor-equipment-stocks"
+          }
+        ],
+        "置信度": [
+          {
+            "value": "low",
+            "confidence": 0.3,
+            "source": "https://freshfromchina.com/photolithography-machine-sector-surges-whats-driving-the-rally-in-chinese-semiconductor-equipment-stocks"
+          }
+        ]
+      },
+      "conflict": false,
+      "confidence": 0.3,
+      "sources": [
+        "https://freshfromchina.com/photolithography-machine-sector-surges-whats-driving-the-rally-in-chinese-semiconductor-equipment-stocks"
+      ],
+      "article_count": 1
+    }
+  ],
+  "updated_at": "2026-11-17T14:49:36.158808+08:00",
+  "last_stats": {
+    "node_count": 7,
+    "conflict_nodes": 1,
+    "article_count": 10
+  }
+}
