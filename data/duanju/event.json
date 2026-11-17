@@ -63,6 +63,13 @@
       "conflict_nodes": 1,
       "article_count": 29,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-17T09:23:04.140765+08:00",
+      "node_count": 29,
+      "conflict_nodes": 1,
+      "article_count": 30,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1098,6 +1105,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_e221f2c8de2d",
+      "event_label": "传媒行业周报ai短剧出海转向产业链协同手游发行回归长线运营行业研究研报",
+      "timestamp_local": "2026-11-16T16:17:00+08:00",
+      "timestamp_utc": "2026-11-16T08:17:00+00:00",
+      "timestamp_sort": 1794817020.0,
+      "summary": "传媒行业周报：AI短剧出海转向产业链协同，手游发行回归长线运营_行业研究_研报 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://stock.stockstar.com/JC2026111600024715.shtml"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_d600d50297a2",
       "event_label": "短剧出海火热业内却称95都亏钱钱被谁挣了",
       "timestamp_local": "2026-11-16T16:34:09+08:00",
@@ -1108,7 +1130,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.ifeng.com/c/8y6NJV3H5qK"
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aYVM4dDE0NmVsVWZZR1g2UHB0WHlJU1VFSmpSVmV6YXU4b2J6YVZVZDRjaGo3akhVSlBtaGJncTZXUHhqSWd6UWVXNTI?oc=5"
       ],
       "article_count": 1
     },
@@ -1123,7 +1145,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://original.ifeng.com/c/8y6T54pP9NS"
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tLWNPYXdUQ2pTQ1hJTklraHp2U2kzMDNxcFpCdVB3X09jRmQ2SHJEbE9qMktqLUkycXlTZHpnVFl0YWUyVzNTRWRWWS1pMjRjdHc?oc=5"
       ],
       "article_count": 1
     },
@@ -1143,11 +1165,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-17T01:44:07.758913+08:00",
+  "updated_at": "2026-11-17T09:23:04.140765+08:00",
   "last_stats": {
-    "node_count": 28,
+    "node_count": 29,
     "conflict_nodes": 1,
-    "article_count": 29
+    "article_count": 30
   },
-  "articles_fingerprint": "aa43e4b40ca3291a"
+  "articles_fingerprint": "cab43d6b3d771a02"
 }
