@@ -29,6 +29,20 @@
       "limit": 0,
       "order": "desc",
       "template": "<div><p><b>{label}</b>　<span>{published}</span></p><p>{summary}</p><p><b>关键数据：</b>{facts}</p><p>置信度 {confidence} ｜ 冲突节点：{conflict} ｜ 分类：{category}</p><p><b>来源：</b>{sources_text}</p></div>"
+    },
+    {
+      "name": "canon-krf-fpa6400es6a",
+      "parser": "event_json",
+      "fetch": "file",
+      "url": "data/canon-krf-fpa6400es6a/event.json",
+      "home_url": "https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/",
+      "feed_url": "https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/canon-krf-fpa6400es6a.xml",
+      "feed_title": "佳能KrF光刻机FPA-6400ES6a发售 · 事件追踪",
+      "feed_desc": "追踪「佳能于2026年11月10日宣布12月上旬发售面向存储和逻辑芯片的KrF扫描式光刻机FPA-6400ES6a」这一事件的全部进展：官方参数（400片/小时、4.0nm套刻精度、700μm翘曲）、技术解读（不走EUV、套刻精度≠制程节点）、国产设备对照，以及A股光刻机与光学元件板块的股价走势影响。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。",
+      "ttl": 60,
+      "limit": 0,
+      "order": "desc",
+      "template": "<div><p><b>{label}</b>　<span>{published}</span></p><p>{summary}</p><p><b>关键数据：</b>{facts}</p><p>置信度 {confidence} ｜ 冲突节点：{conflict} ｜ 分类：{category}</p><p><b>来源：</b>{sources_text}</p></div>"
     }
   ]
 }
