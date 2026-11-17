@@ -70,6 +70,13 @@
       "conflict_nodes": 1,
       "article_count": 30,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-17T14:55:04.922763+08:00",
+      "node_count": 30,
+      "conflict_nodes": 1,
+      "article_count": 31,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1100,7 +1107,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://cn.investing.com/news/stock-market-news/article-3669042"
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SRzc5RlZ4clIyME5jRXk3dHJkQWpJOGhqdjJtaC03YmRWbHNBQU5VQWJjMlI1T0hTN3VyYWZyaTZHbWpqN3EzS1FZTjVPX3FNVjRwQXQyVTBHSEtNWlR5XzRYOVNuclpsajRLQTAxOHQ?oc=5"
       ],
       "article_count": 1
     },
@@ -1145,7 +1152,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tLWNPYXdUQ2pTQ1hJTklraHp2U2kzMDNxcFpCdVB3X09jRmQ2SHJEbE9qMktqLUkycXlTZHpnVFl0YWUyVzNTRWRWWS1pMjRjdHc?oc=5"
+        "https://original.ifeng.com/c/8y6T54pP9NS"
       ],
       "article_count": 1
     },
@@ -1163,13 +1170,28 @@
         "https://m.sohu.com/a/1102329066_121455372?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_594ca5e678d6",
+      "event_label": "一部ai短剧入账5300万这家重庆公司杀进全球第二",
+      "timestamp_local": "2026-11-17T14:36:11+08:00",
+      "timestamp_utc": "2026-11-17T06:36:11+00:00",
+      "timestamp_sort": 1794897371.0,
+      "summary": "一部AI短剧入账5300万，这家重庆公司杀进全球第二 创业邦",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hcUx6OUFTeF9VZkRJbFdIYlN4Nm1kSlhoZzZ1UGJjUmdiSS00V0lOMW1JTlhieWZvbVdTLTJjNnpBQV9vSzZDNlZHcjBIaGc2?oc=5"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-17T09:23:04.140765+08:00",
+  "updated_at": "2026-11-17T14:55:04.922763+08:00",
   "last_stats": {
-    "node_count": 29,
+    "node_count": 30,
     "conflict_nodes": 1,
-    "article_count": 30
+    "article_count": 31
   },
-  "articles_fingerprint": "cab43d6b3d771a02"
+  "articles_fingerprint": "cee8b5bebd67f134"
 }

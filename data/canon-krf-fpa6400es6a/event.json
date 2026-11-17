@@ -7,6 +7,13 @@
       "node_count": 7,
       "conflict_nodes": 1,
       "article_count": 10
+    },
+    {
+      "updated_at": "2026-11-17T14:55:04.894709+08:00",
+      "node_count": 16,
+      "conflict_nodes": 1,
+      "article_count": 19,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -549,12 +556,148 @@
         "https://freshfromchina.com/photolithography-machine-sector-surges-whats-driving-the-rally-in-chinese-semiconductor-equipment-stocks"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_2445cc3a4a27",
+      "event_label": "佳能ixus870is值得买吗佳能ixus870is价格和评测",
+      "timestamp_local": "2026-11-16T11:06:06+08:00",
+      "timestamp_utc": "2026-11-16T03:06:06+00:00",
+      "timestamp_sort": 1794798366.0,
+      "summary": "佳能 ixus870iS 值得买吗？佳能 ixus870iS 价格和评测 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NYkZnS0E0eU9zdlVXTlMtb3JqRE5kMzlCWEJ5TnJBRVVJdHhqWkVmRGZPd3RGdi1aSksyYXdRSElJbEZ5VW5wU0xVdFhSaS1venE0OXZMRjNPVDN5ZnJRUmZJYUM?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_ac7eecd6f1b1",
+      "event_label": "佳能ixus110is性能及评测佳能ixus110is相机点评",
+      "timestamp_local": "2026-11-16T11:11:47+08:00",
+      "timestamp_utc": "2026-11-16T03:11:47+00:00",
+      "timestamp_sort": 1794798707.0,
+      "summary": "佳能 ixus110is 性能及评测？佳能 ixus110is 相机点评 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/shijiao/20261116/11161978684.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_97417ca911ff",
+      "event_label": "走进佳能宇都宫工厂揭秘高端镜头诞生之路",
+      "timestamp_local": "2026-11-16T16:11:37+08:00",
+      "timestamp_utc": "2026-11-16T08:11:37+00:00",
+      "timestamp_sort": 1794816697.0,
+      "summary": "走进佳能宇都宫工厂 揭秘高端镜头诞生之路 凤凰网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lSDVzSEVqWVhlLVZ1Y01HMWZrQXhuTjFOd3JGcVhOckl5Q2ZQVGJNcVotZVN5NGFWVGwwMm5NLXYzaldnWk5mLVVxRGs?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_46d5dd101570",
+      "event_label": "17亿支镜头背后看佳能的影像世界梦想如何落进现实",
+      "timestamp_local": "2026-11-16T16:26:23+08:00",
+      "timestamp_utc": "2026-11-16T08:26:23+00:00",
+      "timestamp_sort": 1794817583.0,
+      "summary": "1.7亿支镜头背后 看佳能的影像世界梦想如何落进现实 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1102272565_104421?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_3157037e81de",
+      "event_label": "佳能发涨价预警数码相机都没人买为啥还敢涨价",
+      "timestamp_local": "2026-11-16T17:44:43+08:00",
+      "timestamp_utc": "2026-11-16T09:44:43+00:00",
+      "timestamp_sort": 1794822283.0,
+      "summary": "佳能发涨价预警，数码相机都“没人买”为啥还敢涨价？ ThePaper.cn",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lUGNuakFIQjNFdEJPQVc2NXVvR1RNR1Q2clU3ckZ3Yl9lci1rNHRFcVBFWnU2MXpJYUozd1pCekNkNTRtMHVGeldERDZIZXNyNGx2X1BCWGZtQ09kdTZoNQ?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_a697470189f5",
+      "event_label": "佳能发涨价预警数码相机为啥还敢涨价",
+      "timestamp_local": "2026-11-16T22:44:32+08:00",
+      "timestamp_utc": "2026-11-16T14:44:32+00:00",
+      "timestamp_sort": 1794840272.0,
+      "summary": "佳能发涨价预警，数码相机为啥还敢涨价？ Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHotaGtFN1QyVzg3azdPSVoyaDFrMkk5VFJudHFnSHFzckllclVQNi1kYkxxMl9iNXRjd3M3bUUzRlhqd1RCZUhtNE9HSDYteVk3MHNJbHNqU0dCTHRodkcyQ1I4NkNEUHFkU2dXREtoVFdIM3hSczZFYWxVVU92dl9uU2V1THFK?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_39f08611a855",
+      "event_label": "光刻机概念拉升国林科技20涨停",
+      "timestamp_local": "2026-11-17T09:57:38+08:00",
+      "timestamp_utc": "2026-11-17T01:57:38+00:00",
+      "timestamp_sort": 1794880658.0,
+      "summary": "光刻机概念拉升 国林科技20%涨停 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://stock.stockstar.com/IG2026111700012824.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_ce929f445136",
+      "event_label": "半导体板块局部走强华虹宏力直线飙涨超12光刻机概念股强势拉升",
+      "timestamp_local": "2026-11-17T10:16:00+08:00",
+      "timestamp_utc": "2026-11-17T02:16:00+00:00",
+      "timestamp_sort": 1794881760.0,
+      "summary": "半导体板块局部走强，华虹宏力直线飙涨超12%，光刻机概念股强势拉升 中国基金报",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.chnfund.com/article/AR84236ab0-8e07-bff7-25f1-3a24f964419c"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_5373c90ad169",
+      "event_label": "光刻机概念爆发300786率先封板压缩空气储能有新催化上市公司布局揭秘",
+      "timestamp_local": "2026-11-17T12:33:41+08:00",
+      "timestamp_utc": "2026-11-17T04:33:41+00:00",
+      "timestamp_sort": 1794890021.0,
+      "summary": "光刻机概念爆发，300786率先封板！压缩空气储能有新催化，上市公司布局揭秘 凤凰网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://finance.ifeng.com/c/8y7lmtWVVY7"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-17T14:49:36.158808+08:00",
+  "updated_at": "2026-11-17T14:55:04.894709+08:00",
   "last_stats": {
-    "node_count": 7,
+    "node_count": 16,
     "conflict_nodes": 1,
-    "article_count": 10
-  }
+    "article_count": 19
+  },
+  "articles_fingerprint": "c0e0e1cbe70e04ca"
 }
