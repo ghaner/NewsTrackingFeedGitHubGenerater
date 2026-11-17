@@ -18,6 +18,15 @@
       "feed": "us-ground-stop.xml",
       "data_dir": "data/us-ground-stop",
       "started_at": "2026-11"
+    },
+    {
+      "slug": "canon-krf-fpa6400es6a",
+      "title": "佳能发售面向存储和逻辑芯片的KrF扫描式光刻机FPA-6400ES6a",
+      "keywords": "佳能,FPA-6400ES6a,KrF光刻机,氟化氪,光刻机概念",
+      "since_days": 3,
+      "feed": "canon-krf-fpa6400es6a.xml",
+      "data_dir": "data/canon-krf-fpa6400es6a",
+      "started_at": "2026-11"
     }
   ]
 }
