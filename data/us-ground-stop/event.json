@@ -117,6 +117,13 @@
       "conflict_nodes": 0,
       "article_count": 130,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-17T17:57:14.817513+08:00",
+      "node_count": 129,
+      "conflict_nodes": 0,
+      "article_count": 135,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -649,21 +656,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_107a5b298594",
-      "event_label": "全美航班停飞上上次还是9·11",
-      "timestamp_local": "2026-11-14T07:00:21+08:00",
-      "timestamp_utc": "2026-11-13T23:00:21+00:00",
-      "timestamp_sort": 1794610821.0,
-      "summary": "全美航班停飞，上上次还是“9·11” 凤凰网",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://news.ifeng.com/c/8y2OJv6Z0ZL"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_ccacbdde38bb",
       "event_label": "欧洲航空安全组织暂停成员国赴美航班",
       "timestamp_local": "2026-11-14T07:03:00+08:00",
@@ -1062,7 +1054,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWThLOXZYSzZBcWY4LWczNl9NT2tMSXFaa3lDeGtvbHpEcGhFbVktcEowanppUjVFTklfUFJzbl83X21uOFMyM2xxekhQUDZZMm9NQWpUWEZsQ1M2ZkxrN3ZqMldBWmNnbTYxTUhXR2xFaXFrZjZVTTRRTW1BRXJaQktLeWVRMGZDZG5GeQ?oc=5"
+        "https://m.sohu.com/a/1101405245_121019331?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -1316,7 +1308,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHNtYzNDNTZneVdWemFLTEp4RUJVN3RiV3Atc3hCbjE5aWRaOGxaLWFTTFF6TEZNYU1xb29lMXhNRXhqN3dsRHNyR0pfek0zLUpGWEZDOUJRY25fanVDb2xLNE5hRmZFODh2T2F1QmdZY1V5QUFxLVgwT1pzM091NjJqNWFyWFdY?oc=5"
+        "https://m.sohu.com/a/1101435347_114988?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -1635,7 +1627,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObVU1LVNyYmVzT1hMYi1kbVk2QjdIcFNiaV84ZVp5X3ktWjJfd09IZlcwNnJ4OWxyQVJTR1JwcE10ZVk4MG50VUkzSDNPbzhObF80WDNlc05ubzg1UUZ5WTNfNV9IdS1Tald0X2dfZ3A4bHhvNXlqcmhzdkV5VUJkeGVhLW02YlNk?oc=5"
+        "https://m.sohu.com/a/1101501573_161795?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -1680,7 +1672,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VX3NxakR0SXdiX2dPUDN3QmxhOXhsdFhRc20ybkRWLTIzSjhOaEUwYzZYTHhwZ2tRb1hxT191WGFaNWNMSGhBdnhWNFliMi1tWVVuSW93MzNwQi1z?oc=5"
+        "https://c.m.163.com/news/a/LBMU1J6Q0512B07B.html"
       ],
       "article_count": 1
     },
@@ -1770,7 +1762,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSYmQ4YVlHTk51VE9pM3kxWEU1YjlTVUx0d0ZrWWgtZEdvSml2TThQS0czMm93bkcybnNEY29VWWFRS2tuS1VsVFpIY3ZFSUtvaURlRzE5dng?oc=5"
+        "https://news.mydrivers.com/1/1165/1165785.htm"
       ],
       "article_count": 1
     },
@@ -2025,7 +2017,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFBOM3VsLW1jSDIzRjZpQ2l1NUhDYU9wSEcyR2xYSjFybWFpYmwtYjdFb3EzbGZtQ1Q3NE5ja1ZKbWNGbjlPWlhjcE9qVWZUQWJZWFB4SjFUQlhzazJQT3FoZDNHbHBIVUpEdGJyenZxU0FockE2bkdoYXNvNzZSM2tDeFpSbzNa?oc=5"
+        "https://m.sohu.com/a/1101677551_128075?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -2040,7 +2032,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zUm1mX0xvUkRlWW1oNnN4VVM4Nm51MUxxVjg0di1ZdDFVelk2SF9uaHhuWmotVlA0UUJYalpOakJvQlRKMmc?oc=5"
+        "https://molihua.org/mh-4971313/"
       ],
       "article_count": 1
     },
@@ -2055,7 +2047,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.8world.com/world/repair-of-old-copper-wiring-caused-us-flight-disruption-3340746"
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbVpDVlBpZl9SZVlrbE5lV01PSm14cm9RdDA4QjNMbjY2REV6XzhxczJlTHZ5UmFDbVpDOGRDRmZBbWE5bHYwc2R3V0UwWVdzSFp0R1AtS2JONEtRQU05U0ZRS2Q5aklUQXpmdXhUaVVkT3NvTEI0Ym5mS3BUN2RGT0gtZnZVbmkxU2pablZ0Q2FFeDhGV09r?oc=5"
       ],
       "article_count": 1
     },
@@ -2070,7 +2062,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.zhibo8.cc/news/web/nba/2026-11-15/6af8e9cd5eb2bnative.htm"
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE83SEQyQTlSZXJPcDBwRWJETHc0ZU1wbXlSOHo1aUFHNkVMcV9pXzJJX01jWTU5eV9USk1BWkhEOFJHRFliY1lTSVE3TGREM2w0eTU2VnNMcEpYQ21oNXNaOHpWWDZ6S2E5bDlPaEdtTEFMX05rN1E?oc=5"
       ],
       "article_count": 1
     },
@@ -2101,6 +2093,21 @@
       "confidence": 0.6,
       "sources": [
         "http://k.sina.com.cn/article_1682207150_m644471ae03301r1qo.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_107a5b298594",
+      "event_label": "全美航班停飞上上次还是9·11",
+      "timestamp_local": "2026-11-15T08:36:49+08:00",
+      "timestamp_utc": "2026-11-15T00:36:49+00:00",
+      "timestamp_sort": 1794703009.0,
+      "summary": "全美航班停飞，上上次还是“9·11” Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWlJcldWc3VZREpFdjJSSkI5V2JaTXp0TEdLUE5qSWlIUFd0MzhSSEdRTGE2LW5sczA3bWt0NjJkaXV5aXJCTWtSUnM5amp6Yk5RX0FQSDIzT2NlU1ROX1JQMlZjMmZRcnNXUkVZTkRQRWk0NGNCTnBUWVRnMURkd2pVSWRvNWlseGxZ?oc=5"
       ],
       "article_count": 1
     },
@@ -2145,7 +2152,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.china.com/socialgd/10000169/20261115/49873140.html"
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PNzd3b2hNMzNJU1ZUMXpZVFRFeno0MjFTYXdpVVA3azhROFdkR3dEN0x5TTlDTHJkRkh4UEhRUmd2UVdTMF9GdV9ZMVE1cmV1RUk4X0JuY0FXTjRnY2xIWk9TUDktdnlkdGhpekZQdEE?oc=5"
       ],
       "article_count": 1
     },
@@ -2160,7 +2167,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://feng.ifeng.com/c/8y4NH2DpmMP"
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvSnJ6SnRSWG9ZSDFpQzNpMUJDbVFKNk5TZmlhZHVqMVBlNkU1b3lXeElpel9lbjJockZzUXBKeUFRYVJxRkJTdHJ3dUE?oc=5"
       ],
       "article_count": 1
     },
@@ -2195,6 +2202,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_bac03bd74e5f",
+      "event_label": "中国女子亲历全美航班停飞等了4个小时通知复飞结果9个小时后被再次取消行李已托运取不出来周边酒店价格飞涨",
+      "timestamp_local": "2026-11-15T14:37:15+08:00",
+      "timestamp_utc": "2026-11-15T06:37:15+00:00",
+      "timestamp_sort": 1794724635.0,
+      "summary": "中国女子亲历全美航班停飞：等了4个小时通知复飞，结果9个小时后被再次取消，行李已托运取不出来，周边酒店价格飞涨 凤凰网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://feng.ifeng.com/c/8y4aeLC9bRc"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_2104e7b883dd",
       "event_label": "全美航班停飞事件调查中当局不排除人为或设备失误",
       "timestamp_local": "2026-11-15T19:05:51+08:00",
@@ -2205,7 +2227,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.8world.com/videos/news-bite/us-flights-cancelled-3341061"
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fdDYxdjFCY0g3VG53T2g1dWk1cVh2eXhIQm1HVUJCOGdpd294VXpycXRnUGdKTWdOaFNzYVdQQ2xXbFBDdFV1UDIxQmRJS2lBdTVFRVlhbTdKWEczV1dRWDJvNWRlaHRCc0dwYjlERkJILUMxYlo0?oc=5"
       ],
       "article_count": 1
     },
@@ -2235,7 +2257,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTLTRiVXhIbGFrcURLZmFMWi1Wd0xDeVFXUlpPaWp5VWtJNWgtbmVXVDRIYm5nRno0V0w5eGQ2eWdCak5mZlhJMTM1ZFF5TXdtakdzeA?oc=5"
+        "https://www.163.com/v/video/VZAS9NA05.html"
       ],
       "article_count": 1
     },
@@ -2325,7 +2347,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.sinovision.net/news_web/202611/t20261115_66573.html"
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE40eFlBODJMM0lvTm02bzBzQ0NkeFZTYUF0Wm5PY2pVUDRNcjc3eXo0UkQ2RjlLU0NUQ200a25ZYTJPeFl5blgtWXo1bUh2d1Y3dFFyelZQLW9CX1Z0NzZtakQ4ZkowcDFrNlZLMGhkbXU?oc=5"
       ],
       "article_count": 1
     },
@@ -2355,7 +2377,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UX08zRjJUSzBqSG9DcmhSNjNwV2RreDhoaTdRa2JucEFnRl80c2hBVUhpcmllWTRKdkIycndVcmpWLWdYWlNuaFlTS3hyenNQR1RvcTdaVk5ObU52aXJOTUFFNDhzTXF3QTQydGVHN0Q?oc=5"
+        "https://news.china.com/socialgd/10000169/20261116/49874322.html"
       ],
       "article_count": 1
     },
@@ -2370,7 +2392,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.wenxuecity.com/news/2026/11/15/126837717.html"
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SbXNWT3Zwd2xHcnVOa3I2cV9JT09Zb3h0aGYzby1kcHM2VFNxV0hyemMzOWE5enFESHY3aGJKSTZYM1lBZ3Rjc0w3aEIxMk1tZklLLVhEYjFwTTliV2VTSGh2YVR3MUtC?oc=5"
       ],
       "article_count": 1
     },
@@ -2430,7 +2452,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "http://dzb.hxnews.com/news/kx/202611/16/2278583.shtml"
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxTXZwR000MEJ4SmtPY0tlUGRza1FFeUc3d1A5RDJjUl92UnlINTA0UURCbzVucmVqMVlqTlZhcmlMdVB4UXVpN2lCcE9DOFNCQXpHM2wtVnBEc3hCZXNiX2xJQQ?oc=5"
       ],
       "article_count": 1
     },
@@ -2460,7 +2482,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%9B%BD%E9%99%85/60411140/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A6%96%E8%B0%88%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%E4%BA%8B%E6%95%85-%E9%83%BD%E6%80%AA%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%95%99%E7%83%82%E6%91%8A%E5%AD%90"
+        "https://news.google.com/rss/articles/CBMijwNBVV95cUxNaXJBM3l4aWVZN3BaTkNxM01fcnZ4R0hDZ25rQzU1VngzTDl5NExRTGZhTlNrblZCRl8ycERHNWZONEkxeWNYcWpvd25ZakhtWEsxZjRtbkh0Ym4wS0k2bTlBXy1pWENFNzhBcW9wcV9SSXJIc1NQTnJ1VjRvbWRXNFBhWmRfZjVIOTU0bzY1aW9mWl83eU9Da3dzaVV4NmhrMGVONlkwcUdLNTNoYUtTZUJmQ3F3UHNlOWo2cmhNR205cC1Dbm1DUVZpSGRzaHdJSkViSHgyRW5mTGhxYmE0VzZlRnJBWXdfcEdyS3daQmVqUFc5NXpsQXkxTkktTHhBTGtpUjVqdk5sVG9sd1BsNE9JajgwckJScnphQlFHbm9Na3pqYldmRjJScGJMX1djVjRwb1Z3Zlc4TWVHQ2FKN2lubFFDSE9ESmVjVXV0ZW9XNXpYUFc5LWh2RWVXdU5PRkx6UkJBYmp4Wk1wSFBUWUlMR1VCQ1l2VFNwQmZ6MEVYNV9rWTBocUltdFRfLTA?oc=5"
       ],
       "article_count": 1
     },
@@ -2520,7 +2542,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.sinchew.com.my/news/20261116/international/8078070"
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fMXdJNWVSTlFUYnE5bW5BTG1DVXJmY09tb2UycGs3T2hCTzUyS3JTYllFUVZYOWE0dTNueFY1R3dWUjR6akVwOHdJcVNPMjB3dVR3aFZOSzVKYi1haldWamxlZ0hnc2pTRDZNTjRzNA?oc=5"
       ],
       "article_count": 1
     },
@@ -2535,7 +2557,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1102168509_121487107?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHAtc1hPRGRxNU5BbFkxRmtrN05iMWxsNDRDdk9wcHRRWUx5WmVfN29sYzlXbUwteHhmeEpyczZ2TF95Z0t0bkpwU0U3UldrSloyTmNHdTE0dllmZTBuc2Y1Vk9id3AxNENoWnpPV2Q0QzBHV25HM1VleTFNMngtNFktNzJnbk9JQUp1ag?oc=5"
       ],
       "article_count": 1
     },
@@ -2565,7 +2587,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.sohu.com/a/1102222825_121347613?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://m.sohu.com/a/1102222825_121347613?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -2658,13 +2680,73 @@
         "https://user.guancha.cn/main/content?id\\\\u003d1772557\\\\u0026comments-container"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_359ac746c856",
+      "event_label": "全美航班停飞事件或造成数十亿美元损失仍有航班取消或延误",
+      "timestamp_local": "2026-11-17T11:44:06+08:00",
+      "timestamp_utc": "2026-11-17T03:44:06+00:00",
+      "timestamp_sort": 1794887046.0,
+      "summary": "全美航班停飞事件或造成数十亿美元损失！仍有航班取消或延误 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1102621673_161795?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_e42130814d75",
+      "event_label": "全美航班停飞持续发酵老路由器引发大混乱",
+      "timestamp_local": "2026-11-17T12:00:01+08:00",
+      "timestamp_utc": "2026-11-17T04:00:01+00:00",
+      "timestamp_sort": 1794888001.0,
+      "summary": "全美航班停飞持续发酵 老路由器引发大混乱 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.china.com/socialgd/10000169/20261117/49880074.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_df46236af7b8",
+      "event_label": "全美航班停飞后交通部长拒绝道歉特朗普上演甩锅大戏都是拜登的错",
+      "timestamp_local": "2026-11-17T13:40:11+08:00",
+      "timestamp_utc": "2026-11-17T05:40:11+00:00",
+      "timestamp_sort": 1794894011.0,
+      "summary": "全美航班停飞后，交通部长拒绝道歉，特朗普上演“甩锅”大戏：都是拜登的错 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNE42TWxvdGo2XzRxU1hmUG9kUEpyYS0xSGZXYlVzNk02NnJ1eDFNelhwS240cjhZQnBpcnJveDJpM3I4Nzk5aVFaX2JlWE5kM05mRFlBVEtaS0UwdUFOUF9hS1ZfQVVhYWFIVExLNDN2WFQtOFBBcGI3WVNyTmtGRWVUSFRCWk9rT2VYcQ?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_9fff8dc8b885",
+      "event_label": "只是基础设施老化全美航班停飞照出的是美国更深层次的老化",
+      "timestamp_local": "2026-11-17T14:34:47+08:00",
+      "timestamp_utc": "2026-11-17T06:34:47+00:00",
+      "timestamp_sort": 1794897287.0,
+      "summary": "只是基础设施老化？全美航班停飞，照出的是美国更深层次的老化 手机网易网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rUmU4aGtkWVp3Q2tObkxXNzJrSzNYUU5xSzVjRzBXWW9aZzhrc3RFSW0zTC01YzFpZFlyV18ycFlfY09qcjlXY2ZaZmdKeFotR3J5OQ?oc=5"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-17T14:55:05.279122+08:00",
+  "updated_at": "2026-11-17T17:57:14.817513+08:00",
   "last_stats": {
-    "node_count": 124,
+    "node_count": 129,
     "conflict_nodes": 0,
-    "article_count": 130
+    "article_count": 135
   },
-  "articles_fingerprint": "3087b115f8a1fdf8"
+  "articles_fingerprint": "e9ed11c2354af08e"
 }

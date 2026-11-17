@@ -14,6 +14,13 @@
       "conflict_nodes": 1,
       "article_count": 19,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-17T17:57:14.468444+08:00",
+      "node_count": 19,
+      "conflict_nodes": 1,
+      "article_count": 22,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -568,7 +575,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NYkZnS0E0eU9zdlVXTlMtb3JqRE5kMzlCWEJ5TnJBRVVJdHhqWkVmRGZPd3RGdi1aSksyYXdRSElJbEZ5VW5wU0xVdFhSaS1venE0OXZMRjNPVDN5ZnJRUmZJYUM?oc=5"
+        "https://tech.china.com/lieqi/20261116/11161978793.html"
       ],
       "article_count": 1
     },
@@ -598,7 +605,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lSDVzSEVqWVhlLVZ1Y01HMWZrQXhuTjFOd3JGcVhOckl5Q2ZQVGJNcVotZVN5NGFWVGwwMm5NLXYzaldnWk5mLVVxRGs?oc=5"
+        "https://baby.ifeng.com/c/8y6LqFQVEXI"
       ],
       "article_count": 1
     },
@@ -628,7 +635,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lUGNuakFIQjNFdEJPQVc2NXVvR1RNR1Q2clU3ckZ3Yl9lci1rNHRFcVBFWnU2MXpJYUozd1pCekNkNTRtMHVGeldERDZIZXNyNGx2X1BCWGZtQ09kdTZoNQ?oc=5"
+        "https://www.thepaper.cn/newsDetail_forward_34488719"
       ],
       "article_count": 1
     },
@@ -643,7 +650,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHotaGtFN1QyVzg3azdPSVoyaDFrMkk5VFJudHFnSHFzckllclVQNi1kYkxxMl9iNXRjd3M3bUUzRlhqd1RCZUhtNE9HSDYteVk3MHNJbHNqU0dCTHRodkcyQ1I4NkNEUHFkU2dXREtoVFdIM3hSczZFYWxVVU92dl9uU2V1THFK?oc=5"
+        "https://m.sohu.com/a/1102398007_507132?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -691,13 +698,58 @@
         "https://finance.ifeng.com/c/8y7lmtWVVY7"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_3a92c4977985",
+      "event_label": "a股三大指数收跌成交额不足15万亿光刻机概念股逆市走强",
+      "timestamp_local": "2026-11-17T15:02:10+08:00",
+      "timestamp_utc": "2026-11-17T07:02:10+00:00",
+      "timestamp_sort": 1794898930.0,
+      "summary": "A股三大指数收跌 成交额不足1.5万亿 光刻机概念股逆市走强 东方财富",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://wap.eastmoney.com/a/202611173932825433.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_5f9aff443195",
+      "event_label": "收评创业板指跌120光刻机概念逆势走强",
+      "timestamp_local": "2026-11-17T15:05:19+08:00",
+      "timestamp_utc": "2026-11-17T07:05:19+00:00",
+      "timestamp_sort": 1794899119.0,
+      "summary": "收评：创业板指跌1.20% 光刻机概念逆势走强 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://stock.stockstar.com/IG2026111700022224.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_7b42f2a99cd3",
+      "event_label": "佳能40d评测怎么样佳能40d单反相机参数价格介绍",
+      "timestamp_local": "2026-11-17T15:27:58+08:00",
+      "timestamp_utc": "2026-11-17T07:27:58+00:00",
+      "timestamp_sort": 1794900478.0,
+      "summary": "佳能 40D 评测怎么样？佳能 40D 单反相机参数价格介绍 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.tech.china.com/shijiao/20261117/11171979809.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-17T14:55:04.894709+08:00",
+  "updated_at": "2026-11-17T17:57:14.468444+08:00",
   "last_stats": {
-    "node_count": 16,
+    "node_count": 19,
     "conflict_nodes": 1,
-    "article_count": 19
+    "article_count": 22
   },
-  "articles_fingerprint": "c0e0e1cbe70e04ca"
+  "articles_fingerprint": "b20748a417b6c7c5"
 }

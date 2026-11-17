@@ -77,6 +77,13 @@
       "conflict_nodes": 1,
       "article_count": 31,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-17T17:57:14.491102+08:00",
+      "node_count": 30,
+      "conflict_nodes": 1,
+      "article_count": 31,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1107,7 +1114,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SRzc5RlZ4clIyME5jRXk3dHJkQWpJOGhqdjJtaC03YmRWbHNBQU5VQWJjMlI1T0hTN3VyYWZyaTZHbWpqN3EzS1FZTjVPX3FNVjRwQXQyVTBHSEtNWlR5XzRYOVNuclpsajRLQTAxOHQ?oc=5"
+        "https://cn.investing.com/news/stock-market-news/article-3669042"
       ],
       "article_count": 1
     },
@@ -1137,7 +1144,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aYVM4dDE0NmVsVWZZR1g2UHB0WHlJU1VFSmpSVmV6YXU4b2J6YVZVZDRjaGo3akhVSlBtaGJncTZXUHhqSWd6UWVXNTI?oc=5"
+        "https://news.ifeng.com/c/8y6NJV3H5qK"
       ],
       "article_count": 1
     },
@@ -1182,16 +1189,16 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hcUx6OUFTeF9VZkRJbFdIYlN4Nm1kSlhoZzZ1UGJjUmdiSS00V0lOMW1JTlhieWZvbVdTLTJjNnpBQV9vSzZDNlZHcjBIaGc2?oc=5"
+        "https://m.cyzone.cn/article/854144.html"
       ],
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-17T14:55:04.922763+08:00",
+  "updated_at": "2026-11-17T17:57:14.491102+08:00",
   "last_stats": {
     "node_count": 30,
     "conflict_nodes": 1,
     "article_count": 31
   },
-  "articles_fingerprint": "cee8b5bebd67f134"
+  "articles_fingerprint": "ce71afeed94d62e9"
 }
