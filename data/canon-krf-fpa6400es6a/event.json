@@ -28,6 +28,13 @@
       "conflict_nodes": 1,
       "article_count": 25,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-18T09:29:36.973307+08:00",
+      "node_count": 23,
+      "conflict_nodes": 1,
+      "article_count": 26,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -617,17 +624,17 @@
       "article_count": 1
     },
     {
-      "node_id": "n_3157037e81de",
-      "event_label": "佳能发涨价预警数码相机都没人买为啥还敢涨价",
-      "timestamp_local": "2026-11-16T17:44:43+08:00",
-      "timestamp_utc": "2026-11-16T09:44:43+00:00",
-      "timestamp_sort": 1794822283.0,
-      "summary": "佳能发涨价预警，数码相机都“没人买”为啥还敢涨价？ ThePaper.cn",
+      "node_id": "n_701c614810b8",
+      "event_label": "佳能发涨价预警数码相机都没人买为啥还敢涨价江瀚视野",
+      "timestamp_local": "2026-11-16T18:35:00+08:00",
+      "timestamp_utc": "2026-11-16T10:35:00+00:00",
+      "timestamp_sort": 1794825300.0,
+      "summary": "佳能发涨价预警，数码相机都“没人买”为啥还敢涨价？_江瀚视野 火星财经",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.thepaper.cn/newsDetail_forward_34488719"
+        "https://www.marsbit.co/video/detail/20261117103502478592/1794882902000"
       ],
       "article_count": 1
     },
@@ -752,17 +759,32 @@
       "article_count": 1
     },
     {
-      "node_id": "n_67dc7e6bf363",
-      "event_label": "光刻机概念逆势爆发一图看懂相关产业链",
-      "timestamp_local": "2026-11-17T15:35:00+08:00",
-      "timestamp_utc": "2026-11-17T07:35:00+00:00",
-      "timestamp_sort": 1794900900.0,
-      "summary": "光刻机概念逆势爆发！一图看懂相关产业链 Sohu",
+      "node_id": "n_0b07fd46c941",
+      "event_label": "三大指数再度探底光刻机概念异军突起",
+      "timestamp_local": "2026-11-17T15:30:56+08:00",
+      "timestamp_utc": "2026-11-17T07:30:56+00:00",
+      "timestamp_sort": 1794900656.0,
+      "summary": "【A股收评】三大指数再度探底，光刻机概念异军突起！ Sohu",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1102747952_121948396?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://m.sohu.com/a/1102728179_522913?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_67dc7e6bf363",
+      "event_label": "光刻机概念逆势爆发一图看懂相关产业链",
+      "timestamp_local": "2026-11-17T15:35:51+08:00",
+      "timestamp_utc": "2026-11-17T07:35:51+00:00",
+      "timestamp_sort": 1794900951.0,
+      "summary": "光刻机概念逆势爆发！一图看懂相关产业链 天天基金",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "http://fund.eastmoney.com/a/202611173932847497.html"
       ],
       "article_count": 1
     },
@@ -797,11 +819,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-18T02:57:17.196375+08:00",
+  "updated_at": "2026-11-18T09:29:36.973307+08:00",
   "last_stats": {
-    "node_count": 22,
+    "node_count": 23,
     "conflict_nodes": 1,
-    "article_count": 25
+    "article_count": 26
   },
-  "articles_fingerprint": "5ebd271077405567"
+  "articles_fingerprint": "f29a3a0c2a1fa3f0"
 }

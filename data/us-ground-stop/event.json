@@ -131,6 +131,13 @@
       "conflict_nodes": 0,
       "article_count": 137,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-18T09:29:37.564182+08:00",
+      "node_count": 132,
+      "conflict_nodes": 0,
+      "article_count": 138,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -2054,7 +2061,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbVpDVlBpZl9SZVlrbE5lV01PSm14cm9RdDA4QjNMbjY2REV6XzhxczJlTHZ5UmFDbVpDOGRDRmZBbWE5bHYwc2R3V0UwWVdzSFp0R1AtS2JONEtRQU05U0ZRS2Q5aklUQXpmdXhUaVVkT3NvTEI0Ym5mS3BUN2RGT0gtZnZVbmkxU2pablZ0Q2FFeDhGV09r?oc=5"
+        "https://www.8world.com/world/repair-of-old-copper-wiring-caused-us-flight-disruption-3340746"
       ],
       "article_count": 1
     },
@@ -2069,7 +2076,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE83SEQyQTlSZXJPcDBwRWJETHc0ZU1wbXlSOHo1aUFHNkVMcV9pXzJJX01jWTU5eV9USk1BWkhEOFJHRFliY1lTSVE3TGREM2w0eTU2VnNMcEpYQ21oNXNaOHpWWDZ6S2E5bDlPaEdtTEFMX05rN1E?oc=5"
+        "https://m.zhibo8.cc/news/web/nba/2026-11-15/6af8e9cd5eb2bnative.htm"
       ],
       "article_count": 1
     },
@@ -2114,7 +2121,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWlJcldWc3VZREpFdjJSSkI5V2JaTXp0TEdLUE5qSWlIUFd0MzhSSEdRTGE2LW5sczA3bWt0NjJkaXV5aXJCTWtSUnM5amp6Yk5RX0FQSDIzT2NlU1ROX1JQMlZjMmZRcnNXUkVZTkRQRWk0NGNCTnBUWVRnMURkd2pVSWRvNWlseGxZ?oc=5"
+        "https://m.sohu.com/a/1101720461_99990677?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -2159,7 +2166,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PNzd3b2hNMzNJU1ZUMXpZVFRFeno0MjFTYXdpVVA3azhROFdkR3dEN0x5TTlDTHJkRkh4UEhRUmd2UVdTMF9GdV9ZMVE1cmV1RUk4X0JuY0FXTjRnY2xIWk9TUDktdnlkdGhpekZQdEE?oc=5"
+        "https://news.china.com/socialgd/10000169/20261115/49873140.html"
       ],
       "article_count": 1
     },
@@ -2399,7 +2406,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SbXNWT3Zwd2xHcnVOa3I2cV9JT09Zb3h0aGYzby1kcHM2VFNxV0hyemMzOWE5enFESHY3aGJKSTZYM1lBZ3Rjc0w3aEIxMk1tZklLLVhEYjFwTTliV2VTSGh2YVR3MUtC?oc=5"
+        "https://www.wenxuecity.com/news/2026/11/15/126837717.html"
       ],
       "article_count": 1
     },
@@ -2764,6 +2771,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_d73b71fad221",
+      "event_label": "全美航班停飞后美国银行也崩了",
+      "timestamp_local": "2026-11-17T15:06:34+08:00",
+      "timestamp_utc": "2026-11-17T07:06:34+00:00",
+      "timestamp_sort": 1794899194.0,
+      "summary": "全美航班停飞后，美国银行也“崩”了？ 凤凰网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.ifeng.com/c/8y86Hsr0nLV"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_98c14ca3dbab",
       "event_label": "全美航班停飞后续faa紧急暂停新路由器安装嫌疑设备已送实验室解剖",
       "timestamp_local": "2026-11-18T01:20:00+08:00",
@@ -2779,11 +2801,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-18T02:57:17.604675+08:00",
+  "updated_at": "2026-11-18T09:29:37.564182+08:00",
   "last_stats": {
-    "node_count": 131,
+    "node_count": 132,
     "conflict_nodes": 0,
-    "article_count": 137
+    "article_count": 138
   },
-  "articles_fingerprint": "a106428e498d03cc"
+  "articles_fingerprint": "f83b62f4b923ae0e"
 }
