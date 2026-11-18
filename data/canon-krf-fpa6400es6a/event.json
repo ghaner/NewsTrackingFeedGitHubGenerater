@@ -35,6 +35,13 @@
       "conflict_nodes": 1,
       "article_count": 26,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-18T17:33:32.174153+08:00",
+      "node_count": 30,
+      "conflict_nodes": 1,
+      "article_count": 33,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -714,21 +721,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_3a92c4977985",
-      "event_label": "a股三大指数收跌成交额不足15万亿光刻机概念股逆市走强",
-      "timestamp_local": "2026-11-17T15:02:10+08:00",
-      "timestamp_utc": "2026-11-17T07:02:10+00:00",
-      "timestamp_sort": 1794898930.0,
-      "summary": "A股三大指数收跌 成交额不足1.5万亿 光刻机概念股逆市走强 东方财富",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://wap.eastmoney.com/a/202611173932825433.html"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_5f9aff443195",
       "event_label": "收评创业板指跌120光刻机概念逆势走强",
       "timestamp_local": "2026-11-17T15:20:01+08:00",
@@ -776,15 +768,15 @@
     {
       "node_id": "n_67dc7e6bf363",
       "event_label": "光刻机概念逆势爆发一图看懂相关产业链",
-      "timestamp_local": "2026-11-17T15:35:51+08:00",
-      "timestamp_utc": "2026-11-17T07:35:51+00:00",
-      "timestamp_sort": 1794900951.0,
-      "summary": "光刻机概念逆势爆发！一图看懂相关产业链 天天基金",
+      "timestamp_local": "2026-11-17T15:35:00+08:00",
+      "timestamp_utc": "2026-11-17T07:35:00+00:00",
+      "timestamp_sort": 1794900900.0,
+      "summary": "光刻机概念逆势爆发！一图看懂相关产业链 Sohu",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "http://fund.eastmoney.com/a/202611173932847497.html"
+        "https://m.sohu.com/a/1102747952_121948396?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -817,13 +809,133 @@
         "https://m.sohu.com/a/1102837408_118778?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_db8e357b3ee1",
+      "event_label": "匠人智造共生探访佳能宇都宫红圈l镜头的光学起点",
+      "timestamp_local": "2026-11-18T09:46:26+08:00",
+      "timestamp_utc": "2026-11-18T01:46:26+00:00",
+      "timestamp_sort": 1794966386.0,
+      "summary": "匠人智造共生 探访佳能宇都宫红圈L镜头的光学起点 凤凰网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://baby.ifeng.com/c/8y9EcjawqMD"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_f84aef39f646",
+      "event_label": "佳能50d单反相机怎么样佳能50d价格与实拍测评",
+      "timestamp_local": "2026-11-18T10:06:24+08:00",
+      "timestamp_utc": "2026-11-18T02:06:24+00:00",
+      "timestamp_sort": 1794967584.0,
+      "summary": "佳能 50D 单反相机怎么样？佳能 50D 价格与实拍测评 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.tech.china.com/lieqi/20261118/11181980118.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_3a92c4977985",
+      "event_label": "a股三大指数收跌成交额不足15万亿光刻机概念股逆市走强",
+      "timestamp_local": "2026-11-18T10:36:34+08:00",
+      "timestamp_utc": "2026-11-18T02:36:34+00:00",
+      "timestamp_sort": 1794969394.0,
+      "summary": "A股三大指数收跌 成交额不足1.5万亿 光刻机概念股逆市走强 东方财富",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://wap.eastmoney.com/a/202611173932825433.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_ba67f052aeef",
+      "event_label": "ixus230hs相机怎么样佳能ixus230hs实拍评测",
+      "timestamp_local": "2026-11-18T11:47:13+08:00",
+      "timestamp_utc": "2026-11-18T03:47:13+00:00",
+      "timestamp_sort": 1794973633.0,
+      "summary": "IXUS230HS 相机怎么样？佳能 IXUS230HS 实拍评测 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/lieqi/20261118/11181980224.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_eb1ff28ceba0",
+      "event_label": "佳能sx210怎么样佳能sx210相机详细评测与报价",
+      "timestamp_local": "2026-11-18T11:49:51+08:00",
+      "timestamp_utc": "2026-11-18T03:49:51+00:00",
+      "timestamp_sort": 1794973791.0,
+      "summary": "佳能 SX210 怎么样？佳能 SX210 相机详细评测与报价 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/lieqi/20261118/11181980236.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_c89b68619965",
+      "event_label": "佳能a560相机怎么样佳能a560相机实拍性能评测",
+      "timestamp_local": "2026-11-18T15:33:28+08:00",
+      "timestamp_utc": "2026-11-18T07:33:28+00:00",
+      "timestamp_sort": 1794987208.0,
+      "summary": "佳能 A560 相机怎么样？佳能 A560 相机实拍性能评测 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/shijiao/20261118/11181980411.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_a62ec03cbe02",
+      "event_label": "佳能携手洛氪迅以专业影像方案赋能品牌多场景直播",
+      "timestamp_local": "2026-11-18T16:03:00+08:00",
+      "timestamp_utc": "2026-11-18T08:03:00+00:00",
+      "timestamp_sort": 1794988980.0,
+      "summary": "佳能携手洛氪迅 以专业影像方案赋能品牌多场景直播 驱动之家",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.mydrivers.com/1/1166/1166708.htm"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_c0fa11b2c744",
+      "event_label": "2026年万元内全画幅怎么选佳能r8markii兼顾高感防抖与高速连拍",
+      "timestamp_local": "2026-11-18T16:23:00+08:00",
+      "timestamp_utc": "2026-11-18T08:23:00+00:00",
+      "timestamp_sort": 1794990180.0,
+      "summary": "2026年万元内全画幅怎么选 佳能R8 Mark II兼顾高感、防抖与高速连拍 驱动之家",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.mydrivers.com/1/1166/1166726.htm"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-18T09:29:36.973307+08:00",
+  "updated_at": "2026-11-18T17:33:32.174153+08:00",
   "last_stats": {
-    "node_count": 23,
+    "node_count": 30,
     "conflict_nodes": 1,
-    "article_count": 26
+    "article_count": 33
   },
-  "articles_fingerprint": "f29a3a0c2a1fa3f0"
+  "articles_fingerprint": "c8dc95fb9c7fd293"
 }

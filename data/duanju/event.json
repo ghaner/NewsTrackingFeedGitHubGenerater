@@ -84,6 +84,13 @@
       "conflict_nodes": 1,
       "article_count": 31,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-18T17:33:32.202118+08:00",
+      "node_count": 32,
+      "conflict_nodes": 1,
+      "article_count": 33,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1181,9 +1188,9 @@
     {
       "node_id": "n_594ca5e678d6",
       "event_label": "一部ai短剧入账5300万这家重庆公司杀进全球第二",
-      "timestamp_local": "2026-11-17T14:36:11+08:00",
-      "timestamp_utc": "2026-11-17T06:36:11+00:00",
-      "timestamp_sort": 1794897371.0,
+      "timestamp_local": "2026-11-17T14:36:12+08:00",
+      "timestamp_utc": "2026-11-17T06:36:12+00:00",
+      "timestamp_sort": 1794897372.0,
       "summary": "一部AI短剧入账5300万，这家重庆公司杀进全球第二 创业邦",
       "facts": {},
       "conflict": false,
@@ -1192,13 +1199,43 @@
         "https://m.cyzone.cn/article/854144.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_543d097c640d",
+      "event_label": "浪潮奔腾中国人在海外短剧市场的拓疆征途",
+      "timestamp_local": "2026-11-18T01:09:00+08:00",
+      "timestamp_utc": "2026-11-17T17:09:00+00:00",
+      "timestamp_sort": 1794935340.0,
+      "summary": "浪潮奔腾，中国人在海外短剧市场的拓疆征途 36氪",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.36kr.com/p/4074748260504448"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_b70060e81d86",
+      "event_label": "借助apec平台万兴科技推动中国短剧出海丨apec直击",
+      "timestamp_local": "2026-11-18T15:57:26+08:00",
+      "timestamp_utc": "2026-11-18T07:57:26+00:00",
+      "timestamp_sort": 1794988646.0,
+      "summary": "借助APEC平台，万兴科技推动中国短剧出海丨APEC直击 新湖南",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.voc.com.cn/xhn/news/202611/34287983.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-17T17:57:14.491102+08:00",
+  "updated_at": "2026-11-18T17:33:32.202118+08:00",
   "last_stats": {
-    "node_count": 30,
+    "node_count": 32,
     "conflict_nodes": 1,
-    "article_count": 31
+    "article_count": 33
   },
-  "articles_fingerprint": "ce71afeed94d62e9"
+  "articles_fingerprint": "977bc145cacfbe46"
 }

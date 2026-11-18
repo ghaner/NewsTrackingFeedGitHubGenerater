@@ -138,6 +138,13 @@
       "conflict_nodes": 0,
       "article_count": 138,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-18T17:33:32.574995+08:00",
+      "node_count": 132,
+      "conflict_nodes": 0,
+      "article_count": 138,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -2181,7 +2188,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvSnJ6SnRSWG9ZSDFpQzNpMUJDbVFKNk5TZmlhZHVqMVBlNkU1b3lXeElpel9lbjJockZzUXBKeUFRYVJxRkJTdHJ3dUE?oc=5"
+        "https://feng.ifeng.com/c/8y4NH2DpmMP"
       ],
       "article_count": 1
     },
@@ -2241,7 +2248,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fdDYxdjFCY0g3VG53T2g1dWk1cVh2eXhIQm1HVUJCOGdpd294VXpycXRnUGdKTWdOaFNzYVdQQ2xXbFBDdFV1UDIxQmRJS2lBdTVFRVlhbTdKWEczV1dRWDJvNWRlaHRCc0dwYjlERkJILUMxYlo0?oc=5"
+        "https://www.8world.com/videos/news-bite/us-flights-cancelled-3341061"
       ],
       "article_count": 1
     },
@@ -2361,7 +2368,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE40eFlBODJMM0lvTm02bzBzQ0NkeFZTYUF0Wm5PY2pVUDRNcjc3eXo0UkQ2RjlLU0NUQ200a25ZYTJPeFl5blgtWXo1bUh2d1Y3dFFyelZQLW9CX1Z0NzZtakQ4ZkowcDFrNlZLMGhkbXU?oc=5"
+        "https://www.sinovision.net/news_web/202611/t20261115_66573.html"
       ],
       "article_count": 1
     },
@@ -2556,7 +2563,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fMXdJNWVSTlFUYnE5bW5BTG1DVXJmY09tb2UycGs3T2hCTzUyS3JTYllFUVZYOWE0dTNueFY1R3dWUjR6akVwOHdJcVNPMjB3dVR3aFZOSzVKYi1haldWamxlZ0hnc2pTRDZNTjRzNA?oc=5"
+        "https://www.sinchew.com.my/news/20261116/international/8078070"
       ],
       "article_count": 1
     },
@@ -2766,7 +2773,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rUmU4aGtkWVp3Q2tObkxXNzJrSzNYUU5xSzVjRzBXWW9aZzhrc3RFSW0zTC01YzFpZFlyV18ycFlfY09qcjlXY2ZaZmdKeFotR3J5OQ?oc=5"
+        "https://www.163.com/v/video/VZB0T5H8K.html"
       ],
       "article_count": 1
     },
@@ -2801,11 +2808,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-18T09:29:37.564182+08:00",
+  "updated_at": "2026-11-18T17:33:32.574995+08:00",
   "last_stats": {
     "node_count": 132,
     "conflict_nodes": 0,
     "article_count": 138
   },
-  "articles_fingerprint": "f83b62f4b923ae0e"
+  "articles_fingerprint": "2b3a84d857b73a15"
 }
