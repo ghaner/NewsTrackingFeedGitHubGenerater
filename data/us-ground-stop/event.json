@@ -145,6 +145,13 @@
       "conflict_nodes": 0,
       "article_count": 138,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-19T02:32:29.114789+08:00",
+      "node_count": 132,
+      "conflict_nodes": 0,
+      "article_count": 138,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -2503,7 +2510,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMijwNBVV95cUxNaXJBM3l4aWVZN3BaTkNxM01fcnZ4R0hDZ25rQzU1VngzTDl5NExRTGZhTlNrblZCRl8ycERHNWZONEkxeWNYcWpvd25ZakhtWEsxZjRtbkh0Ym4wS0k2bTlBXy1pWENFNzhBcW9wcV9SSXJIc1NQTnJ1VjRvbWRXNFBhWmRfZjVIOTU0bzY1aW9mWl83eU9Da3dzaVV4NmhrMGVONlkwcUdLNTNoYUtTZUJmQ3F3UHNlOWo2cmhNR205cC1Dbm1DUVZpSGRzaHdJSkViSHgyRW5mTGhxYmE0VzZlRnJBWXdfcEdyS3daQmVqUFc5NXpsQXkxTkktTHhBTGtpUjVqdk5sVG9sd1BsNE9JajgwckJScnphQlFHbm9Na3pqYldmRjJScGJMX1djVjRwb1Z3Zlc4TWVHQ2FKN2lubFFDSE9ESmVjVXV0ZW9XNXpYUFc5LWh2RWVXdU5PRkx6UkJBYmp4Wk1wSFBUWUlMR1VCQ1l2VFNwQmZ6MEVYNV9rWTBocUltdFRfLTA?oc=5"
+        "https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%9B%BD%E9%99%85/60411140/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A6%96%E8%B0%88%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%E4%BA%8B%E6%95%85-%E9%83%BD%E6%80%AA%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%95%99%E7%83%82%E6%91%8A%E5%AD%90"
       ],
       "article_count": 1
     },
@@ -2758,7 +2765,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNE42TWxvdGo2XzRxU1hmUG9kUEpyYS0xSGZXYlVzNk02NnJ1eDFNelhwS240cjhZQnBpcnJveDJpM3I4Nzk5aVFaX2JlWE5kM05mRFlBVEtaS0UwdUFOUF9hS1ZfQVVhYWFIVExLNDN2WFQtOFBBcGI3WVNyTmtGRWVUSFRCWk9rT2VYcQ?oc=5"
+        "https://m.sohu.com/a/1102672007_121752850?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -2808,11 +2815,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-18T17:33:32.574995+08:00",
+  "updated_at": "2026-11-19T02:32:29.114789+08:00",
   "last_stats": {
     "node_count": 132,
     "conflict_nodes": 0,
     "article_count": 138
   },
-  "articles_fingerprint": "2b3a84d857b73a15"
+  "articles_fingerprint": "8428afcd3bf4f47e"
 }

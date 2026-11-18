@@ -91,6 +91,13 @@
       "conflict_nodes": 1,
       "article_count": 33,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-19T02:32:28.620529+08:00",
+      "node_count": 33,
+      "conflict_nodes": 1,
+      "article_count": 34,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1136,7 +1143,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://stock.stockstar.com/JC2026111600024715.shtml"
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14bjV6YzRhWHhTRlAyTE5EWVJyckw4Y2xHelJfekJwZEx1dWRBQUVZclpkUTFDNXd3MC0tcjFzN3hkNDI5ZGN5NDE0Mkd4eXc3RHJ6cG8tNjJDWXVzdlpEanZn?oc=5"
       ],
       "article_count": 1
     },
@@ -1229,13 +1236,28 @@
         "https://m.voc.com.cn/xhn/news/202611/34287983.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_688a4543d4c3",
+      "event_label": "中国蓝观察丨短剧出海比比谁更懂屏幕对面那个人",
+      "timestamp_local": "2026-11-18T19:49:00+08:00",
+      "timestamp_utc": "2026-11-18T11:49:00+00:00",
+      "timestamp_sort": 1795002540.0,
+      "summary": "中国蓝观察丨短剧出海 比比谁更懂屏幕对面那个人 新蓝网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.cztv.com/newsDetail/917787"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-18T17:33:32.202118+08:00",
+  "updated_at": "2026-11-19T02:32:28.620529+08:00",
   "last_stats": {
-    "node_count": 32,
+    "node_count": 33,
     "conflict_nodes": 1,
-    "article_count": 33
+    "article_count": 34
   },
-  "articles_fingerprint": "977bc145cacfbe46"
+  "articles_fingerprint": "c1cae8832487c977"
 }

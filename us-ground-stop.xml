@@ -6,7 +6,7 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/us-ground-stop.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「2026 年 11 月 13 日 FAA 因航路交通管制中心通信故障发布全美地面停飞令」这一事件的全部进展：停飞与解除时间、航班延误取消规模、航司改签豁免、欧洲赴美航班暂停、白宫与国会表态、故障根因调查、空管系统技术债与现代化拨款。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 09:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:32:29 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[2026-11-18] 全美航班停飞后续faa紧急暂停新路由器安装嫌疑设备已送实验室解剖</title>
@@ -34,11 +34,11 @@
     </item>
     <item>
       <title>[2026-11-17] 全美航班停飞后交通部长拒绝道歉特朗普上演甩锅大戏都是拜登的错</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNNE42TWxvdGo2XzRxU1hmUG9kUEpyYS0xSGZXYlVzNk02NnJ1eDFNelhwS240cjhZQnBpcnJveDJpM3I4Nzk5aVFaX2JlWE5kM05mRFlBVEtaS0UwdUFOUF9hS1ZfQVVhYWFIVExLNDN2WFQtOFBBcGI3WVNyTmtGRWVUSFRCWk9rT2VYcQ?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxNNE42TWxvdGo2XzRxU1hmUG9kUEpyYS0xSGZXYlVzNk02NnJ1eDFNelhwS240cjhZQnBpcnJveDJpM3I4Nzk5aVFaX2JlWE5kM05mRFlBVEtaS0UwdUFOUF9hS1ZfQVVhYWFIVExLNDN2WFQtOFBBcGI3WVNyTmtGRWVUSFRCWk9rT2VYcQ?oc=5#n_df46236af7b8</guid>
+      <link>https://m.sohu.com/a/1102672007_121752850?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
+      <guid isPermaLink="false">https://m.sohu.com/a/1102672007_121752850?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_df46236af7b8</guid>
       <pubDate>Tue, 17 Nov 2026 13:40:11 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>全美航班停飞后交通部长拒绝道歉特朗普上演甩锅大戏都是拜登的错</b>　<span>2026-11-17</span></p><p>全美航班停飞后，交通部长拒绝道歉，特朗普上演“甩锅”大戏：都是拜登的错 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMijAFBVV95cUxNNE42TWxvdGo2XzRxU1hmUG9kUEpyYS0xSGZXYlVzNk02NnJ1eDFNelhwS240cjhZQnBpcnJveDJpM3I4Nzk5aVFaX2JlWE5kM05mRFlBVEtaS0UwdUFOUF9hS1ZfQVVhYWFIVExLNDN2WFQtOFBBcGI3WVNyTmtGRWVUSFRCWk9rT2VYcQ?oc=5</p></div>]]></description>
+      <description><![CDATA[<div><p><b>全美航班停飞后交通部长拒绝道歉特朗普上演甩锅大戏都是拜登的错</b>　<span>2026-11-17</span></p><p>全美航班停飞后，交通部长拒绝道歉，特朗普上演“甩锅”大戏：都是拜登的错 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1102672007_121752850?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-17] 全美航班停飞原因公布特朗普开始甩锅民主党钱用在凯旋门了</title>
@@ -170,11 +170,11 @@
     </item>
     <item>
       <title>[2026-11-16] 特朗普首谈全美航班停飞事故都怪拜登政府留烂摊子</title>
-      <link>https://news.google.com/rss/articles/CBMijwNBVV95cUxNaXJBM3l4aWVZN3BaTkNxM01fcnZ4R0hDZ25rQzU1VngzTDl5NExRTGZhTlNrblZCRl8ycERHNWZONEkxeWNYcWpvd25ZakhtWEsxZjRtbkh0Ym4wS0k2bTlBXy1pWENFNzhBcW9wcV9SSXJIc1NQTnJ1VjRvbWRXNFBhWmRfZjVIOTU0bzY1aW9mWl83eU9Da3dzaVV4NmhrMGVONlkwcUdLNTNoYUtTZUJmQ3F3UHNlOWo2cmhNR205cC1Dbm1DUVZpSGRzaHdJSkViSHgyRW5mTGhxYmE0VzZlRnJBWXdfcEdyS3daQmVqUFc5NXpsQXkxTkktTHhBTGtpUjVqdk5sVG9sd1BsNE9JajgwckJScnphQlFHbm9Na3pqYldmRjJScGJMX1djVjRwb1Z3Zlc4TWVHQ2FKN2lubFFDSE9ESmVjVXV0ZW9XNXpYUFc5LWh2RWVXdU5PRkx6UkJBYmp4Wk1wSFBUWUlMR1VCQ1l2VFNwQmZ6MEVYNV9rWTBocUltdFRfLTA?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwNBVV95cUxNaXJBM3l4aWVZN3BaTkNxM01fcnZ4R0hDZ25rQzU1VngzTDl5NExRTGZhTlNrblZCRl8ycERHNWZONEkxeWNYcWpvd25ZakhtWEsxZjRtbkh0Ym4wS0k2bTlBXy1pWENFNzhBcW9wcV9SSXJIc1NQTnJ1VjRvbWRXNFBhWmRfZjVIOTU0bzY1aW9mWl83eU9Da3dzaVV4NmhrMGVONlkwcUdLNTNoYUtTZUJmQ3F3UHNlOWo2cmhNR205cC1Dbm1DUVZpSGRzaHdJSkViSHgyRW5mTGhxYmE0VzZlRnJBWXdfcEdyS3daQmVqUFc5NXpsQXkxTkktTHhBTGtpUjVqdk5sVG9sd1BsNE9JajgwckJScnphQlFHbm9Na3pqYldmRjJScGJMX1djVjRwb1Z3Zlc4TWVHQ2FKN2lubFFDSE9ESmVjVXV0ZW9XNXpYUFc5LWh2RWVXdU5PRkx6UkJBYmp4Wk1wSFBUWUlMR1VCQ1l2VFNwQmZ6MEVYNV9rWTBocUltdFRfLTA?oc=5#n_3c7fd77dafe0</guid>
+      <link>https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%9B%BD%E9%99%85/60411140/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A6%96%E8%B0%88%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%E4%BA%8B%E6%95%85-%E9%83%BD%E6%80%AA%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%95%99%E7%83%82%E6%91%8A%E5%AD%90</link>
+      <guid isPermaLink="false">https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%9B%BD%E9%99%85/60411140/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A6%96%E8%B0%88%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%E4%BA%8B%E6%95%85-%E9%83%BD%E6%80%AA%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%95%99%E7%83%82%E6%91%8A%E5%AD%90#n_3c7fd77dafe0</guid>
       <pubDate>Mon, 16 Nov 2026 09:34:00 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>特朗普首谈全美航班停飞事故都怪拜登政府留烂摊子</b>　<span>2026-11-16</span></p><p>特朗普首谈全美航班停飞事故：都怪拜登政府留烂摊子 香港01</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMijwNBVV95cUxNaXJBM3l4aWVZN3BaTkNxM01fcnZ4R0hDZ25rQzU1VngzTDl5NExRTGZhTlNrblZCRl8ycERHNWZONEkxeWNYcWpvd25ZakhtWEsxZjRtbkh0Ym4wS0k2bTlBXy1pWENFNzhBcW9wcV9SSXJIc1NQTnJ1VjRvbWRXNFBhWmRfZjVIOTU0bzY1aW9mWl83eU9Da3dzaVV4NmhrMGVONlkwcUdLNTNoYUtTZUJmQ3F3UHNlOWo2cmhNR205cC1Dbm1DUVZpSGRzaHdJSkViSHgyRW5mTGhxYmE0VzZlRnJBWXdfcEdyS3daQmVqUFc5NXpsQXkxTkktTHhBTGtpUjVqdk5sVG9sd1BsNE9JajgwckJScnphQlFHbm9Na3pqYldmRjJScGJMX1djVjRwb1Z3Zlc4TWVHQ2FKN2lubFFDSE9ESmVjVXV0ZW9XNXpYUFc5LWh2RWVXdU5PRkx6UkJBYmp4Wk1wSFBUWUlMR1VCQ1l2VFNwQmZ6MEVYNV9rWTBocUltdFRfLTA?oc=5</p></div>]]></description>
+      <description><![CDATA[<div><p><b>特朗普首谈全美航班停飞事故都怪拜登政府留烂摊子</b>　<span>2026-11-16</span></p><p>特朗普首谈全美航班停飞事故：都怪拜登政府留烂摊子 香港01</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%9B%BD%E9%99%85/60411140/%E7%89%B9%E6%9C%97%E6%99%AE%E9%A6%96%E8%B0%88%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%E4%BA%8B%E6%95%85-%E9%83%BD%E6%80%AA%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%95%99%E7%83%82%E6%91%8A%E5%AD%90</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-16] 全美航班停飞影响仍在持续特朗普催促国会赶紧拨款</title>

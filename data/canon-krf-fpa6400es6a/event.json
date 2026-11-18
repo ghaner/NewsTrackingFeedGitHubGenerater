@@ -42,6 +42,13 @@
       "conflict_nodes": 1,
       "article_count": 33,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-19T02:32:28.580139+08:00",
+      "node_count": 33,
+      "conflict_nodes": 1,
+      "article_count": 36,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -671,7 +678,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://stock.stockstar.com/IG2026111700012824.shtml"
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91eEN1dmxpcV95NFJSQU5scjBKNGxCOHZua0NZWHpEWElxVUVYYU9lSUlXSi1Ma1Zlb1lZd3Frcl9odWJCV0Z6c0RyOEdOandtZHdiTWh0cEZ3ZlRwS293RjJ3?oc=5"
       ],
       "article_count": 1
     },
@@ -768,15 +775,15 @@
     {
       "node_id": "n_67dc7e6bf363",
       "event_label": "光刻机概念逆势爆发一图看懂相关产业链",
-      "timestamp_local": "2026-11-17T15:35:00+08:00",
-      "timestamp_utc": "2026-11-17T07:35:00+00:00",
-      "timestamp_sort": 1794900900.0,
-      "summary": "光刻机概念逆势爆发！一图看懂相关产业链 Sohu",
+      "timestamp_local": "2026-11-17T15:35:51+08:00",
+      "timestamp_utc": "2026-11-17T07:35:51+00:00",
+      "timestamp_sort": 1794900951.0,
+      "summary": "光刻机概念逆势爆发！一图看懂相关产业链 天天基金",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1102747952_121948396?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "http://fund.eastmoney.com/a/202611173932847497.html"
       ],
       "article_count": 1
     },
@@ -811,6 +818,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_b0bfb6912095",
+      "event_label": "收评沪指跌05光刻机概念逆势走强",
+      "timestamp_local": "2026-11-17T19:54:17+08:00",
+      "timestamp_utc": "2026-11-17T11:54:17+00:00",
+      "timestamp_sort": 1794916457.0,
+      "summary": "收评：沪指跌0.5% 光刻机概念逆势走强 新浪财经",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://finance.sina.com.cn/roll/2026-11-17/doc-inizacmz2083942.shtml"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_db8e357b3ee1",
       "event_label": "匠人智造共生探访佳能宇都宫红圈l镜头的光学起点",
       "timestamp_local": "2026-11-18T09:46:26+08:00",
@@ -821,7 +843,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://baby.ifeng.com/c/8y9EcjawqMD"
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMc2t4dXJubC1GT1VWc1A5aDM2Vjg3dzFicFlXQjJYdTY4TkJzMU9PRVhGNUZ4R2hEbU5Kdmh4cGlQenM5ZTdwdHRpRjI?oc=5"
       ],
       "article_count": 1
     },
@@ -836,7 +858,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.tech.china.com/lieqi/20261118/11181980118.html"
+        "https://tech.china.com/lieqi/20261118/11181980118.html"
       ],
       "article_count": 1
     },
@@ -918,24 +940,54 @@
     {
       "node_id": "n_c0fa11b2c744",
       "event_label": "2026年万元内全画幅怎么选佳能r8markii兼顾高感防抖与高速连拍",
-      "timestamp_local": "2026-11-18T16:23:00+08:00",
-      "timestamp_utc": "2026-11-18T08:23:00+00:00",
-      "timestamp_sort": 1794990180.0,
-      "summary": "2026年万元内全画幅怎么选 佳能R8 Mark II兼顾高感、防抖与高速连拍 驱动之家",
+      "timestamp_local": "2026-11-18T17:19:46+08:00",
+      "timestamp_utc": "2026-11-18T09:19:46+00:00",
+      "timestamp_sort": 1794993586.0,
+      "summary": "2026年万元内全画幅怎么选？佳能R8 Mark II兼顾高感、防抖与高速连拍 凤凰网",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.mydrivers.com/1/1166/1166726.htm"
+        "https://hainan.ifeng.com/c/8y9gHupFfVW"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_fe7d4f5c6d04",
+      "event_label": "佳能eosr8markii最值得入手的全画幅入门相机",
+      "timestamp_local": "2026-11-18T18:02:12+08:00",
+      "timestamp_utc": "2026-11-18T10:02:12+00:00",
+      "timestamp_sort": 1794996132.0,
+      "summary": "佳能EOS R8 Mark II 最值得入手的全画幅入门相机 凤凰网科技",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.ifeng.com/c/8y9oSDH92wX"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_5bdd83e4a347",
+      "event_label": "顺丰快递员寄错相机从贵州坐动车到杭州为找回五千多元相机称否则要从工资上扣收件人电话不接门也不开公司暖心回应不会让小哥个人承担",
+      "timestamp_local": "2026-11-18T20:24:35+08:00",
+      "timestamp_utc": "2026-11-18T12:24:35+00:00",
+      "timestamp_sort": 1795004675.0,
+      "summary": "顺丰快递员寄错相机，从贵州坐动车到杭州为找回五千多元相机，称否则要从工资上扣，收件人电话不接门也不开，公司暖心回应不会让小哥个人承担 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1103319641_122045489?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-18T17:33:32.174153+08:00",
+  "updated_at": "2026-11-19T02:32:28.580139+08:00",
   "last_stats": {
-    "node_count": 30,
+    "node_count": 33,
     "conflict_nodes": 1,
-    "article_count": 33
+    "article_count": 36
   },
-  "articles_fingerprint": "c8dc95fb9c7fd293"
+  "articles_fingerprint": "a7cb31a7bb168ba5"
 }
