@@ -56,6 +56,13 @@
       "conflict_nodes": 1,
       "article_count": 36,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-19T16:14:52.906306+08:00",
+      "node_count": 39,
+      "conflict_nodes": 1,
+      "article_count": 42,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -705,6 +712,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_b4cfad12f382",
+      "event_label": "光刻机概念震荡反弹海立股份涨停",
+      "timestamp_local": "2026-11-17T11:37:34+08:00",
+      "timestamp_utc": "2026-11-17T03:37:34+00:00",
+      "timestamp_sort": 1794886654.0,
+      "summary": "光刻机概念震荡反弹 海立股份涨停 东方财富",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://wap.eastmoney.com/a/202611173932715392.html"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_6f9fa3d63ddb",
       "event_label": "集体反弹芯片产业链爆发光刻机概念牛股20cm直线涨停涨停板上近10万手封单机构国产化迎来阶段性窗口",
       "timestamp_local": "2026-11-17T12:50:00+08:00",
@@ -782,15 +804,15 @@
     {
       "node_id": "n_67dc7e6bf363",
       "event_label": "光刻机概念逆势爆发一图看懂相关产业链",
-      "timestamp_local": "2026-11-17T15:35:51+08:00",
-      "timestamp_utc": "2026-11-17T07:35:51+00:00",
-      "timestamp_sort": 1794900951.0,
-      "summary": "光刻机概念逆势爆发！一图看懂相关产业链 天天基金",
+      "timestamp_local": "2026-11-17T15:35:00+08:00",
+      "timestamp_utc": "2026-11-17T07:35:00+00:00",
+      "timestamp_sort": 1794900900.0,
+      "summary": "光刻机概念逆势爆发！一图看懂相关产业链 Sohu",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "http://fund.eastmoney.com/a/202611173932847497.html"
+        "https://m.sohu.com/a/1102747952_121948396?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -988,13 +1010,88 @@
         "https://m.sohu.com/a/1103319641_122045489?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_beae0be37423",
+      "event_label": "佳能450d相机怎么样佳能450d单反参数功能介绍",
+      "timestamp_local": "2026-11-19T09:35:15+08:00",
+      "timestamp_utc": "2026-11-19T01:35:15+00:00",
+      "timestamp_sort": 1795052115.0,
+      "summary": "佳能 450D 相机怎么样？佳能 450D 单反参数功能介绍 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.tech.china.com/lieqi/20261119/11191980777.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_c0ef0a4243e0",
+      "event_label": "光刻机概念股持续活跃电力板块拉升牛股华东重机炸板",
+      "timestamp_local": "2026-11-19T10:22:00+08:00",
+      "timestamp_utc": "2026-11-19T02:22:00+00:00",
+      "timestamp_sort": 1795054920.0,
+      "summary": "光刻机概念股持续活跃，电力板块拉升，牛股华东重机炸板 中国基金报",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.chnfund.com/article/AR71fcc753-ab36-1b95-8294-3a2503b28c24"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_9470b929acb9",
+      "event_label": "午评创业板指跌063半导体板块光刻机概念等涨幅居前",
+      "timestamp_local": "2026-11-19T11:36:15+08:00",
+      "timestamp_utc": "2026-11-19T03:36:15+00:00",
+      "timestamp_sort": 1795059375.0,
+      "summary": "午评：创业板指跌0.63% 半导体板块、光刻机概念等涨幅居前 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "http://stock.stockstar.com/IG2026111900020850.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_06970633e87a",
+      "event_label": "佳能rf50mmf18又轻又安静的大光圈人像定焦推荐",
+      "timestamp_local": "2026-11-19T12:10:00+08:00",
+      "timestamp_utc": "2026-11-19T04:10:00+00:00",
+      "timestamp_sort": 1795061400.0,
+      "summary": "佳能RF50mm F1.8：又轻又安静的大光圈人像定焦推荐 驱动之家",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.mydrivers.com/1/1166/1166947.htm"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_dd273cbd8066",
+      "event_label": "优酷食神·百厨大战选用佳能cinemaeos系列摄制记录百厨同台竞技",
+      "timestamp_local": "2026-11-19T12:40:00+08:00",
+      "timestamp_utc": "2026-11-19T04:40:00+00:00",
+      "timestamp_sort": 1795063200.0,
+      "summary": "优酷《食神·百厨大战》选用佳能CINEMA EOS系列摄制 记录百厨同台竞技 驱动之家",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.mydrivers.com/1/1166/1166981.htm"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-19T08:53:25.161025+08:00",
+  "updated_at": "2026-11-19T16:14:52.906306+08:00",
   "last_stats": {
-    "node_count": 33,
+    "node_count": 39,
     "conflict_nodes": 1,
-    "article_count": 36
+    "article_count": 42
   },
-  "articles_fingerprint": "9adc2a318c150fdd"
+  "articles_fingerprint": "72c3f3415ad4d682"
 }

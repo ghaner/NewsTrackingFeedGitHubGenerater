@@ -105,6 +105,13 @@
       "conflict_nodes": 1,
       "article_count": 34,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-19T16:14:52.958268+08:00",
+      "node_count": 36,
+      "conflict_nodes": 1,
+      "article_count": 37,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1258,13 +1265,58 @@
         "https://www.cztv.com/newsDetail/917787"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_2fdb038f1f45",
+      "event_label": "刷完海外短剧才发现老外也在被龙王归来硬控",
+      "timestamp_local": "2026-11-19T09:40:52+08:00",
+      "timestamp_utc": "2026-11-19T01:40:52+00:00",
+      "timestamp_sort": 1795052452.0,
+      "summary": "刷完海外短剧,才发现老外也在被龙王归来硬控 加西网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.westca.com/News/article/sid\\\\u003d1261387/%E5%88%B7%E5%AE%8C%E6%B5%B7%E5%A4%96%E7%9F%AD%E5%89%A7%E6%89%8D%E5%8F%91%E7%8E%B0%E8%80%81%E5%A4%96%E4%B9%9F%E5%9C%A8%E8%A2%AB%E9%BE%99%E7%8E%8B%E5%BD%92%E6%9D%A5%E7%A1%AC%E6%8E%A7/lang\\\\u003dschinese.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_81981f1e891f",
+      "event_label": "ai赋能与微短剧出海海外华文媒体探路齐鲁国际传播新叙事",
+      "timestamp_local": "2026-11-19T11:31:15+08:00",
+      "timestamp_utc": "2026-11-19T03:31:15+00:00",
+      "timestamp_sort": 1795059075.0,
+      "summary": "【北欧时报现场报道】AI赋能与微短剧出海：海外华文媒体探路齐鲁国际传播新叙事 北欧时报",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "http://www.chinanews.se/static/content/WMHJ/2026-11-19/1572945693236441088.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_5c4376b20ed2",
+      "event_label": "零点有数301169sz当前不存在ai短剧内容制作海外短剧出海等相关业务公司新闻",
+      "timestamp_local": "2026-11-19T12:09:14+08:00",
+      "timestamp_utc": "2026-11-19T04:09:14+00:00",
+      "timestamp_sort": 1795061354.0,
+      "summary": "零点有数(301169.SZ)当前不存在AI短剧内容制作，海外短剧出海等相关业务_公司新闻 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://finance.stockstar.com/IG2026111900019472.shtml"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-19T08:53:25.204918+08:00",
+  "updated_at": "2026-11-19T16:14:52.958268+08:00",
   "last_stats": {
-    "node_count": 33,
+    "node_count": 36,
     "conflict_nodes": 1,
-    "article_count": 34
+    "article_count": 37
   },
-  "articles_fingerprint": "274a84b20e135236"
+  "articles_fingerprint": "d79fb53dcebdd5b3"
 }

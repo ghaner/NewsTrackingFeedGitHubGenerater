@@ -6,8 +6,32 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/us-ground-stop.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「2026 年 11 月 13 日 FAA 因航路交通管制中心通信故障发布全美地面停飞令」这一事件的全部进展：停飞与解除时间、航班延误取消规模、航司改签豁免、欧洲赴美航班暂停、白宫与国会表态、故障根因调查、空管系统技术债与现代化拨款。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:53:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:14:53 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-19] 全美航班停飞原因未明白宫沉默引质疑</title>
+      <link>https://news.china.com/socialgd/10000169/20261119/49887394.html</link>
+      <guid isPermaLink="false">https://news.china.com/socialgd/10000169/20261119/49887394.html#n_5d0d9fa3e481</guid>
+      <pubDate>Thu, 19 Nov 2026 11:43:17 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>全美航班停飞原因未明白宫沉默引质疑</b>　<span>2026-11-19</span></p><p>全美航班停飞原因未明 白宫沉默引质疑 中华网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.china.com/socialgd/10000169/20261119/49887394.html</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-19] 全美航班停飞事件根源仍未查明空管系统暂停部署新型路由器</title>
+      <link>https://m.sohu.com/a/1103438938_121218495?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
+      <guid isPermaLink="false">https://m.sohu.com/a/1103438938_121218495?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_77dc8ad1f13d</guid>
+      <pubDate>Thu, 19 Nov 2026 06:57:14 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>全美航班停飞事件根源仍未查明空管系统暂停部署新型路由器</b>　<span>2026-11-19</span></p><p>全美航班停飞事件根源仍未查明，空管系统暂停部署新型路由器 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1103438938_121218495?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-18] 一款路由器故障导致全美航班停飞faa停用60余台设备并叫停后续安装</title>
+      <link>https://m.sohu.com/a/1103357506_122014422?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
+      <guid isPermaLink="false">https://m.sohu.com/a/1103357506_122014422?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_00edffe62fcb</guid>
+      <pubDate>Wed, 18 Nov 2026 23:49:57 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>一款路由器故障导致全美航班停飞faa停用60余台设备并叫停后续安装</b>　<span>2026-11-18</span></p><p>一款路由器故障导致全美航班停飞，FAA停用60余台设备并叫停后续安装 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1103357506_122014422?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-18] 全美航班停飞后美国银行也崩了</title>
       <link>https://nournews.ir/zh/news/363006/%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%E5%90%8E-%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E4%B9%9F</link>

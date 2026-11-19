@@ -159,6 +159,13 @@
       "conflict_nodes": 0,
       "article_count": 138,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-19T16:14:53.515680+08:00",
+      "node_count": 135,
+      "conflict_nodes": 0,
+      "article_count": 141,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -2820,13 +2827,58 @@
         "https://nournews.ir/zh/news/363006/%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%E5%90%8E-%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E4%B9%9F"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_00edffe62fcb",
+      "event_label": "一款路由器故障导致全美航班停飞faa停用60余台设备并叫停后续安装",
+      "timestamp_local": "2026-11-18T23:49:57+08:00",
+      "timestamp_utc": "2026-11-18T15:49:57+00:00",
+      "timestamp_sort": 1795016997.0,
+      "summary": "一款路由器故障导致全美航班停飞，FAA停用60余台设备并叫停后续安装 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1103357506_122014422?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_77dc8ad1f13d",
+      "event_label": "全美航班停飞事件根源仍未查明空管系统暂停部署新型路由器",
+      "timestamp_local": "2026-11-19T06:57:14+08:00",
+      "timestamp_utc": "2026-11-18T22:57:14+00:00",
+      "timestamp_sort": 1795042634.0,
+      "summary": "全美航班停飞事件根源仍未查明，空管系统暂停部署新型路由器 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1103438938_121218495?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_5d0d9fa3e481",
+      "event_label": "全美航班停飞原因未明白宫沉默引质疑",
+      "timestamp_local": "2026-11-19T11:43:17+08:00",
+      "timestamp_utc": "2026-11-19T03:43:17+00:00",
+      "timestamp_sort": 1795059797.0,
+      "summary": "全美航班停飞原因未明 白宫沉默引质疑 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.china.com/socialgd/10000169/20261119/49887394.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-19T08:53:25.755839+08:00",
+  "updated_at": "2026-11-19T16:14:53.515680+08:00",
   "last_stats": {
-    "node_count": 132,
+    "node_count": 135,
     "conflict_nodes": 0,
-    "article_count": 138
+    "article_count": 141
   },
-  "articles_fingerprint": "b97f54b637ce58a5"
+  "articles_fingerprint": "1037781c1a82a85f"
 }
