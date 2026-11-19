@@ -112,6 +112,13 @@
       "conflict_nodes": 1,
       "article_count": 37,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-20T01:52:11.001546+08:00",
+      "node_count": 38,
+      "conflict_nodes": 1,
+      "article_count": 39,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1252,6 +1259,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_8e97c63f6aba",
+      "event_label": "ai驱动短剧出海新浪潮meta峰会解码全球增长与内容生态新机遇",
+      "timestamp_local": "2026-11-18T17:52:59+08:00",
+      "timestamp_utc": "2026-11-18T09:52:59+00:00",
+      "timestamp_sort": 1794995579.0,
+      "summary": "AI驱动短剧出海新浪潮：Meta峰会解码全球增长与内容生态新机遇 新浪财经",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://finance.sina.com.cn/roll/2026-11-18/doc-inizeacc6926985.shtml"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_688a4543d4c3",
       "event_label": "中国蓝观察丨短剧出海比比谁更懂屏幕对面那个人",
       "timestamp_local": "2026-11-18T19:49:00+08:00",
@@ -1269,15 +1291,15 @@
     {
       "node_id": "n_2fdb038f1f45",
       "event_label": "刷完海外短剧才发现老外也在被龙王归来硬控",
-      "timestamp_local": "2026-11-19T09:40:52+08:00",
-      "timestamp_utc": "2026-11-19T01:40:52+00:00",
-      "timestamp_sort": 1795052452.0,
-      "summary": "刷完海外短剧,才发现老外也在被龙王归来硬控 加西网",
+      "timestamp_local": "2026-11-19T09:19:28+08:00",
+      "timestamp_utc": "2026-11-19T01:19:28+00:00",
+      "timestamp_sort": 1795051168.0,
+      "summary": "刷完海外短剧，才发现老外也在被龙王归来硬控 Sohu",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.westca.com/News/article/sid\\\\u003d1261387/%E5%88%B7%E5%AE%8C%E6%B5%B7%E5%A4%96%E7%9F%AD%E5%89%A7%E6%89%8D%E5%8F%91%E7%8E%B0%E8%80%81%E5%A4%96%E4%B9%9F%E5%9C%A8%E8%A2%AB%E9%BE%99%E7%8E%8B%E5%BD%92%E6%9D%A5%E7%A1%AC%E6%8E%A7/lang\\\\u003dschinese.html"
+        "https://m.sohu.com/a/1103473380_258858?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -1310,13 +1332,28 @@
         "https://finance.stockstar.com/IG2026111900019472.shtml"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_54ea89fbb4b8",
+      "event_label": "moloco发布合作案例解读短剧出海新增长逻辑",
+      "timestamp_local": "2026-11-19T22:30:00+08:00",
+      "timestamp_utc": "2026-11-19T14:30:00+00:00",
+      "timestamp_sort": 1795098600.0,
+      "summary": "Moloco发布合作案例，解读短剧出海新增长逻辑 上观新闻",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.shobserver.cn/news/detail?id\\\\u003d1216679"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-19T16:14:52.958268+08:00",
+  "updated_at": "2026-11-20T01:52:11.001546+08:00",
   "last_stats": {
-    "node_count": 36,
+    "node_count": 38,
     "conflict_nodes": 1,
-    "article_count": 37
+    "article_count": 39
   },
-  "articles_fingerprint": "d79fb53dcebdd5b3"
+  "articles_fingerprint": "dc4d2a66c03afab7"
 }

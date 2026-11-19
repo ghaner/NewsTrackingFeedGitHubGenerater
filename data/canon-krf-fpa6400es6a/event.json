@@ -63,6 +63,13 @@
       "conflict_nodes": 1,
       "article_count": 42,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-20T01:52:10.938319+08:00",
+      "node_count": 39,
+      "conflict_nodes": 1,
+      "article_count": 42,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -832,21 +839,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_46d5dd101570",
-      "event_label": "17亿支镜头背后看佳能的影像世界梦想如何落进现实",
-      "timestamp_local": "2026-11-17T19:35:42+08:00",
-      "timestamp_utc": "2026-11-17T11:35:42+00:00",
-      "timestamp_sort": 1794915342.0,
-      "summary": "1.7亿支镜头背后 看佳能的影像世界梦想如何落进现实 Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://m.sohu.com/a/1102837408_118778?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_b0bfb6912095",
       "event_label": "收评沪指跌05光刻机概念逆势走强",
       "timestamp_local": "2026-11-17T19:54:17+08:00",
@@ -897,7 +889,7 @@
       "timestamp_local": "2026-11-18T10:36:34+08:00",
       "timestamp_utc": "2026-11-18T02:36:34+00:00",
       "timestamp_sort": 1794969394.0,
-      "summary": "A股三大指数收跌 成交额不足1.5万亿 光刻机概念股逆市走强 东方财富",
+      "summary": "A股三大指数收跌 成交额不足1.5万亿 光刻机概念股逆市走强 东方财富网",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
@@ -1085,13 +1077,28 @@
         "https://news.mydrivers.com/1/1166/1166981.htm"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_46d5dd101570",
+      "event_label": "17亿支镜头背后看佳能的影像世界梦想如何落进现实",
+      "timestamp_local": "2026-11-19T17:22:29+08:00",
+      "timestamp_utc": "2026-11-19T09:22:29+00:00",
+      "timestamp_sort": 1795080149.0,
+      "summary": "1.7亿支镜头背后 看佳能的影像世界梦想如何落进现实 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.tech.china.com/redian/2026/1119/112026_1981292.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-19T16:14:52.906306+08:00",
+  "updated_at": "2026-11-20T01:52:10.938319+08:00",
   "last_stats": {
     "node_count": 39,
     "conflict_nodes": 1,
     "article_count": 42
   },
-  "articles_fingerprint": "72c3f3415ad4d682"
+  "articles_fingerprint": "23160786e898d02b"
 }
