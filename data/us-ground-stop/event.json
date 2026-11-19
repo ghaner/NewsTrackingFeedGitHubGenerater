@@ -152,6 +152,13 @@
       "conflict_nodes": 0,
       "article_count": 138,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-19T08:53:25.755839+08:00",
+      "node_count": 132,
+      "conflict_nodes": 0,
+      "article_count": 138,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -2425,21 +2432,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_49586ea5de8e",
-      "event_label": "全美航班停飞特朗普听取简报空中管制故障引发",
-      "timestamp_local": "2026-11-16T08:26:25+08:00",
-      "timestamp_utc": "2026-11-16T00:26:25+00:00",
-      "timestamp_sort": 1794788785.0,
-      "summary": "全美航班停飞，特朗普听取简报 空中管制故障引发 中华军事",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://military.china.com/news/13004177/20261116/49874500.html"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_bc43eded6b56",
       "event_label": "航班因faa地面停飛令取消旅客別急著自行退票",
       "timestamp_local": "2026-11-16T08:28:00+08:00",
@@ -2466,6 +2458,21 @@
       "confidence": 0.6,
       "sources": [
         "http://m.ce.cn/gj/gd/202611/t20261116_3295215.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_7fce29a07eb9",
+      "event_label": "全美航班停飞特朗普听取简报空中交通管制故障引发大面积延误",
+      "timestamp_local": "2026-11-16T09:02:01+08:00",
+      "timestamp_utc": "2026-11-16T01:02:01+00:00",
+      "timestamp_sort": 1794790921.0,
+      "summary": "全美航班停飞 特朗普听取简报 空中交通管制故障引发大面积延误 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.china.com/socialgd/10000169/20261116/49874776.html"
       ],
       "article_count": 1
     },
@@ -2785,21 +2792,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_d73b71fad221",
-      "event_label": "全美航班停飞后美国银行也崩了",
-      "timestamp_local": "2026-11-17T15:06:34+08:00",
-      "timestamp_utc": "2026-11-17T07:06:34+00:00",
-      "timestamp_sort": 1794899194.0,
-      "summary": "全美航班停飞后，美国银行也“崩”了？ 凤凰网",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://news.ifeng.com/c/8y86Hsr0nLV"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_98c14ca3dbab",
       "event_label": "全美航班停飞后续faa紧急暂停新路由器安装嫌疑设备已送实验室解剖",
       "timestamp_local": "2026-11-18T01:20:00+08:00",
@@ -2813,13 +2805,28 @@
         "https://news.mydrivers.com/1/1166/1166544.htm"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_d73b71fad221",
+      "event_label": "全美航班停飞后美国银行也崩了",
+      "timestamp_local": "2026-11-18T14:32:00+08:00",
+      "timestamp_utc": "2026-11-18T06:32:00+00:00",
+      "timestamp_sort": 1794983520.0,
+      "summary": "全美航班停飞后，美国银行也“崩”了？ نورنیوز",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://nournews.ir/zh/news/363006/%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E%E5%90%8E-%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E4%B9%9F"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-19T02:32:29.114789+08:00",
+  "updated_at": "2026-11-19T08:53:25.755839+08:00",
   "last_stats": {
     "node_count": 132,
     "conflict_nodes": 0,
     "article_count": 138
   },
-  "articles_fingerprint": "8428afcd3bf4f47e"
+  "articles_fingerprint": "b97f54b637ce58a5"
 }

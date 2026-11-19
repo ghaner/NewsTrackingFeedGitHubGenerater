@@ -49,6 +49,13 @@
       "conflict_nodes": 1,
       "article_count": 36,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-19T08:53:25.161025+08:00",
+      "node_count": 33,
+      "conflict_nodes": 1,
+      "article_count": 36,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -678,7 +685,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91eEN1dmxpcV95NFJSQU5scjBKNGxCOHZua0NZWHpEWElxVUVYYU9lSUlXSi1Ma1Zlb1lZd3Frcl9odWJCV0Z6c0RyOEdOandtZHdiTWh0cEZ3ZlRwS293RjJ3?oc=5"
+        "https://stock.stockstar.com/IG2026111700012824.shtml"
       ],
       "article_count": 1
     },
@@ -843,7 +850,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMc2t4dXJubC1GT1VWc1A5aDM2Vjg3dzFicFlXQjJYdTY4TkJzMU9PRVhGNUZ4R2hEbU5Kdmh4cGlQenM5ZTdwdHRpRjI?oc=5"
+        "https://baby.ifeng.com/c/8y9EcjawqMD"
       ],
       "article_count": 1
     },
@@ -858,7 +865,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://tech.china.com/lieqi/20261118/11181980118.html"
+        "https://m.tech.china.com/lieqi/20261118/11181980118.html"
       ],
       "article_count": 1
     },
@@ -983,11 +990,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-19T02:32:28.580139+08:00",
+  "updated_at": "2026-11-19T08:53:25.161025+08:00",
   "last_stats": {
     "node_count": 33,
     "conflict_nodes": 1,
     "article_count": 36
   },
-  "articles_fingerprint": "a7cb31a7bb168ba5"
+  "articles_fingerprint": "9adc2a318c150fdd"
 }
