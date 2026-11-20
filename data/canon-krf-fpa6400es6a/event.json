@@ -70,6 +70,13 @@
       "conflict_nodes": 1,
       "article_count": 42,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-20T08:05:14.782784+08:00",
+      "node_count": 39,
+      "conflict_nodes": 1,
+      "article_count": 42,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1014,7 +1021,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.tech.china.com/lieqi/20261119/11191980777.html"
+        "https://tech.china.com/lieqi/20261119/11191980777.html"
       ],
       "article_count": 1
     },
@@ -1094,11 +1101,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-20T01:52:10.938319+08:00",
+  "updated_at": "2026-11-20T08:05:14.782784+08:00",
   "last_stats": {
     "node_count": 39,
     "conflict_nodes": 1,
     "article_count": 42
   },
-  "articles_fingerprint": "23160786e898d02b"
+  "articles_fingerprint": "b961453d599cd1c9"
 }

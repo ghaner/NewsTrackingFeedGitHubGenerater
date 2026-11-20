@@ -119,6 +119,13 @@
       "conflict_nodes": 1,
       "article_count": 39,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-20T08:05:14.818682+08:00",
+      "node_count": 40,
+      "conflict_nodes": 1,
+      "article_count": 41,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1214,6 +1221,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_5bc17b2ae93b",
+      "event_label": "短剧出海全链路实操从选品投放到支付转化",
+      "timestamp_local": "2026-11-17T08:45:34+08:00",
+      "timestamp_utc": "2026-11-17T00:45:34+00:00",
+      "timestamp_sort": 1794876334.0,
+      "summary": "短剧出海全链路实操：从选品、投放到支付转化 CSDN",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.csdn.net/detail/webblog_30431908/73517"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_594ca5e678d6",
       "event_label": "一部ai短剧入账5300万这家重庆公司杀进全球第二",
       "timestamp_local": "2026-11-17T14:36:12+08:00",
@@ -1254,22 +1276,22 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.voc.com.cn/xhn/news/202611/34287983.html"
+        "https://www.hunantoday.cn/news/xhn/202611/34287983.html"
       ],
       "article_count": 1
     },
     {
       "node_id": "n_8e97c63f6aba",
       "event_label": "ai驱动短剧出海新浪潮meta峰会解码全球增长与内容生态新机遇",
-      "timestamp_local": "2026-11-18T17:52:59+08:00",
-      "timestamp_utc": "2026-11-18T09:52:59+00:00",
-      "timestamp_sort": 1794995579.0,
-      "summary": "AI驱动短剧出海新浪潮：Meta峰会解码全球增长与内容生态新机遇 新浪财经",
+      "timestamp_local": "2026-11-18T17:57:33+08:00",
+      "timestamp_utc": "2026-11-18T09:57:33+00:00",
+      "timestamp_sort": 1794995853.0,
+      "summary": "AI驱动短剧出海新浪潮：Meta峰会解码全球增长与内容生态新机遇 DoNews",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://finance.sina.com.cn/roll/2026-11-18/doc-inizeacc6926985.shtml"
+        "https://www.donews.com/news/detail/4/6774981.html"
       ],
       "article_count": 1
     },
@@ -1319,6 +1341,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_da2e026ca922",
+      "event_label": "零点有数当前不存在ai短剧内容制作海外短剧出海等相关业务wwwcaiwennewscom",
+      "timestamp_local": "2026-11-19T11:55:08+08:00",
+      "timestamp_utc": "2026-11-19T03:55:08+00:00",
+      "timestamp_sort": 1795060508.0,
+      "summary": "零点有数：当前不存在AI短剧内容制作，海外短剧出海等相关业务 www.caiwennews.com",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.caiwennews.com/article/1707956.shtml"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_5c4376b20ed2",
       "event_label": "零点有数301169sz当前不存在ai短剧内容制作海外短剧出海等相关业务公司新闻",
       "timestamp_local": "2026-11-19T12:09:14+08:00",
@@ -1349,11 +1386,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-20T01:52:11.001546+08:00",
+  "updated_at": "2026-11-20T08:05:14.818682+08:00",
   "last_stats": {
-    "node_count": 38,
+    "node_count": 40,
     "conflict_nodes": 1,
-    "article_count": 39
+    "article_count": 41
   },
-  "articles_fingerprint": "dc4d2a66c03afab7"
+  "articles_fingerprint": "b0de50e26b0940d7"
 }
