@@ -77,6 +77,13 @@
       "conflict_nodes": 1,
       "article_count": 42,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-20T15:56:13.473241+08:00",
+      "node_count": 42,
+      "conflict_nodes": 1,
+      "article_count": 45,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -841,7 +848,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.yicai.com/video/103443735.html"
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54cWZWbHo1UnVRMUI3OFJHX3Q3MlcwUzc1LWl0WlB6ZHdzcHpmSEdNRVBNYTc1VDBncXJoWHlkQ2trekNUT2hkSUEtN2JXYlN3QnVsVQ?oc=5"
       ],
       "article_count": 1
     },
@@ -901,7 +908,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://wap.eastmoney.com/a/202611173932825433.html"
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwYUtfYnNxaWJlVkpVdmhkbzZMaEkzbURHem81aDZJcHhhUjFNSHVtTFhYcVdfTjEwRmRoNnozaUUzbTVNNHF6clNVUG85TnFpSVRfVnlnaTZkbGRwX1JqMA?oc=5"
       ],
       "article_count": 1
     },
@@ -951,47 +958,32 @@
       "article_count": 1
     },
     {
-      "node_id": "n_a62ec03cbe02",
-      "event_label": "佳能携手洛氪迅以专业影像方案赋能品牌多场景直播",
-      "timestamp_local": "2026-11-18T16:03:00+08:00",
-      "timestamp_utc": "2026-11-18T08:03:00+00:00",
-      "timestamp_sort": 1794988980.0,
-      "summary": "佳能携手洛氪迅 以专业影像方案赋能品牌多场景直播 驱动之家",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://news.mydrivers.com/1/1166/1166708.htm"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_c0fa11b2c744",
       "event_label": "2026年万元内全画幅怎么选佳能r8markii兼顾高感防抖与高速连拍",
-      "timestamp_local": "2026-11-18T17:19:46+08:00",
-      "timestamp_utc": "2026-11-18T09:19:46+00:00",
-      "timestamp_sort": 1794993586.0,
-      "summary": "2026年万元内全画幅怎么选？佳能R8 Mark II兼顾高感、防抖与高速连拍 凤凰网",
+      "timestamp_local": "2026-11-18T16:23:00+08:00",
+      "timestamp_utc": "2026-11-18T08:23:00+00:00",
+      "timestamp_sort": 1794990180.0,
+      "summary": "2026年万元内全画幅怎么选 佳能R8 Mark II兼顾高感、防抖与高速连拍 驱动之家",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://hainan.ifeng.com/c/8y9gHupFfVW"
+        "https://news.mydrivers.com/1/1166/1166726.htm"
       ],
       "article_count": 1
     },
     {
-      "node_id": "n_fe7d4f5c6d04",
-      "event_label": "佳能eosr8markii最值得入手的全画幅入门相机",
-      "timestamp_local": "2026-11-18T18:02:12+08:00",
-      "timestamp_utc": "2026-11-18T10:02:12+00:00",
-      "timestamp_sort": 1794996132.0,
-      "summary": "佳能EOS R8 Mark II 最值得入手的全画幅入门相机 凤凰网科技",
+      "node_id": "n_a62ec03cbe02",
+      "event_label": "佳能携手洛氪迅以专业影像方案赋能品牌多场景直播",
+      "timestamp_local": "2026-11-18T16:57:00+08:00",
+      "timestamp_utc": "2026-11-18T08:57:00+00:00",
+      "timestamp_sort": 1794992220.0,
+      "summary": "佳能携手洛氪迅，以专业影像方案赋能品牌多场景直播 TOM",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://tech.ifeng.com/c/8y9oSDH92wX"
+        "https://news.tom.com/202611/4023446535.html"
       ],
       "article_count": 1
     },
@@ -1021,7 +1013,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://tech.china.com/lieqi/20261119/11191980777.html"
+        "https://m.tech.china.com/lieqi/20261119/11191980777.html"
       ],
       "article_count": 1
     },
@@ -1081,7 +1073,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.mydrivers.com/1/1166/1166981.htm"
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91bk9Uc0RfRmNkYnhWV08wUmFETUVzV011QXNZWlNBbE80cHJNemh4b2pPU0I2cVB5NHpNOGlickU5OGswOU5sRzRDTzN5bWhxZ24zdzRqUk0?oc=5"
       ],
       "article_count": 1
     },
@@ -1099,13 +1091,73 @@
         "https://m.tech.china.com/redian/2026/1119/112026_1981292.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_fe7d4f5c6d04",
+      "event_label": "佳能eosr8markii最值得入手的全画幅入门相机",
+      "timestamp_local": "2026-11-19T17:32:46+08:00",
+      "timestamp_utc": "2026-11-19T09:32:46+00:00",
+      "timestamp_sort": 1795080766.0,
+      "summary": "佳能EOS R8 Mark II 最值得入手的全画幅入门相机 小熊在线",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "http://beareyes.com.cn/cgi-bin/bear_waq.cgi?20261119004"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_2fdb1de77b54",
+      "event_label": "佳能医疗职业体验课堂走进云南永善山区为孩子们播下梦想的种子",
+      "timestamp_local": "2026-11-20T10:12:00+08:00",
+      "timestamp_utc": "2026-11-20T02:12:00+00:00",
+      "timestamp_sort": 1795140720.0,
+      "summary": "佳能医疗职业体验课堂走进云南永善山区，为孩子们播下梦想的种子 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://mtz.china.com/touzi/2026/1120/267746.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_5e5e590c79ab",
+      "event_label": "佳能sx210相机怎么样佳能sx210数码相机全面测评",
+      "timestamp_local": "2026-11-20T12:52:03+08:00",
+      "timestamp_utc": "2026-11-20T04:52:03+00:00",
+      "timestamp_sort": 1795150323.0,
+      "summary": "佳能 SX210 相机怎么样？佳能 SX210 数码相机全面测评 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.tech.china.com/lieqi/20261120/11201981555.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_2740fa244fb7",
+      "event_label": "光刻机概念回调联合化学20跌停",
+      "timestamp_local": "2026-11-20T13:59:36+08:00",
+      "timestamp_utc": "2026-11-20T05:59:36+00:00",
+      "timestamp_sort": 1795154376.0,
+      "summary": "光刻机概念回调 联合化学20%跌停 手机新浪网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://wap.cj.sina.cn/7x24/5227140"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-20T08:05:14.782784+08:00",
+  "updated_at": "2026-11-20T15:56:13.473241+08:00",
   "last_stats": {
-    "node_count": 39,
+    "node_count": 42,
     "conflict_nodes": 1,
-    "article_count": 42
+    "article_count": 45
   },
-  "articles_fingerprint": "b961453d599cd1c9"
+  "articles_fingerprint": "d52d233d8096f912"
 }
