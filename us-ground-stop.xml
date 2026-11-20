@@ -6,8 +6,16 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/us-ground-stop.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「2026 年 11 月 13 日 FAA 因航路交通管制中心通信故障发布全美地面停飞令」这一事件的全部进展：停飞与解除时间、航班延误取消规模、航司改签豁免、欧洲赴美航班暂停、白宫与国会表态、故障根因调查、空管系统技术债与现代化拨款。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 08:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:38:15 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-20] 美国联邦航空局暂停安装引发全美航班停飞的路由器设备</title>
+      <link>https://www.zhiding.cn/network_security/2026/1120/3206626.shtml</link>
+      <guid isPermaLink="false">https://www.zhiding.cn/network_security/2026/1120/3206626.shtml#n_2b541e782558</guid>
+      <pubDate>Fri, 20 Nov 2026 11:02:51 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>美国联邦航空局暂停安装引发全美航班停飞的路由器设备</b>　<span>2026-11-20</span></p><p>美国联邦航空局暂停安装引发全美航班停飞的路由器设备 至顶网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.zhiding.cn/network_security/2026/1120/3206626.shtml</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-19] 全美航班停飞原因未明白宫沉默引质疑</title>
       <link>https://news.china.com/socialgd/10000169/20261119/49887394.html</link>

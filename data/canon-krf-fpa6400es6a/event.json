@@ -84,6 +84,13 @@
       "conflict_nodes": 1,
       "article_count": 45,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-21T00:38:14.708880+08:00",
+      "node_count": 43,
+      "conflict_nodes": 1,
+      "article_count": 46,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -848,7 +855,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54cWZWbHo1UnVRMUI3OFJHX3Q3MlcwUzc1LWl0WlB6ZHdzcHpmSEdNRVBNYTc1VDBncXJoWHlkQ2trekNUT2hkSUEtN2JXYlN3QnVsVQ?oc=5"
+        "https://www.yicai.com/video/103443735.html"
       ],
       "article_count": 1
     },
@@ -908,7 +915,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwYUtfYnNxaWJlVkpVdmhkbzZMaEkzbURHem81aDZJcHhhUjFNSHVtTFhYcVdfTjEwRmRoNnozaUUzbTVNNHF6clNVUG85TnFpSVRfVnlnaTZkbGRwX1JqMA?oc=5"
+        "https://wap.eastmoney.com/a/202611173932825433.html"
       ],
       "article_count": 1
     },
@@ -923,7 +930,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://tech.china.com/lieqi/20261118/11181980224.html"
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsSkNpUDBJdEN1WGVrS1BubG5UNEhxWFUxc081VlNrTWJ0eGlXaEZLLVU5a2xHRFhUS3VIQWFWNzJreUh5WnItbE55MTk5TVppdDRRV1ZzY094c05RVzk3UDBFZW0?oc=5"
       ],
       "article_count": 1
     },
@@ -958,32 +965,47 @@
       "article_count": 1
     },
     {
-      "node_id": "n_c0fa11b2c744",
-      "event_label": "2026年万元内全画幅怎么选佳能r8markii兼顾高感防抖与高速连拍",
-      "timestamp_local": "2026-11-18T16:23:00+08:00",
-      "timestamp_utc": "2026-11-18T08:23:00+00:00",
-      "timestamp_sort": 1794990180.0,
-      "summary": "2026年万元内全画幅怎么选 佳能R8 Mark II兼顾高感、防抖与高速连拍 驱动之家",
+      "node_id": "n_a62ec03cbe02",
+      "event_label": "佳能携手洛氪迅以专业影像方案赋能品牌多场景直播",
+      "timestamp_local": "2026-11-18T16:03:00+08:00",
+      "timestamp_utc": "2026-11-18T08:03:00+00:00",
+      "timestamp_sort": 1794988980.0,
+      "summary": "佳能携手洛氪迅 以专业影像方案赋能品牌多场景直播 驱动之家",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.mydrivers.com/1/1166/1166726.htm"
+        "https://news.mydrivers.com/1/1166/1166708.htm"
       ],
       "article_count": 1
     },
     {
-      "node_id": "n_a62ec03cbe02",
-      "event_label": "佳能携手洛氪迅以专业影像方案赋能品牌多场景直播",
-      "timestamp_local": "2026-11-18T16:57:00+08:00",
-      "timestamp_utc": "2026-11-18T08:57:00+00:00",
-      "timestamp_sort": 1794992220.0,
-      "summary": "佳能携手洛氪迅，以专业影像方案赋能品牌多场景直播 TOM",
+      "node_id": "n_c0fa11b2c744",
+      "event_label": "2026年万元内全画幅怎么选佳能r8markii兼顾高感防抖与高速连拍",
+      "timestamp_local": "2026-11-18T17:19:46+08:00",
+      "timestamp_utc": "2026-11-18T09:19:46+00:00",
+      "timestamp_sort": 1794993586.0,
+      "summary": "2026年万元内全画幅怎么选？佳能R8 Mark II兼顾高感、防抖与高速连拍 凤凰网",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.tom.com/202611/4023446535.html"
+        "https://hainan.ifeng.com/c/8y9gHupFfVW"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_fe7d4f5c6d04",
+      "event_label": "佳能eosr8markii最值得入手的全画幅入门相机",
+      "timestamp_local": "2026-11-18T18:02:12+08:00",
+      "timestamp_utc": "2026-11-18T10:02:12+00:00",
+      "timestamp_sort": 1794996132.0,
+      "summary": "佳能EOS R8 Mark II 最值得入手的全画幅入门相机 凤凰网科技",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.ifeng.com/c/8y9oSDH92wX"
       ],
       "article_count": 1
     },
@@ -1073,7 +1095,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91bk9Uc0RfRmNkYnhWV08wUmFETUVzV011QXNZWlNBbE80cHJNemh4b2pPU0I2cVB5NHpNOGlickU5OGswOU5sRzRDTzN5bWhxZ24zdzRqUk0?oc=5"
+        "https://news.mydrivers.com/1/1166/1166981.htm"
       ],
       "article_count": 1
     },
@@ -1089,21 +1111,6 @@
       "confidence": 0.6,
       "sources": [
         "https://m.tech.china.com/redian/2026/1119/112026_1981292.html"
-      ],
-      "article_count": 1
-    },
-    {
-      "node_id": "n_fe7d4f5c6d04",
-      "event_label": "佳能eosr8markii最值得入手的全画幅入门相机",
-      "timestamp_local": "2026-11-19T17:32:46+08:00",
-      "timestamp_utc": "2026-11-19T09:32:46+00:00",
-      "timestamp_sort": 1795080766.0,
-      "summary": "佳能EOS R8 Mark II 最值得入手的全画幅入门相机 小熊在线",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "http://beareyes.com.cn/cgi-bin/bear_waq.cgi?20261119004"
       ],
       "article_count": 1
     },
@@ -1151,13 +1158,28 @@
         "https://wap.cj.sina.cn/7x24/5227140"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_927d29f38731",
+      "event_label": "光刻机概念下跌779主力资金净流出45股",
+      "timestamp_local": "2026-11-20T17:41:11+08:00",
+      "timestamp_utc": "2026-11-20T09:41:11+00:00",
+      "timestamp_sort": 1795167671.0,
+      "summary": "光刻机概念下跌7.79%，主力资金净流出45股 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "http://stock.stockstar.com/IG2026112000031458.shtml"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-20T15:56:13.473241+08:00",
+  "updated_at": "2026-11-21T00:38:14.708880+08:00",
   "last_stats": {
-    "node_count": 42,
+    "node_count": 43,
     "conflict_nodes": 1,
-    "article_count": 45
+    "article_count": 46
   },
-  "articles_fingerprint": "d52d233d8096f912"
+  "articles_fingerprint": "2365ea1fa9cc3d2f"
 }

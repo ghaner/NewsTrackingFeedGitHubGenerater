@@ -133,6 +133,13 @@
       "conflict_nodes": 1,
       "article_count": 41,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-21T00:38:14.769566+08:00",
+      "node_count": 40,
+      "conflict_nodes": 1,
+      "article_count": 41,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1283,7 +1290,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xeEpIZEJnUncxQ1B4UEE5Z1NxUVZYeExqTm1jSzhMeWlReUpKRU1qV3ZmWGxFd0o5Y3EzVDIyZ3JYQVF1NWYtRWVGSjZJSW54UEs2VzNBblFYSEpzSVhV?oc=5"
+        "https://m.voc.com.cn/xhn/news/202611/34287983.html"
       ],
       "article_count": 1
     },
@@ -1313,7 +1320,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wanVOVnVDYWZRZ0JBaGhfQ3JMeHFNdUhjdUZURl9XVkh4bHBHM2lyZmxRb3hkTU04MGZUdmlVNnEwZkw1bHNONDVrWlpoMFU?oc=5"
+        "https://www.cztv.com/newsDetail/917787"
       ],
       "article_count": 1
     },
@@ -1393,11 +1400,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-20T15:56:13.519535+08:00",
+  "updated_at": "2026-11-21T00:38:14.769566+08:00",
   "last_stats": {
     "node_count": 40,
     "conflict_nodes": 1,
     "article_count": 41
   },
-  "articles_fingerprint": "449bf0ea67227a8f"
+  "articles_fingerprint": "a1a97ceac988a0be"
 }
