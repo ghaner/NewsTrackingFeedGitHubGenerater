@@ -91,6 +91,13 @@
       "conflict_nodes": 1,
       "article_count": 46,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-21T06:53:24.552147+08:00",
+      "node_count": 44,
+      "conflict_nodes": 1,
+      "article_count": 47,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -930,7 +937,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsSkNpUDBJdEN1WGVrS1BubG5UNEhxWFUxc081VlNrTWJ0eGlXaEZLLVU5a2xHRFhUS3VIQWFWNzJreUh5WnItbE55MTk5TVppdDRRV1ZzY094c05RVzk3UDBFZW0?oc=5"
+        "https://tech.china.com/lieqi/20261118/11181980224.html"
       ],
       "article_count": 1
     },
@@ -1085,21 +1092,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_dd273cbd8066",
-      "event_label": "优酷食神·百厨大战选用佳能cinemaeos系列摄制记录百厨同台竞技",
-      "timestamp_local": "2026-11-19T12:40:00+08:00",
-      "timestamp_utc": "2026-11-19T04:40:00+00:00",
-      "timestamp_sort": 1795063200.0,
-      "summary": "优酷《食神·百厨大战》选用佳能CINEMA EOS系列摄制 记录百厨同台竞技 驱动之家",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://news.mydrivers.com/1/1166/1166981.htm"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_46d5dd101570",
       "event_label": "17亿支镜头背后看佳能的影像世界梦想如何落进现实",
       "timestamp_local": "2026-11-19T17:22:29+08:00",
@@ -1145,17 +1137,17 @@
       "article_count": 1
     },
     {
-      "node_id": "n_2740fa244fb7",
-      "event_label": "光刻机概念回调联合化学20跌停",
-      "timestamp_local": "2026-11-20T13:59:36+08:00",
-      "timestamp_utc": "2026-11-20T05:59:36+00:00",
-      "timestamp_sort": 1795154376.0,
-      "summary": "光刻机概念回调 联合化学20%跌停 手机新浪网",
+      "node_id": "n_dd273cbd8066",
+      "event_label": "优酷食神·百厨大战选用佳能cinemaeos系列摄制记录百厨同台竞技",
+      "timestamp_local": "2026-11-20T16:37:21+08:00",
+      "timestamp_utc": "2026-11-20T08:37:21+00:00",
+      "timestamp_sort": 1795163841.0,
+      "summary": "优酷《食神·百厨大战》选用佳能CINEMA EOS系列摄制，记录百厨同台竞技 中华网",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://wap.cj.sina.cn/7x24/5227140"
+        "https://tech.china.com/articles/20261120/202611201982020.html"
       ],
       "article_count": 1
     },
@@ -1173,13 +1165,43 @@
         "http://stock.stockstar.com/IG2026112000031458.shtml"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_395e7753c7bd",
+      "event_label": "三家服务网点再升级佳能持续提升售后服务让感动常在",
+      "timestamp_local": "2026-11-20T19:52:39+08:00",
+      "timestamp_utc": "2026-11-20T11:52:39+00:00",
+      "timestamp_sort": 1795175559.0,
+      "summary": "三家服务网点再升级！佳能持续提升售后服务让“感动常在” Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1104251117_121221168?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_2740fa244fb7",
+      "event_label": "光刻机概念回调联合化学20跌停",
+      "timestamp_local": "2026-11-20T23:07:43+08:00",
+      "timestamp_utc": "2026-11-20T15:07:43+00:00",
+      "timestamp_sort": 1795187263.0,
+      "summary": "光刻机概念回调 联合化学20%跌停 东方财富网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://finance.eastmoney.com/a/202611203936031149.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-21T00:38:14.708880+08:00",
+  "updated_at": "2026-11-21T06:53:24.552147+08:00",
   "last_stats": {
-    "node_count": 43,
+    "node_count": 44,
     "conflict_nodes": 1,
-    "article_count": 46
+    "article_count": 47
   },
-  "articles_fingerprint": "2365ea1fa9cc3d2f"
+  "articles_fingerprint": "7038485ae9b987b2"
 }

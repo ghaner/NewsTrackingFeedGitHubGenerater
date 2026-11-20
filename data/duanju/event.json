@@ -140,6 +140,13 @@
       "conflict_nodes": 1,
       "article_count": 41,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-21T06:53:24.585659+08:00",
+      "node_count": 40,
+      "conflict_nodes": 1,
+      "article_count": 41,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1290,22 +1297,22 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.voc.com.cn/xhn/news/202611/34287983.html"
+        "https://www.hunantoday.cn/news/xhn/202611/34287983.html"
       ],
       "article_count": 1
     },
     {
       "node_id": "n_8e97c63f6aba",
       "event_label": "ai驱动短剧出海新浪潮meta峰会解码全球增长与内容生态新机遇",
-      "timestamp_local": "2026-11-18T17:57:33+08:00",
-      "timestamp_utc": "2026-11-18T09:57:33+00:00",
-      "timestamp_sort": 1794995853.0,
-      "summary": "AI驱动短剧出海新浪潮：Meta峰会解码全球增长与内容生态新机遇 DoNews",
+      "timestamp_local": "2026-11-18T17:52:59+08:00",
+      "timestamp_utc": "2026-11-18T09:52:59+00:00",
+      "timestamp_sort": 1794995579.0,
+      "summary": "AI驱动短剧出海新浪潮：Meta峰会解码全球增长与内容生态新机遇 新浪财经",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.donews.com/news/detail/4/6774981.html"
+        "https://finance.sina.com.cn/roll/2026-11-18/doc-inizeacc6926985.shtml"
       ],
       "article_count": 1
     },
@@ -1400,11 +1407,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-21T00:38:14.769566+08:00",
+  "updated_at": "2026-11-21T06:53:24.585659+08:00",
   "last_stats": {
     "node_count": 40,
     "conflict_nodes": 1,
     "article_count": 41
   },
-  "articles_fingerprint": "a1a97ceac988a0be"
+  "articles_fingerprint": "0d5a38ff2b021b80"
 }
