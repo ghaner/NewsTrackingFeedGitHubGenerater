@@ -173,6 +173,13 @@
       "conflict_nodes": 0,
       "article_count": 142,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-21T11:40:18.018220+08:00",
+      "node_count": 137,
+      "conflict_nodes": 0,
+      "article_count": 143,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -2894,13 +2901,28 @@
         "https://www.zhiding.cn/network_security/2026/1120/3206626.shtml"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_eaefc43a104e",
+      "event_label": "断电危机第一集美国还在用软盘周五全美航班停飞背后的致命隐患",
+      "timestamp_local": "2026-11-21T07:15:00+08:00",
+      "timestamp_utc": "2026-11-20T23:15:00+00:00",
+      "timestamp_sort": 1795216500.0,
+      "summary": "断电危机 | 第一集：美国还在用软盘？！周五全美航班停飞背后的致命隐患 禁闻网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.bannedbook.org/bnews/sohnews/20261121/2383297.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-21T00:38:15.331863+08:00",
+  "updated_at": "2026-11-21T11:40:18.018220+08:00",
   "last_stats": {
-    "node_count": 136,
+    "node_count": 137,
     "conflict_nodes": 0,
-    "article_count": 142
+    "article_count": 143
   },
-  "articles_fingerprint": "80a0a32718c7647b"
+  "articles_fingerprint": "a61b902e3e20e6c3"
 }

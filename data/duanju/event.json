@@ -147,6 +147,13 @@
       "conflict_nodes": 1,
       "article_count": 41,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-21T11:40:17.632590+08:00",
+      "node_count": 40,
+      "conflict_nodes": 1,
+      "article_count": 41,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1297,7 +1304,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.hunantoday.cn/news/xhn/202611/34287983.html"
+        "https://m.voc.com.cn/xhn/news/202611/34287983.html"
       ],
       "article_count": 1
     },
@@ -1407,11 +1414,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-21T06:53:24.585659+08:00",
+  "updated_at": "2026-11-21T11:40:17.632590+08:00",
   "last_stats": {
     "node_count": 40,
     "conflict_nodes": 1,
     "article_count": 41
   },
-  "articles_fingerprint": "0d5a38ff2b021b80"
+  "articles_fingerprint": "c80c7bbad43499d7"
 }

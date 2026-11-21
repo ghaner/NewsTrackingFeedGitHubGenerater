@@ -98,6 +98,13 @@
       "conflict_nodes": 1,
       "article_count": 47,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-21T11:40:17.592875+08:00",
+      "node_count": 44,
+      "conflict_nodes": 1,
+      "article_count": 47,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1042,7 +1049,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.tech.china.com/lieqi/20261119/11191980777.html"
+        "https://tech.china.com/lieqi/20261119/11191980777.html"
       ],
       "article_count": 1
     },
@@ -1132,7 +1139,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.tech.china.com/lieqi/20261120/11201981555.html"
+        "https://tech.china.com/lieqi/20261120/11201981555.html"
       ],
       "article_count": 1
     },
@@ -1169,15 +1176,15 @@
     {
       "node_id": "n_395e7753c7bd",
       "event_label": "三家服务网点再升级佳能持续提升售后服务让感动常在",
-      "timestamp_local": "2026-11-20T19:52:39+08:00",
-      "timestamp_utc": "2026-11-20T11:52:39+00:00",
-      "timestamp_sort": 1795175559.0,
-      "summary": "三家服务网点再升级！佳能持续提升售后服务让“感动常在” Sohu",
+      "timestamp_local": "2026-11-20T19:51:00+08:00",
+      "timestamp_utc": "2026-11-20T11:51:00+00:00",
+      "timestamp_sort": 1795175460.0,
+      "summary": "三家服务网点再升级！佳能持续提升售后服务让“感动常在” 驱动之家",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1104251117_121221168?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.mydrivers.com/1/1167/1167444.htm"
       ],
       "article_count": 1
     },
@@ -1197,11 +1204,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-21T06:53:24.552147+08:00",
+  "updated_at": "2026-11-21T11:40:17.592875+08:00",
   "last_stats": {
     "node_count": 44,
     "conflict_nodes": 1,
     "article_count": 47
   },
-  "articles_fingerprint": "7038485ae9b987b2"
+  "articles_fingerprint": "7af21944fa5615fd"
 }
