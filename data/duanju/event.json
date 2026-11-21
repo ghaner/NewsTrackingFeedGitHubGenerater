@@ -154,6 +154,13 @@
       "conflict_nodes": 1,
       "article_count": 41,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-21T19:56:47.287677+08:00",
+      "node_count": 41,
+      "conflict_nodes": 1,
+      "article_count": 42,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1412,13 +1419,28 @@
         "https://www.shobserver.cn/news/detail?id\\\\u003d1216679"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_a55655905320",
+      "event_label": "杨姗蜀风入海ai打开天府短剧出海新路径",
+      "timestamp_local": "2026-11-21T18:57:24+08:00",
+      "timestamp_utc": "2026-11-21T10:57:24+00:00",
+      "timestamp_sort": 1795258644.0,
+      "summary": "杨姗：蜀风入海 AI打开天府短剧出海新路径 四川在线",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://ent.scol.com.cn/wh/202611/83361013.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-21T11:40:17.632590+08:00",
+  "updated_at": "2026-11-21T19:56:47.287677+08:00",
   "last_stats": {
-    "node_count": 40,
+    "node_count": 41,
     "conflict_nodes": 1,
-    "article_count": 41
+    "article_count": 42
   },
-  "articles_fingerprint": "c80c7bbad43499d7"
+  "articles_fingerprint": "840f6cee65789dd5"
 }

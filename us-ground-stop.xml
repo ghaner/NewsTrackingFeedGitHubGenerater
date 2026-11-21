@@ -6,7 +6,7 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/us-ground-stop.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「2026 年 11 月 13 日 FAA 因航路交通管制中心通信故障发布全美地面停飞令」这一事件的全部进展：停飞与解除时间、航班延误取消规模、航司改签豁免、欧洲赴美航班暂停、白宫与国会表态、故障根因调查、空管系统技术债与现代化拨款。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 03:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:56:47 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[2026-11-21] 断电危机第一集美国还在用软盘周五全美航班停飞背后的致命隐患</title>
@@ -25,6 +25,30 @@
       <description><![CDATA[<div><p><b>美国联邦航空局暂停安装引发全美航班停飞的路由器设备</b>　<span>2026-11-20</span></p><p>美国联邦航空局暂停安装引发全美航班停飞的路由器设备 至顶网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.zhiding.cn/network_security/2026/1120/3206626.shtml</p></div>]]></description>
     </item>
     <item>
+      <title>[2026-11-20] 美国航管局本周将公布全美航班停飞的路由器故障原因</title>
+      <link>https://mezha.net/ch/news/a8c942fa_faa_will_reveal_router/</link>
+      <guid isPermaLink="false">https://mezha.net/ch/news/a8c942fa_faa_will_reveal_router/#n_e2a8d337eb8e</guid>
+      <pubDate>Fri, 20 Nov 2026 04:28:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>美国航管局本周将公布全美航班停飞的路由器故障原因</b>　<span>2026-11-20</span></p><p>美国航管局本周将公布全美航班停飞的路由器故障原因 Mezha.net</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://mezha.net/ch/news/a8c942fa_faa_will_reveal_router/</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-20] 突发全美航班停飞美国史上第3次</title>
+      <link>https://www.sohu.com/a/1101576180_121451097</link>
+      <guid isPermaLink="false">https://www.sohu.com/a/1101576180_121451097#n_07d73b9ab67a</guid>
+      <pubDate>Fri, 20 Nov 2026 02:15:27 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>突发全美航班停飞美国史上第3次</b>　<span>2026-11-20</span></p><p>突发！全美航班停飞，美国史上第3次！ Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.sohu.com/a/1101576180_121451097</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-20] 风暴来袭sanfranciscointernationalairport因faa地面停飞令暂停全部离港航班</title>
+      <link>https://avi-go.com/news/articles/2a79909989e974022ddc9dce1c3ce7c0?lang\\u003dzh</link>
+      <guid isPermaLink="false">https://avi-go.com/news/articles/2a79909989e974022ddc9dce1c3ce7c0?lang\\u003dzh#n_9a9b66e0930c</guid>
+      <pubDate>Fri, 20 Nov 2026 01:08:31 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>风暴来袭sanfranciscointernationalairport因faa地面停飞令暂停全部离港航班</b>　<span>2026-11-20</span></p><p>风暴来袭,San Francisco International Airport 因 FAA 地面停飞令暂停全部离港航班 Avi-Go</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://avi-go.com/news/articles/2a79909989e974022ddc9dce1c3ce7c0?lang\\u003dzh</p></div>]]></description>
+    </item>
+    <item>
       <title>[2026-11-19] 全美航班停飞原因未明白宫沉默引质疑</title>
       <link>https://news.china.com/socialgd/10000169/20261119/49887394.html</link>
       <guid isPermaLink="false">https://news.china.com/socialgd/10000169/20261119/49887394.html#n_5d0d9fa3e481</guid>
@@ -41,12 +65,20 @@
       <description><![CDATA[<div><p><b>全美航班停飞事件根源仍未查明空管系统暂停部署新型路由器</b>　<span>2026-11-19</span></p><p>全美航班停飞事件根源仍未查明，空管系统暂停部署新型路由器 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1103438938_121218495?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
     </item>
     <item>
-      <title>[2026-11-18] 一款路由器故障导致全美航班停飞faa停用60余台设备并叫停后续安装</title>
-      <link>https://m.sohu.com/a/1103357506_122014422?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
-      <guid isPermaLink="false">https://m.sohu.com/a/1103357506_122014422?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_00edffe62fcb</guid>
-      <pubDate>Wed, 18 Nov 2026 23:49:57 +0800</pubDate>
+      <title>[2026-11-19] 特朗普回应全美航班停飞</title>
+      <link>https://www.52hrtt.com/mobileview/news/G1794453910857.html?areaId\\u003d50\\u0026languageId\\u003d1</link>
+      <guid isPermaLink="false">https://www.52hrtt.com/mobileview/news/G1794453910857.html?areaId\\u003d50\\u0026languageId\\u003d1#n_1ef1af41b57c</guid>
+      <pubDate>Thu, 19 Nov 2026 05:16:32 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>一款路由器故障导致全美航班停飞faa停用60余台设备并叫停后续安装</b>　<span>2026-11-18</span></p><p>一款路由器故障导致全美航班停飞，FAA停用60余台设备并叫停后续安装 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1103357506_122014422?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
+      <description><![CDATA[<div><p><b>特朗普回应全美航班停飞</b>　<span>2026-11-19</span></p><p>特朗普回应全美航班停飞 华人头条</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.52hrtt.com/mobileview/news/G1794453910857.html?areaId\\u003d50\\u0026languageId\\u003d1</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-18] 一款路由器故障导致全美航班停飞faa停用60余台设备并叫停后续安装</title>
+      <link>https://tech.ifeng.com/c/8yACIORQxNb</link>
+      <guid isPermaLink="false">https://tech.ifeng.com/c/8yACIORQxNb#n_00edffe62fcb</guid>
+      <pubDate>Wed, 18 Nov 2026 23:35:09 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>一款路由器故障导致全美航班停飞faa停用60余台设备并叫停后续安装</b>　<span>2026-11-18</span></p><p>一款路由器故障导致全美航班停飞，FAA停用60余台设备并叫停后续安装 凤凰网科技</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://tech.ifeng.com/c/8yACIORQxNb</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-18] 全美航班停飞后美国银行也崩了</title>
@@ -569,14 +601,6 @@
       <description><![CDATA[<div><p><b>全美航班停飞亲历者未获补偿机场酒店爆满</b>　<span>2026-11-14</span></p><p>全美航班停飞亲历者：未获补偿 机场酒店爆满 中华网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.china.com/socialgd/10000169/20261114/49872221.html</p></div>]]></description>
     </item>
     <item>
-      <title>[2026-11-14] 突发！全美航班停飞，美国史上第3次！ - Sohu</title>
-      <link>https://m.sohu.com/a/1101576180_121451097?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
-      <guid isPermaLink="false">https://m.sohu.com/a/1101576180_121451097?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_982ee1ab0d11</guid>
-      <pubDate>Sat, 14 Nov 2026 17:31:34 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>突发！全美航班停飞，美国史上第3次！ - Sohu</b>　<span>2026-11-14</span></p><p>突发！全美航班停飞，美国史上第3次！ Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1101576180_121451097?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
-    </item>
-    <item>
       <title>[2026-11-14] faa地面停飞令扰乱前往aewfullgear的社交媒体明星行程</title>
       <link>https://mezha.net/ch/news/mezha-ff9b9a7a604523c222d116cc_faa-ground-stop-disrupts-travel-for/</link>
       <guid isPermaLink="false">https://mezha.net/ch/news/mezha-ff9b9a7a604523c222d116cc_faa-ground-stop-disrupts-travel-for/#n_27d05574ef21</guid>
@@ -855,14 +879,6 @@
       <pubDate>Sat, 14 Nov 2026 10:03:43 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>全美航班停飞令已解除此前进出美国及美国内已有近15万架次航班延误或取消特朗普空管系统故障与网络攻击或人工智能无关</b>　<span>2026-11-14</span></p><p>全美航班停飞令已解除，此前进出美国及美国内已有近1.5万架次航班延误或取消；特朗普：空管系统故障与网络攻击或人工智能无关 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1101423756_115479?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-14] 特朗普回应全美航班停飞</title>
-      <link>https://m.sohu.com/a/1101438371_163278?scm\\u003d10001.198_14-198_14_exp.0.0-0-0-0-0.</link>
-      <guid isPermaLink="false">https://m.sohu.com/a/1101438371_163278?scm\\u003d10001.198_14-198_14_exp.0.0-0-0-0-0.#n_1ef1af41b57c</guid>
-      <pubDate>Sat, 14 Nov 2026 09:59:00 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>特朗普回应全美航班停飞</b>　<span>2026-11-14</span></p><p>特朗普回应全美航班停飞 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1101438371_163278?scm\\u003d10001.198_14-198_14_exp.0.0-0-0-0-0.</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-14] 全美航班停飞令已解除特朗普回应美国空管系统故障</title>

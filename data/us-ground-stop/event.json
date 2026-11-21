@@ -180,6 +180,13 @@
       "conflict_nodes": 0,
       "article_count": 143,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-21T19:56:47.681732+08:00",
+      "node_count": 139,
+      "conflict_nodes": 0,
+      "article_count": 145,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1175,21 +1182,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_1ef1af41b57c",
-      "event_label": "特朗普回应全美航班停飞",
-      "timestamp_local": "2026-11-14T09:59:00+08:00",
-      "timestamp_utc": "2026-11-14T01:59:00+00:00",
-      "timestamp_sort": 1794621540.0,
-      "summary": "特朗普回应全美航班停飞 Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://m.sohu.com/a/1101438371_163278?scm\\\\u003d10001.198_14-198_14_exp.0.0-0-0-0-0."
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_5a0efefab5ad",
       "event_label": "全美航班停飞令已解除此前进出美国及美国内已有近15万架次航班延误或取消特朗普空管系统故障与网络攻击或人工智能无关",
       "timestamp_local": "2026-11-14T10:03:43+08:00",
@@ -1849,21 +1841,6 @@
       "confidence": 0.6,
       "sources": [
         "https://mezha.net/ch/news/mezha-ff9b9a7a604523c222d116cc_faa-ground-stop-disrupts-travel-for/"
-      ],
-      "article_count": 1
-    },
-    {
-      "node_id": "n_982ee1ab0d11",
-      "event_label": "突发！全美航班停飞，美国史上第3次！ - Sohu",
-      "timestamp_local": "2026-11-14T17:31:34+08:00",
-      "timestamp_utc": "2026-11-14T09:31:34+00:00",
-      "timestamp_sort": 1794648694.0,
-      "summary": "突发！全美航班停飞，美国史上第3次！ Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://m.sohu.com/a/1101576180_121451097?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -2845,15 +2822,30 @@
     {
       "node_id": "n_00edffe62fcb",
       "event_label": "一款路由器故障导致全美航班停飞faa停用60余台设备并叫停后续安装",
-      "timestamp_local": "2026-11-18T23:49:57+08:00",
-      "timestamp_utc": "2026-11-18T15:49:57+00:00",
-      "timestamp_sort": 1795016997.0,
-      "summary": "一款路由器故障导致全美航班停飞，FAA停用60余台设备并叫停后续安装 Sohu",
+      "timestamp_local": "2026-11-18T23:35:09+08:00",
+      "timestamp_utc": "2026-11-18T15:35:09+00:00",
+      "timestamp_sort": 1795016109.0,
+      "summary": "一款路由器故障导致全美航班停飞，FAA停用60余台设备并叫停后续安装 凤凰网科技",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1103357506_122014422?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://tech.ifeng.com/c/8yACIORQxNb"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_1ef1af41b57c",
+      "event_label": "特朗普回应全美航班停飞",
+      "timestamp_local": "2026-11-19T05:16:32+08:00",
+      "timestamp_utc": "2026-11-18T21:16:32+00:00",
+      "timestamp_sort": 1795036592.0,
+      "summary": "特朗普回应全美航班停飞 华人头条",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.52hrtt.com/mobileview/news/G1794453910857.html?areaId\\\\u003d50\\\\u0026languageId\\\\u003d1"
       ],
       "article_count": 1
     },
@@ -2888,6 +2880,51 @@
       "article_count": 1
     },
     {
+      "node_id": "n_9a9b66e0930c",
+      "event_label": "风暴来袭sanfranciscointernationalairport因faa地面停飞令暂停全部离港航班",
+      "timestamp_local": "2026-11-20T01:08:31+08:00",
+      "timestamp_utc": "2026-11-19T17:08:31+00:00",
+      "timestamp_sort": 1795108111.0,
+      "summary": "风暴来袭,San Francisco International Airport 因 FAA 地面停飞令暂停全部离港航班 Avi-Go",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://avi-go.com/news/articles/2a79909989e974022ddc9dce1c3ce7c0?lang\\\\u003dzh"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_07d73b9ab67a",
+      "event_label": "突发全美航班停飞美国史上第3次",
+      "timestamp_local": "2026-11-20T02:15:27+08:00",
+      "timestamp_utc": "2026-11-19T18:15:27+00:00",
+      "timestamp_sort": 1795112127.0,
+      "summary": "突发！全美航班停飞，美国史上第3次！ Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.sohu.com/a/1101576180_121451097"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_e2a8d337eb8e",
+      "event_label": "美国航管局本周将公布全美航班停飞的路由器故障原因",
+      "timestamp_local": "2026-11-20T04:28:00+08:00",
+      "timestamp_utc": "2026-11-19T20:28:00+00:00",
+      "timestamp_sort": 1795120080.0,
+      "summary": "美国航管局本周将公布全美航班停飞的路由器故障原因 Mezha.net",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://mezha.net/ch/news/a8c942fa_faa_will_reveal_router/"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_2b541e782558",
       "event_label": "美国联邦航空局暂停安装引发全美航班停飞的路由器设备",
       "timestamp_local": "2026-11-20T11:02:51+08:00",
@@ -2918,11 +2955,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-21T11:40:18.018220+08:00",
+  "updated_at": "2026-11-21T19:56:47.681732+08:00",
   "last_stats": {
-    "node_count": 137,
+    "node_count": 139,
     "conflict_nodes": 0,
-    "article_count": 143
+    "article_count": 145
   },
-  "articles_fingerprint": "a61b902e3e20e6c3"
+  "articles_fingerprint": "0b50d8efb8c460fc"
 }

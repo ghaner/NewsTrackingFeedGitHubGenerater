@@ -6,8 +6,16 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/duanju.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「海外短剧付费应用前十榜单里，中国厂商拿下 9 席」这一事件的全部进展：榜单份额、平台合并、三季报盈利、监管与补贴、二级市场反应。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 03:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:56:47 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-21] 杨姗蜀风入海ai打开天府短剧出海新路径</title>
+      <link>https://ent.scol.com.cn/wh/202611/83361013.html</link>
+      <guid isPermaLink="false">https://ent.scol.com.cn/wh/202611/83361013.html#n_a55655905320</guid>
+      <pubDate>Sat, 21 Nov 2026 18:57:24 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>杨姗蜀风入海ai打开天府短剧出海新路径</b>　<span>2026-11-21</span></p><p>杨姗：蜀风入海 AI打开天府短剧出海新路径 四川在线</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://ent.scol.com.cn/wh/202611/83361013.html</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-19] moloco发布合作案例解读短剧出海新增长逻辑</title>
       <link>https://www.shobserver.cn/news/detail?id\\u003d1216679</link>
@@ -319,14 +327,6 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>业绩核对：五家A股公司三季报全线承压</b>　<span>2026-11-04</span></p><p>汇总五家A股公司三季报：昆仑万维Q3净亏10.85亿元、前三季扣非亏15.46亿元；掌阅亏6840.91万元、中文在线亏1.32亿元、慈文亏4741.94万元、芒果超媒净利降79.01%。</p><p><b>关键数据：</b>Q3营收：35.78亿元；Q3归母净亏损：10.85亿元；前三季扣非净亏：15.46亿元；掌阅科技前三季净亏：6840.91万元；中文在线前三季净亏：1.32亿元</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.juduanduan.com/2026/1104/7279.shtml</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-10-29] 头部整合：DramaBox与GoodShort战略合并</title>
-      <link>https://www.juduanduan.com/2026/1029/7029.shtml</link>
-      <guid isPermaLink="false">https://www.juduanduan.com/2026/1029/7029.shtml#n_8b3d5b92124e</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-      <category>存在冲突</category>
-      <description><![CDATA[<div><p><b>头部整合：DramaBox与GoodShort战略合并</b>　<span>2026-10-29</span></p><p>上海证券报10月31日称两家「近日官宣」合并，一季度分列收入榜第1与第5；陈瑞卿任董事长、胡泽新任CEO，目标是把竞价预算转向剧本与AI工业化生产。</p><p><b>关键数据：</b>宣布日期：【存在分歧】2026-10-31 / 2026-10-16；合并主体：点众科技DramaBox＋GoodShort；新董事长：陈瑞卿；新CEO：胡泽新；一季度排名：收入榜第1与第5</p><p>置信度 0.9 ｜ 冲突节点：是 ｜ 分类：存在冲突</p><p><b>来源：</b>https://www.juduanduan.com/2026/1029/7029.shtml、https://finance.sina.com.cn/roll/2026-10-31/doc-inixcsqk4687906.shtml</p></div>]]></description>
     </item>
   </channel>
 </rss>
