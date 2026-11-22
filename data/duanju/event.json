@@ -161,6 +161,13 @@
       "conflict_nodes": 1,
       "article_count": 42,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-22T20:58:15.736823+08:00",
+      "node_count": 42,
+      "conflict_nodes": 1,
+      "article_count": 43,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1434,13 +1441,28 @@
         "https://ent.scol.com.cn/wh/202611/83361013.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_90447b0e97d1",
+      "event_label": "短剧出海中国拿走93收入老外爱看为何不自己拍",
+      "timestamp_local": "2026-11-22T19:40:00+08:00",
+      "timestamp_utc": "2026-11-22T11:40:00+00:00",
+      "timestamp_sort": 1795347600.0,
+      "summary": "短剧出海：中国拿走93%收入，老外爱看为何不自己拍？ Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1104919537_122094388?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-21T19:56:47.287677+08:00",
+  "updated_at": "2026-11-22T20:58:15.736823+08:00",
   "last_stats": {
-    "node_count": 41,
+    "node_count": 42,
     "conflict_nodes": 1,
-    "article_count": 42
+    "article_count": 43
   },
-  "articles_fingerprint": "840f6cee65789dd5"
+  "articles_fingerprint": "a6e1d071b141fc18"
 }

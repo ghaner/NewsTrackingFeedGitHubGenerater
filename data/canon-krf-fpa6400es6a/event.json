@@ -112,6 +112,13 @@
       "conflict_nodes": 1,
       "article_count": 47,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-22T20:58:15.672072+08:00",
+      "node_count": 45,
+      "conflict_nodes": 1,
+      "article_count": 48,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1209,13 +1216,28 @@
         "https://finance.eastmoney.com/a/202611203936031149.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_e2c471f401fe",
+      "event_label": "佳能ixus95is评测怎么样佳能ixus95is拆机与镜头介绍",
+      "timestamp_local": "2026-11-22T15:32:55+08:00",
+      "timestamp_utc": "2026-11-22T07:32:55+00:00",
+      "timestamp_sort": 1795332775.0,
+      "summary": "佳能 ixus95is 评测怎么样？佳能 ixus95is 拆机与镜头介绍 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/lieqi/20261122/11221982509.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-22T12:22:47.926073+08:00",
+  "updated_at": "2026-11-22T20:58:15.672072+08:00",
   "last_stats": {
-    "node_count": 44,
+    "node_count": 45,
     "conflict_nodes": 1,
-    "article_count": 47
+    "article_count": 48
   },
-  "articles_fingerprint": "c83a0b24dcaee3a3"
+  "articles_fingerprint": "d2efdc84ebe85386"
 }

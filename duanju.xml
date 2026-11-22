@@ -6,8 +6,16 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/duanju.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「海外短剧付费应用前十榜单里，中国厂商拿下 9 席」这一事件的全部进展：榜单份额、平台合并、三季报盈利、监管与补贴、二级市场反应。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 11:56:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:58:16 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-22] 短剧出海中国拿走93收入老外爱看为何不自己拍</title>
+      <link>https://m.sohu.com/a/1104919537_122094388?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
+      <guid isPermaLink="false">https://m.sohu.com/a/1104919537_122094388?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_90447b0e97d1</guid>
+      <pubDate>Sun, 22 Nov 2026 19:40:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>短剧出海中国拿走93收入老外爱看为何不自己拍</b>　<span>2026-11-22</span></p><p>短剧出海：中国拿走93%收入，老外爱看为何不自己拍？ Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1104919537_122094388?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-21] 杨姗蜀风入海ai打开天府短剧出海新路径</title>
       <link>https://ent.scol.com.cn/wh/202611/83361013.html</link>
@@ -319,14 +327,6 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>核心进展：新快报梳理付费榜前十中国占九席</b>　<span>2026-11-04</span></p><p>11月4日新快报梳理：海外短剧付费应用前十中国厂商占九席，约10家中国企业建海外平台，AI漫剧活跃用户超1.5亿；同篇并置三季报「增收不增利」、9月1日备案新规、深圳300万补贴与11月3日概念股涨停。</p><p><b>关键数据：</b>付费榜前十中国席位：9席；中国企业海外短剧平台数：约10家；海外AI漫剧活跃用户：超1.5亿；字节PineDrama累计下载：破1亿次；涨停个股：大晟文化、文投控股、浙文影业(11-03)</p><p>置信度 0.9 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://ep.ycwb.com/epaper/xkb/html/2026-11/04/content_1510_771093.htm</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-04] 业绩核对：五家A股公司三季报全线承压</title>
-      <link>https://www.juduanduan.com/2026/1104/7279.shtml</link>
-      <guid isPermaLink="false">https://www.juduanduan.com/2026/1104/7279.shtml#n_e56b949163b7</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>业绩核对：五家A股公司三季报全线承压</b>　<span>2026-11-04</span></p><p>汇总五家A股公司三季报：昆仑万维Q3净亏10.85亿元、前三季扣非亏15.46亿元；掌阅亏6840.91万元、中文在线亏1.32亿元、慈文亏4741.94万元、芒果超媒净利降79.01%。</p><p><b>关键数据：</b>Q3营收：35.78亿元；Q3归母净亏损：10.85亿元；前三季扣非净亏：15.46亿元；掌阅科技前三季净亏：6840.91万元；中文在线前三季净亏：1.32亿元</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.juduanduan.com/2026/1104/7279.shtml</p></div>]]></description>
     </item>
   </channel>
 </rss>

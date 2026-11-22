@@ -6,8 +6,16 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/us-ground-stop.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「2026 年 11 月 13 日 FAA 因航路交通管制中心通信故障发布全美地面停飞令」这一事件的全部进展：停飞与解除时间、航班延误取消规模、航司改签豁免、欧洲赴美航班暂停、白宫与国会表态、故障根因调查、空管系统技术债与现代化拨款。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 11:56:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:58:16 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-22] 美媒全美航班停飞令已解除</title>
+      <link>https://c.m.163.com/news/v/VDAOLM0OO.html</link>
+      <guid isPermaLink="false">https://c.m.163.com/news/v/VDAOLM0OO.html#n_e85b96186083</guid>
+      <pubDate>Sun, 22 Nov 2026 11:32:46 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>美媒全美航班停飞令已解除</b>　<span>2026-11-22</span></p><p>美媒：全美航班停飞令已解除 网易新闻客户端</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://c.m.163.com/news/v/VDAOLM0OO.html</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-21] 断电危机第一集美国还在用软盘周五全美航班停飞背后的致命隐患</title>
       <link>https://www.bannedbook.org/bnews/sohnews/20261121/2383297.html</link>
@@ -15,6 +23,14 @@
       <pubDate>Sat, 21 Nov 2026 07:15:00 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>断电危机第一集美国还在用软盘周五全美航班停飞背后的致命隐患</b>　<span>2026-11-21</span></p><p>断电危机 | 第一集：美国还在用软盘？！周五全美航班停飞背后的致命隐患 禁闻网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.bannedbook.org/bnews/sohnews/20261121/2383297.html</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-21] 新版国家医保商保双目录公布美国空管通信故障致逾万架次航班延误或取消</title>
+      <link>https://www.cls.cn/detail/2534816</link>
+      <guid isPermaLink="false">https://www.cls.cn/detail/2534816#n_e49d13bce1a8</guid>
+      <pubDate>Sat, 21 Nov 2026 01:58:12 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>新版国家医保商保双目录公布美国空管通信故障致逾万架次航班延误或取消</b>　<span>2026-11-21</span></p><p>【早报】新版国家医保商保“双目录”公布；美国空管通信故障致逾万架次航班延误或取消 财联社</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.cls.cn/detail/2534816</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-20] 美国联邦航空局暂停安装引发全美航班停飞的路由器设备</title>
@@ -28,7 +44,7 @@
       <title>[2026-11-20] 美国航管局本周将公布全美航班停飞的路由器故障原因</title>
       <link>https://mezha.net/ch/news/a8c942fa_faa_will_reveal_router/</link>
       <guid isPermaLink="false">https://mezha.net/ch/news/a8c942fa_faa_will_reveal_router/#n_e2a8d337eb8e</guid>
-      <pubDate>Fri, 20 Nov 2026 04:28:00 +0800</pubDate>
+      <pubDate>Fri, 20 Nov 2026 04:58:00 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>美国航管局本周将公布全美航班停飞的路由器故障原因</b>　<span>2026-11-20</span></p><p>美国航管局本周将公布全美航班停飞的路由器故障原因 Mezha.net</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://mezha.net/ch/news/a8c942fa_faa_will_reveal_router/</p></div>]]></description>
     </item>
@@ -273,14 +289,6 @@
       <description><![CDATA[<div><p><b>全美航班停飞特朗普听取简报空中交通管制故障引发大面积延误</b>　<span>2026-11-16</span></p><p>全美航班停飞 特朗普听取简报 空中交通管制故障引发大面积延误 中华网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.china.com/socialgd/10000169/20261116/49874776.html</p></div>]]></description>
     </item>
     <item>
-      <title>[2026-11-16] 美媒全美航班停飞令已解除</title>
-      <link>http://m.ce.cn/gj/gd/202611/t20261116_3295215.shtml</link>
-      <guid isPermaLink="false">http://m.ce.cn/gj/gd/202611/t20261116_3295215.shtml#n_e85b96186083</guid>
-      <pubDate>Mon, 16 Nov 2026 08:51:00 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>美媒全美航班停飞令已解除</b>　<span>2026-11-16</span></p><p>美媒：全美航班停飞令已解除 中国经济网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>http://m.ce.cn/gj/gd/202611/t20261116_3295215.shtml</p></div>]]></description>
-    </item>
-    <item>
       <title>[2026-11-16] 航班因faa地面停飛令取消旅客別急著自行退票</title>
       <link>https://www.epochtimes.com/gb/26/11/15/n14889272.htm</link>
       <guid isPermaLink="false">https://www.epochtimes.com/gb/26/11/15/n14889272.htm#n_bc43eded6b56</guid>
@@ -303,14 +311,6 @@
       <pubDate>Mon, 16 Nov 2026 08:06:22 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>全美航班停飞或由换光纤导致路由器故障引发大混乱</b>　<span>2026-11-16</span></p><p>全美航班停飞或由换光纤导致 路由器故障引发大混乱 中华网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.china.com/socialgd/10000169/20261116/49874322.html</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-16] 新版国家医保商保双目录公布美国空管通信故障致逾万架次航班延误或取消</title>
-      <link>https://www.cls.cn/detail/2534816</link>
-      <guid isPermaLink="false">https://www.cls.cn/detail/2534816#n_e49d13bce1a8</guid>
-      <pubDate>Mon, 16 Nov 2026 07:16:11 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>新版国家医保商保双目录公布美国空管通信故障致逾万架次航班延误或取消</b>　<span>2026-11-16</span></p><p>【早报】新版国家医保商保“双目录”公布；美国空管通信故障致逾万架次航班延误或取消 财联社</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.cls.cn/detail/2534816</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-16] 川普首度回应全美航班停飞事件交通部长达菲拒道歉</title>
