@@ -105,6 +105,13 @@
       "conflict_nodes": 1,
       "article_count": 47,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-22T12:22:47.926073+08:00",
+      "node_count": 44,
+      "conflict_nodes": 1,
+      "article_count": 47,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1009,21 +1016,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_fe7d4f5c6d04",
-      "event_label": "佳能eosr8markii最值得入手的全画幅入门相机",
-      "timestamp_local": "2026-11-18T18:02:12+08:00",
-      "timestamp_utc": "2026-11-18T10:02:12+00:00",
-      "timestamp_sort": 1794996132.0,
-      "summary": "佳能EOS R8 Mark II 最值得入手的全画幅入门相机 凤凰网科技",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://tech.ifeng.com/c/8y9oSDH92wX"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_5bdd83e4a347",
       "event_label": "顺丰快递员寄错相机从贵州坐动车到杭州为找回五千多元相机称否则要从工资上扣收件人电话不接门也不开公司暖心回应不会让小哥个人承担",
       "timestamp_local": "2026-11-18T20:24:35+08:00",
@@ -1110,6 +1102,21 @@
       "confidence": 0.6,
       "sources": [
         "https://m.tech.china.com/redian/2026/1119/112026_1981292.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_fe7d4f5c6d04",
+      "event_label": "佳能eosr8markii最值得入手的全画幅入门相机",
+      "timestamp_local": "2026-11-19T17:32:46+08:00",
+      "timestamp_utc": "2026-11-19T09:32:46+00:00",
+      "timestamp_sort": 1795080766.0,
+      "summary": "佳能EOS R8 Mark II 最值得入手的全画幅入门相机 小熊在线",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "http://beareyes.com.cn/cgi-bin/bear_waq.cgi?20261119004"
       ],
       "article_count": 1
     },
@@ -1204,11 +1211,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-21T11:40:17.592875+08:00",
+  "updated_at": "2026-11-22T12:22:47.926073+08:00",
   "last_stats": {
     "node_count": 44,
     "conflict_nodes": 1,
     "article_count": 47
   },
-  "articles_fingerprint": "7af21944fa5615fd"
+  "articles_fingerprint": "c83a0b24dcaee3a3"
 }

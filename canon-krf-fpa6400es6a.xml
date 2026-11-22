@@ -6,7 +6,7 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/canon-krf-fpa6400es6a.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「佳能于2026年11月10日宣布12月上旬发售面向存储和逻辑芯片的KrF扫描式光刻机FPA-6400ES6a」这一事件的全部进展：官方参数（400片/小时、4.0nm套刻精度、700μm翘曲）、技术解读（不走EUV、套刻精度≠制程节点）、国产设备对照，以及A股光刻机与光学元件板块的股价走势影响。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 03:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 04:22:48 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[2026-11-20] 光刻机概念回调联合化学20跌停</title>
@@ -57,6 +57,14 @@
       <description><![CDATA[<div><p><b>佳能医疗职业体验课堂走进云南永善山区为孩子们播下梦想的种子</b>　<span>2026-11-20</span></p><p>佳能医疗职业体验课堂走进云南永善山区，为孩子们播下梦想的种子 中华网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://mtz.china.com/touzi/2026/1120/267746.html</p></div>]]></description>
     </item>
     <item>
+      <title>[2026-11-19] 佳能eosr8markii最值得入手的全画幅入门相机</title>
+      <link>http://beareyes.com.cn/cgi-bin/bear_waq.cgi?20261119004</link>
+      <guid isPermaLink="false">http://beareyes.com.cn/cgi-bin/bear_waq.cgi?20261119004#n_fe7d4f5c6d04</guid>
+      <pubDate>Thu, 19 Nov 2026 17:32:46 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>佳能eosr8markii最值得入手的全画幅入门相机</b>　<span>2026-11-19</span></p><p>佳能EOS R8 Mark II 最值得入手的全画幅入门相机 小熊在线</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>http://beareyes.com.cn/cgi-bin/bear_waq.cgi?20261119004</p></div>]]></description>
+    </item>
+    <item>
       <title>[2026-11-19] 17亿支镜头背后看佳能的影像世界梦想如何落进现实</title>
       <link>https://m.tech.china.com/redian/2026/1119/112026_1981292.html</link>
       <guid isPermaLink="false">https://m.tech.china.com/redian/2026/1119/112026_1981292.html#n_46d5dd101570</guid>
@@ -103,14 +111,6 @@
       <pubDate>Wed, 18 Nov 2026 20:24:35 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>顺丰快递员寄错相机从贵州坐动车到杭州为找回五千多元相机称否则要从工资上扣收件人电话不接门也不开公司暖心回应不会让小哥个人承担</b>　<span>2026-11-18</span></p><p>顺丰快递员寄错相机，从贵州坐动车到杭州为找回五千多元相机，称否则要从工资上扣，收件人电话不接门也不开，公司暖心回应不会让小哥个人承担 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1103319641_122045489?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-18] 佳能eosr8markii最值得入手的全画幅入门相机</title>
-      <link>https://tech.ifeng.com/c/8y9oSDH92wX</link>
-      <guid isPermaLink="false">https://tech.ifeng.com/c/8y9oSDH92wX#n_fe7d4f5c6d04</guid>
-      <pubDate>Wed, 18 Nov 2026 18:02:12 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>佳能eosr8markii最值得入手的全画幅入门相机</b>　<span>2026-11-18</span></p><p>佳能EOS R8 Mark II 最值得入手的全画幅入门相机 凤凰网科技</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://tech.ifeng.com/c/8y9oSDH92wX</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-18] 2026年万元内全画幅怎么选佳能r8markii兼顾高感防抖与高速连拍</title>
