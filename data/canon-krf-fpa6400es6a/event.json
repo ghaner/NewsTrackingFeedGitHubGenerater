@@ -119,6 +119,13 @@
       "conflict_nodes": 1,
       "article_count": 48,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-23T09:17:39.918597+08:00",
+      "node_count": 46,
+      "conflict_nodes": 1,
+      "article_count": 49,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1231,13 +1238,28 @@
         "https://tech.china.com/lieqi/20261122/11221982509.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_d4aeb055e4c6",
+      "event_label": "优酷食神·百厨大战选用佳能cinemaeos系列摄制记录百厨同台竞技httpswwwyuanxian1com",
+      "timestamp_local": "2026-11-22T22:12:00+08:00",
+      "timestamp_utc": "2026-11-22T14:12:00+00:00",
+      "timestamp_sort": 1795356720.0,
+      "summary": "优酷《食神·百厨大战》选用佳能CINEMA EOS系列摄制，记录百厨同台竞技 https://www.yuanxian1.com/",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.yuanxian1.com/plus/view.php?aid\\\\u003d19449"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-22T20:58:15.672072+08:00",
+  "updated_at": "2026-11-23T09:17:39.918597+08:00",
   "last_stats": {
-    "node_count": 45,
+    "node_count": 46,
     "conflict_nodes": 1,
-    "article_count": 48
+    "article_count": 49
   },
-  "articles_fingerprint": "d2efdc84ebe85386"
+  "articles_fingerprint": "b7c4391ab7aa79e3"
 }
