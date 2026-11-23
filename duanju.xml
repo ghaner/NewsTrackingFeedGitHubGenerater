@@ -6,8 +6,24 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/duanju.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「海外短剧付费应用前十榜单里，中国厂商拿下 9 席」这一事件的全部进展：榜单份额、平台合并、三季报盈利、监管与补贴、二级市场反应。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 22:21:25 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-23] macygray计划通过reelshort微短剧推出下一张专辑</title>
+      <link>https://mezha.net/ch/news/mezha-e84e11e5e6b5f500150654c5_macy-gray-plans-to-release-next/</link>
+      <guid isPermaLink="false">https://mezha.net/ch/news/mezha-e84e11e5e6b5f500150654c5_macy-gray-plans-to-release-next/#n_d5fb95bb5ced</guid>
+      <pubDate>Mon, 23 Nov 2026 23:05:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>macygray计划通过reelshort微短剧推出下一张专辑</b>　<span>2026-11-23</span></p><p>Macy Gray计划通过ReelShort微短剧推出下一张专辑 Mezha.net</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://mezha.net/ch/news/mezha-e84e11e5e6b5f500150654c5_macy-gray-plans-to-release-next/</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-23] 重庆80后卖ai短剧9个月狂入14亿</title>
+      <link>https://www.c114.net.cn/industry/150638.html</link>
+      <guid isPermaLink="false">https://www.c114.net.cn/industry/150638.html#n_035a534ba298</guid>
+      <pubDate>Mon, 23 Nov 2026 22:01:57 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>重庆80后卖ai短剧9个月狂入14亿</b>　<span>2026-11-23</span></p><p>重庆80后卖AI短剧：9个月狂入14亿 光通信Pro</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.c114.net.cn/industry/150638.html</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-23] 拿下热榜第一这群同学跑通ai短剧出海最后一公里</title>
       <link>https://ent.scol.com.cn/wh/202611/83361707.html</link>
@@ -311,22 +327,6 @@
       <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>传播扩散：腾讯新闻转载，AI降本85%成新叙事</b>　<span>2026-11-08</span></p><p>腾讯新闻11月8日转载并补充AI叙事：百强榜82席、下载与收入榜前三全为中国应用、付费榜前十占九席；AI使制作周期压缩至数天、成本降85%以上，部分平台AI短剧付费转化率接近真人短剧。</p><p><b>关键数据：</b>百强榜中国厂商主投：82部；AI降本幅度：85%以上；PineDrama日活：约700万</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.qq.com/rain/a/20261108A08XBV00</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-07] 数据披露：10月百强榜82席，收入前三占前20一半</title>
-      <link>https://www.mrjjxw.com/articles/2026-11-07/4641349.html</link>
-      <guid isPermaLink="false">https://www.mrjjxw.com/articles/2026-11-07/4641349.html#n_2624f739c215</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>数据披露：10月百强榜82席，收入前三占前20一半</b>　<span>2026-11-07</span></p><p>每经11月7日披露：10月百强榜82部为中国厂商主投（NetShort 63席、DramaBox 9席）；1—9月下载榜FreeReels 2.3亿、ReelShort 1.9亿、NetShort 1.8亿；收入前三合计占前20的50%；上半年下载16.67亿次(+25.34%)、IAP 10.43亿美元(-0.86%)，美国占收入36.42%。</p><p><b>关键数据：</b>百强榜中国厂商主投：82部；NetShort席位数：63席；DramaBox席位数：9席；1-9月下载榜首：FreeReels超2.3亿次；1-9月收入前三：DramaBox 3.02亿／ReelShort 2.65亿／NetShort 2.05亿美元；收入前20集中度：前三合计占50%；2026H1下载量：16.67亿次(+25.34%)；2026H1 IAP净收入：10.43亿美元(-0.86%)；美国收入份额：36.42%(约3.78亿美元)</p><p>置信度 0.9 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.mrjjxw.com/articles/2026-11-07/4641349.html</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-05] 语言符号：duanju被维基百科收录</title>
-      <link>https://www.ce.cn/xwzx//gnsz/gdxw/202611/t20261105_3284861.shtml</link>
-      <guid isPermaLink="false">https://www.ce.cn/xwzx//gnsz/gdxw/202611/t20261105_3284861.shtml#n_45638cb1646c</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>语言符号：duanju被维基百科收录</b>　<span>2026-11-05</span></p><p>11月5日中新网报道：duanju被维基百科收录、词条浏览量急增，成为与kung fu、tofu并列的汉语借词；2025年全球微短剧市场近180亿美元，中国占约77.78%，海外市场中国企业贡献约90%。</p><p><b>关键数据：</b>收录平台：维基百科；2025全球微短剧市场规模：近180亿美元；中国企业海外份额：约90%</p><p>置信度 0.9 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.ce.cn/xwzx//gnsz/gdxw/202611/t20261105_3284861.shtml</p></div>]]></description>
     </item>
   </channel>
 </rss>

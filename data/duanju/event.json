@@ -175,6 +175,13 @@
       "conflict_nodes": 1,
       "article_count": 44,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-24T06:21:24.984546+08:00",
+      "node_count": 45,
+      "conflict_nodes": 1,
+      "article_count": 46,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1478,13 +1485,43 @@
         "https://ent.scol.com.cn/wh/202611/83361707.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_035a534ba298",
+      "event_label": "重庆80后卖ai短剧9个月狂入14亿",
+      "timestamp_local": "2026-11-23T22:01:57+08:00",
+      "timestamp_utc": "2026-11-23T14:01:57+00:00",
+      "timestamp_sort": 1795442517.0,
+      "summary": "重庆80后卖AI短剧：9个月狂入14亿 光通信Pro",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.c114.net.cn/industry/150638.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_d5fb95bb5ced",
+      "event_label": "macygray计划通过reelshort微短剧推出下一张专辑",
+      "timestamp_local": "2026-11-23T23:05:00+08:00",
+      "timestamp_utc": "2026-11-23T15:05:00+00:00",
+      "timestamp_sort": 1795446300.0,
+      "summary": "Macy Gray计划通过ReelShort微短剧推出下一张专辑 Mezha.net",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://mezha.net/ch/news/mezha-e84e11e5e6b5f500150654c5_macy-gray-plans-to-release-next/"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-23T18:04:04.042867+08:00",
+  "updated_at": "2026-11-24T06:21:24.984546+08:00",
   "last_stats": {
-    "node_count": 43,
+    "node_count": 45,
     "conflict_nodes": 1,
-    "article_count": 44
+    "article_count": 46
   },
-  "articles_fingerprint": "5aca873a58e59fa6"
+  "articles_fingerprint": "6cc925718ea0b7f7"
 }
