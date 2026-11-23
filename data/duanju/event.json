@@ -168,6 +168,13 @@
       "conflict_nodes": 1,
       "article_count": 43,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-23T18:04:04.042867+08:00",
+      "node_count": 43,
+      "conflict_nodes": 1,
+      "article_count": 44,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1430,15 +1437,15 @@
     {
       "node_id": "n_a55655905320",
       "event_label": "杨姗蜀风入海ai打开天府短剧出海新路径",
-      "timestamp_local": "2026-11-21T18:57:24+08:00",
-      "timestamp_utc": "2026-11-21T10:57:24+00:00",
-      "timestamp_sort": 1795258644.0,
-      "summary": "杨姗：蜀风入海 AI打开天府短剧出海新路径 四川在线",
+      "timestamp_local": "2026-11-21T18:57:00+08:00",
+      "timestamp_utc": "2026-11-21T10:57:00+00:00",
+      "timestamp_sort": 1795258620.0,
+      "summary": "杨姗：蜀风入海 AI打开天府短剧出海新路径 川观新闻",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://ent.scol.com.cn/wh/202611/83361013.html"
+        "https://cbgc.scol.com.cn/news/8162330"
       ],
       "article_count": 1
     },
@@ -1456,13 +1463,28 @@
         "https://m.sohu.com/a/1104919537_122094388?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_a6e7c060487d",
+      "event_label": "拿下热榜第一这群同学跑通ai短剧出海最后一公里",
+      "timestamp_local": "2026-11-23T16:08:35+08:00",
+      "timestamp_utc": "2026-11-23T08:08:35+00:00",
+      "timestamp_sort": 1795421315.0,
+      "summary": "拿下热榜第一，这群同学“跑通”AI短剧出海“最后一公里” 四川在线",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://ent.scol.com.cn/wh/202611/83361707.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-22T20:58:15.736823+08:00",
+  "updated_at": "2026-11-23T18:04:04.042867+08:00",
   "last_stats": {
-    "node_count": 42,
+    "node_count": 43,
     "conflict_nodes": 1,
-    "article_count": 43
+    "article_count": 44
   },
-  "articles_fingerprint": "a6e1d071b141fc18"
+  "articles_fingerprint": "5aca873a58e59fa6"
 }

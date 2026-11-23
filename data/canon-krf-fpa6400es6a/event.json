@@ -126,6 +126,13 @@
       "conflict_nodes": 1,
       "article_count": 49,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-23T18:04:03.994342+08:00",
+      "node_count": 51,
+      "conflict_nodes": 1,
+      "article_count": 54,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1165,21 +1172,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_dd273cbd8066",
-      "event_label": "优酷食神·百厨大战选用佳能cinemaeos系列摄制记录百厨同台竞技",
-      "timestamp_local": "2026-11-20T16:37:21+08:00",
-      "timestamp_utc": "2026-11-20T08:37:21+00:00",
-      "timestamp_sort": 1795163841.0,
-      "summary": "优酷《食神·百厨大战》选用佳能CINEMA EOS系列摄制，记录百厨同台竞技 中华网",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://tech.china.com/articles/20261120/202611201982020.html"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_927d29f38731",
       "event_label": "光刻机概念下跌779主力资金净流出45股",
       "timestamp_local": "2026-11-20T17:41:11+08:00",
@@ -1253,13 +1245,103 @@
         "https://www.yuanxian1.com/plus/view.php?aid\\\\u003d19449"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_dd273cbd8066",
+      "event_label": "优酷食神·百厨大战选用佳能cinemaeos系列摄制记录百厨同台竞技",
+      "timestamp_local": "2026-11-23T10:56:00+08:00",
+      "timestamp_utc": "2026-11-23T02:56:00+00:00",
+      "timestamp_sort": 1795402560.0,
+      "summary": "优酷《食神·百厨大战》选用佳能CINEMA EOS系列摄制，记录百厨同台竞技 传媒头条",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.cm3721.com/toutiao/34310.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_d456efdef91e",
+      "event_label": "佳能70d和尼康d7100哪个好两款单反对比评测",
+      "timestamp_local": "2026-11-23T12:08:24+08:00",
+      "timestamp_utc": "2026-11-23T04:08:24+00:00",
+      "timestamp_sort": 1795406904.0,
+      "summary": "佳能 70D 和尼康 D7100 哪个好？两款单反对比评测 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/lieqi/20261123/11231982904.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_78febc0c6cdd",
+      "event_label": "佳能ixus100is价格多少佳能ixus100is评测介绍",
+      "timestamp_local": "2026-11-23T12:23:20+08:00",
+      "timestamp_utc": "2026-11-23T04:23:20+00:00",
+      "timestamp_sort": 1795407800.0,
+      "summary": "佳能 IXUS100IS 价格多少？佳能 IXUS100IS 评测介绍 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.tech.china.com/lieqi/20261123/11231982965.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_10294b0d9dbb",
+      "event_label": "佳能s3is评测怎么样佳能s3is相机价格走势介绍",
+      "timestamp_local": "2026-11-23T14:52:09+08:00",
+      "timestamp_utc": "2026-11-23T06:52:09+00:00",
+      "timestamp_sort": 1795416729.0,
+      "summary": "佳能 S3 IS 评测怎么样？佳能 S3 IS 相机价格走势介绍 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/lieqi/20261123/11231983170.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_62cf975c78e6",
+      "event_label": "佳能ixus100is价格多少佳能ixus100is相机评测",
+      "timestamp_local": "2026-11-23T14:52:36+08:00",
+      "timestamp_utc": "2026-11-23T06:52:36+00:00",
+      "timestamp_sort": 1795416756.0,
+      "summary": "佳能 IXUS100IS 价格多少？佳能 IXUS100IS 相机评测 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/shijiao/20261123/11231983074.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_8551b2e8abb7",
+      "event_label": "品牌直播秀场化趋势下佳能联合洛氪迅给出了全场景直播解决方案",
+      "timestamp_local": "2026-11-23T17:01:34+08:00",
+      "timestamp_utc": "2026-11-23T09:01:34+00:00",
+      "timestamp_sort": 1795424494.0,
+      "summary": "品牌直播秀场化趋势下，佳能联合洛氪迅给出了全场景直播解决方案 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1105304545_121260908?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-23T09:17:39.918597+08:00",
+  "updated_at": "2026-11-23T18:04:03.994342+08:00",
   "last_stats": {
-    "node_count": 46,
+    "node_count": 51,
     "conflict_nodes": 1,
-    "article_count": 49
+    "article_count": 54
   },
-  "articles_fingerprint": "b7c4391ab7aa79e3"
+  "articles_fingerprint": "ec933538f54f51b3"
 }

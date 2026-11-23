@@ -6,8 +6,16 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/duanju.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「海外短剧付费应用前十榜单里，中国厂商拿下 9 席」这一事件的全部进展：榜单份额、平台合并、三季报盈利、监管与补贴、二级市场反应。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:04:04 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-23] 拿下热榜第一这群同学跑通ai短剧出海最后一公里</title>
+      <link>https://ent.scol.com.cn/wh/202611/83361707.html</link>
+      <guid isPermaLink="false">https://ent.scol.com.cn/wh/202611/83361707.html#n_a6e7c060487d</guid>
+      <pubDate>Mon, 23 Nov 2026 16:08:35 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>拿下热榜第一这群同学跑通ai短剧出海最后一公里</b>　<span>2026-11-23</span></p><p>拿下热榜第一，这群同学“跑通”AI短剧出海“最后一公里” 四川在线</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://ent.scol.com.cn/wh/202611/83361707.html</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-22] 短剧出海中国拿走93收入老外爱看为何不自己拍</title>
       <link>https://m.sohu.com/a/1104919537_122094388?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
@@ -18,11 +26,11 @@
     </item>
     <item>
       <title>[2026-11-21] 杨姗蜀风入海ai打开天府短剧出海新路径</title>
-      <link>https://ent.scol.com.cn/wh/202611/83361013.html</link>
-      <guid isPermaLink="false">https://ent.scol.com.cn/wh/202611/83361013.html#n_a55655905320</guid>
-      <pubDate>Sat, 21 Nov 2026 18:57:24 +0800</pubDate>
+      <link>https://cbgc.scol.com.cn/news/8162330</link>
+      <guid isPermaLink="false">https://cbgc.scol.com.cn/news/8162330#n_a55655905320</guid>
+      <pubDate>Sat, 21 Nov 2026 18:57:00 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>杨姗蜀风入海ai打开天府短剧出海新路径</b>　<span>2026-11-21</span></p><p>杨姗：蜀风入海 AI打开天府短剧出海新路径 四川在线</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://ent.scol.com.cn/wh/202611/83361013.html</p></div>]]></description>
+      <description><![CDATA[<div><p><b>杨姗蜀风入海ai打开天府短剧出海新路径</b>　<span>2026-11-21</span></p><p>杨姗：蜀风入海 AI打开天府短剧出海新路径 川观新闻</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://cbgc.scol.com.cn/news/8162330</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-19] moloco发布合作案例解读短剧出海新增长逻辑</title>
@@ -319,14 +327,6 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>语言符号：duanju被维基百科收录</b>　<span>2026-11-05</span></p><p>11月5日中新网报道：duanju被维基百科收录、词条浏览量急增，成为与kung fu、tofu并列的汉语借词；2025年全球微短剧市场近180亿美元，中国占约77.78%，海外市场中国企业贡献约90%。</p><p><b>关键数据：</b>收录平台：维基百科；2025全球微短剧市场规模：近180亿美元；中国企业海外份额：约90%</p><p>置信度 0.9 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.ce.cn/xwzx//gnsz/gdxw/202611/t20261105_3284861.shtml</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-04] 核心进展：新快报梳理付费榜前十中国占九席</title>
-      <link>https://ep.ycwb.com/epaper/xkb/html/2026-11/04/content_1510_771093.htm</link>
-      <guid isPermaLink="false">https://ep.ycwb.com/epaper/xkb/html/2026-11/04/content_1510_771093.htm#n_c26c44ec33bd</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>核心进展：新快报梳理付费榜前十中国占九席</b>　<span>2026-11-04</span></p><p>11月4日新快报梳理：海外短剧付费应用前十中国厂商占九席，约10家中国企业建海外平台，AI漫剧活跃用户超1.5亿；同篇并置三季报「增收不增利」、9月1日备案新规、深圳300万补贴与11月3日概念股涨停。</p><p><b>关键数据：</b>付费榜前十中国席位：9席；中国企业海外短剧平台数：约10家；海外AI漫剧活跃用户：超1.5亿；字节PineDrama累计下载：破1亿次；涨停个股：大晟文化、文投控股、浙文影业(11-03)</p><p>置信度 0.9 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://ep.ycwb.com/epaper/xkb/html/2026-11/04/content_1510_771093.htm</p></div>]]></description>
     </item>
   </channel>
 </rss>
