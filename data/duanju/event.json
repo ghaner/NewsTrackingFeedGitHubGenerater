@@ -182,6 +182,13 @@
       "conflict_nodes": 1,
       "article_count": 46,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-24T14:38:14.709765+08:00",
+      "node_count": 49,
+      "conflict_nodes": 1,
+      "article_count": 50,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1472,6 +1479,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_035a534ba298",
+      "event_label": "重庆80后卖ai短剧9个月狂入14亿",
+      "timestamp_local": "2026-11-23T05:07:00+08:00",
+      "timestamp_utc": "2026-11-22T21:07:00+00:00",
+      "timestamp_sort": 1795381620.0,
+      "summary": "重庆80后卖AI短剧：9个月狂入14亿 36Kr",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.36kr.com/p/4082264265266308"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_a6e7c060487d",
       "event_label": "拿下热榜第一这群同学跑通ai短剧出海最后一公里",
       "timestamp_local": "2026-11-23T16:08:35+08:00",
@@ -1487,21 +1509,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_035a534ba298",
-      "event_label": "重庆80后卖ai短剧9个月狂入14亿",
-      "timestamp_local": "2026-11-23T22:01:57+08:00",
-      "timestamp_utc": "2026-11-23T14:01:57+00:00",
-      "timestamp_sort": 1795442517.0,
-      "summary": "重庆80后卖AI短剧：9个月狂入14亿 光通信Pro",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://www.c114.net.cn/industry/150638.html"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_d5fb95bb5ced",
       "event_label": "macygray计划通过reelshort微短剧推出下一张专辑",
       "timestamp_local": "2026-11-23T23:05:00+08:00",
@@ -1512,16 +1519,76 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://mezha.net/ch/news/mezha-e84e11e5e6b5f500150654c5_macy-gray-plans-to-release-next/"
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjJzS1BHWEJ5S3JPMHlNZEQzUWkxWHdSTW55OHRaSkI0TzRkclFRUFRwd2c0RTk1akdnTk5tSFl6ekVBOXpBclY4NWtiZDYtMVJCWHpRR0RqTEZaX19VMGZONmstay1scXFsMkljVjZBMFA2ek5WQWNHMmJKaWlyenJJZW1JWUhJLTRDUjFKYUVKQU0?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_950dd9dac335",
+      "event_label": "下载→2026海外短剧行业报告半年度",
+      "timestamp_local": "2026-11-24T10:27:00+08:00",
+      "timestamp_utc": "2026-11-24T02:27:00+00:00",
+      "timestamp_sort": 1795487220.0,
+      "summary": "下载→《2026海外短剧行业报告（半年度）》 今日流媒体",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://lmtw.com/mzw/content/detail/id/260384/keyword_id/-1"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_9fda7aa73ab5",
+      "event_label": "海外短剧演员开始卖脸有人主动授权ai有人却被ai抢走工作",
+      "timestamp_local": "2026-11-24T10:52:00+08:00",
+      "timestamp_utc": "2026-11-24T02:52:00+00:00",
+      "timestamp_sort": 1795488720.0,
+      "summary": "海外短剧演员开始“卖脸”：有人主动授权AI，有人却被AI抢走工作 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1105602567_116132?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_943a3dc33529",
+      "event_label": "在越南许多人工智能短片应用正在消失",
+      "timestamp_local": "2026-11-24T10:58:03+08:00",
+      "timestamp_utc": "2026-11-24T02:58:03+00:00",
+      "timestamp_sort": 1795489083.0,
+      "summary": "在越南，许多人工智能短片应用正在消失。 Vietnam.vn",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.vietnam.vn/zh-cn/nhieu-ung-dung-phim-ngan-ai-bien-mat-o-viet-nam"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_b850a6b10e91",
+      "event_label": "短剧出海下半场平台如何重估每一位用户的价值",
+      "timestamp_local": "2026-11-24T11:31:48+08:00",
+      "timestamp_utc": "2026-11-24T03:31:48+00:00",
+      "timestamp_sort": 1795491108.0,
+      "summary": "短剧出海下半场，平台如何重估每一位用户的价值 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1105621081_104421?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-24T06:21:24.984546+08:00",
+  "updated_at": "2026-11-24T14:38:14.709765+08:00",
   "last_stats": {
-    "node_count": 45,
+    "node_count": 49,
     "conflict_nodes": 1,
-    "article_count": 46
+    "article_count": 50
   },
-  "articles_fingerprint": "6cc925718ea0b7f7"
+  "articles_fingerprint": "a1d4290fa9411891"
 }

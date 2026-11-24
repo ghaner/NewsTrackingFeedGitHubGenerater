@@ -133,6 +133,13 @@
       "conflict_nodes": 1,
       "article_count": 54,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-24T14:38:14.648856+08:00",
+      "node_count": 54,
+      "conflict_nodes": 1,
+      "article_count": 57,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1335,13 +1342,58 @@
         "https://m.sohu.com/a/1105304545_121260908?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_a2809616ad13",
+      "event_label": "国际医疗福祉大学引进佳能mr系统mreal以cg器官叠加模拟器开展护理教学",
+      "timestamp_local": "2026-11-24T00:46:00+08:00",
+      "timestamp_utc": "2026-11-23T16:46:00+00:00",
+      "timestamp_sort": 1795452360.0,
+      "summary": "国际医疗福祉大学引进佳能MR系统MREAL 以CG器官叠加模拟器开展护理教学 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1105429135_447547?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_6c7a79f742a7",
+      "event_label": "时隔24年佳能再次推出arf干式半导体光刻机新产品",
+      "timestamp_local": "2026-11-24T12:21:00+08:00",
+      "timestamp_utc": "2026-11-24T04:21:00+00:00",
+      "timestamp_sort": 1795494060.0,
+      "summary": "时隔24年 佳能再次推出ArF干式半导体光刻机新产品 驱动之家",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.mydrivers.com/1/1168/1168131.htm"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_01933422bd18",
+      "event_label": "佳能推出新款arf干式半导体光刻机12月上旬接单",
+      "timestamp_local": "2026-11-24T12:35:38+08:00",
+      "timestamp_utc": "2026-11-24T04:35:38+00:00",
+      "timestamp_sort": 1795494938.0,
+      "summary": "佳能推出新款ArF干式半导体光刻机 12月上旬接单 www.itsdw.cn",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.itsdw.cn/news/51910.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-23T18:04:03.994342+08:00",
+  "updated_at": "2026-11-24T14:38:14.648856+08:00",
   "last_stats": {
-    "node_count": 51,
+    "node_count": 54,
     "conflict_nodes": 1,
-    "article_count": 54
+    "article_count": 57
   },
-  "articles_fingerprint": "ec933538f54f51b3"
+  "articles_fingerprint": "b9cff87cb000aee4"
 }

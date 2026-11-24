@@ -6,23 +6,47 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/duanju.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「海外短剧付费应用前十榜单里，中国厂商拿下 9 席」这一事件的全部进展：榜单份额、平台合并、三季报盈利、监管与补贴、二级市场反应。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 22:21:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:38:15 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>[2026-11-23] macygray计划通过reelshort微短剧推出下一张专辑</title>
-      <link>https://mezha.net/ch/news/mezha-e84e11e5e6b5f500150654c5_macy-gray-plans-to-release-next/</link>
-      <guid isPermaLink="false">https://mezha.net/ch/news/mezha-e84e11e5e6b5f500150654c5_macy-gray-plans-to-release-next/#n_d5fb95bb5ced</guid>
-      <pubDate>Mon, 23 Nov 2026 23:05:00 +0800</pubDate>
+      <title>[2026-11-24] 短剧出海下半场平台如何重估每一位用户的价值</title>
+      <link>https://m.sohu.com/a/1105621081_104421?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
+      <guid isPermaLink="false">https://m.sohu.com/a/1105621081_104421?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_b850a6b10e91</guid>
+      <pubDate>Tue, 24 Nov 2026 11:31:48 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>macygray计划通过reelshort微短剧推出下一张专辑</b>　<span>2026-11-23</span></p><p>Macy Gray计划通过ReelShort微短剧推出下一张专辑 Mezha.net</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://mezha.net/ch/news/mezha-e84e11e5e6b5f500150654c5_macy-gray-plans-to-release-next/</p></div>]]></description>
+      <description><![CDATA[<div><p><b>短剧出海下半场平台如何重估每一位用户的价值</b>　<span>2026-11-24</span></p><p>短剧出海下半场，平台如何重估每一位用户的价值 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1105621081_104421?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
     </item>
     <item>
-      <title>[2026-11-23] 重庆80后卖ai短剧9个月狂入14亿</title>
-      <link>https://www.c114.net.cn/industry/150638.html</link>
-      <guid isPermaLink="false">https://www.c114.net.cn/industry/150638.html#n_035a534ba298</guid>
-      <pubDate>Mon, 23 Nov 2026 22:01:57 +0800</pubDate>
+      <title>[2026-11-24] 在越南许多人工智能短片应用正在消失</title>
+      <link>https://www.vietnam.vn/zh-cn/nhieu-ung-dung-phim-ngan-ai-bien-mat-o-viet-nam</link>
+      <guid isPermaLink="false">https://www.vietnam.vn/zh-cn/nhieu-ung-dung-phim-ngan-ai-bien-mat-o-viet-nam#n_943a3dc33529</guid>
+      <pubDate>Tue, 24 Nov 2026 10:58:03 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>重庆80后卖ai短剧9个月狂入14亿</b>　<span>2026-11-23</span></p><p>重庆80后卖AI短剧：9个月狂入14亿 光通信Pro</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.c114.net.cn/industry/150638.html</p></div>]]></description>
+      <description><![CDATA[<div><p><b>在越南许多人工智能短片应用正在消失</b>　<span>2026-11-24</span></p><p>在越南，许多人工智能短片应用正在消失。 Vietnam.vn</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.vietnam.vn/zh-cn/nhieu-ung-dung-phim-ngan-ai-bien-mat-o-viet-nam</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-24] 海外短剧演员开始卖脸有人主动授权ai有人却被ai抢走工作</title>
+      <link>https://m.sohu.com/a/1105602567_116132?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
+      <guid isPermaLink="false">https://m.sohu.com/a/1105602567_116132?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_9fda7aa73ab5</guid>
+      <pubDate>Tue, 24 Nov 2026 10:52:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>海外短剧演员开始卖脸有人主动授权ai有人却被ai抢走工作</b>　<span>2026-11-24</span></p><p>海外短剧演员开始“卖脸”：有人主动授权AI，有人却被AI抢走工作 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1105602567_116132?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-24] 下载→2026海外短剧行业报告半年度</title>
+      <link>https://lmtw.com/mzw/content/detail/id/260384/keyword_id/-1</link>
+      <guid isPermaLink="false">https://lmtw.com/mzw/content/detail/id/260384/keyword_id/-1#n_950dd9dac335</guid>
+      <pubDate>Tue, 24 Nov 2026 10:27:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>下载→2026海外短剧行业报告半年度</b>　<span>2026-11-24</span></p><p>下载→《2026海外短剧行业报告（半年度）》 今日流媒体</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://lmtw.com/mzw/content/detail/id/260384/keyword_id/-1</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-23] macygray计划通过reelshort微短剧推出下一张专辑</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjJzS1BHWEJ5S3JPMHlNZEQzUWkxWHdSTW55OHRaSkI0TzRkclFRUFRwd2c0RTk1akdnTk5tSFl6ekVBOXpBclY4NWtiZDYtMVJCWHpRR0RqTEZaX19VMGZONmstay1scXFsMkljVjZBMFA2ek5WQWNHMmJKaWlyenJJZW1JWUhJLTRDUjFKYUVKQU0?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjJzS1BHWEJ5S3JPMHlNZEQzUWkxWHdSTW55OHRaSkI0TzRkclFRUFRwd2c0RTk1akdnTk5tSFl6ekVBOXpBclY4NWtiZDYtMVJCWHpRR0RqTEZaX19VMGZONmstay1scXFsMkljVjZBMFA2ek5WQWNHMmJKaWlyenJJZW1JWUhJLTRDUjFKYUVKQU0?oc=5#n_d5fb95bb5ced</guid>
+      <pubDate>Mon, 23 Nov 2026 23:05:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>macygray计划通过reelshort微短剧推出下一张专辑</b>　<span>2026-11-23</span></p><p>Macy Gray计划通过ReelShort微短剧推出下一张专辑 Mezha.net</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjJzS1BHWEJ5S3JPMHlNZEQzUWkxWHdSTW55OHRaSkI0TzRkclFRUFRwd2c0RTk1akdnTk5tSFl6ekVBOXpBclY4NWtiZDYtMVJCWHpRR0RqTEZaX19VMGZONmstay1scXFsMkljVjZBMFA2ek5WQWNHMmJKaWlyenJJZW1JWUhJLTRDUjFKYUVKQU0?oc=5</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-23] 拿下热榜第一这群同学跑通ai短剧出海最后一公里</title>
@@ -31,6 +55,14 @@
       <pubDate>Mon, 23 Nov 2026 16:08:35 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>拿下热榜第一这群同学跑通ai短剧出海最后一公里</b>　<span>2026-11-23</span></p><p>拿下热榜第一，这群同学“跑通”AI短剧出海“最后一公里” 四川在线</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://ent.scol.com.cn/wh/202611/83361707.html</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-23] 重庆80后卖ai短剧9个月狂入14亿</title>
+      <link>https://www.36kr.com/p/4082264265266308</link>
+      <guid isPermaLink="false">https://www.36kr.com/p/4082264265266308#n_035a534ba298</guid>
+      <pubDate>Mon, 23 Nov 2026 05:07:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>重庆80后卖ai短剧9个月狂入14亿</b>　<span>2026-11-23</span></p><p>重庆80后卖AI短剧：9个月狂入14亿 36Kr</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.36kr.com/p/4082264265266308</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-22] 短剧出海中国拿走93收入老外爱看为何不自己拍</title>
@@ -295,38 +327,6 @@
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>政策加码：深圳启动第二批扶持计划申报</b>　<span>2026-11-11</span></p><p>11月11日深圳启动2026年第二批微短剧产业发展扶持计划申报，依据深文规〔2026〕1号，要求经营数据与纳统报表匹配、无严重失信与重复申报。</p><p><b>关键数据：</b>发布单位：深圳市文化广电旅游体育局；日期：2026-11-11；批次：2026年第二批；依据：深文规〔2026〕1号</p><p>置信度 0.9 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.qq.com/rain/a/20261111A06TVQ00</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-10] 格局补充：前五占近八成收入，AI短剧App进TOP15</title>
-      <link>https://baike.baidu.com/item/%E5%87%BA%E6%B5%B7%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A/69307186</link>
-      <guid isPermaLink="false">https://baike.baidu.com/item/%E5%87%BA%E6%B5%B7%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A/69307186#n_6103263d2f5c</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>格局补充：前五占近八成收入，AI短剧App进TOP15</b>　<span>2026-11-10</span></p><p>百科词条汇编：1—9月下载榜前十全部中国背景、收入榜前十占九席；ReelShort与DramaBox合计占收入一半、前五占近八成；AI短剧App VibeShort（3600万美元，第9）、StoryReel（2800万美元，第13）半年进第一梯队。</p><p><b>关键数据：</b>下载榜前十中国背景：10/10；收入榜前十中国背景：9/10；前五收入集中度：近80%；AI短剧新平台：VibeShort第9／StoryReel第13</p><p>置信度 0.3 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://baike.baidu.com/item/%E5%87%BA%E6%B5%B7%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A/69307186</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-09] 跨境传播：中央社向繁体受众复述九席</title>
-      <link>https://news.cts.com.tw/cna/international/202611/202611093098936.html</link>
-      <guid isPermaLink="false">https://news.cts.com.tw/cna/international/202611/202611093098936.html#n_2b04dbf08c65</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>跨境传播：中央社向繁体受众复述九席</b>　<span>2026-11-09</span></p><p>中央社11月9日综合每经网与香港明报报道，向繁体中文受众复述百强榜82席、付费App前十占九席、AI漫剧活跃用户1.5亿；并引官方数据称前8个月上线微短剧43万部、为去年全年13倍、AI剧占比超9成。</p><p><b>关键数据：</b>传播链：每经网／明报→中央社；前8个月上线微短剧：43万部(去年全年13倍)；AI剧占比：超9成；中国微短剧用户：超8亿</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.cts.com.tw/cna/international/202611/202611093098936.html</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-09] 评论定调：赢下分发入口，未赢下利润表</title>
-      <link>https://www.dianyingjie.com.cn/2026/1109/411971.shtml</link>
-      <guid isPermaLink="false">https://www.dianyingjie.com.cn/2026/1109/411971.shtml#n_167b0df78672</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>评论定调：赢下分发入口，未赢下利润表</b>　<span>2026-11-09</span></p><p>评论指出九席霸榜与四份亏损表并不矛盾：已赢下分发入口、未赢下利润表；境内制作的出海剧同样要备案，合规须进预算；后续盯获客成本、分账周期与离补贴回本能力。</p><p><b>关键数据：</b>核心判断：赢下分发入口，未赢下利润表；观察指标：获客成本／分账周期／离补贴回本；境内制作出海：同样适用备案公示与审核许可</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.dianyingjie.com.cn/2026/1109/411971.shtml</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-08] 传播扩散：腾讯新闻转载，AI降本85%成新叙事</title>
-      <link>https://news.qq.com/rain/a/20261108A08XBV00</link>
-      <guid isPermaLink="false">https://news.qq.com/rain/a/20261108A08XBV00#n_e22e5f4763d8</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>传播扩散：腾讯新闻转载，AI降本85%成新叙事</b>　<span>2026-11-08</span></p><p>腾讯新闻11月8日转载并补充AI叙事：百强榜82席、下载与收入榜前三全为中国应用、付费榜前十占九席；AI使制作周期压缩至数天、成本降85%以上，部分平台AI短剧付费转化率接近真人短剧。</p><p><b>关键数据：</b>百强榜中国厂商主投：82部；AI降本幅度：85%以上；PineDrama日活：约700万</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.qq.com/rain/a/20261108A08XBV00</p></div>]]></description>
     </item>
   </channel>
 </rss>
