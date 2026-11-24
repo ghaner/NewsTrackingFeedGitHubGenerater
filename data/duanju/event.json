@@ -189,6 +189,13 @@
       "conflict_nodes": 1,
       "article_count": 50,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-25T02:31:22.476297+08:00",
+      "node_count": 54,
+      "conflict_nodes": 1,
+      "article_count": 55,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1474,7 +1481,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1104919537_122094388?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUzJoM2J1NFRmNlB6ZHVxZ1BFckNfQnZlTHpnR3dnZC00RkVUSl9vbDJOWTd0cWpxbFhLajNsek5SRURVY25JS2Z0Wi14eHVVYXRPek10ejFhd0QzemhCa2VBQ1RKQWFOc2YtdktkRTEzbzNydzNkQ04xVUFweUd5RzMzVzM0b2JGR2t1eQ?oc=5"
       ],
       "article_count": 1
     },
@@ -1489,7 +1496,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.36kr.com/p/4082264265266308"
+        "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fM1hYQWZybHV4ajFBZnRIYTBvTjlEaWFqc3FDQlhra0ZZMWVWOHg1QkdSQmhFNk5peWotNndtb0JLbGJOdkZXMzNSdGRQdw?oc=5"
       ],
       "article_count": 1
     },
@@ -1509,6 +1516,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_2a5f3c3f4950",
+      "event_label": "ai短剧商业落地与geo启示麦芽传媒netshort的14亿营收与投流成本博弈httpszgeonet",
+      "timestamp_local": "2026-11-23T22:21:33+08:00",
+      "timestamp_utc": "2026-11-23T14:21:33+00:00",
+      "timestamp_sort": 1795443693.0,
+      "summary": "AI短剧商业落地与GEO启示：麦芽传媒NetShort的14亿营收与投流成本博弈 https://zgeo.net/",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE5xcW54c01rWHc3RG0tNG9ndjBBNG5SdEJXZzVkc2huZHZJOVBkWkhxS3ZiTmh1TUNTd2wwYUI1cVpCTjZ1Zm0zYzZDMWQ3ZlpweWNqNEpyT2xFb05iY0lHdHFlZzkxNHVKYW5MVzNXS1dQQQ?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_d5fb95bb5ced",
       "event_label": "macygray计划通过reelshort微短剧推出下一张专辑",
       "timestamp_local": "2026-11-23T23:05:00+08:00",
@@ -1519,7 +1541,22 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjJzS1BHWEJ5S3JPMHlNZEQzUWkxWHdSTW55OHRaSkI0TzRkclFRUFRwd2c0RTk1akdnTk5tSFl6ekVBOXpBclY4NWtiZDYtMVJCWHpRR0RqTEZaX19VMGZONmstay1scXFsMkljVjZBMFA2ek5WQWNHMmJKaWlyenJJZW1JWUhJLTRDUjFKYUVKQU0?oc=5"
+        "https://mezha.net/ch/news/mezha-e84e11e5e6b5f500150654c5_macy-gray-plans-to-release-next/"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_50d354874533",
+      "event_label": "直播｜短剧出海20如何门槛更低作品更好1125元境咖哒×seedance×wan同台揭晓",
+      "timestamp_local": "2026-11-24T08:23:44+08:00",
+      "timestamp_utc": "2026-11-24T00:23:44+00:00",
+      "timestamp_sort": 1795479824.0,
+      "summary": "直播｜短剧出海 2.0:如何门槛更低、作品更好?11.25 元境咖哒 × Seedance × Wan 同台揭晓 加西网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.westca.com/News/article/sid\\\\u003d1262974/%E7%9B%B4%E6%92%AD%EF%BD%9C%E7%9F%AD%E5%89%A7%E5%87%BA%E6%B5%B7_20%E5%A6%82%E4%BD%95%E9%97%A8%E6%A7%9B%E6%9B%B4%E4%BD%8E%E3%80%81%E4%BD%9C%E5%93%81%E6%9B%B4%E5%A5%BD1125_%E5%85%83%E5%A2%83%E5%92%96%E5%93%92_%C3%97_Seedance_%C3%97_Wan_%E5%90%8C%E5%8F%B0%E6%8F%AD%E6%99%93/lang\\\\u003dschinese.html"
       ],
       "article_count": 1
     },
@@ -1564,7 +1601,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.vietnam.vn/zh-cn/nhieu-ung-dung-phim-ngan-ai-bien-mat-o-viet-nam"
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkI5dmp4cTE1dEZIYWFqX1FQc2FhNTBUTFlhcWxENEl2NXo2UWJ2cHREczlpTEhEM2lNN1B2aXk1b0Rjblk3VVFVcmFUZ3pCQXRzSE1tMHJPT3RrVWN0Zlc5LVRqQVVLeVFJNVMzUHRlc0NqWnNJelNCb3Rwb24wRGlB?oc=5"
       ],
       "article_count": 1
     },
@@ -1579,16 +1616,61 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1105621081_104421?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGxnbWg2TTFKNWhSLUtlM3hXai1nTENuX1ZJVVhaX1lSb010T01pMk43RDVITWF4cVZTSW1FeG92Q2FLNlhYNEFGSzNHcnVXTnc0a1J2cnJWWU5yM1dLUkF4N29fNHNLX29wYllMZHdjc1pDM3VnVlYtX3lKellEOTVpNjJnMndZ?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_450503e4bba7",
+      "event_label": "ai短剧丑狐火出圈80后老板何云长做海外短剧冲进全球第二",
+      "timestamp_local": "2026-11-24T16:04:12+08:00",
+      "timestamp_utc": "2026-11-24T08:04:12+00:00",
+      "timestamp_sort": 1795507452.0,
+      "summary": "AI短剧《丑狐》火出圈，80后老板何云长做海外短剧冲进全球第二 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1105757881_121071031?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_28666e990471",
+      "event_label": "duanju海外走红广东欲建微短剧出海高地",
+      "timestamp_local": "2026-11-24T16:38:00+08:00",
+      "timestamp_utc": "2026-11-24T08:38:00+00:00",
+      "timestamp_sort": 1795509480.0,
+      "summary": "“duanju”海外走红 广东欲建微短剧“出海高地” Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkRLTldPREtGblJwcG45WE1jSTY3UURmR1RpbklnYzFyd0JSVlpZZ2NQcjQ0TzJCSzNFX3A1YWZBZG03R1hNZjBNakp3VHh6TW5oWlEwdWJ0OHRpODRHdENYMmlQNGt3WlF3SkVEQ1RqLXZhdFlhRXJ0OHU2aXJfdG5sRjlNZWJJMG1fMg?oc=5"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_690fa4f24896",
+      "event_label": "短剧出海三年中国厂商拿下九成收入ai再掀供给爆发",
+      "timestamp_local": "2026-11-24T20:52:11+08:00",
+      "timestamp_utc": "2026-11-24T12:52:11+00:00",
+      "timestamp_sort": 1795524731.0,
+      "summary": "短剧出海三年：中国厂商拿下九成收入，AI再掀供给爆发 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://stock.stockstar.com/IG2026112400037468.shtml"
       ],
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-24T14:38:14.709765+08:00",
+  "updated_at": "2026-11-25T02:31:22.476297+08:00",
   "last_stats": {
-    "node_count": 49,
+    "node_count": 54,
     "conflict_nodes": 1,
-    "article_count": 50
+    "article_count": 55
   },
-  "articles_fingerprint": "a1d4290fa9411891"
+  "articles_fingerprint": "77b563036b67e233"
 }

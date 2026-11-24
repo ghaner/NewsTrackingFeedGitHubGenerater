@@ -215,6 +215,13 @@
       "conflict_nodes": 0,
       "article_count": 148,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-25T02:31:22.943944+08:00",
+      "node_count": 142,
+      "conflict_nodes": 0,
+      "article_count": 148,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -3008,7 +3015,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lNHoxak55TWRUMkFVcGN6YUNHdEo0YlFqSlp4QURfXzJhMFl5R29FblQ4M1htd3Eyb3R6Y2EzOGpVTFBWY2ZBVg?oc=5"
+        "https://haiwaiwai.com/news/235397"
       ],
       "article_count": 1
     },
@@ -3028,11 +3035,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-24T14:38:15.173270+08:00",
+  "updated_at": "2026-11-25T02:31:22.943944+08:00",
   "last_stats": {
     "node_count": 142,
     "conflict_nodes": 0,
     "article_count": 148
   },
-  "articles_fingerprint": "5869b417cb11f76e"
+  "articles_fingerprint": "4dfb674daac35a87"
 }
