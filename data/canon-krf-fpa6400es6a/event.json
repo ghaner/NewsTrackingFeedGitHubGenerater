@@ -147,6 +147,13 @@
       "conflict_nodes": 1,
       "article_count": 59,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-25T19:56:38.675877+08:00",
+      "node_count": 65,
+      "conflict_nodes": 1,
+      "article_count": 68,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1424,13 +1431,148 @@
         "https://k.sina.com.cn/article_1808449333_6bcabf3500101f4fb.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_caa36ee30bff",
+      "event_label": "佳能时隔24年再推arf干式光刻机新品fpa6300as6下月接受订单",
+      "timestamp_local": "2026-11-25T11:01:39+08:00",
+      "timestamp_utc": "2026-11-25T03:01:39+00:00",
+      "timestamp_sort": 1795575699.0,
+      "summary": "佳能时隔24年再推ArF干式光刻机新品 FPA-6300AS6下月接受订单 集微网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "http://laoyaoba.com/n/1146263"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_9e82e5008126",
+      "event_label": "佳能时隔24年重返半导体arf光刻机市场",
+      "timestamp_local": "2026-11-25T13:50:59+08:00",
+      "timestamp_utc": "2026-11-25T05:50:59+00:00",
+      "timestamp_sort": 1795585859.0,
+      "summary": "佳能时隔24年重返半导体ArF光刻机市场 日经中文网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://cn.nikkei.com/industry/manufacturing/64855-2026-11-25-13-46-59.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_670234fe0e4f",
+      "event_label": "佳能g9相机多少钱佳能g9相机参数与实拍评测",
+      "timestamp_local": "2026-11-25T13:52:23+08:00",
+      "timestamp_utc": "2026-11-25T05:52:23+00:00",
+      "timestamp_sort": 1795585943.0,
+      "summary": "佳能 G9 相机多少钱？佳能 G9 相机参数与实拍评测 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/lieqi/20261125/11251984599.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_3b62187e2505",
+      "event_label": "佳能ixus100is怎么样佳能ixus100is报价和评测",
+      "timestamp_local": "2026-11-25T13:58:34+08:00",
+      "timestamp_utc": "2026-11-25T05:58:34+00:00",
+      "timestamp_sort": 1795586314.0,
+      "summary": "佳能 IXUS100IS 怎么样？佳能 IXUS100IS 报价和评测 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/shijiao/20261125/11251984525.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_9c8c5d12b1f9",
+      "event_label": "时隔24年佳能再次推出arf干式半导体光刻机新产品可满足存储芯片制造需求",
+      "timestamp_local": "2026-11-25T15:05:46+08:00",
+      "timestamp_utc": "2026-11-25T07:05:46+00:00",
+      "timestamp_sort": 1795590346.0,
+      "summary": "时隔 24 年佳能再次推出 ArF 干式半导体光刻机新产品，可满足存储芯片制造需求 新浪财经",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://finance.sina.com.cn/tech/digi/2026-11-25/doc-inizxtsh8578330.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_83e00bd9615c",
+      "event_label": "佳能宣布全面进军航天业务将开发spad图像传感器卫星",
+      "timestamp_local": "2026-11-25T15:19:58+08:00",
+      "timestamp_utc": "2026-11-25T07:19:58+00:00",
+      "timestamp_sort": 1795591198.0,
+      "summary": "佳能宣布全面进军航天业务，将开发SPAD图像传感器卫星 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1106219198_104421?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_85cb5f1f98c8",
+      "event_label": "佳能s3is相机怎么样佳能s3is相机价格评测介绍",
+      "timestamp_local": "2026-11-25T15:25:11+08:00",
+      "timestamp_utc": "2026-11-25T07:25:11+00:00",
+      "timestamp_sort": 1795591511.0,
+      "summary": "佳能 S3 IS 相机怎么样？佳能 S3 IS 相机价格评测介绍 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/shijiao/20261125/11251984794.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_0531377e5846",
+      "event_label": "探访佳能宇都宫工厂揭秘rf镜头光学设计与匠人制造的双重实力",
+      "timestamp_local": "2026-11-25T15:47:45+08:00",
+      "timestamp_utc": "2026-11-25T07:47:45+00:00",
+      "timestamp_sort": 1795592865.0,
+      "summary": "探访佳能宇都宫工厂：揭秘RF镜头光学设计与匠人制造的双重实力 品玩",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.pingwest.com/a/319876"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_bd07028948a5",
+      "event_label": "佳能宣布进军航天业务将开发spad传感器卫星",
+      "timestamp_local": "2026-11-25T16:37:24+08:00",
+      "timestamp_utc": "2026-11-25T08:37:24+00:00",
+      "timestamp_sort": 1795595844.0,
+      "summary": "佳能宣布进军航天业务 将开发SPAD传感器卫星 www.itsdw.cn",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.itsdw.cn/news/52522.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-25T10:53:05.317885+08:00",
+  "updated_at": "2026-11-25T19:56:38.675877+08:00",
   "last_stats": {
-    "node_count": 56,
+    "node_count": 65,
     "conflict_nodes": 1,
-    "article_count": 59
+    "article_count": 68
   },
-  "articles_fingerprint": "b887ba77821ad98a"
+  "articles_fingerprint": "9eb8203809707c1e"
 }
