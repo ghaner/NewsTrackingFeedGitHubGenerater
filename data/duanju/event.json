@@ -210,6 +210,13 @@
       "conflict_nodes": 1,
       "article_count": 57,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-26T04:59:04.116618+08:00",
+      "node_count": 59,
+      "conflict_nodes": 1,
+      "article_count": 60,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1580,12 +1587,12 @@
       "timestamp_local": "2026-11-24T10:27:00+08:00",
       "timestamp_utc": "2026-11-24T02:27:00+00:00",
       "timestamp_sort": 1795487220.0,
-      "summary": "下载→《2026海外短剧行业报告（半年度）》 流媒体网",
+      "summary": "下载→《2026海外短剧行业报告（半年度）》 今日流媒体",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://v.lmtw.com/mzs/content/detail/id/260384"
+        "https://lmtw.com/mzw/content/detail/id/260384/keyword_id/-1"
       ],
       "article_count": 1
     },
@@ -1680,6 +1687,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_ab96ca200fe6",
+      "event_label": "浙江余姚王阳明故事借ai双语微短剧出海",
+      "timestamp_local": "2026-11-24T20:24:05+08:00",
+      "timestamp_utc": "2026-11-24T12:24:05+00:00",
+      "timestamp_sort": 1795523045.0,
+      "summary": "浙江余姚：王阳明故事借AI双语微短剧出海 中国新闻网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "http://www.zj.chinanews.com.cn/jzkzj/2026-11-24/detail-ihfnkmis1792356.shtml"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_7d0b54cbb245",
       "event_label": "微短剧出海山东如何接住机遇青岛欧美街区和审核站撑起摄制全链条",
       "timestamp_local": "2026-11-25T09:02:00+08:00",
@@ -1708,13 +1730,43 @@
         "https://www.chinanews.com.cn/cul/2026/11-25/10737324.shtml"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_66365d7ff398",
+      "event_label": "wave2026ai短漫剧分论坛看点抢先看｜当产能不再稀缺ai短漫剧出海拼什么",
+      "timestamp_local": "2026-11-25T22:13:24+08:00",
+      "timestamp_utc": "2026-11-25T14:13:24+00:00",
+      "timestamp_sort": 1795616004.0,
+      "summary": "WAVE 2026 AI短漫剧分论坛看点抢先看｜当产能不再稀缺，AI短漫剧出海拼什么？ 霞光社",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://xiaguangshe.com/17255/"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_0f7aa92f6727",
+      "event_label": "多空辩论更新华是科技调研披露短剧出海爬坡亏损扩大与ai叙事分歧",
+      "timestamp_local": "2026-11-26T02:34:06+08:00",
+      "timestamp_utc": "2026-11-25T18:34:06+00:00",
+      "timestamp_sort": 1795631646.0,
+      "summary": "多空辩论更新：华是科技调研披露短剧出海爬坡，亏损扩大与AI叙事分歧 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://stock.stockstar.com/RB2026112600001813.shtml"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-25T19:56:38.730434+08:00",
+  "updated_at": "2026-11-26T04:59:04.116618+08:00",
   "last_stats": {
-    "node_count": 56,
+    "node_count": 59,
     "conflict_nodes": 1,
-    "article_count": 57
+    "article_count": 60
   },
-  "articles_fingerprint": "50f07ec42e63bfe4"
+  "articles_fingerprint": "f6d8c5f990e83558"
 }

@@ -154,6 +154,13 @@
       "conflict_nodes": 1,
       "article_count": 68,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-26T04:59:04.030081+08:00",
+      "node_count": 65,
+      "conflict_nodes": 1,
+      "article_count": 68,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1268,21 +1275,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_dd273cbd8066",
-      "event_label": "优酷食神·百厨大战选用佳能cinemaeos系列摄制记录百厨同台竞技",
-      "timestamp_local": "2026-11-23T10:56:00+08:00",
-      "timestamp_utc": "2026-11-23T02:56:00+00:00",
-      "timestamp_sort": 1795402560.0,
-      "summary": "优酷《食神·百厨大战》选用佳能CINEMA EOS系列摄制，记录百厨同台竞技 传媒头条",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://www.cm3721.com/toutiao/34310.html"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_d456efdef91e",
       "event_label": "佳能70d和尼康d7100哪个好两款单反对比评测",
       "timestamp_local": "2026-11-23T12:08:24+08:00",
@@ -1309,6 +1301,21 @@
       "confidence": 0.6,
       "sources": [
         "https://m.tech.china.com/lieqi/20261123/11231982965.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_dd273cbd8066",
+      "event_label": "优酷食神·百厨大战选用佳能cinemaeos系列摄制记录百厨同台竞技",
+      "timestamp_local": "2026-11-23T13:42:24+08:00",
+      "timestamp_utc": "2026-11-23T05:42:24+00:00",
+      "timestamp_sort": 1795412544.0,
+      "summary": "优酷《食神·百厨大战》选用佳能CINEMA EOS系列摄制，记录百厨同台竞技 A5站长网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.admin5.com/article/20261123/16707583.shtml"
       ],
       "article_count": 1
     },
@@ -1493,6 +1500,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_83e00bd9615c",
+      "event_label": "佳能宣布全面进军航天业务将开发spad图像传感器卫星",
+      "timestamp_local": "2026-11-25T14:32:52+08:00",
+      "timestamp_utc": "2026-11-25T06:32:52+00:00",
+      "timestamp_sort": 1795588372.0,
+      "summary": "佳能宣布全面进军航天业务，将开发 SPAD 图像传感器卫星 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1106189803_114760?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_9c8c5d12b1f9",
       "event_label": "时隔24年佳能再次推出arf干式半导体光刻机新产品可满足存储芯片制造需求",
       "timestamp_local": "2026-11-25T15:05:46+08:00",
@@ -1504,21 +1526,6 @@
       "confidence": 0.6,
       "sources": [
         "https://finance.sina.com.cn/tech/digi/2026-11-25/doc-inizxtsh8578330.shtml"
-      ],
-      "article_count": 1
-    },
-    {
-      "node_id": "n_83e00bd9615c",
-      "event_label": "佳能宣布全面进军航天业务将开发spad图像传感器卫星",
-      "timestamp_local": "2026-11-25T15:19:58+08:00",
-      "timestamp_utc": "2026-11-25T07:19:58+00:00",
-      "timestamp_sort": 1795591198.0,
-      "summary": "佳能宣布全面进军航天业务，将开发SPAD图像传感器卫星 Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://m.sohu.com/a/1106219198_104421?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
       ],
       "article_count": 1
     },
@@ -1540,9 +1547,9 @@
     {
       "node_id": "n_0531377e5846",
       "event_label": "探访佳能宇都宫工厂揭秘rf镜头光学设计与匠人制造的双重实力",
-      "timestamp_local": "2026-11-25T15:47:45+08:00",
-      "timestamp_utc": "2026-11-25T07:47:45+00:00",
-      "timestamp_sort": 1795592865.0,
+      "timestamp_local": "2026-11-25T15:52:23+08:00",
+      "timestamp_utc": "2026-11-25T07:52:23+00:00",
+      "timestamp_sort": 1795593143.0,
       "summary": "探访佳能宇都宫工厂：揭秘RF镜头光学设计与匠人制造的双重实力 品玩",
       "facts": {},
       "conflict": false,
@@ -1568,11 +1575,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-25T19:56:38.675877+08:00",
+  "updated_at": "2026-11-26T04:59:04.030081+08:00",
   "last_stats": {
     "node_count": 65,
     "conflict_nodes": 1,
     "article_count": 68
   },
-  "articles_fingerprint": "9eb8203809707c1e"
+  "articles_fingerprint": "e1a879ea94051c11"
 }
