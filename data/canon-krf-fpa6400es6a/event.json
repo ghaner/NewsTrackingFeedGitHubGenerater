@@ -140,6 +140,13 @@
       "conflict_nodes": 1,
       "article_count": 57,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-25T10:53:05.317885+08:00",
+      "node_count": 56,
+      "conflict_nodes": 1,
+      "article_count": 59,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1387,13 +1394,43 @@
         "https://www.itsdw.cn/news/51910.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_6db6ed4d34d8",
+      "event_label": "时隔24年佳能再推arf干式半导体光刻机新产品",
+      "timestamp_local": "2026-11-24T18:52:21+08:00",
+      "timestamp_utc": "2026-11-24T10:52:21+00:00",
+      "timestamp_sort": 1795517541.0,
+      "summary": "时隔24年，佳能再推ArF干式半导体光刻机新产品 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1105828336_121228203?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_86462d4404b2",
+      "event_label": "佳能eosr西西里拉加萨超月摄影记录",
+      "timestamp_local": "2026-11-25T02:25:45+08:00",
+      "timestamp_utc": "2026-11-24T18:25:45+00:00",
+      "timestamp_sort": 1795544745.0,
+      "summary": "佳能EOSR西西里拉加萨超月摄影记录 手机新浪网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://k.sina.com.cn/article_1808449333_6bcabf3500101f4fb.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-24T14:38:14.648856+08:00",
+  "updated_at": "2026-11-25T10:53:05.317885+08:00",
   "last_stats": {
-    "node_count": 54,
+    "node_count": 56,
     "conflict_nodes": 1,
-    "article_count": 57
+    "article_count": 59
   },
-  "articles_fingerprint": "b9cff87cb000aee4"
+  "articles_fingerprint": "b887ba77821ad98a"
 }

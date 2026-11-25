@@ -6,8 +6,24 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/canon-krf-fpa6400es6a.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「佳能于2026年11月10日宣布12月上旬发售面向存储和逻辑芯片的KrF扫描式光刻机FPA-6400ES6a」这一事件的全部进展：官方参数（400片/小时、4.0nm套刻精度、700μm翘曲）、技术解读（不走EUV、套刻精度≠制程节点）、国产设备对照，以及A股光刻机与光学元件板块的股价走势影响。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 02:53:06 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-25] 佳能eosr西西里拉加萨超月摄影记录</title>
+      <link>https://k.sina.com.cn/article_1808449333_6bcabf3500101f4fb.html</link>
+      <guid isPermaLink="false">https://k.sina.com.cn/article_1808449333_6bcabf3500101f4fb.html#n_86462d4404b2</guid>
+      <pubDate>Wed, 25 Nov 2026 02:25:45 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>佳能eosr西西里拉加萨超月摄影记录</b>　<span>2026-11-25</span></p><p>佳能EOSR西西里拉加萨超月摄影记录 手机新浪网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://k.sina.com.cn/article_1808449333_6bcabf3500101f4fb.html</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-24] 时隔24年佳能再推arf干式半导体光刻机新产品</title>
+      <link>https://m.sohu.com/a/1105828336_121228203?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</link>
+      <guid isPermaLink="false">https://m.sohu.com/a/1105828336_121228203?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334#n_6db6ed4d34d8</guid>
+      <pubDate>Tue, 24 Nov 2026 18:52:21 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>时隔24年佳能再推arf干式半导体光刻机新产品</b>　<span>2026-11-24</span></p><p>时隔24年，佳能再推ArF干式半导体光刻机新产品 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1105828336_121228203?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-24] 佳能推出新款arf干式半导体光刻机12月上旬接单</title>
       <link>https://www.itsdw.cn/news/51910.html</link>
