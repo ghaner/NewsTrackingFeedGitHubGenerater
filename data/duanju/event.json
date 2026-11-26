@@ -217,6 +217,13 @@
       "conflict_nodes": 1,
       "article_count": 60,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-26T11:24:51.589867+08:00",
+      "node_count": 62,
+      "conflict_nodes": 1,
+      "article_count": 63,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1732,6 +1739,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_faa5d188d6b9",
+      "event_label": "中文在线广东设立新公司正快速推动ai短剧出海",
+      "timestamp_local": "2026-11-25T19:42:19+08:00",
+      "timestamp_utc": "2026-11-25T11:42:19+00:00",
+      "timestamp_sort": 1795606939.0,
+      "summary": "中文在线广东设立新公司！正快速推动AI 短剧出海 新浪财经_金融信息服务商",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://finance.sina.cn/stock/jdts/2026-07-21/detail-iniiqeez2520357.d.html?oid\\\\u003dlv%E5%8C%85%E9%AB%98%E4%BB%BF%E4%B8%80%E6%AF%94%E4%B8%80%E2%96%8C%E5%BE%AE%E4%BF%A1198099199%E2%96%8C1IPO\\\\u0026vt\\\\u003d4\\\\u0026cid\\\\u003d76993\\\\u0026node_id\\\\u003d76993"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_66365d7ff398",
       "event_label": "wave2026ai短漫剧分论坛看点抢先看｜当产能不再稀缺ai短漫剧出海拼什么",
       "timestamp_local": "2026-11-25T22:13:24+08:00",
@@ -1743,6 +1765,21 @@
       "confidence": 0.6,
       "sources": [
         "https://xiaguangshe.com/17255/"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_23cd03b642dc",
+      "event_label": "打造短剧出海的人才母港全国首个数智视听学院在广州成立",
+      "timestamp_local": "2026-11-26T00:11:45+08:00",
+      "timestamp_utc": "2026-11-25T16:11:45+00:00",
+      "timestamp_sort": 1795623105.0,
+      "summary": "打造短剧出海的“人才母港”，全国首个“数智视听”学院在广州成立 广州日报新花城",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://xxsb.gz-cmc.com/pages/2026/11/25/e0d707d6706a4f0bb4d3ceeda810ff99.html"
       ],
       "article_count": 1
     },
@@ -1760,13 +1797,28 @@
         "https://stock.stockstar.com/RB2026112600001813.shtml"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_639e92a89cab",
+      "event_label": "短剧出海三年中国厂商拿下九成收入ai助力爆发式增长",
+      "timestamp_local": "2026-11-26T07:34:59+08:00",
+      "timestamp_utc": "2026-11-25T23:34:59+00:00",
+      "timestamp_sort": 1795649699.0,
+      "summary": "短剧出海三年：中国厂商拿下九成收入，AI助力爆发式增长 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.china.com/socialgd/10000169/20261126/49907795.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-26T04:59:04.116618+08:00",
+  "updated_at": "2026-11-26T11:24:51.589867+08:00",
   "last_stats": {
-    "node_count": 59,
+    "node_count": 62,
     "conflict_nodes": 1,
-    "article_count": 60
+    "article_count": 63
   },
-  "articles_fingerprint": "f6d8c5f990e83558"
+  "articles_fingerprint": "a86b3b3006ec902e"
 }

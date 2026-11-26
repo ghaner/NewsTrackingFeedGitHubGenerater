@@ -161,6 +161,13 @@
       "conflict_nodes": 1,
       "article_count": 68,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-26T11:24:51.504373+08:00",
+      "node_count": 68,
+      "conflict_nodes": 1,
+      "article_count": 71,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1573,13 +1580,58 @@
         "https://www.itsdw.cn/news/52522.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_84adea097923",
+      "event_label": "佳能时隔24年更新arf干式光刻机满足成熟制程与特色工艺需求",
+      "timestamp_local": "2026-11-26T10:15:37+08:00",
+      "timestamp_utc": "2026-11-26T02:15:37+00:00",
+      "timestamp_sort": 1795659337.0,
+      "summary": "佳能时隔24年更新ArF干式光刻机，满足成熟制程与特色工艺需求 国际电子商情",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.esmchina.com/news/14851.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_fc332f5e5b64",
+      "event_label": "佳能50d说明书在哪里下载佳能50d单反手册获取方式",
+      "timestamp_local": "2026-11-26T10:23:22+08:00",
+      "timestamp_utc": "2026-11-26T02:23:22+00:00",
+      "timestamp_sort": 1795659802.0,
+      "summary": "佳能 50D 说明书在哪里下载？佳能 50D 单反手册获取方式 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/lieqi/20261126/11261985084.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_dce357dcfb9c",
+      "event_label": "佳能推出fpa6300as6arf干式光刻机时隔24年重返193nm干式曝光市场电子工程专辑eetimeschina",
+      "timestamp_local": "2026-11-26T10:40:10+08:00",
+      "timestamp_utc": "2026-11-26T02:40:10+00:00",
+      "timestamp_sort": 1795660810.0,
+      "summary": "佳能推出FPA-6300AS6 ArF干式光刻机，时隔24年重返193nm干式曝光市场 电子工程专辑EE Times China",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.eet-china.com/news/202611261511.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-26T04:59:04.030081+08:00",
+  "updated_at": "2026-11-26T11:24:51.504373+08:00",
   "last_stats": {
-    "node_count": 65,
+    "node_count": 68,
     "conflict_nodes": 1,
-    "article_count": 68
+    "article_count": 71
   },
-  "articles_fingerprint": "e1a879ea94051c11"
+  "articles_fingerprint": "a2eebbe8f72c0238"
 }

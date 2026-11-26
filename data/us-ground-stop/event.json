@@ -222,6 +222,13 @@
       "conflict_nodes": 0,
       "article_count": 148,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-26T11:24:52.000748+08:00",
+      "node_count": 143,
+      "conflict_nodes": 0,
+      "article_count": 149,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -3033,13 +3040,28 @@
         "https://k.sina.com.cn/article_7295511724_m1b2d8acac03301m268.html?from\\\\u003dent"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_ee20db25f562",
+      "event_label": "发布于美国",
+      "timestamp_local": "2026-11-26T10:25:00+08:00",
+      "timestamp_utc": "2026-11-26T02:25:00+00:00",
+      "timestamp_sort": 1795659900.0,
+      "summary": "发布于 美国 手机新浪网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.sina.cn/news/detail/5369449345191701.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-25T02:31:22.943944+08:00",
+  "updated_at": "2026-11-26T11:24:52.000748+08:00",
   "last_stats": {
-    "node_count": 142,
+    "node_count": 143,
     "conflict_nodes": 0,
-    "article_count": 148
+    "article_count": 149
   },
-  "articles_fingerprint": "4dfb674daac35a87"
+  "articles_fingerprint": "cfbccc79a2aafd17"
 }

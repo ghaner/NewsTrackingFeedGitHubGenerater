@@ -6,8 +6,32 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/canon-krf-fpa6400es6a.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「佳能于2026年11月10日宣布12月上旬发售面向存储和逻辑芯片的KrF扫描式光刻机FPA-6400ES6a」这一事件的全部进展：官方参数（400片/小时、4.0nm套刻精度、700μm翘曲）、技术解读（不走EUV、套刻精度≠制程节点）、国产设备对照，以及A股光刻机与光学元件板块的股价走势影响。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:59:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:24:52 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-26] 佳能推出fpa6300as6arf干式光刻机时隔24年重返193nm干式曝光市场电子工程专辑eetimeschina</title>
+      <link>https://www.eet-china.com/news/202611261511.html</link>
+      <guid isPermaLink="false">https://www.eet-china.com/news/202611261511.html#n_dce357dcfb9c</guid>
+      <pubDate>Thu, 26 Nov 2026 10:40:10 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>佳能推出fpa6300as6arf干式光刻机时隔24年重返193nm干式曝光市场电子工程专辑eetimeschina</b>　<span>2026-11-26</span></p><p>佳能推出FPA-6300AS6 ArF干式光刻机，时隔24年重返193nm干式曝光市场 电子工程专辑EE Times China</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.eet-china.com/news/202611261511.html</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-26] 佳能50d说明书在哪里下载佳能50d单反手册获取方式</title>
+      <link>https://tech.china.com/lieqi/20261126/11261985084.html</link>
+      <guid isPermaLink="false">https://tech.china.com/lieqi/20261126/11261985084.html#n_fc332f5e5b64</guid>
+      <pubDate>Thu, 26 Nov 2026 10:23:22 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>佳能50d说明书在哪里下载佳能50d单反手册获取方式</b>　<span>2026-11-26</span></p><p>佳能 50D 说明书在哪里下载？佳能 50D 单反手册获取方式 中华网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://tech.china.com/lieqi/20261126/11261985084.html</p></div>]]></description>
+    </item>
+    <item>
+      <title>[2026-11-26] 佳能时隔24年更新arf干式光刻机满足成熟制程与特色工艺需求</title>
+      <link>https://www.esmchina.com/news/14851.html</link>
+      <guid isPermaLink="false">https://www.esmchina.com/news/14851.html#n_84adea097923</guid>
+      <pubDate>Thu, 26 Nov 2026 10:15:37 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>佳能时隔24年更新arf干式光刻机满足成熟制程与特色工艺需求</b>　<span>2026-11-26</span></p><p>佳能时隔24年更新ArF干式光刻机，满足成熟制程与特色工艺需求 国际电子商情</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.esmchina.com/news/14851.html</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-25] 佳能宣布进军航天业务将开发spad传感器卫星</title>
       <link>https://www.itsdw.cn/news/52522.html</link>
