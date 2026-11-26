@@ -168,6 +168,13 @@
       "conflict_nodes": 1,
       "article_count": 71,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-27T06:43:07.058396+08:00",
+      "node_count": 73,
+      "conflict_nodes": 1,
+      "article_count": 76,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1447,6 +1454,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_ec56c4adc17e",
+      "event_label": "佳能时隔24年再推arf干式光刻机新品fpa6300as6下月接受订单httpsijiweicom",
+      "timestamp_local": "2026-11-25T10:44:36+08:00",
+      "timestamp_utc": "2026-11-25T02:44:36+00:00",
+      "timestamp_sort": 1795574676.0,
+      "summary": "佳能时隔24年再推ArF干式光刻机新品 FPA-6300AS6下月接受订单 https://ijiwei.com/",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://ijiwei.com/n/1146263"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_caa36ee30bff",
       "event_label": "佳能时隔24年再推arf干式光刻机新品fpa6300as6下月接受订单",
       "timestamp_local": "2026-11-25T11:01:39+08:00",
@@ -1582,6 +1604,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_d278d8b22f26",
+      "event_label": "光刻机概念下跌7789股主力资金净流出超5000万元证券之星",
+      "timestamp_local": "2026-11-25T16:59:53+08:00",
+      "timestamp_utc": "2026-11-25T08:59:53+00:00",
+      "timestamp_sort": 1795597193.0,
+      "summary": "光刻机概念下跌7.78%，9股主力资金净流出超5000万元-证券之星 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://hk.stockstar.com/IG2026112500031802.shtml"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_84adea097923",
       "event_label": "佳能时隔24年更新arf干式光刻机满足成熟制程与特色工艺需求",
       "timestamp_local": "2026-11-26T10:15:37+08:00",
@@ -1625,13 +1662,58 @@
         "https://www.eet-china.com/news/202611261511.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_46e471232c88",
+      "event_label": "2026年旗舰全画幅微单推荐佳能尼康索尼松下四款机型盘点",
+      "timestamp_local": "2026-11-26T11:56:00+08:00",
+      "timestamp_utc": "2026-11-26T03:56:00+00:00",
+      "timestamp_sort": 1795665360.0,
+      "summary": "2026年旗舰全画幅微单推荐：佳能、尼康、索尼、松下四款机型盘点 驱动之家",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.mydrivers.com/1/1168/1168718.htm"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_d362947b9599",
+      "event_label": "佳能时隔24年推出新款arf扫描光刻机助力芯片制造notebookcheckcn",
+      "timestamp_local": "2026-11-26T12:24:00+08:00",
+      "timestamp_utc": "2026-11-26T04:24:00+00:00",
+      "timestamp_sort": 1795667040.0,
+      "summary": "佳能时隔24年推出新款ArF扫描光刻机，助力芯片制造 Notebookcheck CN",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.notebookcheck-cn.com/24-ArF.1460524.0.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_877e49fdfaa0",
+      "event_label": "佳能s95怎么样佳能s95报价大全佳能s95相机评测报价",
+      "timestamp_local": "2026-11-26T14:37:29+08:00",
+      "timestamp_utc": "2026-11-26T06:37:29+00:00",
+      "timestamp_sort": 1795675049.0,
+      "summary": "佳能 s95 怎么样 佳能 s95 报价大全 佳能 S95 相机评测报价 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/shijiao/20261126/11261985384.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-26T11:24:51.504373+08:00",
+  "updated_at": "2026-11-27T06:43:07.058396+08:00",
   "last_stats": {
-    "node_count": 68,
+    "node_count": 73,
     "conflict_nodes": 1,
-    "article_count": 71
+    "article_count": 76
   },
-  "articles_fingerprint": "a2eebbe8f72c0238"
+  "articles_fingerprint": "f385cd1f8c74f9bf"
 }

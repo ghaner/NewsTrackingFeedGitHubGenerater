@@ -229,6 +229,13 @@
       "conflict_nodes": 0,
       "article_count": 149,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-27T06:43:07.638527+08:00",
+      "node_count": 144,
+      "conflict_nodes": 0,
+      "article_count": 150,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -2262,21 +2269,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_b04fc1230528",
-      "event_label": "微软否认与全美航班停飞事件有关",
-      "timestamp_local": "2026-11-15T12:44:15+08:00",
-      "timestamp_utc": "2026-11-15T04:44:15+00:00",
-      "timestamp_sort": 1794717855.0,
-      "summary": "微软否认与全美航班停飞事件有关 东方财富",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://wap.eastmoney.com/a/202611143931318598.html"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_bac03bd74e5f",
       "event_label": "中国女子亲历全美航班停飞等了4个小时通知复飞结果9个小时后被再次取消行李已托运取不出来周边酒店价格飞涨",
       "timestamp_local": "2026-11-15T14:37:15+08:00",
@@ -2982,21 +2974,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_50b6291cf50e",
-      "event_label": "一台路由器为何让全美航班停飞",
-      "timestamp_local": "2026-11-21T22:10:26+08:00",
-      "timestamp_utc": "2026-11-21T14:10:26+00:00",
-      "timestamp_sort": 1795270226.0,
-      "summary": "#一台路由器 为何让全美航班停飞# Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://m.sohu.com/xtopic/TURBeE5UQXhPRFUw?spm\\\\u003dsmwp.content-abroad.topics-recommend.1.1795046400039sM0dPCt\\\\u0026_trans_\\\\u003d000014_bdss_dkgyxqsP3p:CP\\\\u003dGoogle%20ranking%20promotion(TG:e10838).iam"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_e85b96186083",
       "event_label": "美媒全美航班停飞令已解除",
       "timestamp_local": "2026-11-22T11:32:46+08:00",
@@ -3042,6 +3019,51 @@
       "article_count": 1
     },
     {
+      "node_id": "n_b04fc1230528",
+      "event_label": "微软否认与全美航班停飞事件有关",
+      "timestamp_local": "2026-11-24T18:56:47+08:00",
+      "timestamp_utc": "2026-11-24T10:56:47+00:00",
+      "timestamp_sort": 1795517807.0,
+      "summary": "微软否认与全美航班停飞事件有关 新浪新闻_手机新浪网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.sina.cn/gj/2026-11-14/detail-iniyskvi3061908.d.html?vt\\\\u003d4\\\\u0026wm\\\\u003d2270_0549?stype\\\\u003d$\\\\u0026cid\\\\u003d56262\\\\u0026node_id\\\\u003d56262\\\\u0026wm\\\\u003d2270_0549?stype"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_50b6291cf50e",
+      "event_label": "一台路由器为何让全美航班停飞",
+      "timestamp_local": "2026-11-25T06:40:01+08:00",
+      "timestamp_utc": "2026-11-24T22:40:01+00:00",
+      "timestamp_sort": 1795560001.0,
+      "summary": "#一台路由器 为何让全美航班停飞# Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/xtopic/TURBeE5UQXhPRFUw?scm\\\\u003dthor.1992_13-103000-0_923.0-0.0-0-0-0-0.a2_5X142X453\\\\u0026spm\\\\u003dsmwp.home%2F5212002.fd-subject.5.1795548725071A5oXoZw_1467"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_04423461cc9f",
+      "event_label": "同一时间全美航班停飞近五小时银行情报内网云服务接连出事",
+      "timestamp_local": "2026-11-25T20:50:26+08:00",
+      "timestamp_utc": "2026-11-25T12:50:26+00:00",
+      "timestamp_sort": 1795611026.0,
+      "summary": "同一时间全美航班停飞近五小时，银行情报内网云服务接连出事 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1106349393_121469653/?pvid\\\\u003d000115_3w_a"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_ee20db25f562",
       "event_label": "发布于美国",
       "timestamp_local": "2026-11-26T10:25:00+08:00",
@@ -3057,11 +3079,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-26T11:24:52.000748+08:00",
+  "updated_at": "2026-11-27T06:43:07.638527+08:00",
   "last_stats": {
-    "node_count": 143,
+    "node_count": 144,
     "conflict_nodes": 0,
-    "article_count": 149
+    "article_count": 150
   },
-  "articles_fingerprint": "cfbccc79a2aafd17"
+  "articles_fingerprint": "be09c84c966f5d80"
 }

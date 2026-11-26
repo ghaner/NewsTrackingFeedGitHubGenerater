@@ -224,6 +224,13 @@
       "conflict_nodes": 1,
       "article_count": 63,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-27T06:43:07.159614+08:00",
+      "node_count": 64,
+      "conflict_nodes": 1,
+      "article_count": 65,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1669,12 +1676,12 @@
       "timestamp_local": "2026-11-24T16:38:34+08:00",
       "timestamp_utc": "2026-11-24T08:38:34+00:00",
       "timestamp_sort": 1795509514.0,
-      "summary": "“duanju”海外走红 广东欲建微短剧“出海高地” Sohu",
+      "summary": "“duanju”海外走红 广东欲建微短剧“出海高地” 中国新闻网",
       "facts": {},
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://www.sohu.com/a/1105770224_123753?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://www.chinanews.com.cn/cul/2026/11-24/10737003.shtml"
       ],
       "article_count": 1
     },
@@ -1812,13 +1819,43 @@
         "https://news.china.com/socialgd/10000169/20261126/49907795.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_e67823409a26",
+      "event_label": "10个月揽130亿后2027短剧出海的提前量在哪",
+      "timestamp_local": "2026-11-26T16:50:53+08:00",
+      "timestamp_utc": "2026-11-26T08:50:53+00:00",
+      "timestamp_sort": 1795683053.0,
+      "summary": "10个月揽130亿后，2027短剧出海的“提前量”在哪？ Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1106758570_121864780?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_05d03fb212a1",
+      "event_label": "重庆小伙出海卖ai短剧一部剧狂赚6600万",
+      "timestamp_local": "2026-11-26T17:14:00+08:00",
+      "timestamp_utc": "2026-11-26T09:14:00+00:00",
+      "timestamp_sort": 1795684440.0,
+      "summary": "重庆小伙出海卖AI短剧，一部剧狂赚6600万 电商派",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.pai.com.cn/p/01m8bgwbz7f0z49jgteh9ftgvp"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-26T11:24:51.589867+08:00",
+  "updated_at": "2026-11-27T06:43:07.159614+08:00",
   "last_stats": {
-    "node_count": 62,
+    "node_count": 64,
     "conflict_nodes": 1,
-    "article_count": 63
+    "article_count": 65
   },
-  "articles_fingerprint": "a86b3b3006ec902e"
+  "articles_fingerprint": "824f76ae13e51c47"
 }
