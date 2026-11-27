@@ -245,6 +245,13 @@
       "conflict_nodes": 1,
       "article_count": 67,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-28T07:06:45.213496+08:00",
+      "node_count": 67,
+      "conflict_nodes": 1,
+      "article_count": 68,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1880,6 +1887,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_b00d11062117",
+      "event_label": "海外短剧93收入归中国厂商为什么做剧的没赚到钱",
+      "timestamp_local": "2026-11-27T18:00:01+08:00",
+      "timestamp_utc": "2026-11-27T10:00:01+00:00",
+      "timestamp_sort": 1795773601.0,
+      "summary": "海外短剧93%收入归中国厂商，为什么做剧的没赚到钱？ 白鲸出海",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.baijing.cn/article/57539"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_784b199c276a",
       "event_label": "订单增长50倍广州打造ai短剧出海好莱坞",
       "timestamp_local": "2026-11-27T22:24:48+08:00",
@@ -1895,11 +1917,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-27T22:33:25.185593+08:00",
+  "updated_at": "2026-11-28T07:06:45.213496+08:00",
   "last_stats": {
-    "node_count": 66,
+    "node_count": 67,
     "conflict_nodes": 1,
-    "article_count": 67
+    "article_count": 68
   },
-  "articles_fingerprint": "3ca6fcab2346395d"
+  "articles_fingerprint": "ed4cf35c7c6f20a7"
 }

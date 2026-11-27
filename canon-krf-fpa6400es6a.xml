@@ -6,13 +6,13 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/canon-krf-fpa6400es6a.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「佳能于2026年11月10日宣布12月上旬发售面向存储和逻辑芯片的KrF扫描式光刻机FPA-6400ES6a」这一事件的全部进展：官方参数（400片/小时、4.0nm套刻精度、700μm翘曲）、技术解读（不走EUV、套刻精度≠制程节点）、国产设备对照，以及A股光刻机与光学元件板块的股价走势影响。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 14:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 23:06:45 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[2026-11-27] 佳能新品发布推迟至27年初大量机身镜头排队登场</title>
       <link>https://news.mydrivers.com/1/1169/1169223.htm</link>
       <guid isPermaLink="false">https://news.mydrivers.com/1/1169/1169223.htm#n_abb8b462d7b8</guid>
-      <pubDate>Fri, 27 Nov 2026 21:34:05 +0800</pubDate>
+      <pubDate>Fri, 27 Nov 2026 21:47:00 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>佳能新品发布推迟至27年初大量机身镜头排队登场</b>　<span>2026-11-27</span></p><p>佳能新品发布推迟至27年初 大量机身镜头排队登场 驱动之家</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://news.mydrivers.com/1/1169/1169223.htm</p></div>]]></description>
     </item>
@@ -145,6 +145,14 @@
       <description><![CDATA[<div><p><b>佳能时隔24年更新arf干式光刻机满足成熟制程与特色工艺需求</b>　<span>2026-11-26</span></p><p>佳能时隔24年更新ArF干式光刻机，满足成熟制程与特色工艺需求 国际电子商情</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.esmchina.com/news/14851.html</p></div>]]></description>
     </item>
     <item>
+      <title>[2026-11-25] 探访佳能宇都宫工厂揭秘rf镜头光学设计与匠人制造的双重实力</title>
+      <link>https://tech.china.com/articles/20261125/202611251984941.html</link>
+      <guid isPermaLink="false">https://tech.china.com/articles/20261125/202611251984941.html#n_0531377e5846</guid>
+      <pubDate>Wed, 25 Nov 2026 17:09:34 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>探访佳能宇都宫工厂揭秘rf镜头光学设计与匠人制造的双重实力</b>　<span>2026-11-25</span></p><p>探访佳能宇都宫工厂：揭秘RF镜头光学设计与匠人制造的双重实力 中华网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://tech.china.com/articles/20261125/202611251984941.html</p></div>]]></description>
+    </item>
+    <item>
       <title>[2026-11-25] 光刻机概念下跌7789股主力资金净流出超5000万元证券之星</title>
       <link>https://hk.stockstar.com/IG2026112500031802.shtml</link>
       <guid isPermaLink="false">https://hk.stockstar.com/IG2026112500031802.shtml#n_d278d8b22f26</guid>
@@ -159,14 +167,6 @@
       <pubDate>Wed, 25 Nov 2026 16:37:24 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>佳能宣布进军航天业务将开发spad传感器卫星</b>　<span>2026-11-25</span></p><p>佳能宣布进军航天业务 将开发SPAD传感器卫星 www.itsdw.cn</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.itsdw.cn/news/52522.html</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-25] 探访佳能宇都宫工厂揭秘rf镜头光学设计与匠人制造的双重实力</title>
-      <link>https://www.pingwest.com/a/319876</link>
-      <guid isPermaLink="false">https://www.pingwest.com/a/319876#n_0531377e5846</guid>
-      <pubDate>Wed, 25 Nov 2026 15:52:23 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>探访佳能宇都宫工厂揭秘rf镜头光学设计与匠人制造的双重实力</b>　<span>2026-11-25</span></p><p>探访佳能宇都宫工厂：揭秘RF镜头光学设计与匠人制造的双重实力 品玩</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.pingwest.com/a/319876</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-25] 佳能s3is相机怎么样佳能s3is相机价格评测介绍</title>
