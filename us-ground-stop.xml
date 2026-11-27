@@ -6,7 +6,7 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/us-ground-stop.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「2026 年 11 月 13 日 FAA 因航路交通管制中心通信故障发布全美地面停飞令」这一事件的全部进展：停飞与解除时间、航班延误取消规模、航司改签豁免、欧洲赴美航班暂停、白宫与国会表态、故障根因调查、空管系统技术债与现代化拨款。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 22:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:33:25 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[2026-11-26] 发布于美国</title>
@@ -26,11 +26,11 @@
     </item>
     <item>
       <title>[2026-11-25] 一台路由器为何让全美航班停飞</title>
-      <link>https://m.sohu.com/xtopic/TURBeE5UQXhPRFUw?scm\\u003dthor.1992_13-103000-0_923.0-0.0-0-0-0-0.a2_5X142X453\\u0026spm\\u003dsmwp.home%2F5212002.fd-subject.5.1795548725071A5oXoZw_1467</link>
-      <guid isPermaLink="false">https://m.sohu.com/xtopic/TURBeE5UQXhPRFUw?scm\\u003dthor.1992_13-103000-0_923.0-0.0-0-0-0-0.a2_5X142X453\\u0026spm\\u003dsmwp.home%2F5212002.fd-subject.5.1795548725071A5oXoZw_1467#n_50b6291cf50e</guid>
-      <pubDate>Wed, 25 Nov 2026 06:40:01 +0800</pubDate>
+      <link>https://m.sohu.com/xtopic/TURBeE5UQXhPRFUw?scm\\u003dthor.1992_13-103000-0_923.0-0.0-0-0-0-0.a2_5X142X453\\u0026spm\\u003dsmwp.home%2F5212002.fd-subject.5.1795541363071A5oXoZw_1467</link>
+      <guid isPermaLink="false">https://m.sohu.com/xtopic/TURBeE5UQXhPRFUw?scm\\u003dthor.1992_13-103000-0_923.0-0.0-0-0-0-0.a2_5X142X453\\u0026spm\\u003dsmwp.home%2F5212002.fd-subject.5.1795541363071A5oXoZw_1467#n_50b6291cf50e</guid>
+      <pubDate>Wed, 25 Nov 2026 06:12:36 +0800</pubDate>
       <category>事件进展</category>
-      <description><![CDATA[<div><p><b>一台路由器为何让全美航班停飞</b>　<span>2026-11-25</span></p><p>#一台路由器 为何让全美航班停飞# Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/xtopic/TURBeE5UQXhPRFUw?scm\\u003dthor.1992_13-103000-0_923.0-0.0-0-0-0-0.a2_5X142X453\\u0026spm\\u003dsmwp.home%2F5212002.fd-subject.5.1795548725071A5oXoZw_1467</p></div>]]></description>
+      <description><![CDATA[<div><p><b>一台路由器为何让全美航班停飞</b>　<span>2026-11-25</span></p><p>#一台路由器 为何让全美航班停飞# Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/xtopic/TURBeE5UQXhPRFUw?scm\\u003dthor.1992_13-103000-0_923.0-0.0-0-0-0-0.a2_5X142X453\\u0026spm\\u003dsmwp.home%2F5212002.fd-subject.5.1795541363071A5oXoZw_1467</p></div>]]></description>
     </item>
     <item>
       <title>[2026-11-24] 微软否认与全美航班停飞事件有关</title>

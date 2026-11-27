@@ -182,6 +182,13 @@
       "conflict_nodes": 1,
       "article_count": 78,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-27T22:33:25.047713+08:00",
+      "node_count": 84,
+      "conflict_nodes": 1,
+      "article_count": 87,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1716,6 +1723,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_5f827e1e8e3b",
+      "event_label": "外资企业贵州行｜佳能中国副总裁乔书志贵州未来合作空间广阔",
+      "timestamp_local": "2026-11-26T16:21:32+08:00",
+      "timestamp_utc": "2026-11-26T08:21:32+00:00",
+      "timestamp_sort": 1795681292.0,
+      "summary": "外资企业“贵州行” ｜佳能（中国）副总裁乔书志：贵州未来合作空间广阔 新浪财经",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaaaxi3721658.shtml"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_17ede2d08b23",
       "event_label": "光刻机概念持续走高海立股份涨停",
       "timestamp_local": "2026-11-27T10:26:51+08:00",
@@ -1744,13 +1766,133 @@
         "https://tech.china.com/shijiao/20261127/11271985878.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_5bd9db485a0f",
+      "event_label": "佳能g9相机怎么样佳能g9数码相机评测介绍",
+      "timestamp_local": "2026-11-27T11:42:10+08:00",
+      "timestamp_utc": "2026-11-27T03:42:10+00:00",
+      "timestamp_sort": 1795750930.0,
+      "summary": "佳能 G9 相机怎么样？佳能 G9 数码相机评测介绍 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/lieqi/20261127/11271986083.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_66663b977e87",
+      "event_label": "佳能sx220相机怎么样佳能sx220功能介绍",
+      "timestamp_local": "2026-11-27T11:47:52+08:00",
+      "timestamp_utc": "2026-11-27T03:47:52+00:00",
+      "timestamp_sort": 1795751272.0,
+      "summary": "佳能 SX220 相机怎么样？佳能 SX220 功能介绍 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/lieqi/20261127/11271986030.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_58f41a961267",
+      "event_label": "行业财报三星电子苹果索尼松下佳能惠而浦等全球16大电子家电影像企业2026年第三季度业绩汇总电子工程专辑eetimeschina",
+      "timestamp_local": "2026-11-27T12:33:00+08:00",
+      "timestamp_utc": "2026-11-27T04:33:00+00:00",
+      "timestamp_sort": 1795753980.0,
+      "summary": "行业财报| 三星电子、苹果、索尼、松下、佳能、惠而浦等全球16大电子家电影像企业2026年第三季度业绩汇总 电子工程专辑EE Times China",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.eet-china.com/mp/a542376.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_0fcc28d3dc19",
+      "event_label": "佳能再推arf干式扫描式光刻机新品",
+      "timestamp_local": "2026-11-27T14:37:00+08:00",
+      "timestamp_utc": "2026-11-27T06:37:00+00:00",
+      "timestamp_sort": 1795761420.0,
+      "summary": "佳能再推ArF干式扫描式光刻机新品！ Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1107183477_121487107?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_eb484ef1eab5",
+      "event_label": "佳能450d单反怎么样佳能450d报价与实拍测评",
+      "timestamp_local": "2026-11-27T15:33:33+08:00",
+      "timestamp_utc": "2026-11-27T07:33:33+00:00",
+      "timestamp_sort": 1795764813.0,
+      "summary": "佳能 450D 单反怎么样？佳能 450D 报价与实拍测评 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/shijiao/20261127/11271986360.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_41b0ca06f1e1",
+      "event_label": "佳能500d相机怎么样佳能500d镜头选购与机型评测",
+      "timestamp_local": "2026-11-27T15:44:06+08:00",
+      "timestamp_utc": "2026-11-27T07:44:06+00:00",
+      "timestamp_sort": 1795765446.0,
+      "summary": "佳能 500D 相机怎么样？佳能 500D 镜头选购与机型评测 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.tech.china.com/lieqi/20261127/11271986453.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_e487611b3f8e",
+      "event_label": "佳能650d相机怎么样佳能650d报价与性能评测",
+      "timestamp_local": "2026-11-27T15:44:43+08:00",
+      "timestamp_utc": "2026-11-27T07:44:43+00:00",
+      "timestamp_sort": 1795765483.0,
+      "summary": "佳能 650D 相机怎么样？佳能 650D 报价与性能评测 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/shijiao/20261127/11271986333.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_abb8b462d7b8",
+      "event_label": "佳能新品发布推迟至27年初大量机身镜头排队登场",
+      "timestamp_local": "2026-11-27T21:34:05+08:00",
+      "timestamp_utc": "2026-11-27T13:34:05+00:00",
+      "timestamp_sort": 1795786445.0,
+      "summary": "佳能新品发布推迟至27年初 大量机身镜头排队登场 驱动之家",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.mydrivers.com/1/1169/1169223.htm"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-27T12:40:55.662746+08:00",
+  "updated_at": "2026-11-27T22:33:25.047713+08:00",
   "last_stats": {
-    "node_count": 75,
+    "node_count": 84,
     "conflict_nodes": 1,
-    "article_count": 78
+    "article_count": 87
   },
-  "articles_fingerprint": "1929e4f870a1be9f"
+  "articles_fingerprint": "008aefaf60457662"
 }
