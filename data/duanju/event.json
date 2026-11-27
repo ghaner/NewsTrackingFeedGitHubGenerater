@@ -231,6 +231,13 @@
       "conflict_nodes": 1,
       "article_count": 65,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-27T12:40:55.734241+08:00",
+      "node_count": 65,
+      "conflict_nodes": 1,
+      "article_count": 66,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1611,21 +1618,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_9fda7aa73ab5",
-      "event_label": "海外短剧演员开始卖脸有人主动授权ai有人却被ai抢走工作",
-      "timestamp_local": "2026-11-24T10:52:00+08:00",
-      "timestamp_utc": "2026-11-24T02:52:00+00:00",
-      "timestamp_sort": 1795488720.0,
-      "summary": "海外短剧演员开始“卖脸”：有人主动授权AI，有人却被AI抢走工作 Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://m.sohu.com/a/1105602567_116132?scm\\\\u003d10001.340_14-200000.0.0-0-0-0-0"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_943a3dc33529",
       "event_label": "在越南许多人工智能短片应用正在消失",
       "timestamp_local": "2026-11-24T10:58:03+08:00",
@@ -1716,6 +1708,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_a86ca9bbe8ca",
+      "event_label": "2026海外短剧行业报告下载涨了两成半收入一分没涨",
+      "timestamp_local": "2026-11-25T08:01:22+08:00",
+      "timestamp_utc": "2026-11-25T00:01:22+00:00",
+      "timestamp_sort": 1795564882.0,
+      "summary": "《2026海外短剧行业报告》，下载涨了两成半，收入一分没涨？ news.qq.com",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.qq.com/rain/a/20261125A043HX00"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_7d0b54cbb245",
       "event_label": "微短剧出海山东如何接住机遇青岛欧美街区和审核站撑起摄制全链条",
       "timestamp_local": "2026-11-25T09:02:00+08:00",
@@ -1742,6 +1749,21 @@
       "confidence": 0.6,
       "sources": [
         "https://www.chinanews.com.cn/cul/2026/11-25/10737324.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_9fda7aa73ab5",
+      "event_label": "海外短剧演员开始卖脸有人主动授权ai有人却被ai抢走工作",
+      "timestamp_local": "2026-11-25T14:39:56+08:00",
+      "timestamp_utc": "2026-11-25T06:39:56+00:00",
+      "timestamp_sort": 1795588796.0,
+      "summary": "海外短剧演员开始“卖脸”：有人主动授权AI，有人却被AI抢走工作 新浪财经",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://finance.sina.cn/stock/jdts/2026-11-24/detail-inizvecn8991267.d.html?oid\\\\u003dWA%200821%201305%200400%20Biaya%20Jasa%20Hidroseeding%20Reklamasi%20Tambang%20Deiyai%20Papua\\\\u0026vt\\\\u003d4"
       ],
       "article_count": 1
     },
@@ -1851,11 +1873,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-27T06:43:07.159614+08:00",
+  "updated_at": "2026-11-27T12:40:55.734241+08:00",
   "last_stats": {
-    "node_count": 64,
+    "node_count": 65,
     "conflict_nodes": 1,
-    "article_count": 65
+    "article_count": 66
   },
-  "articles_fingerprint": "824f76ae13e51c47"
+  "articles_fingerprint": "38ffd011f7ae9ebe"
 }

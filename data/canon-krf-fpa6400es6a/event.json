@@ -175,6 +175,13 @@
       "conflict_nodes": 1,
       "article_count": 76,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-27T12:40:55.662746+08:00",
+      "node_count": 75,
+      "conflict_nodes": 1,
+      "article_count": 78,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1394,21 +1401,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_6c7a79f742a7",
-      "event_label": "时隔24年佳能再次推出arf干式半导体光刻机新产品",
-      "timestamp_local": "2026-11-24T12:21:00+08:00",
-      "timestamp_utc": "2026-11-24T04:21:00+00:00",
-      "timestamp_sort": 1795494060.0,
-      "summary": "时隔24年 佳能再次推出ArF干式半导体光刻机新产品 驱动之家",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://news.mydrivers.com/1/1168/1168131.htm"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_01933422bd18",
       "event_label": "佳能推出新款arf干式半导体光刻机12月上旬接单",
       "timestamp_local": "2026-11-24T12:35:38+08:00",
@@ -1555,6 +1547,21 @@
       "confidence": 0.6,
       "sources": [
         "https://finance.sina.com.cn/tech/digi/2026-11-25/doc-inizxtsh8578330.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_6c7a79f742a7",
+      "event_label": "时隔24年佳能再次推出arf干式半导体光刻机新产品",
+      "timestamp_local": "2026-11-25T15:12:13+08:00",
+      "timestamp_utc": "2026-11-25T07:12:13+00:00",
+      "timestamp_sort": 1795590733.0,
+      "summary": "时隔24年，佳能再次推出ArF干式半导体光刻机新产品 手机网易网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.163.com/dy/article/LCJD4S5J0511B8LM.html"
       ],
       "article_count": 1
     },
@@ -1707,13 +1714,43 @@
         "https://tech.china.com/shijiao/20261126/11261985384.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_17ede2d08b23",
+      "event_label": "光刻机概念持续走高海立股份涨停",
+      "timestamp_local": "2026-11-27T10:26:51+08:00",
+      "timestamp_utc": "2026-11-27T02:26:51+00:00",
+      "timestamp_sort": 1795746411.0,
+      "summary": "光刻机概念持续走高 海立股份涨停 证券之星",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://stock.stockstar.com/IG2026112700013824.shtml"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_ca3e3c8eb0d5",
+      "event_label": "佳能eos1ds相机怎么样eos1ds报价与评测介绍",
+      "timestamp_local": "2026-11-27T10:30:36+08:00",
+      "timestamp_utc": "2026-11-27T02:30:36+00:00",
+      "timestamp_sort": 1795746636.0,
+      "summary": "佳能 EOS 1Ds 相机怎么样？EOS1Ds 报价与评测介绍 中华网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://tech.china.com/shijiao/20261127/11271985878.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-27T06:43:07.058396+08:00",
+  "updated_at": "2026-11-27T12:40:55.662746+08:00",
   "last_stats": {
-    "node_count": 73,
+    "node_count": 75,
     "conflict_nodes": 1,
-    "article_count": 76
+    "article_count": 78
   },
-  "articles_fingerprint": "f385cd1f8c74f9bf"
+  "articles_fingerprint": "1929e4f870a1be9f"
 }
