@@ -203,6 +203,13 @@
       "conflict_nodes": 1,
       "article_count": 87,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-28T22:49:58.349905+08:00",
+      "node_count": 87,
+      "conflict_nodes": 1,
+      "article_count": 90,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1900,13 +1907,58 @@
         "https://news.mydrivers.com/1/1169/1169223.htm"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_e5a157ca65b2",
+      "event_label": "半导体重要动态neocloud融资收紧佳能重返arf与spacex卫星数据中心",
+      "timestamp_local": "2026-11-28T11:40:59+08:00",
+      "timestamp_utc": "2026-11-28T03:40:59+00:00",
+      "timestamp_sort": 1795837259.0,
+      "summary": "半导体重要动态：Neocloud融资收紧、佳能重返ArF与SpaceX卫星数据中心 富途牛牛",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.futunn.com/post/1005899607/key-developments-in-semiconductors-tightened-financing-for-neoclouds-canon-s"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_7c4849e9b6eb",
+      "event_label": "佳能r8markii轻量全画幅兼顾防抖连拍与4k短片",
+      "timestamp_local": "2026-11-28T17:20:22+08:00",
+      "timestamp_utc": "2026-11-28T09:20:22+00:00",
+      "timestamp_sort": 1795857622.0,
+      "summary": "佳能R8 Mark II轻量全画幅兼顾防抖连拍与4K短片 www.dtm.com.cn",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.dtm.com.cn/news/202611/311957.html"
+      ],
+      "article_count": 1
+    },
+    {
+      "node_id": "n_36f8414218b9",
+      "event_label": "4k短片与动态抓拍万元内轻量全画幅佳能r8markii",
+      "timestamp_local": "2026-11-28T18:02:00+08:00",
+      "timestamp_utc": "2026-11-28T10:02:00+00:00",
+      "timestamp_sort": 1795860120.0,
+      "summary": "4K 短片与动态抓拍：万元内轻量全画幅佳能R8 Mark II 驱动之家",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://news.mydrivers.com/1/1169/1169315.htm"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-28T13:43:33.110649+08:00",
+  "updated_at": "2026-11-28T22:49:58.349905+08:00",
   "last_stats": {
-    "node_count": 84,
+    "node_count": 87,
     "conflict_nodes": 1,
-    "article_count": 87
+    "article_count": 90
   },
-  "articles_fingerprint": "2683ec7f880968de"
+  "articles_fingerprint": "1fac868bb7a1a14a"
 }

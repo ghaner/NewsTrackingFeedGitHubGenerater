@@ -6,8 +6,16 @@
     <atom:link href="https://ghaner.github.io/NewsTrackingFeedGitHubGenerater/duanju.xml" rel="self" type="application/rss+xml"/>
     <description>追踪「海外短剧付费应用前十榜单里，中国厂商拿下 9 席」这一事件的全部进展：榜单份额、平台合并、三季报盈利、监管与补贴、二级市场反应。每个条目对应时间轴上的一个进展节点，含关键数据与来源链接。来源数据由 GitHub Actions 每小时增量更新。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:43:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:49:59 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>[2026-11-28] 长江观察竞逐短剧出海新赛道湖北如何抢抓机遇</title>
+      <link>https://www.cn3x.com.cn/article/202611/28/c991720.html</link>
+      <guid isPermaLink="false">https://www.cn3x.com.cn/article/202611/28/c991720.html#n_f10706622d17</guid>
+      <pubDate>Sat, 28 Nov 2026 21:26:00 +0800</pubDate>
+      <category>事件进展</category>
+      <description><![CDATA[<div><p><b>长江观察竞逐短剧出海新赛道湖北如何抢抓机遇</b>　<span>2026-11-28</span></p><p>长江观察 | 竞逐短剧出海新赛道 湖北如何抢抓机遇？ 三峡宜昌网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://www.cn3x.com.cn/article/202611/28/c991720.html</p></div>]]></description>
+    </item>
     <item>
       <title>[2026-11-27] 订单增长50倍广州打造ai短剧出海好莱坞</title>
       <link>https://finance.eastmoney.com/a/202611273942021985.html</link>
@@ -319,14 +327,6 @@
       <pubDate>Mon, 16 Nov 2026 18:33:13 +0800</pubDate>
       <category>事件进展</category>
       <description><![CDATA[<div><p><b>短剧出海老外也上头中国短莱坞文化传播新赛道一虎一席谈中国短剧出海石述思</b>　<span>2026-11-16</span></p><p>短剧出海老外也上头 中国“短莱坞”文化传播新赛道？#一虎一席谈 #中国短剧出海 #石述思 Sohu</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://m.sohu.com/a/1102329066_121455372?scm\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334</p></div>]]></description>
-    </item>
-    <item>
-      <title>[2026-11-16] 短剧出海老外也上头拼音duanju走热短莱坞能否成为文化出海新赛道</title>
-      <link>https://original.ifeng.com/c/8y6T54pP9NS</link>
-      <guid isPermaLink="false">https://original.ifeng.com/c/8y6T54pP9NS#n_7673c2e707ed</guid>
-      <pubDate>Mon, 16 Nov 2026 18:00:02 +0800</pubDate>
-      <category>事件进展</category>
-      <description><![CDATA[<div><p><b>短剧出海老外也上头拼音duanju走热短莱坞能否成为文化出海新赛道</b>　<span>2026-11-16</span></p><p>短剧出海，老外也上头：拼音“duanju”走热，“短莱坞”能否成为文化出海新赛道 凤凰网</p><p><b>关键数据：</b>（该节点无结构化事实）</p><p>置信度 0.6 ｜ 冲突节点：否 ｜ 分类：事件进展</p><p><b>来源：</b>https://original.ifeng.com/c/8y6T54pP9NS</p></div>]]></description>
     </item>
   </channel>
 </rss>

@@ -243,6 +243,13 @@
       "conflict_nodes": 0,
       "article_count": 150,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-28T22:49:59.109835+08:00",
+      "node_count": 144,
+      "conflict_nodes": 0,
+      "article_count": 150,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -3056,21 +3063,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_04423461cc9f",
-      "event_label": "同一时间全美航班停飞近五小时银行情报内网云服务接连出事",
-      "timestamp_local": "2026-11-25T20:50:26+08:00",
-      "timestamp_utc": "2026-11-25T12:50:26+00:00",
-      "timestamp_sort": 1795611026.0,
-      "summary": "同一时间全美航班停飞近五小时，银行情报内网云服务接连出事 Sohu",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://m.sohu.com/a/1106349393_121469653/?pvid\\\\u003d000115_3w_a"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_ee20db25f562",
       "event_label": "发布于美国",
       "timestamp_local": "2026-11-26T10:25:00+08:00",
@@ -3084,13 +3076,28 @@
         "https://www.sina.cn/news/detail/5369449345191701.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_04423461cc9f",
+      "event_label": "同一时间全美航班停飞近五小时银行情报内网云服务接连出事",
+      "timestamp_local": "2026-11-27T21:29:41+08:00",
+      "timestamp_utc": "2026-11-27T13:29:41+00:00",
+      "timestamp_sort": 1795786181.0,
+      "summary": "同一时间全美航班停飞近五小时，银行情报内网云服务接连出事 Sohu",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.sohu.com/a/1106349393_121469653"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-27T22:33:25.796218+08:00",
+  "updated_at": "2026-11-28T22:49:59.109835+08:00",
   "last_stats": {
     "node_count": 144,
     "conflict_nodes": 0,
     "article_count": 150
   },
-  "articles_fingerprint": "8213ac4e539442fc"
+  "articles_fingerprint": "4c0ba41eb8dc5732"
 }

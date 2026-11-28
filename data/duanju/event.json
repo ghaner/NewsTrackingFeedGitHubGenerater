@@ -259,6 +259,13 @@
       "conflict_nodes": 1,
       "article_count": 68,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-28T22:49:58.492021+08:00",
+      "node_count": 68,
+      "conflict_nodes": 1,
+      "article_count": 69,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1922,13 +1929,28 @@
         "https://finance.eastmoney.com/a/202611273942021985.html"
       ],
       "article_count": 1
+    },
+    {
+      "node_id": "n_f10706622d17",
+      "event_label": "长江观察竞逐短剧出海新赛道湖北如何抢抓机遇",
+      "timestamp_local": "2026-11-28T21:26:00+08:00",
+      "timestamp_utc": "2026-11-28T13:26:00+00:00",
+      "timestamp_sort": 1795872360.0,
+      "summary": "长江观察 | 竞逐短剧出海新赛道 湖北如何抢抓机遇？ 三峡宜昌网",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.cn3x.com.cn/article/202611/28/c991720.html"
+      ],
+      "article_count": 1
     }
   ],
-  "updated_at": "2026-11-28T13:43:33.216475+08:00",
+  "updated_at": "2026-11-28T22:49:58.492021+08:00",
   "last_stats": {
-    "node_count": 67,
+    "node_count": 68,
     "conflict_nodes": 1,
-    "article_count": 68
+    "article_count": 69
   },
-  "articles_fingerprint": "683f3709604051d8"
+  "articles_fingerprint": "6fbacc0981fa6a3b"
 }
