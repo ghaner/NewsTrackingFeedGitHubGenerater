@@ -196,6 +196,13 @@
       "conflict_nodes": 1,
       "article_count": 87,
       "source": "github-actions"
+    },
+    {
+      "updated_at": "2026-11-28T13:43:33.110649+08:00",
+      "node_count": 84,
+      "conflict_nodes": 1,
+      "article_count": 87,
+      "source": "github-actions"
     }
   ],
   "meta": {
@@ -1490,21 +1497,6 @@
       "article_count": 1
     },
     {
-      "node_id": "n_9e82e5008126",
-      "event_label": "佳能时隔24年重返半导体arf光刻机市场",
-      "timestamp_local": "2026-11-25T13:50:59+08:00",
-      "timestamp_utc": "2026-11-25T05:50:59+00:00",
-      "timestamp_sort": 1795585859.0,
-      "summary": "佳能时隔24年重返半导体ArF光刻机市场 日经中文网",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://cn.nikkei.com/industry/manufacturing/64855-2026-11-25-13-46-59.html"
-      ],
-      "article_count": 1
-    },
-    {
       "node_id": "n_670234fe0e4f",
       "event_label": "佳能g9相机多少钱佳能g9相机参数与实拍评测",
       "timestamp_local": "2026-11-25T13:52:23+08:00",
@@ -1545,7 +1537,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.sohu.com/a/1106189803_114760?scm\\\\u003d10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+        "https://www.sohu.com/a/1106189803_114760"
       ],
       "article_count": 1
     },
@@ -1595,6 +1587,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_0531377e5846",
+      "event_label": "探访佳能宇都宫工厂揭秘rf镜头光学设计与匠人制造的双重实力",
+      "timestamp_local": "2026-11-25T15:52:23+08:00",
+      "timestamp_utc": "2026-11-25T07:52:23+00:00",
+      "timestamp_sort": 1795593143.0,
+      "summary": "探访佳能宇都宫工厂：揭秘RF镜头光学设计与匠人制造的双重实力 品玩",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://www.pingwest.com/a/319876"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_bd07028948a5",
       "event_label": "佳能宣布进军航天业务将开发spad传感器卫星",
       "timestamp_local": "2026-11-25T16:37:24+08:00",
@@ -1621,21 +1628,6 @@
       "confidence": 0.6,
       "sources": [
         "https://hk.stockstar.com/IG2026112500031802.shtml"
-      ],
-      "article_count": 1
-    },
-    {
-      "node_id": "n_0531377e5846",
-      "event_label": "探访佳能宇都宫工厂揭秘rf镜头光学设计与匠人制造的双重实力",
-      "timestamp_local": "2026-11-25T17:09:34+08:00",
-      "timestamp_utc": "2026-11-25T09:09:34+00:00",
-      "timestamp_sort": 1795597774.0,
-      "summary": "探访佳能宇都宫工厂：揭秘RF镜头光学设计与匠人制造的双重实力 中华网",
-      "facts": {},
-      "conflict": false,
-      "confidence": 0.6,
-      "sources": [
-        "https://tech.china.com/articles/20261125/202611251984941.html"
       ],
       "article_count": 1
     },
@@ -1860,7 +1852,7 @@
       "conflict": false,
       "confidence": 0.6,
       "sources": [
-        "https://m.tech.china.com/lieqi/20261127/11271986453.html"
+        "https://tech.china.com/lieqi/20261127/11271986453.html"
       ],
       "article_count": 1
     },
@@ -1880,6 +1872,21 @@
       "article_count": 1
     },
     {
+      "node_id": "n_9e82e5008126",
+      "event_label": "佳能时隔24年重返半导体arf光刻机市场",
+      "timestamp_local": "2026-11-27T17:48:00+08:00",
+      "timestamp_utc": "2026-11-27T09:48:00+00:00",
+      "timestamp_sort": 1795772880.0,
+      "summary": "佳能时隔24年重返半导体ArF光刻机市场 36Kr",
+      "facts": {},
+      "conflict": false,
+      "confidence": 0.6,
+      "sources": [
+        "https://m.36kr.com/p/4088696154241410"
+      ],
+      "article_count": 1
+    },
+    {
       "node_id": "n_abb8b462d7b8",
       "event_label": "佳能新品发布推迟至27年初大量机身镜头排队登场",
       "timestamp_local": "2026-11-27T21:47:00+08:00",
@@ -1895,11 +1902,11 @@
       "article_count": 1
     }
   ],
-  "updated_at": "2026-11-28T07:06:45.063786+08:00",
+  "updated_at": "2026-11-28T13:43:33.110649+08:00",
   "last_stats": {
     "node_count": 84,
     "conflict_nodes": 1,
     "article_count": 87
   },
-  "articles_fingerprint": "7661de96b699bb54"
+  "articles_fingerprint": "2683ec7f880968de"
 }
